@@ -1,0 +1,118 @@
+Starting job 1246403 on c1-35 on Olivia at Sat Jun 13 01:36:28 CEST 2026
+
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+benchmark set: 242
+  canon_disagree: 64
+  canon_rand: 20
+  ctrl_char: 3
+  ctrl_microbispora: 1
+  discard_fulllen: 30
+  discard_nohit: 10
+  discard_partial: 20
+  noncanon_lowqtm: 74
+  noncanon_rand: 20
+benchmark set: 242 structures
+copied: 251 queries (incl 9 refs) + 9 refs
+
+Time for processing: 0h 0m 0s 1ms
+foldseek hits: 2071
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+/opt/conda/envs/py312/lib/python3.12/site-packages/biotite/structure/io/pdbx/convert.py:460: UserWarning: Attribute 'auth_comp_id' not found within 'atom_site' category. The fallback attribute 'label_comp_id' will be used instead
+  warnings.warn(
+/opt/conda/envs/py312/lib/python3.12/site-packages/biotite/structure/io/pdbx/convert.py:460: UserWarning: Attribute 'auth_atom_id' not found within 'atom_site' category. The fallback attribute 'label_atom_id' will be used instead
+  warnings.warn(
+  ...25/251
+  ...50/251
+  ...75/251
+  ...100/251
+  ...125/251
+  ...150/251
+  ...175/251
+  ...200/251
+  ...225/251
+  ...250/251
+scored 251 structures
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+PPO QUALITY-FILTERING METHOD BENCHMARK
+======================================================================
+structures scored: 251
+
+Method = core present (belongs in canonical or non-canonical pool):
+  M1  M1 foldseek-helix core_ok
+  M2  M2 ref-norm TM >=0.50
+  M3  M3 super cov>=0.55 & rmsd<=5.0
+  M4  M4 cealign cov>=0.55 & rmsd<=6.0
+  M5  M5 intrinsic 4-helix bundle
+  M6  M6 bundle AND PPO-identity
+
+PER-STRATUM: # called core-present / n   (expected in brackets)
+----------------------------------------------------------------------
+stratum                 n     M1     M2     M3     M4     M5     M6   expected
+ctrl_ref                9      9      9      9      9      9      9   [core_present]
+ctrl_microbispora       1      1      1      1      1      1      1   [noncanonical]
+ctrl_char               3      3      3      3      3      3      3   [canonical]
+canon_disagree         64      0     63     51     64     63     62   [canonical]
+canon_rand             20     20     20     14     20     20     20   [canonical]
+noncanon_rand          20     20     19     10     19     20     20   [noncanonical]
+noncanon_lowqtm        74     74     68     31     64     72     72   [UNKNOWN]
+discard_fulllen        30      0     24      4     20     23     20   [UNKNOWN]
+discard_partial        20      0      0      0      0      3      0   [discard]
+discard_nohit          10      0      0      0      0      2      0   [discard]
+
+CONTROL CHECKS
+----------------------------------------------------------------------
+  9 reference cores: all 6 methods call core-present? YES
+  Microbispora A0A8H9LF69 (must be NON-CANONICAL = core present, geom fail):
+     core-present calls: M1=Y M2=Y M3=Y M4=Y M5=Y M6=Y   | Cu-Cu=30.38 His=2 pLDDT=96.3 pool=non_canonical
+  B2ZB02 (char, pool=canonical): M1=Y M2=Y M3=Y M4=Y M5=Y M6=Y
+  P00440 (char, pool=canonical): M1=Y M2=Y M3=Y M4=Y M5=Y M6=Y
+  Q92396 (char, pool=non_canonical): M1=Y M2=Y M3=Y M4=Y M5=Y M6=Y
+
+PAIRWISE METHOD AGREEMENT (% of structures with same call)
+----------------------------------------------------------------------
+          M1     M2     M3     M4     M5     M6
+M1       100     63     55     62     63     67
+M2        63    100     67     96     92     95
+M3        55     67    100     69     61     64
+M4        62     96     69    100     89     92
+M5        63     92     61     89    100     96
+M6        67     95     64     92     96    100
+
+TOTAL called core-present (out of 251):
+  M1: 127
+  M2: 207
+  M3: 123
+  M4: 200
+  M5: 216
+  M6: 207
+
+DISAGREEMENT QUEUE: 155 structures where methods disagree (-> inspect these)
+   written to: benchmark_disagreements.tsv
+
+======================================================================
+Next: open the disagreement queue in PyMOL, label each as canonical / non-canonical / junk, then pick the method (or threshold) that best reproduces your labels.
+Done: Sat Jun 13 01:44:05 CEST 2026
+
+Job 1246403 consumed 2.0 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-13T01:36:27; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 2.0 hours
+Elapsed wallclock time:   7.6 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1246403          16            0.0 %  2026-06-13T01:36:28  457.0 s  0
+1246403.batch    16      1     7.8 %  2026-06-13T01:36:28  457.0 s  0
+
+Used CPU time:   9.5 CPU minutes
+Unused CPU time: 1.9 CPU hours
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1246403          24.0        
+1246403.batch    24.0     1.3
+
+Job 1246403 completed at Sat Jun 13 01:44:06 CEST 2026

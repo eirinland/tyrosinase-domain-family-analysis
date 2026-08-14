@@ -1,0 +1,11 @@
+position	tier	conservation_pct	n_in_hmm	agreement_pct
+Gly46	variable	19.4	3728	28.3
+Phe65	high	96.6	21800	99.8
+Trp68	high	84.7	21800	99.7
+Glu195	intermediate	77.1	21801	57.2
+Asn205	intermediate	41.5	21801	99.8
+Arg209	variable	13.9	21800	99.0
+Val218	variable	19.1	21801	78.9
+Ala221	intermediate	63.1	21800	99.3
+Phe227	high	99.2	21801	99.5
+His230	high	84.0	21801	99.4

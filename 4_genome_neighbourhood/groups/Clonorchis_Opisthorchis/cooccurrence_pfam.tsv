@@ -1,0 +1,21 @@
+pfam_id	pfam_name	n_queries	freq_all	freq_pfam	total
+PF00264	Common central domain of tyrosinase	5	0.833	1.000	26
+PF00008	EGF-like domain	5	0.833	1.000	7
+PF01198	Ribosomal protein L31e	5	0.833	1.000	5
+PF00028	Cadherin domain	5	0.833	1.000	10
+PF04084	Origin recognition complex subunit 2 RecA-like domain	4	0.667	0.800	4
+PF24882	ORC2 WHD	4	0.667	0.800	4
+PF00105	Double treble clef zinc finger, C4 type	3	0.500	0.600	3
+PF00104	Ligand-binding domain of nuclear hormone receptor	3	0.500	0.600	3
+PF13637	Ankyrin repeats (many copies)	2	0.333	0.400	2
+PF00481	Protein phosphatase 2C	2	0.333	0.400	2
+PF00503	G-protein alpha subunit	1	0.167	0.200	1
+PF06423	GWT1	1	0.167	0.200	1
+PF12661	Human growth factor-like EGF	1	0.167	0.200	1
+PF03184	DDE superfamily endonuclease	1	0.167	0.200	1
+PF03221	Tc5 transposase DNA-binding domain	1	0.167	0.200	1
+PF04218	CENP-B N-terminal DNA-binding domain	1	0.167	0.200	1
+PF00023	Ankyrin repeat	1	0.167	0.200	1
+PF01602	Adaptin N terminal region	1	0.167	0.200	1
+PF14806	Coatomer beta subunit appendage platform	1	0.167	0.200	1
+PF07718	Coatomer beta C-terminal region	1	0.167	0.200	1

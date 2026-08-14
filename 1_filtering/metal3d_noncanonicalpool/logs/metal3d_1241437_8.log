@@ -1,0 +1,67 @@
+Starting job 1241446 on gpu-1-106 on Olivia at Fri Jun 12 16:45:42 CEST 2026
+
+Task 8: structures 352-395 of 438
+Started: Fri Jun 12 16:45:43 CEST 2026
+Staged 44 CIFs
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Processing 44 structures (index 0-43)
+  [1/44] A0ABR1VYJ6... ok (26 metal sites, 5 Cu)
+  [2/44] A0ABR1W5V4... ok (21 metal sites, 1 Cu)
+  [3/44] A0ABR1WRV1... ok (50 metal sites, 1 Cu)
+  [4/44] A0ABR1WYQ1... ok (15 metal sites, 2 Cu)
+  [5/44] A0ABR1X4M6... ok (12 metal sites, 1 Cu)
+  [6/44] A0ABR2ZCC7... ok (23 metal sites, 0 Cu)
+  [7/44] A0ABR3KP05... ok (31 metal sites, 0 Cu)
+  [8/44] A0ABR3QHA3... ok (21 metal sites, 0 Cu)
+  [9/44] A0ABR3RNV5... ok (10 metal sites, 2 Cu)
+  [10/44] A0ABR3SDG0... ok (25 metal sites, 3 Cu)
+  [11/44] A0ABR3SXQ6... ok (31 metal sites, 1 Cu)
+  [12/44] A0ABR3TRC8... ok (12 metal sites, 4 Cu)
+  [13/44] A0ABR3X7L0... ok (26 metal sites, 1 Cu)
+  [14/44] A0ABR4EPU0... ok (18 metal sites, 2 Cu)
+  [15/44] A0ABR4ES42... ok (17 metal sites, 1 Cu)
+  [16/44] A0ABR4PYK1... ok (33 metal sites, 1 Cu)
+  [17/44] A0ABS8JIA8... ok (27 metal sites, 2 Cu)
+  [18/44] A0ABV0RG84... ok (21 metal sites, 0 Cu)
+  [19/44] A0ABY6SM81... ok (30 metal sites, 3 Cu)
+  [20/44] A0ABY7ESL6... ok (23 metal sites, 0 Cu)
+  [21/44] A0ABZ2WPZ5... ok (25 metal sites, 1 Cu)
+  [22/44] A0AC34GRF6... ok (34 metal sites, 2 Cu)
+  [23/44] A0ACB0ZR52... ok (27 metal sites, 0 Cu)
+  [24/44] A0ACB9XZD2... ok (28 metal sites, 1 Cu)
+  [25/44] A0ACB9YNP1... ok (31 metal sites, 0 Cu)
+  [26/44] A0ACC0DUH9... ok (16 metal sites, 2 Cu)
+  [27/44] A0ACC0DWE1... ok (13 metal sites, 1 Cu)
+  [28/44] A0ACC0GGQ9... ok (25 metal sites, 1 Cu)
+  [29/44] A0ACC1A5Y2... ok (29 metal sites, 1 Cu)
+  [30/44] A0ACC2JAG6... ok (29 metal sites, 4 Cu)
+  [31/44] A0ACC2T3L9... ok (22 metal sites, 0 Cu)
+  [32/44] A0ACC2TJ92... ok (23 metal sites, 0 Cu)
+  [33/44] A0ACC2TU75... ok (13 metal sites, 0 Cu)
+  [34/44] A0ACC2YX86... ok (22 metal sites, 1 Cu)
+  [35/44] A0ACC3CBK0... ok (27 metal sites, 0 Cu)
+  [36/44] B2AP35... [2026-06-12T22:46:06.003] error: *** JOB 1241446 ON gpu-1-106 CANCELLED AT 2026-06-12T22:46:05 DUE TO TIME LIMIT ***
+
+Job 1241446 consumed 0.0 billing hours and 6.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-12T10:45:09; waited 7.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 6.0 hours
+Elapsed wallclock time:   6.0 hours
+
+Job timed out.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1241446           1            0.0 %  2026-06-12T16:45:42    6.0 h  0
+1241446.batch     1      1    88.7 %  2026-06-12T16:45:42    6.0 h  Signal 15
+
+Used CPU time:   5.3 CPU hours
+Unused CPU time: 40.6 CPU minutes
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1241446         120.0        
+1241446.batch   120.0    65.7
+
+Job 1241446 completed at Fri Jun 12 22:46:08 CEST 2026

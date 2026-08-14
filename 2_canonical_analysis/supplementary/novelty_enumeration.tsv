@@ -1,0 +1,68 @@
+position	residue	tier	cons	n	coherence_HD	median_cadist	pct_within_env	ss_match_pct	nearest_char_HD	converging_kingdoms	max_xking_HD	top_genera	verdict
+Phe65	T	high	0.97	65	0.0	0.36	98	100	4	1	0	Fusarium:40; Cercospora:4; Gibberella:4	candidate
+Phe227	W	high	0.99	84	1.0	0.22	99	99	5.0	1	0	Exophiala:25; Cladophialophora:14; Fonsecaea:9	candidate
+Trp68	C	high	0.85	20	2.0	0.52	90	100	4.0	1	0	Ustilago:5; Sporisorium:4; Pseudozyma:3	candidate
+Phe65	M	high	0.97	40	3.0	0.52	90	100	6.0	2	5	Phytophthora:28; Zymoseptoria:4; Rhizochromulina:2	candidate
+Phe65	S	high	0.97	24	3.0	0.32	92	96	3.0	1	0	Venturia:5; Aspergillus:2; Botrytis:2	candidate
+Trp68	R	high	0.85	21	3.0	0.94	76	100	3	1	0	Magallana:11; Crassostrea:6; Colletotrichum:3	candidate
+Trp68	Y	high	0.85	326	4	0.74	90	100	4.0	3	5	Fusarium:71; Apiospora:20; Podospora:17	candidate
+His230	Y	high	0.84	206	4	0.52	94	99	3.0	4	7	Pseudomonas:40; Fusarium:40; Aspergillus:12	candidate
+His230	V	high	0.84	92	4.0	1.08	65	92	3.0	4	7	Streptomyces:17; Colletotrichum:11; Octopus:6	candidate
+Trp68	V	high	0.85	74	4	1.03	58	100	4.0	2	6	Armillaria:45; Meloidogyne:8; Puccinia:7	candidate
+Trp68	Q	high	0.85	51	4	1.0	69	100	5	1	0	Aureococcus:12; viral:5	candidate
+His230	W	high	0.84	46	4	0.42	85	96	3.0	2	7	Phytophthora:17; Pythium:5	candidate
+His230	F	high	0.84	175	5	0.55	93	98	3	4	6	Marchantia:31; Meloidogyne:20; Podospora:8	candidate
+His230	T	high	0.84	39	5	0.93	79	87	4	2	5	Podospora:8; Rhizochromulina:3	candidate
+His230	Q	high	0.84	23	5	0.78	100	100	3	1	0	Pseudocercospora:4; Cercospora:4; Plectus:2	candidate
+His230	I	high	0.84	216	6.0	1.19	54	81	4.0	4	8	Colletotrichum:24; Aureococcus:18	candidate
+Phe65	I	high	0.97	42	6	0.47	95	98	5.0	3	8	Aureococcus:7; Pinctada:4; Microthyrium:4	candidate
+Trp68	S	high	0.85	41	6.0	0.78	63	100	4	2	7	Ectocarpus:10; Apiospora:7	candidate
+Phe65	Y	high	0.97	33	6.0	0.68	85	100	4	2	7	Branchiostoma:11; Pseudomonas:6; Luteolibacter:2	candidate
+His230	M	high	0.84	23	6	0.76	91	74	4	2	7	Paragonimus:4; Ectocarpus:4	candidate
+Trp68	G	high	0.85	22	6	0.82	77	95	4.0	2	8	Polarella:5; Rhizochromulina:2	candidate
+Asn205	R	intermediate	0.41	143	3	0.88	90	97	3	2	1	Aspergillus:43; Verticillium:9; Flagellimonas:9	candidate
+Asn205	K	intermediate	0.41	111	3	0.69	97	100	4	1	0	Aspergillus:68; Penicillium:8; Batrachochytrium:3	candidate
+Glu195	Y	intermediate	0.77	89	3.0	0.54	87	93	4	1	0	Claviceps:12; Podospora:12; Rhynchosporium:3	candidate
+Glu195	V	intermediate	0.77	71	3	0.54	76	77	3	1	0	Colletotrichum:32; Botryotinia:5; Botrytis:4	candidate
+Glu195	K	intermediate	0.77	28	3.0	0.77	96	86	3.0	1	0	Diaporthe:6; Diplodia:4; Botryosphaeria:2	candidate
+Glu195	S	intermediate	0.77	268	4.0	1.5	58	63	4.0	3	6	Aspergillus:112; Fusarium:26; Diaporthe:9	candidate
+Asn205	L	intermediate	0.41	187	4	0.82	81	98	3	2	6	Colletotrichum:21; Gossypium:11; Podospora:11	candidate
+Asn205	P	intermediate	0.41	181	4.0	1.0	99	98	3	4	6	Fusarium:27; Rhizoctonia:15; Apiospora:12	candidate
+Asn205	V	intermediate	0.41	168	4.0	0.72	87	96	3.0	2	6	Armillaria:20; Apiospora:10; Pyricularia:9	candidate
+Glu195	R	intermediate	0.77	136	4.0	0.71	93	66	3.0	2	6	Porites:22; Pocillopora:16; Paramuricea:14	candidate
+Glu195	A	intermediate	0.77	120	4.0	0.78	73	87	3.0	3	7	Aspergillus:32; Ajellomyces:7; Diaporthe:6	candidate
+Glu195	F	intermediate	0.77	78	4	1.12	71	79	3.0	3	6	Armillaria:17; Aspergillus:6; Cochliobolus:5	candidate
+Ala221	G	intermediate	0.63	78	4	0.64	60	100	3.0	3	5	Colletotrichum:15; Zymoseptoria:5; Stachybotrys:3	candidate
+Glu195	T	intermediate	0.77	58	4	1.25	59	64	3.0	1	0	Coccidioides:6; Pleurotus:3; Penicillium:2	candidate
+Asn205	F	intermediate	0.41	45	4.0	1.02	91	98	3	1	0	Sordaria:10; Medioppia:3; Clonostachys:3	candidate
+Asn205	E	intermediate	0.41	42	4	0.65	95	100	5.0	2	5	Aspergillus:24; Biomphalaria:4; Jaapia:1	candidate
+Asn205	Q	intermediate	0.41	65	5.0	0.46	95	95	4	2	6	Phytophthora:28; Apiospora:13; Cercospora:5	candidate
+Glu195	H	intermediate	0.77	54	5	0.54	81	96	5.5	2	5	Phytophthora:28; Stachybotrys:3; Aspergillus:3	candidate
+Ala221	P	intermediate	0.63	26	5	0.45	65	100	3.0	2	5	Meloidogyne:7; Apiospora:7; Colletotrichum:3	candidate
+Gly46	D	variable	0.19	27	2	0.69	89	100	4	1	0	Ralstonia:15; blood:2; Hyaloperonospora:2	candidate
+Val218	S	variable	0.19	734	3.0	1.2	65	100	2.0	5	6	Rhizoctonia:48; Oncorhynchus:39; Colletotrichum:24	candidate
+Val218	K	variable	0.19	138	3	1.01	85	100	4.0	2	4	Fusarium:65; Steinernema:7; Gibberella:6	candidate
+Gly46	W	variable	0.19	25	3.0	0.92	72	76	2	1	0	Meloidogyne:13; Burkholderia:3; Thraustotheca:2	candidate
+Gly46	T	variable	0.19	279	4	1.08	75	99	3	5	5	Aspergillus:85; Phytophthora:27; Aphanomyces:12	candidate
+Arg209	E	variable	0.14	194	4	0.61	91	98	2.0	5	7	Marchantia:63; Lentinula:11; Cercospora:8	candidate
+Arg209	C	variable	0.14	129	4.0	0.98	81	98	3	3	6	Acinetobacter:14; Paramuricea:12; Pocillopora:11	candidate
+Arg209	H	variable	0.14	67	4	1.1	75	99	2	3	3	Aspergillus:19; Streptomyces:6; Acrobeloides:5	candidate
+Arg209	P	variable	0.14	39	4	1.06	56	56	2	3	8	Colletotrichum:8; Zymoseptoria:5; Pseudocercospora:3	candidate
+Val218	Y	variable	0.19	150	5	1.65	51	100	2.0	3	8	Phytophthora:27; Triticum:12; Coemansia:9	candidate
+Trp68	H	high	0.85	60	4.0	1.1	47	100	5.0	1	0	Aureococcus:20; viral:8; Chrysophaeum:6	displaced
+Phe227	V	high	0.99	48	4.0	1.17	29	96	3.5	3	4	Lentzea:8; Streptomyces:4; Pocillopora:3	displaced
+Glu195	P	intermediate	0.77	20	3.0	1.68	45	5	5.0	1	0	viral:9; Aureococcus:7; Octactis:3	displaced
+Glu195	D	intermediate	0.77	534	4	1.96	35	42	3.0	5	7	Penicillium:66; Rhizoctonia:44; Aspergillus:40	displaced
+Glu195	N	intermediate	0.77	145	4.0	1.82	43	86	3	2	6	Colletotrichum:20; Aspergillus:19; Armillaria:7	displaced
+Asn205	M	intermediate	0.41	48	4.0	2.19	33	98	1.0	2	6	Linum:5; Sesamum:3; Paraphaeosphaeria:2	displaced
+Ala221	L	intermediate	0.63	21	4.5	2.25	10	95	3	1	0	Seiridium:3; Colletotrichum:2; Puccinia:2	displaced
+Glu195	I	intermediate	0.77	101	5.0	1.89	46	95	4	3	8	Exophiala:10; Fusarium:10; Cladophialophora:7	displaced
+Gly46	E	variable	0.19	246	2	1.96	2	100	2.0	1	0	Phytophthora:150; Aphanomyces:29; Peronospora:16	displaced
+Val218	R	variable	0.19	104	3.0	2.01	46	100	2.0	3	3	Coemansia:23; Actinoplanes:14; Mycena:12	displaced
+Gly46	Y	variable	0.19	68	3.0	1.58	26	100	2.0	2	5	Streptomyces:42; Meloidogyne:10; Symbiodinium:5	displaced
+Gly46	I	variable	0.19	65	3.0	1.84	37	100	1	2	2	Streptomyces:35; Pinctada:5; Mytilus:3	displaced
+Val218	H	variable	0.19	99	4	2.0	39	100	3	3	5	Colletotrichum:27; Rhizoctonia:12; Entomophthora:10	displaced
+Gly46	L	variable	0.19	43	4	1.47	42	100	2	2	2	Streptomyces:7; Mizuhopecten:6; Magallana:5	displaced
+Val218	E	variable	0.19	99	5	2.44	10	100	4	4	8	Aureococcus:15; Rhizobium:14	displaced
+Gly46	H	variable	0.19	54	5	3.55	7	70	3.0	2	4	Steinernema:7; Paraburkholderia:5	displaced
+Gly46	A	variable	0.19	185	6.0	1.41	48	95	3	4	7	Aureococcus:12; Seriola:8	displaced

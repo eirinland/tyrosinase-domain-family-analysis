@@ -1,0 +1,87 @@
+Cluster	UniProt	Activity	Species	Name
+1	Q2UNF9	CaOx	Aspergillus	Tyrosinase copper-binding domain-containing protein
+1	A0A336U966	TYR	Aspergillus	Tyrosinase P
+1	A0A8D3X086	TYR	Priestia	Tyrosinase
+1	A0A8J9RRY2	TYR	Diaporthe	Tyrosinase-like protein phomQ2
+1	B2ZB02	TYR	Priestia	Tyrosinase
+1	B8NM74	TYR	Aspergillus	Tyrosinase ustQ
+1	L0D705	TYR	Singulisphaera	Tyrosinase
+1	P06845	TYR	Streptomyces	Tyrosinase
+1	P07524	TYR	Streptomyces	Tyrosinase
+1	P55023	TYR	Streptomyces	Tyrosinase
+1	Q0CRX0	TYR	Aspergillus	Tyrosinase P
+1	Q83WS2	TYR	Streptomyces	Tyrosinase
+1	Q93HL2	TYR	Streptomyces	Tyrosinase
+1	A0A142I737	halogenase	Diaporthe	Tyrosinase-like protein phomQ1'
+1	A0A8J9R8H5	halogenase	Diaporthe	Tyrosinase-like protein phomQ1
+1	B1VTI5	oAPO	Streptomyces	Grixazone synthase
+1	D6RTB9	oAPO	Streptomyces	Apoquinol oxidase
+1	A0A9P1ME48	oMP	Parascedosporium	Tyrosinase copper-binding domain-containing protein
+1	G2Q526	oMP	Thermothelomyces	Tyrosinase copper-binding domain-containing protein
+1	G2QC95	oMP	Thermothelomyces	Tyrosinase copper-binding domain-containing protein
+1	G2QLD3	oMP	Thermothelomyces	Tyrosinase copper-binding domain-containing protein
+1	Q2GZJ4	oMP	Chaetomium	Tyrosinase copper-binding domain-containing protein
+1	Q2H7I7	oMP	Chaetomium	Tyrosinase copper-binding domain-containing protein
+2	O93505	DCT	Gallus	L-dopachrome tautomerase
+2	P29812	DCT	Mus	L-dopachrome tautomerase
+2	P40126	DCT	Homo	L-dopachrome tautomerase
+2	Q4R1H1	DCT	Sus	L-dopachrome tautomerase
+2	Q95119	DCT	Bos	L-dopachrome tautomerase
+2	O57405	DHICA ox	Gallus	DHICA oxidase
+2	P07147	DHICA ox	Mus	DHICA oxidase
+2	P17643	DHICA ox	Homo	DHICA oxidase
+2	P55027	DHICA ox	Ambystoma	DHICA oxidase
+2	P55028	DHICA ox	Carassius	DHICA oxidase
+2	Q2VPW6	DHICA ox	Felis	DHICA oxidase
+2	Q8WN57	DHICA ox	Bos	DHICA oxidase
+2	P11344	TYR	Mus	Tyrosinase
+2	P14679	TYR	Homo	Tyrosinase
+2	P54834	TYR	Canis	Tyrosinase
+2	P55024	TYR	Gallus	Tyrosinase
+2	P55025	TYR	Oryzias	Tyrosinase
+2	P55033	TYR	Felis	Tyrosinase
+2	Q04604	TYR	Pelophylax	Tyrosinase
+2	Q0MVP0	TYR	Pelophylax	Tyrosinase
+2	Q8MIU0	TYR	Bos	Tyrosinase
+2	Q9BDE0	TYR	Gorilla	Tyrosinase
+3	A0A1S9DK56	TYR	Aspergillus	Tyrosinase
+3	C7FF04	TYR	Agaricus	Polyphenol oxidase 3
+3	C7FF05	TYR	Agaricus	Polyphenol oxidase 4
+3	O42713	TYR	Agaricus	Polyphenol oxidase 2
+3	P00440	TYR	Neurospora	Tyrosinase
+3	Q00024	TYR	Agaricus	Polyphenol oxidase 1
+4	A0A075DN54	AUS	Coreopsis	Aurone synthase
+4	A0A2R6XDI4	AUS	Marchantia	Tyrosinase copper-binding domain-containing protein
+4	Q9FRX6	AUS	Antirrhinum	Aureusidin synthase
+4	I7HUF2	CaOx	Taraxacum	Polyphenol oxidase
+4	O81103	CaOx	Prunus	Polyphenol oxidase, chloroplastic
+4	P43311	CaOx	Vitis	Polyphenol oxidase, chloroplastic
+4	Q06355	CaOx	Solanum	Catechol oxidase B, chloroplastic
+4	Q9MB14	CaOx	Ipomoea	Polyphenol oxidase II, chloroplastic
+4	Q9ZP19	CaOx	Ipomoea	Polyphenol oxidase I, chloroplastic
+4	A0A0K0NPU9	TYR	Dimocarpus	Polyphenol oxidase protein
+4	A0A238GSS3	TYR	Malus	Tyrosinase
+4	A0A238GT27	TYR	Malus	Tyrosinase
+4	A0A8E6HRF2	TYR	Juglans	Polyphenol oxidase-2-like protein
+4	A0A9D5H103	TYR	Lathyrus	Tyrosinase copper-binding domain-containing protein
+4	B3WFP2	TYR	Taraxacum	Polyphenol oxidase
+4	C0LU17	TYR	Juglans	Tyrosinase
+4	P43309	TYR	Malus	Polyphenol oxidase 1, chloroplastic (MdPPO1)
+4	Q08303	TYR	Solanum	Polyphenol oxidase A, chloroplastic
+4	Q6UIL3	TYR	Larrea	(+)-larreatricin hydroxylase, chloroplastic
+6	A0A261GRE4	TYR	Hahella	Tyrosinase HcTyr1
+6	Q5VM57	TYR	Marinomonas	Tyrosinase (PpoB1, SDS-activated)
+7	A0A261GVB1	TYR	Hahella	Tyrosinase HcTyr2
+7	Q00234	TYR	Aspergillus	Tyrosinase
+7	Q2T7K1	TYR	Burkholderia	Tyrosinase
+10	P33180	TYR	Sinorhizobium	Tyrosinase
+12	A0A0K1ZP03	TYR	Ralstonia	Tyrosinase
+31	P12031	hemocyanin	Helix	Hemocyanin, beta-C chain unit D
+31	P56823	hemocyanin	Helix	Hemocyanin, beta-C chain unit G
+31	P80960	hemocyanin	Rapana	Hemocyanin type 2 unit a
+31	P81732	hemocyanin	Megathura	Hemocyanin 2-c chain
+31	P83040	hemocyanin	Rapana	Hemocyanin type 2 unit e
+140	A0AAJ6N653	TYR	Verrucomicrobium	Tyrosinase
+550	K0B2W2	TYR	Nitrosopumilus	Tyrosinase
+1074	P56826	hemocyanin	Sepia	Hemocyanin, units G and H
+disc.	Q92396	TYR	Podospora	Tyrosinase

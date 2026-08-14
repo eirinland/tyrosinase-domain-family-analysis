@@ -1,0 +1,195 @@
+===========================================================================
+POOL FUNCTIONAL CATEGORY PROFILES (% of queries with ≥1 gene in category)
+===========================================================================
+
+  DCT_DHICA (n=1062):
+    HET_incompatibility                4/1062 queries (  0.4%)  4 total genes
+    biosynthetic_cluster              52/1062 queries (  4.9%)  64 total genes
+    copper_chaperone                   6/1062 queries (  0.6%)  6 total genes
+    copper_protein                    35/1062 queries (  3.3%)  75 total genes
+    cytochrome_P450                   18/1062 queries (  1.7%)  19 total genes
+    hydrolase                        125/1062 queries ( 11.8%)  179 total genes
+    kinase                            89/1062 queries (  8.4%)  111 total genes
+    melanin_pathway                   14/1062 queries (  1.3%)  21 total genes
+    methyltransferase                 38/1062 queries (  3.6%)  48 total genes
+    oxidoreductase                   140/1062 queries ( 13.2%)  240 total genes
+    transcription_factor             128/1062 queries ( 12.1%)  181 total genes
+    transporter_MFS                   33/1062 queries (  3.1%)  47 total genes
+    transporter_other                 90/1062 queries (  8.5%)  155 total genes
+
+  hemocyanin (n=313):
+    HET_incompatibility                7/313 queries (  2.2%)  8 total genes
+    biosynthetic_cluster              13/313 queries (  4.2%)  15 total genes
+    copper_protein                    14/313 queries (  4.5%)  29 total genes
+    cytochrome_P450                   11/313 queries (  3.5%)  14 total genes
+    hydrolase                         42/313 queries ( 13.4%)  59 total genes
+    kinase                            17/313 queries (  5.4%)  17 total genes
+    methyltransferase                 25/313 queries (  8.0%)  34 total genes
+    oxidoreductase                    49/313 queries ( 15.7%)  71 total genes
+    transcription_factor              18/313 queries (  5.8%)  22 total genes
+    transporter_MFS                   11/313 queries (  3.5%)  12 total genes
+    transporter_other                 38/313 queries ( 12.1%)  60 total genes
+
+  oAPO (n=837):
+    HET_incompatibility               44/837 queries (  5.3%)  55 total genes
+    biosynthetic_cluster              64/837 queries (  7.6%)  100 total genes
+    copper_chaperone                  21/837 queries (  2.5%)  21 total genes
+    copper_protein                   106/837 queries ( 12.7%)  228 total genes
+    cytochrome_P450                   95/837 queries ( 11.4%)  116 total genes
+    hydrolase                        226/837 queries ( 27.0%)  375 total genes
+    kinase                           135/837 queries ( 16.1%)  191 total genes
+    methyltransferase                 82/837 queries (  9.8%)  91 total genes
+    oxidoreductase                   246/837 queries ( 29.4%)  498 total genes
+    transcription_factor             143/837 queries ( 17.1%)  201 total genes
+    transporter_MFS                   94/837 queries ( 11.2%)  129 total genes
+    transporter_other                177/837 queries ( 21.1%)  273 total genes
+
+  oMP (n=1299):
+    HET_incompatibility              139/1299 queries ( 10.7%)  169 total genes
+    biosynthetic_cluster             186/1299 queries ( 14.3%)  209 total genes
+    copper_chaperone                   1/1299 queries (  0.1%)  1 total genes
+    copper_protein                    91/1299 queries (  7.0%)  122 total genes
+    cytochrome_P450                   86/1299 queries (  6.6%)  105 total genes
+    hydrolase                        519/1299 queries ( 40.0%)  811 total genes
+    kinase                           173/1299 queries ( 13.3%)  204 total genes
+    methyltransferase                164/1299 queries ( 12.6%)  174 total genes
+    oxidoreductase                   476/1299 queries ( 36.6%)  766 total genes
+    transcription_factor             220/1299 queries ( 16.9%)  268 total genes
+    transporter_MFS                  193/1299 queries ( 14.9%)  220 total genes
+    transporter_other                412/1299 queries ( 31.7%)  609 total genes
+
+===========================================================================
+CHARACTERIZED EXEMPLARS: functional categories in their neighbourhoods
+===========================================================================
+
+--- Characterized oMP (5 with flanking data) ---
+
+  A0A9P1ME48 (20 flanking genes):
+    No informative products
+
+  G2Q526 (20 flanking genes):
+    methyltransferase                1 genes  (pool: 12.6%)
+
+  G2QC95 (20 flanking genes):
+    hydrolase                        1 genes  (pool: 40.0%)
+
+  G2QLD3 (20 flanking genes):
+    hydrolase                        2 genes  (pool: 40.0%)
+
+  Q2UNF9 (20 flanking genes):
+    No informative products
+
+--- Characterized oAPO (2 with flanking data) ---
+
+  B1VTI5 (1 flanking genes):
+    copper_chaperone                 1 genes  (pool: 2.5%)
+    copper_protein                   1 genes  (pool: 12.7%)
+
+  D6RTB9 (13 flanking genes):
+    biosynthetic_cluster             1 genes  (pool: 7.6%)
+    copper_chaperone                 1 genes  (pool: 2.5%)
+    copper_protein                   1 genes  (pool: 12.7%)
+    hydrolase                        1 genes  (pool: 27.0%)
+    kinase                           1 genes  (pool: 16.1%)
+    oxidoreductase                   2 genes  (pool: 29.4%)
+    transcription_factor             4 genes  (pool: 17.1%)
+    transporter_MFS                  1 genes  (pool: 11.2%)
+    transporter_other                1 genes  (pool: 21.1%)
+
+--- Characterized TYR (13 with flanking data) ---
+
+  A0A0K1ZP03 (20 flanking genes):
+    hydrolase                        3 genes
+    kinase                           1 genes
+    transcription_factor             1 genes
+    transporter_other                1 genes
+
+  A0A1S9DK56 (20 flanking genes):
+    hydrolase                        3 genes
+    methyltransferase                1 genes
+    oxidoreductase                   3 genes
+    transporter_MFS                  1 genes
+    transporter_other                1 genes
+
+  A0A261GRE4 (18 flanking genes):
+    hydrolase                        1 genes
+    transcription_factor             1 genes
+    transporter_other                4 genes
+
+  A0A261GVB1 (14 flanking genes):
+    No category matches. Products: sugar-binding protein
+
+  A0A8D3X086 (20 flanking genes):
+    biosynthetic_cluster             1 genes
+    hydrolase                        2 genes
+    oxidoreductase                   3 genes
+    transcription_factor             2 genes
+
+  A0A9D5H103 (20 flanking genes):
+    No category matches. Products: E3 ubiquitin-protein ligase airp2; variant 2, E3 ubiquitin-protein ligase airp2; variant 3, E3 ubiquitin-protein ligase airp2
+
+  K0B2W2 (20 flanking genes):
+    transcription_factor             3 genes
+
+  L0D705 (20 flanking genes):
+    hydrolase                        1 genes
+    oxidoreductase                   1 genes
+    transporter_other                2 genes
+
+  P07524 (1 flanking genes):
+    No informative products
+
+  P55023 (3 flanking genes):
+    copper_chaperone                 1 genes
+    copper_protein                   1 genes
+
+  Q2T7K1 (20 flanking genes):
+    hydrolase                        1 genes
+    oxidoreductase                   1 genes
+    transcription_factor             2 genes
+    transporter_other                4 genes
+
+  Q5VM57 (4 flanking genes):
+    biosynthetic_cluster             1 genes
+    copper_chaperone                 1 genes
+    copper_protein                   1 genes
+    transcription_factor             1 genes
+    transporter_other                1 genes
+
+  Q93HL2 (6 flanking genes):
+    copper_chaperone                 1 genes
+    copper_protein                   1 genes
+
+--- Characterized biosynthetic (3 with flanking data) ---
+
+  P0DUQ0 (20 flanking genes):
+    No informative products
+
+  Q5AUW8 (20 flanking genes):
+    biosynthetic_cluster             2 genes
+    hydrolase                        1 genes
+    oxidoreductase                   1 genes
+    transcription_factor             3 genes
+    transporter_other                1 genes
+
+  Q5BGU9 (20 flanking genes):
+    hydrolase                        2 genes
+    kinase                           1 genes
+    transporter_other                2 genes
+
+===========================================================================
+SIGNATURE MATCH SUMMARY
+===========================================================================
+
+  oMP BGC signature (HET_incompatibility, cytochrome_P450, methyltransferase, transporter_MFS):
+    Characterized A0A9P1ME48: 0/4 signature categories (none)
+    Characterized G2QC95: 0/4 signature categories (none)
+    Characterized G2Q526: 1/4 signature categories (methyltransferase)
+    Characterized G2QLD3: 0/4 signature categories (none)
+    Characterized Q2UNF9: 0/4 signature categories (none)
+    Pool oMP (n=1298): 430 (33.1%) have ≥1 sig. category, 2 (0.2%) have all
+
+  oAPO copper-tandem signature (copper_protein):
+    Characterized B1VTI5: 1/1 signature categories (copper_protein)
+    Characterized D6RTB9: 1/1 signature categories (copper_protein)
+    Pool oAPO (n=837): 106 (12.7%) have ≥1 sig. category, 106 (12.7%) have all

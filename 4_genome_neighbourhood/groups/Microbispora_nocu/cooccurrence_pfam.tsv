@@ -1,0 +1,36 @@
+pfam_id	pfam_name	n_queries	freq_all	freq_pfam	total
+PF21331	Isoamylase, C-terminal	7	0.875	1.000	7
+PF00023	Ankyrin repeat	7	0.875	1.000	7
+PF12796	Ankyrin repeats (3 copies)	7	0.875	1.000	7
+PF00441	Acyl-CoA dehydrogenase, C-terminal domain	7	0.875	1.000	7
+PF06778	Chlorite dismutase	7	0.875	1.000	7
+PF18158	Adaptive response protein AidB N-terminal domain	7	0.875	1.000	7
+PF08044	DUF1707 SHOCT-like domain	7	0.875	1.000	7
+PF01068	ATP dependent DNA ligase domain	7	0.875	1.000	7
+PF01872	RibD C-terminal domain	7	0.875	1.000	7
+PF02922	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)	7	0.875	1.000	7
+PF04679	ATP dependent DNA ligase C terminal region	7	0.875	1.000	7
+PF09922	Cell wall-active antibiotics response LiaF, C-terminal	7	0.875	1.000	7
+PF21686	LigD, primase-polymerase domain	7	0.875	1.000	7
+PF01641	SelR domain	7	0.875	1.000	7
+PF02566	OsmC-like protein	7	0.875	1.000	7
+PF02770	Acyl-CoA dehydrogenase, middle domain	7	0.875	1.000	7
+PF00128	Alpha amylase, catalytic domain	7	0.875	1.000	7
+PF01593	Flavin containing amine oxidoreductase	6	0.750	0.857	6
+PF03591	AzlC protein	5	0.625	0.714	5
+PF05437	Branched-chain amino acid transport protein (AzlD)	5	0.625	0.714	5
+PF13230	Glutamine amidotransferases class-II	5	0.625	0.714	5
+PF08281	Sigma-70, region 4	4	0.500	0.571	4
+PF04542	Sigma-70 region 2	4	0.500	0.571	4
+PF00282	Pyridoxal-dependent decarboxylase conserved domain	4	0.500	0.571	4
+PF13561	Enoyl-(Acyl carrier protein) reductase	2	0.250	0.286	2
+PF00480	ROK family	2	0.250	0.286	2
+PF00196	Bacterial regulatory proteins, luxR family	2	0.250	0.286	2
+PF07730	Histidine kinase	2	0.250	0.286	2
+PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	0.250	0.286	2
+PF00072	Response regulator receiver domain	2	0.250	0.286	2
+PF11716	Mycothiol maleylpyruvate isomerase N-terminal domain	1	0.125	0.143	1
+PF01663	Type I phosphodiesterase / nucleotide pyrophosphatase	1	0.125	0.143	1
+PF04672	S-adenosyl methyltransferase	1	0.125	0.143	1
+PF01408	Oxidoreductase family, NAD-binding Rossmann fold	1	0.125	0.143	1
+PF10025	Uncharacterized conserved protein (DUF2267)	1	0.125	0.143	1

@@ -1,0 +1,25 @@
+pfam_id	pfam_name	n_queries	freq_all	freq_pfam	total
+PF00041	Fibronectin type III domain	8	0.400	1.000	8
+PF00566	Rab-GTPase-TBC domain	8	0.400	1.000	9
+PF00264	Common central domain of tyrosinase	8	0.400	1.000	9
+PF00964	Elicitin	8	0.400	1.000	20
+PF24681	KLHDC2/KLHL20/DRC7 Kelch-repeats domain	8	0.400	1.000	9
+PF00266	Aminotransferase class-V	8	0.400	1.000	8
+PF01979	Amidohydrolase family	8	0.400	1.000	8
+PF12640	Peptide arginase FlmR/OhkR-like, N-terminal domain	8	0.400	1.000	12
+PF04565	RNA polymerase Rpb2, domain 3	7	0.350	0.875	7
+PF04561	RNA polymerase Rpb2, domain 2	7	0.350	0.875	7
+PF04560	RNA polymerase Rpb2, domain 7	7	0.350	0.875	7
+PF00562	RNA polymerase Rpb2, domain 6	7	0.350	0.875	7
+PF04566	RNA polymerase Rpb2, domain 4	7	0.350	0.875	7
+PF04567	RNA polymerase Rpb2, domain 5	7	0.350	0.875	7
+PF04563	RNA polymerase beta subunit	7	0.350	0.875	7
+PF12810	ALK/LTK, Glycine-rich domain	6	0.300	0.750	6
+PF01344	Kelch motif	4	0.200	0.500	5
+PF21057	Hikeshi-like, C-terminal domain	3	0.150	0.375	3
+PF05603	Hikeshi-like, N-terminal domain	3	0.150	0.375	3
+PF12783	Mon2/Sec7/BIG1-like, HUS domain	2	0.100	0.250	2
+PF23325	GBF1-like, tetratrico peptide repeat region	2	0.100	0.250	2
+PF01369	Sec7 domain	2	0.100	0.250	2
+PF16213	Mon2/Sec7/BIG1-like, dimerisation and cyclophilin-binding domain	1	0.050	0.125	1
+PF00664	ABC transporter transmembrane region	1	0.050	0.125	1

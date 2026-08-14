@@ -1,0 +1,67 @@
+Starting job 1241438 on gpu-1-90 on Olivia at Fri Jun 12 10:45:35 CEST 2026
+
+Task 0: structures 0-43 of 438
+Started: Fri Jun 12 10:45:36 CEST 2026
+Staged 44 CIFs
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Processing 44 structures (index 0-43)
+  [1/44] A0A010QIY5... ok (19 metal sites, 1 Cu)
+  [2/44] A0A010R234... ok (35 metal sites, 2 Cu)
+  [3/44] A0A017S513... ok (28 metal sites, 2 Cu)
+  [4/44] A0A060SLI6... ok (20 metal sites, 1 Cu)
+  [5/44] A0A067NVB7... ok (17 metal sites, 2 Cu)
+  [6/44] A0A068VBG9... ok (12 metal sites, 2 Cu)
+  [7/44] A0A074YQS1... ok (20 metal sites, 0 Cu)
+  [8/44] A0A084G330... ok (19 metal sites, 2 Cu)
+  [9/44] A0A084G7S9... ok (20 metal sites, 1 Cu)
+  [10/44] A0A084GGL7... ok (32 metal sites, 2 Cu)
+  [11/44] A0A090KP27... ok (37 metal sites, 2 Cu)
+  [12/44] A0A091JYW2... ok (30 metal sites, 2 Cu)
+  [13/44] A0A091L9M2... ok (27 metal sites, 2 Cu)
+  [14/44] A0A093V313... ok (28 metal sites, 1 Cu)
+  [15/44] A0A0A2X4S5... ok (34 metal sites, 3 Cu)
+  [16/44] A0A0A7CP77... ok (32 metal sites, 2 Cu)
+  [17/44] A0A0B1T920... ok (31 metal sites, 1 Cu)
+  [18/44] A0A0B7G4H1... ok (43 metal sites, 1 Cu)
+  [19/44] A0A0C2DDH5... ok (29 metal sites, 2 Cu)
+  [20/44] A0A0C2HF86... ok (18 metal sites, 0 Cu)
+  [21/44] A0A0D0DYH4... ok (20 metal sites, 1 Cu)
+  [22/44] A0A0D2I581... ok (28 metal sites, 1 Cu)
+  [23/44] A0A0D6LRV7... ok (24 metal sites, 2 Cu)
+  [24/44] A0A0F3IP64... ok (15 metal sites, 1 Cu)
+  [25/44] A0A0G2E3R6... ok (25 metal sites, 2 Cu)
+  [26/44] A0A0J9UW43... ok (39 metal sites, 1 Cu)
+  [27/44] A0A0K6GJ49... ok (18 metal sites, 2 Cu)
+  [28/44] A0A0L0N249... ok (23 metal sites, 3 Cu)
+  [29/44] A0A0L0W4D9... ok (26 metal sites, 1 Cu)
+  [30/44] A0A0L8HD18... ok (13 metal sites, 1 Cu)
+  [31/44] A0A0M8MUF9... ok (35 metal sites, 2 Cu)
+  [32/44] A0A0N4T6F5... ok (21 metal sites, 1 Cu)
+  [33/44] A0A0N4VKH8... ok (21 metal sites, 1 Cu)
+  [34/44] A0A0N8H920... ok (34 metal sites, 1 Cu)
+  [35/44] A0A0P1AGU0... ok (27 metal sites, 2 Cu)
+  [36/44] A0A0Q3URE6... [2026-06-12T16:45:35.015] error: *** JOB 1241438 ON gpu-1-90 CANCELLED AT 2026-06-12T16:45:35 DUE TO TIME LIMIT ***
+
+Job 1241438 consumed 0.0 billing hours and 6.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-12T10:45:09; waited 26.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 6.0 hours
+Elapsed wallclock time:   6.0 hours
+
+Job timed out.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1241438           1            0.0 %  2026-06-12T10:45:35    6.0 h  0
+1241438.batch     1      1    93.9 %  2026-06-12T10:45:35    6.0 h  Signal 15
+
+Used CPU time:   5.6 CPU hours
+Unused CPU time: 21.8 CPU minutes
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1241438         120.0        
+1241438.batch   120.0    62.2
+
+Job 1241438 completed at Fri Jun 12 16:45:39 CEST 2026

@@ -1,0 +1,34 @@
+# macOS / editors
+.DS_Store
+._*
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Bulk data held in the Zenodo deposition (see ZENODO_MANIFEST.md)
+*.pse
+*.cube
+*.sqsh
+*.tar.gz
+foldseek_multiref_all.tsv
+allvsall_raw.tsv
+all_vs_all_tm*/edge_table.tsv
+query.fasta
+
+# Superseded snapshots kept only in the archive
+*.bak
+*.preM7*
+*.prewidened*
+*.preFECONI*
+*.preseqorder*
+*.gapdrop*
+*.WRONG_BAK
+
+# Scratch / cluster run artefacts
+foldseek_tmp/
+core
+slurm-*.out

@@ -1,0 +1,33 @@
+=== copper-anchored core-test re-triage ===
+input assignment : /cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/1_filtering/final_pools/three_pool_assignment_final.csv
+core results     : core_helix_results.tsv  (9898 rows)
+
+NEW pools (32,069):
+  canonical     : 21893
+  non-canonical : 1036
+  discarded     : 9140
+
+OLD pools (2026-06-14 final): canonical 21,893 / non-canonical 1,106 / discarded 9,070
+
+  non-canonical delta : 1036 - 1106 = -70
+  discarded delta     : 9140 - 9070 = +70
+
+transitions (old_pool -> new_pool):
+  canonical      -> canonical     : 21893
+  discarded      -> discarded     : 8954
+  noncanonical   -> non-canonical : 920
+  noncanonical   -> discarded     : 186   <-- REMOVED
+  discarded      -> non-canonical : 116   <-- RESCUED
+
+RESCUED (old discarded -> non-canonical): 116
+    ceFail                  : 81
+    coreFail+ceFail         : 35
+  rescued His-spread: {0: 2, 1: 11, 2: 21, 3: 11, 4: 27, 5: 44}
+
+REMOVED (old non-canonical -> discarded): 186
+  removed His-spread: {1: 1, 2: 1, 3: 35, 4: 60, 5: 89}
+
+NEW non-canonical His-spread: {0: 31, 1: 56, 2: 94, 3: 107, 4: 172, 5: 576}
+
+written: three_pool_assignment_corehelix.csv, {noncanonical,discarded,canonical}_accessions_corehelix.csv,
+         rescued_from_discarded.csv, removed_from_noncanonical.csv, retriage_summary.txt

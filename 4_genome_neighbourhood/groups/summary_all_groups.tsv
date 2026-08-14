@@ -1,0 +1,16 @@
+type	group	n_total	n_with_data	n_ustya	n_melc1	n_bgc_accessory	n_none	bgc_pct	top_kingdom	key_pfam_neighbours
+canonical	N205K	111	76	5	0	47	24	68.4	Fungi 95%	MFS, Zn-Cys TF, P450, rhodopsin
+canonical	N205R	143	101	16	0	31	54	46.5	Fungi 84%	Fungal TFs, MFS, sugar transporter
+canonical	G46N	1047	592	4	39	156	393	33.6	Fungi 78%	MFS, P450, ankyrin, fungal TFs, HET
+canonical	F227W	84	47	2	0	12	33	29.8	Fungi 92%	Sugar transporter, F-box
+canonical	G46I	164	136	1	29	8	98	27.9	Animals 50%	PF00264 (tandem), MelC1 (21%), MFS
+canonical	V218R	104	85	0	15	5	65	23.5	Fungi 54%	Protein kinase, MFS, MelC1 (18%)
+canonical	H230Y	206	113	0	0	24	89	21.2	Fungi 47%	DUF8225, Lrp/AsnC TF, MFS
+canonical	E195R	136	90	0	0	0	90	0.0	Animals 82%	PF00264 (tandem 34%), GPCR, vWA
+noncanonical	H5Pro	178	134	72	0	27	35	73.9	Fungi	UstYa, MFS, Zn-Cys TF, P450, rhodopsin
+noncanonical	H6Gln	41	41	0	0	8	33	19.5	Animals	DUF7730, RIO kinase, carboxypeptidase
+noncanonical	Phytophthora_ALN_HHH	20	8	0	0	0	8	0.0	Oomycota	Fibronectin III, elicitin
+noncanonical	Trichinella_HHH_YTQ	14	11	0	0	0	11	0.0	Nematoda	XPG, RHO-GDI, Trp hydroxylase
+noncanonical	Microbispora_nocu	8	7	0	0	0	7	0.0	Actinomycetota	DNA ligase, protoporphyrinogen oxidase
+noncanonical	Clonorchis_Opisthorchis	6	6	0	0	0	6	0.0	Platyhelminthes	PF00264 (tandem), EGF, cadherin
+noncanonical	Oomycota_nocu	52	25	0	0	0	25	0.0	Oomycota	RAVE, PP2C, protein kinase

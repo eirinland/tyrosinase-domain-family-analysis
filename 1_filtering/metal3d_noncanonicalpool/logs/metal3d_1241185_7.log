@@ -1,0 +1,34 @@
+Starting job 1241193 on gpu-1-92 on Olivia at Fri Jun 12 09:36:19 CEST 2026
+
+Task 7: structures 308-351 of 438
+Started: Fri Jun 12 09:36:19 CEST 2026
+Staged 0 CIFs
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Processing 0 structures (index 0--1)
+
+Done: 0 rows written to /cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/1_filtering/metal3d_noncanonicalpool/results/metal3d_7.tsv
+Done: Fri Jun 12 09:36:20 CEST 2026
+
+Job 1241193 consumed 0.0 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-12T09:36:13; waited 6.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 6.0 hours
+Elapsed wallclock time:   1.0 seconds
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1241193           1            0.0 %  2026-06-12T09:36:19    1.0 s  0
+1241193.batch     1      1    50.6 %  2026-06-12T09:36:19    1.0 s  0
+
+Used CPU time:   0.5 CPU seconds
+Unused CPU time: 0.5 CPU seconds
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1241193         120.0        
+1241193.batch   120.0     0.1
+
+Job 1241193 completed at Fri Jun 12 09:36:20 CEST 2026

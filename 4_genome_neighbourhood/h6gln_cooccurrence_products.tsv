@@ -1,0 +1,142 @@
+product	n_queries	freq_of_all_queries	freq_of_queries_with_neighbours	total_occurrences
+zinc carboxypeptidase	17	0.370	0.436	17
+rio1 family protein	16	0.348	0.410	16
+major facilitator superfamily transporter	16	0.348	0.410	17
+cutinase	15	0.326	0.385	15
+amidohydrolase	13	0.283	0.333	13
+oxidoreductase	11	0.239	0.282	11
+serine/threonine-protein kinase rio1	11	0.239	0.282	11
+protein pns1	10	0.217	0.256	10
+tat pathway signal sequence	8	0.174	0.205	8
+riboflavin kinase	8	0.174	0.205	8
+kinase activator	7	0.152	0.179	7
+lactose permease	7	0.152	0.179	7
+zinc carboxypeptidase a	6	0.130	0.154	7
+amidohydrolase family protein	6	0.130	0.154	6
+twinfilin-1	6	0.130	0.154	6
+metallocarboxypeptidase a-like protein	6	0.130	0.154	6
+serine threonine-protein kinase rio1	6	0.130	0.154	6
+f-box domain protein	5	0.109	0.128	5
+nuclear gtpase slip-gc	5	0.109	0.128	5
+acetylxylan esterase 2	5	0.109	0.128	5
+putative amidohydrolase ytcj	5	0.109	0.128	5
+putative transporter	4	0.087	0.103	4
+autophagy-related protein 17	4	0.087	0.103	4
+putative oxidoreductase ytet	4	0.087	0.103	4
+phytanoyl- dioxygenase family protein	4	0.087	0.103	4
+nmra family protein	3	0.065	0.077	3
+lipa and nb-arc domain-containing protein	3	0.065	0.077	3
+rio kinase 1	2	0.043	0.051	2
+wsc domain protein	2	0.043	0.051	2
+phytanoyl-coa dioxygenase	2	0.043	0.051	2
+nacht and ankyrin domain protein	2	0.043	0.051	2
+riboflavin kinase (nb-arc domain protein)	2	0.043	0.051	2
+nad-binding rossmann fold oxidoreductase family protein	2	0.043	0.051	2
+ankyrin repeat and sam domain containing protein 6	2	0.043	0.051	2
+gmc oxidoreductase	2	0.043	0.051	2
+and nb-arc domain protein	2	0.043	0.051	2
+putative beta-glucosidase l	2	0.043	0.051	2
+nitroalkane oxidase	2	0.043	0.051	2
+metallocarboxypeptidase a-like protein-like protein 1	2	0.043	0.051	2
+putative feruloyl esterase	2	0.043	0.051	2
+short-chain dehydrogenase tic 32	2	0.043	0.051	2
+putative sterigmatocystin biosynthesis p450 monooxygenase stcb	2	0.043	0.051	2
+putative oxidoreductase	2	0.043	0.051	2
+beta-hexosaminidase	2	0.043	0.051	2
+short-chain dehydrogenase	2	0.043	0.051	2
+putative short-chain dehydrogenase	2	0.043	0.051	3
+cytochrome p450	2	0.043	0.051	2
+metalloprotease	2	0.043	0.051	2
+sugar transporter	2	0.043	0.051	2
+acetylxylan esterase	2	0.043	0.051	2
+p-loop containing nucleoside triphosphate hydrolase protein	2	0.043	0.051	2
+plasma-membrane choline transporter-domain-containing protein	2	0.043	0.051	2
+putative major facilitator superfamily transporter	1	0.022	0.026	1
+putative afua_2g17970 family ergot alkaloid biosynthesis protein	1	0.022	0.026	1
+putative rio1 family protein	1	0.022	0.026	1
+putative zinc carboxypeptidase	1	0.022	0.026	1
+putative glycoside hydrolase family 2	1	0.022	0.026	1
+putative cutinase	1	0.022	0.026	1
+putative phytanoyl-coa dioxygenase	1	0.022	0.026	1
+putative oxidoreductase family protein	1	0.022	0.026	1
+putative amidohydrolase	1	0.022	0.026	1
+allantoate permease (major facilitator superfamily transporter)	1	0.022	0.026	1
+ankyrin repeat protein	1	0.022	0.026	1
+acetyl xylanesterase (cutinase)	1	0.022	0.026	1
+copper radical oxidase	1	0.022	0.026	1
+putative glutathione s-transferase	1	0.022	0.026	1
+small s protein	1	0.022	0.026	1
+nad dependent epimerase	1	0.022	0.026	1
+and ankyrin domain protein	1	0.022	0.026	1
+wsc domain-containing protein	1	0.022	0.026	1
+phytanoyl- dioxygenase	1	0.022	0.026	1
+amine oxidase	1	0.022	0.026	1
+translation initiation factor if-2	1	0.022	0.026	1
+triple functional domain protein	1	0.022	0.026	1
+vegetative incompatibility protein het-e-1	1	0.022	0.026	1
+d-erythrulose-4-phosphate isomerase 1	1	0.022	0.026	1
+nitrogen assimilation transcription factor nit-4-like protein 3	1	0.022	0.026	1
+vegetative incompatibility protein het-e-1-like protein 8	1	0.022	0.026	1
+lovastatin diketide synthase lovf 5	1	0.022	0.026	1
+dihydroxyacetone kinase	1	0.022	0.026	1
+vegetative incompatibility protein het-e-1-like protein 7	1	0.022	0.026	1
+nuclear gtpase slip-gc 2	1	0.022	0.026	1
+putative triosephosphate isomerase 1	1	0.022	0.026	1
+putative amidohydrolase ytcj 1	1	0.022	0.026	1
+putative pinoresinol-lariciresinol reductase 3	1	0.022	0.026	1
+metallocarboxypeptidase a	1	0.022	0.026	1
+putative sterigmatocystin biosynthesis p450 monooxygenase	1	0.022	0.026	1
+retinol dehydrogenase 12	1	0.022	0.026	1
+benzil reductase ((s)-benzoin forming) irc24	1	0.022	0.026	1
+nb-arc domain protein	1	0.022	0.026	1
+hypotheticall protein	1	0.022	0.026	1
+tannase and feruloyl esterase	1	0.022	0.026	1
+cfem domain-containing protein	1	0.022	0.026	1
+putative glycosyl hydrolase family 20	1	0.022	0.026	1
+xylose isomerase-like tim barrel	1	0.022	0.026	1
+dioxygenase trt7	1	0.022	0.026	1
+fad-dependent monooxygenase dep4	1	0.022	0.026	1
+putative transporter c417.10	1	0.022	0.026	1
+metallocarboxypeptidase a-like protein mcyg_01475	1	0.022	0.026	1
+methyltransferase domain-containing protein	1	0.022	0.026	1
+riboflavin synthase	1	0.022	0.026	1
+serine/threonine-protein kinase rio2	1	0.022	0.026	1
+putative oxidoreductase yusz	1	0.022	0.026	1
+integral membrane protein	1	0.022	0.026	1
+tnni3 interacting kinase	1	0.022	0.026	1
+glycosyl transferase family 8 protein	1	0.022	0.026	1
+duf580-domain-containing protein	1	0.022	0.026	1
+family 2 glycoside hydrolase	1	0.022	0.026	1
+akep protein	1	0.022	0.026	1
+cutinase-domain-containing protein	1	0.022	0.026	1
+cut8 six-helix bundle-domain-containing protein	1	0.022	0.026	1
+recombination protein rad52	1	0.022	0.026	1
+gluconate 5-dehydrogenase	1	0.022	0.026	1
+ankyrin repeat-containing domain protein	1	0.022	0.026	2
+rio1 family-domain-containing protein	1	0.022	0.026	1
+dynamin family-domain-containing protein	1	0.022	0.026	1
+retinal pigment epithelial membrane protein-domain-containing protein	1	0.022	0.026	1
+hydroxyindole o-methyltransferase	1	0.022	0.026	1
+putative nacht nucleoside triphosphatase, p-loop containing nucleoside triphosphate hydrolase	1	0.022	0.026	1
+putative peptidase m14, carboxypeptidase a	1	0.022	0.026	1
+putative p-loop containing nucleoside triphosphate hydrolase	1	0.022	0.026	1
+putative p-loop containing nucleoside triphosphate hydrolase, dynamin	1	0.022	0.026	1
+putative riboflavin kinase domain, bacterial/, riboflavin kinase domain superfamily	1	0.022	0.026	1
+putative autophagy protein atg17	1	0.022	0.026	1
+putative glutathione s-transferase, thioredoxin-like superfamily	1	0.022	0.026	1
+putative serine/threonine-protein kinase rio1	1	0.022	0.026	1
+putative cutinase/acetylxylan esterase, alpha/beta hydrolase	1	0.022	0.026	1
+putative metal-dependent hydrolase, composite domain superfamily, amidohydrolase 3	1	0.022	0.026	1
+putative leucine-rich repeat domain superfamily	1	0.022	0.026	1
+putative nucleotide-diphospho-sugar transferase	1	0.022	0.026	1
+putative carbohydrate-binding wsc	1	0.022	0.026	1
+putative choline transporter	1	0.022	0.026	1
+putative gfo/idh/moca-like oxidoreductase, nad(p)-binding domain superfamily	1	0.022	0.026	1
+putative glucose-methanol-choline oxidoreductase, fad/nad(p)-binding domain superfamily	1	0.022	0.026	1
+manganese transporter smf1	1	0.022	0.026	1
+uroporphyrin-iii c-methyltransferase	1	0.022	0.026	1
+manganese transporter smf1, variant 2	1	0.022	0.026	1
+glycosyl hydrolase family 20	1	0.022	0.026	1
+glycoside hydrolase	1	0.022	0.026	1
+short-chain dehydrogenase reductase family	1	0.022	0.026	1
+allantoate permease	1	0.022	0.026	1

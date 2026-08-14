@@ -1,0 +1,13 @@
+accession	n_his	classification	CuA_site	CuB_site	pmm_n_cu	pmm_cu_prob	pmm_metals	pmm_ligands	m3d_CuA_prob	m3d_CuB_prob	af3_CuA_plddt	af3_CuB_plddt	note
+A0A3P3Y6K2	2	no_cu	HIS/---/ASN	GLN/GLN/HIS	1	1.00	Copper	373,A,HIS;375,A,HIS				85.900	PMM=1.00, only 2His — most surprising high-confidence hit
+A0A180GDP5	5	no_cu	PHE/---/MET	HIS/HIS/ALA	1	1.00	Copper	171,A,HIS;179,A,HIS;188,A,HIS	0.390	0.610	90.000	83.000	PMM=1.00, 5His — near-canonical, possibly misclassified
+A0ACC2S7C6	1	no_cu	ALA/TRP/ASN	PHE/SER/ILE	1	0.92	Copper	179,A,HIS;205,A,HIS					PMM=0.92, only 1His — surprising Cu prediction
+A0ABN8PTR8	1	no_cu	TYR/LEU/TYR	LEU/ARG/HIS	1	0.90	Copper	35,A,HIS;38,A,HIS					PMM=0.90, only 1His — surprising Cu prediction
+A0A9W9T4Q6	4	no_cu	HIS/ILE/HIS	HIS/PRO/HIS	2	0.97	Copper	113,A,HIS;130,A,HIS | 258,A,HIS;284,A,HIS	0.680	0.890	95.800	90.300	PMM=0.97, 2Cu predicted — binuclear in no_cu!
+A0ABR2W3S2	4	no_cu	HIS/HIS/ASN	HIS/LEU/HIS	2	0.97	Copper	70,A,HIS;78,A,HIS | 199,A,HIS;225,A,HIS	0.670		92.400	91.700	PMM=0.97, 2Cu predicted — binuclear in no_cu!
+A0A4Z1EV38	4	no_cu	HIS/LEU/HIS	HIS/PRO/HIS	2	0.94	Copper	136,A,HIS;153,A,HIS | 281,A,HIS;307,A,HIS	0.720	0.730	65.800	61.800	PMM=0.94, 2Cu predicted — binuclear in no_cu
+A0A135SEP1	4	no_cu	HIS/GLY/HIS	HIS/HIS/GLN	1	0.99	Copper;Zinc	205,A,HIS;233,A,HIS | 401,A,HIS;405,A,HIS;428,A,HIS	0.650	0.660	84.900	89.700	PMM=0.99, Cu+Zn predicted
+A0A8H3DH08	3	no_cu	GLN/---/LEU	HIS/---/LEU	1	0.97	Copper;Zinc	87,A,CYS;611,A,CYS;614,A,CYS | 326,A,HIS;330,A,HIS;354,A,HIS;355,A,HIS	0.730	0.910		92.200	PMM=0.97, Cu+Zn with Cys ligands — unusual
+A0AAD3DIW9	5	no_cu	HIS/ARG/HIS	HIS/LEU/ALA	1	0.92	Copper;FECONI	90,A,HIS;97,A,CYS;108,A,HIS | 648,A,ASP;783,A,HIS;787,A,HIS;793,A,HIS	0.960	0.680	72.400		PMM=0.92, Cu+FECONI, 5His
+A0A7C8UE72	3	no_cu	---/---/LEU	---/---/LEU	1	0.97	Copper	356,A,HIS;360,A,HIS;384,A,HIS;385,A,HIS		0.890			PMM=0.97, 3His, 4 His ligands in PMM — partial site
+A0ABR4ES42	3	no_cu	HIS/VAL/---	HIS/VAL/PHE	1	0.96	Copper	210,A,HIS;214,A,HIS;236,A,HIS;237,A,HIS		0.970			PMM=0.96, 3His, 4 His ligands in PMM

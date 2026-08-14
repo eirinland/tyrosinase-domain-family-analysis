@@ -1,0 +1,27 @@
+Loaded 56905 neighbourhood entries
+
+Groups with data: 20
+  AUS: 2 queries, 0 flanking genes
+  CaOx: 6 queries, 0 flanking genes
+  DCT: 5 queries, 0 flanking genes
+  DCT_DHICA: 1275 queries, 13725 flanking genes
+  DHICA_ox: 6 queries, 0 flanking genes
+  TYR: 39 queries, 186 flanking genes
+  binuclear_AspCuB: 1 queries, 1 flanking genes
+  binuclear_TyrCuA: 1 queries, 20 flanking genes
+  binuclear_TyrCuB: 1 queries, 20 flanking genes
+  biosynthetic: 4 queries, 60 flanking genes
+  hemocyanin: 343 queries, 3923 flanking genes
+  mononuclear_AspCuB_Zn: 1 queries, 20 flanking genes
+  mononuclear_CuA_loss: 1 queries, 16 flanking genes
+  mononuclear_CuB_loss: 1 queries, 20 flanking genes
+  mononuclear_LeuCuA: 1 queries, 20 flanking genes
+  mononuclear_ProCuB: 1 queries, 2 flanking genes
+  neither_Microbispora: 1 queries, 20 flanking genes
+  neither_liverfluke: 1 queries, 14 flanking genes
+  oAPO: 883 queries, 12660 flanking genes
+  oMP: 1315 queries, 22961 flanking genes
+
+Unique annotated products (count>=3): 1231
+Unique keywords (count>=5): 1024
+Output: summary_by_group.tsv, product_frequencies.tsv, full_products_by_group.tsv

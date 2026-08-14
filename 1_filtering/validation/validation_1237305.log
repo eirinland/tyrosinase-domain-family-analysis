@@ -1,0 +1,265 @@
+Starting job 1237305 on c1-3 on Olivia at Thu Jun 11 10:59:02 CEST 2026
+
+=== Extracting CIFs ===
+Extracted: 16 CIFs
+=== Trimming to PPO core ===
+TRIM A0A075DN54: 86-429 (2780 atom lines)
+TRIM A0A0K1ZP03: 38-310 (2202 atom lines)
+TRIM A0A1S9DK56: 18-614 (4877 atom lines)
+TRIM A0A261GRE4: 2-294 (2369 atom lines)
+TRIM A0A8D3X086: 6-296 (2378 atom lines)
+TRIM C7FF05: 14-355 (2793 atom lines)
+TRIM G2QLD3: 42-423 (2948 atom lines)
+TRIM P43309: 97-418 (2581 atom lines)
+TRIM P43311: 104-433 (2638 atom lines)
+TRIM Q08303: 102-427 (2647 atom lines)
+TRIM Q2T7K1: 8-399 (3098 atom lines)
+TRIM Q2UNF9: 39-407 (2866 atom lines)
+TRIM Q83WS2: 3-271 (2170 atom lines)
+TRIM Q93HL2: 3-271 (2146 atom lines)
+TRIM Q2UP46: 18-580 (4612 atom lines)
+TRIM P83040: 10-310 (2494 atom lines)
+
+Trimmed: 16, Skipped: 0
+=== Foldseek pass 2 (trimmed) ===
+createdb cifs_trimmed foldseek_tmp/queryDB 
+
+MMseqs Version:             	f3792e361cd20f243585041b0471c9ac6e81248a
+Use GPU                     	0
+Path to ProstT5             	
+Chain name mode             	0
+Model name mode             	0
+Createdb extraction mode    	0
+Interface distance threshold	10
+Write mapping file          	0
+Write Foldcomp              	0
+Mask b-factor threshold     	0
+Coord store mode            	2
+Write lookup file           	1
+Input format                	0
+Input compression format    	0
+File Inclusion Regex        	.*
+File Exclusion Regex        	^$
+Threads                     	256
+Verbosity                   	3
+
+Output file: foldseek_tmp/queryDB
+[=================================================================] 16 0s 16ms
+Time for merging to queryDB_ss: 0h 0m 0s 206ms
+Time for merging to queryDB_h: 0h 0m 0s 192ms
+Time for merging to queryDB_ca: 0h 0m 0s 188ms
+Time for merging to queryDB: 0h 0m 0s 187ms
+Ignore 0 out of 16.
+Too short: 0, incorrect: 0, not proteins: 0.
+Time for processing: 0h 0m 1s 571ms
+createdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_1BT3_Ibatatas.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_1JS8_squid.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_2Y9W_Abisporus.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_5CE9_Jregia.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_5M8L_human.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_8BBR_Vspinosum.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_A0A9N8ELP9_oomycota.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_I3D139_archaea.pdb /cluster/home/eirinlandsem/Super_reference_pipeline/1_filtering/foldseek/ref_PmTYR.pdb foldseek_tmp/targetDB 
+
+MMseqs Version:             	f3792e361cd20f243585041b0471c9ac6e81248a
+Use GPU                     	0
+Path to ProstT5             	
+Chain name mode             	0
+Model name mode             	0
+Createdb extraction mode    	0
+Interface distance threshold	10
+Write mapping file          	0
+Write Foldcomp              	0
+Mask b-factor threshold     	0
+Coord store mode            	2
+Write lookup file           	1
+Input format                	0
+Input compression format    	0
+File Inclusion Regex        	.*
+File Exclusion Regex        	^$
+Threads                     	256
+Verbosity                   	3
+
+Output file: foldseek_tmp/targetDB
+=====================================================[============] 9 0s 17ms
+Time for merging to targetDB_ss: 0h 0m 0s 201ms
+Time for merging to targetDB_h: 0h 0m 0s 198ms
+Time for merging to targetDB_ca: 0h 0m 0s 202ms
+Time for merging to targetDB: 0h 0m 0s 200ms
+Ignore 0 out of 9.
+Too short: 0, incorrect: 0, not proteins: 0.
+Time for processing: 0h 0m 1s 490ms
+Create directory foldseek_tmp/tmp
+search foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/alnDB foldseek_tmp/tmp --max-seqs 9 --alignment-type 2 -e 100 
+
+MMseqs Version:                    	f3792e361cd20f243585041b0471c9ac6e81248a
+TMscore threshold                  	0
+TMscore threshold mode             	0
+LDDT threshold                     	0
+Sort by structure bit score        	1
+Alignment type                     	2
+Exact TMscore                      	0
+Substitution matrix                	aa:3di.out,nucl:3di.out
+Add backtrace                      	false
+Alignment mode                     	3
+Alignment mode                     	0
+E-value threshold                  	100
+Seq. id. threshold                 	0
+Min alignment length               	0
+Seq. id. mode                      	0
+Alternative alignments             	0
+Coverage threshold                 	0
+Coverage mode                      	0
+Max sequence length                	65535
+Compositional bias                 	1
+Compositional bias scale           	1
+Max reject                         	2147483647
+Max accept                         	2147483647
+Preload mode                       	0
+Gap open cost                      	aa:10,nucl:10
+Gap extension cost                 	aa:1,nucl:1
+Threads                            	256
+Compressed                         	0
+Verbosity                          	3
+Seed substitution matrix           	aa:3di.out,nucl:3di.out
+Sensitivity                        	9.5
+k-mer length                       	0
+Target search mode                 	0
+k-score                            	seq:2147483647,prof:2147483647
+Max results per query              	9
+Split database                     	0
+Split mode                         	2
+Split memory limit                 	0
+Diagonal scoring                   	true
+Exact k-mer matching               	0
+Mask residues                      	0
+Mask residues probability          	0.999995
+Mask lower case residues           	1
+Mask lower letter repeating N times	6
+Minimum diagonal score             	30
+Selected taxa                      	
+Spaced k-mers                      	1
+Spaced k-mer pattern               	
+Local temporary path               	
+Use GPU                            	0
+Use GPU server                     	0
+Wait for GPU server                	600
+Prefilter mode                     	0
+TMalign hit order                  	0
+TMalign fast                       	1
+MultiDomain Mode                   	1
+Mask profile                       	1
+Profile E-value threshold          	0.1
+Global sequence weighting          	false
+Allow deletions                    	false
+Filter MSA                         	1
+Use filter only at N seqs          	0
+Maximum seq. id. threshold         	0.9
+Minimum seq. id.                   	0.0
+Minimum score per column           	-20
+Minimum coverage                   	0
+Select N most diverse seqs         	1000
+Pseudo count mode                  	0
+Profile output mode                	0
+Cluster search                     	0
+Exhaustive search mode             	false
+Search iterations                  	1
+Remove temporary files             	true
+Force restart with latest tmp      	false
+MPI runner                         	
+
+prefilter foldseek_tmp/queryDB_ss foldseek_tmp/targetDB_ss foldseek_tmp/tmp/15685531870235632124/pref --sub-mat 'aa:3di.out,nucl:3di.out' --seed-sub-mat 'aa:3di.out,nucl:3di.out' -s 9.5 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 9 --split 0 --split-mode 2 --split-memory-limit 0 -c 0 --cov-mode 0 --comp-bias-corr 1 --comp-bias-corr-scale 0.15 --diag-score 1 --exact-kmer-matching 0 --mask 0 --mask-prob 0.999995 --mask-lower-case 1 --mask-n-repeat 6 --min-ungapped-score 30 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 256 --compressed 0 -v 3 
+
+Query database size: 16 type: Aminoacid
+Estimated memory consumption: 977M
+Target database size: 9 type: Aminoacid
+Index table k-mer threshold: 78 at k-mer size 6 
+Index table: counting k-mers
+[=================================================================] 9 0s 4ms
+Index table: Masked residues: 0
+Index table: fill
+[=================================================================] 9 0s 1ms
+Index statistics
+Entries:          3017
+DB size:          488 MB
+Avg k-mer size:   0.000047
+Top 10 k-mers
+    VLVLLL	5
+    SLQQSC	3
+    AAAVDL	3
+    VQVLLL	3
+    EAVDVL	3
+    VLLLVL	3
+    VVNSVS	3
+    LLLLLV	3
+    LVLQLV	3
+    SRNSSV	3
+Time for index table init: 0h 0m 0s 202ms
+Process prefiltering step 1 of 1
+
+k-mer similarity threshold: 78
+Starting prefiltering scores calculation (step 1 of 1)
+Query db start 1 to 16
+Target db start 1 to 9
+[=================================================================] 16 0s 68ms
+
+2814.373286 k-mers per position
+912 DB matches per sequence
+0 overflows
+9 sequences passed prefiltering per query sequence
+9 median result list length
+0 sequences with 0 size result lists
+Time for merging to pref: 0h 0m 0s 9ms
+Time for processing: 0h 0m 1s 40ms
+structurealign foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/tmp/15685531870235632124/pref foldseek_tmp/tmp/15685531870235632124/strualn --tmscore-threshold 0 --tmscore-threshold-mode 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 100 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 256 --compressed 0 -v 3 
+
+[=================================================================] 16 0s 91ms
+Time for merging to strualn: 0h 0m 0s 157ms
+Time for processing: 0h 0m 1s 982ms
+mvdb foldseek_tmp/tmp/15685531870235632124/strualn foldseek_tmp/tmp/15685531870235632124/aln -v 3 
+
+Time for processing: 0h 0m 0s 133ms
+mvdb foldseek_tmp/tmp/15685531870235632124/aln foldseek_tmp/alnDB -v 3 
+
+Time for processing: 0h 0m 0s 188ms
+Removing temporary files
+rmdb foldseek_tmp/tmp/15685531870235632124/pref -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+convertalis foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/alnDB foldseek_pass2.tsv --format-output query,target,qstart,qend,qlen,tstart,tend,tlen,alntmscore,qtmscore,lddt,rmsd,alnlen,evalue 
+
+MMseqs Version:        	f3792e361cd20f243585041b0471c9ac6e81248a
+Substitution matrix    	aa:3di.out,nucl:3di.out
+Alignment format       	0
+Format alignment output	query,target,qstart,qend,qlen,tstart,tend,tlen,alntmscore,qtmscore,lddt,rmsd,alnlen,evalue
+Gap open cost          	aa:10,nucl:10
+Gap extension cost     	aa:1,nucl:1
+Database output        	false
+Preload mode           	0
+Threads                	256
+Compressed             	0
+Verbosity              	3
+Exact TMscore          	0
+
+[Backtrace cigar is missing in the alignment result. Please recompute the alignment with the -a flag.
+Command: mmseqs align foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/alnDB alnNew -a
+====Backtrace cigar is missing in the alignment result. Please recompute the alignment with the -a flag.
+Command: mmseqs align foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/alnDB alnNew -a
+/var/spool/slurmd/job1237305/slurm_script: line 51: 981847 Segmentation fault      (core dumped) $FOLDSEEK convertalis foldseek_tmp/queryDB foldseek_tmp/targetDB foldseek_tmp/alnDB foldseek_pass2.tsv --format-output "query,target,qstart,qend,qlen,tstart,tend,tlen,alntmscore,qtmscore,lddt,rmsd,alnlen,evalue"
+
+Job 1237305 consumed 0.0 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T10:59:01; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 30.0 minutes
+Elapsed wallclock time:   14.0 seconds
+
+Job failed.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1237305           4            0.0 %  2026-06-11T10:59:02   14.0 s  139 (command killed by signal 11)
+1237305.batch     4      1    17.4 %  2026-06-11T10:59:02   14.0 s  139 (command killed by signal 11)
+
+Used CPU time:   9.7 CPU seconds
+Unused CPU time: 46.3 CPU seconds
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1237305          16.0        
+1237305.batch    16.0     3.1
+
+Job 1237305 completed at Thu Jun 11 10:59:16 CEST 2026

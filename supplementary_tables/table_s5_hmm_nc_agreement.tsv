@@ -1,0 +1,7 @@
+Position	n_substituted	HMM_aligned	HMM_gapped	Agree	Disagree	Agreement_pct
+CuA_His1	300	88	212	53	35	60.2
+CuA_His2	350	228	122	141	87	61.8
+CuA_His3	275	237	38	223	14	94.1
+CuB_His1	349	277	72	232	45	83.8
+CuB_His2	457	411	46	357	54	86.9
+CuB_His3	343	261	82	252	9	96.6

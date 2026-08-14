@@ -1,0 +1,690 @@
+[
+ {
+  "label": "1_3.5Arescue",
+  "acc": "A0A177T6E5",
+  "cif": "A0A177T6E5_taxID_43049_model.cif",
+  "best_ref": "ref_PmTYR",
+  "qtm": 0.529,
+  "icp": 0.93,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 69,
+    "resid": 146,
+    "resn": "HIS",
+    "dist": 0.37
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 135,
+    "resn": "HIS",
+    "dist": 0.53
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 140,
+    "resn": "TYR",
+    "dist": 3.01
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 208,
+    "resid": 295,
+    "resn": "HIS",
+    "dist": 0.59
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 231,
+    "resid": 317,
+    "resn": "HIS",
+    "dist": 0.54
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 291,
+    "resn": "HIS",
+    "dist": 0.42
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 140,
+    "resn": "TYR",
+    "dist": 3.01
+   }
+  ]
+ },
+ {
+  "label": "2_3.5Arescue",
+  "acc": "A0A161WK35",
+  "cif": "A0A161WK35_taxID_1573173_model.cif",
+  "best_ref": "ref_2Y9W_Abisporus",
+  "qtm": 0.499,
+  "icp": 1.31,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 94,
+    "resid": 99,
+    "resn": "GLN",
+    "dist": 3.03
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 61,
+    "resid": 86,
+    "resn": "HIS",
+    "dist": 1.1
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 85,
+    "resid": 93,
+    "resn": "TRP",
+    "dist": 2.39
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 296,
+    "resid": 286,
+    "resn": "HIS",
+    "dist": 0.8
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 259,
+    "resid": 257,
+    "resn": "HIS",
+    "dist": 0.26
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 263,
+    "resid": 261,
+    "resn": "HIS",
+    "dist": 0.66
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 94,
+    "resid": 99,
+    "resn": "GLN",
+    "dist": 3.03
+   }
+  ]
+ },
+ {
+  "label": "3_4.0Arescue",
+  "acc": "A0A074W6F3",
+  "cif": "A0A074W6F3_taxID_1043004_model.cif",
+  "best_ref": "ref_PmTYR",
+  "qtm": 0.491,
+  "icp": 1.56,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 69,
+    "resid": 162,
+    "resn": "ASN",
+    "dist": 0.52
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 145,
+    "resn": "TYR",
+    "dist": 1.29
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 153,
+    "resn": "THR",
+    "dist": 2.42
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 208,
+    "resid": 252,
+    "resn": "PHE",
+    "dist": 2.16
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 231,
+    "resid": 268,
+    "resn": "GLN",
+    "dist": 1.34
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 246,
+    "resn": "ILE",
+    "dist": 3.54
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 246,
+    "resn": "ILE",
+    "dist": 3.54
+   }
+  ]
+ },
+ {
+  "label": "4_4.0Arescue",
+  "acc": "A0A9R1RCW5",
+  "cif": "A0A9R1RCW5_taxID_4567_model.cif",
+  "best_ref": "ref_5CE9_Jregia",
+  "qtm": 0.558,
+  "icp": 0.72,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 108,
+    "resid": 182,
+    "resn": "PRO",
+    "dist": 3.51
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 87,
+    "resid": 168,
+    "resn": "HIS",
+    "dist": 1.14
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 117,
+    "resid": 186,
+    "resn": "LEU",
+    "dist": 0.78
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 273,
+    "resid": 342,
+    "resn": "HIS",
+    "dist": 0.38
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 239,
+    "resid": 308,
+    "resn": "HIS",
+    "dist": 0.32
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 243,
+    "resid": 312,
+    "resn": "HIS",
+    "dist": 0.3
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 108,
+    "resid": 182,
+    "resn": "PRO",
+    "dist": 3.51
+   }
+  ]
+ },
+ {
+  "label": "5_4.5Arescue",
+  "acc": "A0A0D2UIJ1",
+  "cif": "A0A0D2UIJ1_taxID_29730_model.cif",
+  "best_ref": "ref_1BT3_Ibatatas",
+  "qtm": 0.505,
+  "icp": 1.11,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 88,
+    "resid": 171,
+    "resn": "HIS",
+    "dist": 0.78
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 118,
+    "resid": 182,
+    "resn": "THR",
+    "dist": 2.74
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 109,
+    "resid": 281,
+    "resn": "VAL",
+    "dist": 4.01
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 240,
+    "resid": 286,
+    "resn": "HIS",
+    "dist": 0.58
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 244,
+    "resid": 290,
+    "resn": "HIS",
+    "dist": 0.37
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 274,
+    "resid": 320,
+    "resn": "HIS",
+    "dist": 0.74
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 109,
+    "resid": 281,
+    "resn": "VAL",
+    "dist": 4.01
+   }
+  ]
+ },
+ {
+  "label": "6_4.5Arescue",
+  "acc": "A0A3P8DS39",
+  "cif": "A0A3P8DS39_taxID_6339_model.cif",
+  "best_ref": "ref_PmTYR",
+  "qtm": 0.524,
+  "icp": 0.86,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 69,
+    "resid": 171,
+    "resn": "HIS",
+    "dist": 0.27
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 152,
+    "resn": "HIS",
+    "dist": 0.27
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 162,
+    "resn": "HIS",
+    "dist": 0.52
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 208,
+    "resid": 289,
+    "resn": "LEU",
+    "dist": 0.24
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 231,
+    "resid": 312,
+    "resn": "HIS",
+    "dist": 0.34
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 286,
+    "resn": "TRP",
+    "dist": 4.03
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 286,
+    "resn": "TRP",
+    "dist": 4.03
+   }
+  ]
+ },
+ {
+  "label": "7_5.0Arescue",
+  "acc": "A0A8H6K3D9",
+  "cif": "A0A8H6K3D9_taxID_2175906_model.cif",
+  "best_ref": "ref_2Y9W_Abisporus",
+  "qtm": 0.507,
+  "icp": 0.54,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 94,
+    "resid": 283,
+    "resn": "HIS",
+    "dist": 0.37
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 61,
+    "resid": 266,
+    "resn": "PRO",
+    "dist": 4.53
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 85,
+    "resid": 274,
+    "resn": "HIS",
+    "dist": 0.49
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 296,
+    "resid": 473,
+    "resn": "HIS",
+    "dist": 0.34
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 259,
+    "resid": 443,
+    "resn": "HIS",
+    "dist": 0.5
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 263,
+    "resid": 447,
+    "resn": "HIS",
+    "dist": 0.15
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 61,
+    "resid": 266,
+    "resn": "PRO",
+    "dist": 4.53
+   }
+  ]
+ },
+ {
+  "label": "8_5.0Arescue",
+  "acc": "A0A3P3Y6K2",
+  "cif": "A0A3P3Y6K2_taxID_37360_model.cif",
+  "best_ref": "ref_1JS8_squid",
+  "qtm": 0.392,
+  "icp": 0.94,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 2562,
+    "resid": 65,
+    "resn": "GLY",
+    "dist": 4.6
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 2543,
+    "resid": 58,
+    "resn": "HIS",
+    "dist": 1.01
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 2571,
+    "resid": 73,
+    "resn": "ASN",
+    "dist": 0.92
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 2702,
+    "resid": 196,
+    "resn": "HIS",
+    "dist": 0.69
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 2675,
+    "resid": 173,
+    "resn": "GLN",
+    "dist": 0.4
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 2671,
+    "resid": 169,
+    "resn": "GLN",
+    "dist": 1.02
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 2562,
+    "resid": 65,
+    "resn": "GLY",
+    "dist": 4.6
+   }
+  ]
+ },
+ {
+  "label": "9_notsaved5A",
+  "acc": "A0A5C6SLG5",
+  "cif": "A0A5C6SLG5_taxID_61366_model.cif",
+  "best_ref": "ref_PmTYR",
+  "qtm": 0.578,
+  "icp": 1.44,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 69,
+    "resid": 79,
+    "resn": "ASN",
+    "dist": 1.2
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 75,
+    "resn": "HIS",
+    "dist": 2.1
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 258,
+    "resn": "ILE",
+    "dist": 7.85
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 208,
+    "resid": 208,
+    "resn": "HIS",
+    "dist": 0.55
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 231,
+    "resid": 230,
+    "resn": "HIS",
+    "dist": 0.42
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 204,
+    "resn": "HIS",
+    "dist": 0.42
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 258,
+    "resn": "ILE",
+    "dist": 7.85
+   }
+  ]
+ },
+ {
+  "label": "10_notsaved5A",
+  "acc": "A0A8H8SYG4",
+  "cif": "A0A8H8SYG4_taxID_456999_model.cif",
+  "best_ref": "ref_PmTYR",
+  "qtm": 0.639,
+  "icp": 1.97,
+  "anchors": [
+   {
+    "site": "CuA",
+    "pos": 0,
+    "ref_anchor": 69,
+    "resid": 249,
+    "resn": "PHE",
+    "dist": 1.88
+   },
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 66,
+    "resn": "VAL",
+    "dist": 3.33
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 248,
+    "resn": "LYS",
+    "dist": 7.24
+   },
+   {
+    "site": "CuB",
+    "pos": 0,
+    "ref_anchor": 208,
+    "resid": 185,
+    "resn": "HIS",
+    "dist": 0.46
+   },
+   {
+    "site": "CuB",
+    "pos": 1,
+    "ref_anchor": 231,
+    "resid": 207,
+    "resn": "HIS",
+    "dist": 0.77
+   },
+   {
+    "site": "CuB",
+    "pos": 2,
+    "ref_anchor": 204,
+    "resid": 181,
+    "resn": "HIS",
+    "dist": 0.57
+   }
+  ],
+  "rescued": [
+   {
+    "site": "CuA",
+    "pos": 1,
+    "ref_anchor": 42,
+    "resid": 66,
+    "resn": "VAL",
+    "dist": 3.33
+   },
+   {
+    "site": "CuA",
+    "pos": 2,
+    "ref_anchor": 60,
+    "resid": 248,
+    "resn": "LYS",
+    "dist": 7.24
+   }
+  ]
+ }
+]

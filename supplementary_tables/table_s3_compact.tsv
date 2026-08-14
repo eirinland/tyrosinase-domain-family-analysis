@@ -1,0 +1,44 @@
+Cluster	UniProt	Activity	Species		Cluster	UniProt	Activity	Species
+1	Q2UNF9	CaOx	Aspergillus		2	Q8MIU0	TYR	Bos
+1	A0A336U966	TYR	Aspergillus		2	Q9BDE0	TYR	Gorilla
+1	A0A8D3X086	TYR	Priestia		3	A0A1S9DK56	TYR	Aspergillus
+1	A0A8J9RRY2	TYR	Diaporthe		3	C7FF04	TYR	Agaricus
+1	B2ZB02	TYR	Priestia		3	C7FF05	TYR	Agaricus
+1	B8NM74	TYR	Aspergillus		3	O42713	TYR	Agaricus
+1	L0D705	TYR	Singulisphaera		3	P00440	TYR	Neurospora
+1	P06845	TYR	Streptomyces		3	Q00024	TYR	Agaricus
+1	P07524	TYR	Streptomyces		4	A0A075DN54	AUS	Coreopsis
+1	P55023	TYR	Streptomyces		4	A0A2R6XDI4	AUS	Marchantia
+1	Q0CRX0	TYR	Aspergillus		4	Q9FRX6	AUS	Antirrhinum
+1	Q83WS2	TYR	Streptomyces		4	I7HUF2	CaOx	Taraxacum
+1	Q93HL2	TYR	Streptomyces		4	O81103	CaOx	Prunus
+1	A0A142I737	halogenase	Diaporthe		4	P43311	CaOx	Vitis
+1	A0A8J9R8H5	halogenase	Diaporthe		4	Q06355	CaOx	Solanum
+1	B1VTI5	oAPO	Streptomyces		4	Q9MB14	CaOx	Ipomoea
+1	D6RTB9	oAPO	Streptomyces		4	Q9ZP19	CaOx	Ipomoea
+1	A0A9P1ME48	oMP	Parascedosporium		4	A0A0K0NPU9	TYR	Dimocarpus
+1	G2Q526	oMP	Thermothelomyces		4	A0A238GSS3	TYR	Malus
+1	G2QC95	oMP	Thermothelomyces		4	A0A238GT27	TYR	Malus
+1	G2QLD3	oMP	Thermothelomyces		4	A0A8E6HRF2	TYR	Juglans
+1	Q2GZJ4	oMP	Chaetomium		4	A0A9D5H103	TYR	Lathyrus
+1	Q2H7I7	oMP	Chaetomium		4	B3WFP2	TYR	Taraxacum
+2	O93505	DCT	Gallus		4	C0LU17	TYR	Juglans
+2	P29812	DCT	Mus		4	P43309	TYR	Malus
+2	P40126	DCT	Homo		4	Q08303	TYR	Solanum
+2	Q4R1H1	DCT	Sus		4	Q6UIL3	TYR	Larrea
+2	Q95119	DCT	Bos		6	A0A261GRE4	TYR	Hahella
+2	O57405	DHICA ox	Gallus		6	Q5VM57	TYR	Marinomonas
+2	P07147	DHICA ox	Mus		7	A0A261GVB1	TYR	Hahella
+2	P17643	DHICA ox	Homo		7	Q00234	TYR	Aspergillus
+2	P55027	DHICA ox	Ambystoma		7	Q2T7K1	TYR	Burkholderia
+2	P55028	DHICA ox	Carassius		10	P33180	TYR	Sinorhizobium
+2	Q2VPW6	DHICA ox	Felis		12	A0A0K1ZP03	TYR	Ralstonia
+2	Q8WN57	DHICA ox	Bos		31	P12031	hemocyanin	Helix
+2	P11344	TYR	Mus		31	P56823	hemocyanin	Helix
+2	P14679	TYR	Homo		31	P80960	hemocyanin	Rapana
+2	P54834	TYR	Canis		31	P81732	hemocyanin	Megathura
+2	P55024	TYR	Gallus		31	P83040	hemocyanin	Rapana
+2	P55025	TYR	Oryzias		140	A0AAJ6N653	TYR	Verrucomicrobium
+2	P55033	TYR	Felis		550	K0B2W2	TYR	Nitrosopumilus
+2	Q04604	TYR	Pelophylax		1074	P56826	hemocyanin	Sepia
+2	Q0MVP0	TYR	Pelophylax		disc.	Q92396	TYR	Podospora

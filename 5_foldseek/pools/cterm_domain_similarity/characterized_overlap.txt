@@ -1,0 +1,30 @@
+TM0.8 cluster 3 (rep A0AAJ0MJ41): 2965 members
+  SHORT type = TM0.7 sub-rep A0A7C8NGK8: 1765 domains, median 174 res
+  LONG  type = TM0.7 sub-rep A0A8E2F331: 235 domains, median 421 res
+
+SHORT-type example structures:
+    A0A7C8NGK8_taxID_2813651_model_A  len=217  Orbilia (Ascomycota)
+    A0A383URA9_taxID_2867405_model  len=174  Blumeria (Ascomycota)
+    N1J7U8_taxID_546991_model  len=174  Blumeria (Ascomycota)
+    A0A8H3J3F8_taxID_172621_model  len=174  Imshaugia (Ascomycota)
+
+LONG-type example structures:
+    A0A8E2F331_taxID_574774_model_A  len=396  Glonium (Ascomycota)
+    A0A9P8DHJ5_taxID_1042133_model_A  len=421  Fusarium (Ascomycota)
+    A0AAD4DPP0_taxID_1912939_model_A  len=421  Suillus (Basidiomycota)
+    A0A0C3PGK8_taxID_870435_model_A  len=421  Pisolithus (Basidiomycota)
+
+Characterized PPOs total: 84 | in TM0.8 cluster 3: 6
+
+acc         type                len  activitygenus/phylum              uniprot_name
+P00440      SHORT               265  TYR   Neurospora/Ascomycota     Tyrosinase
+Q00024      SHORT               192  TYR   Agaricus/Basidiomycota    Polyphenol oxidase 1
+C7FF04      minor_sub(199res)   199  TYR   Agaricus/Basidiomycota    Polyphenol oxidase 3
+C7FF05      minor_sub(199res)   200  TYR   Agaricus/Basidiomycota    Polyphenol oxidase 4
+O42713      minor_sub(199res)   192  TYR   Agaricus/Basidiomycota    Polyphenol oxidase 2
+A0A1S9DK56  no_Cterm_domain       0  TYR   Aspergillus/Ascomycota    Tyrosinase
+
+counts by type (characterized in cluster 3):
+  minor_sub(199res)   : 3  ['C7FF04', 'C7FF05', 'O42713']
+  SHORT               : 2  ['P00440', 'Q00024']
+  no_Cterm_domain     : 1  ['A0A1S9DK56']

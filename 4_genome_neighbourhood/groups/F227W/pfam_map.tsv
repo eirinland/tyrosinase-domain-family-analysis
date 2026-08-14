@@ -1,0 +1,838 @@
+protein_id	pfam
+EXJ53401	
+EXJ53402	PF01988|VIT family
+EXJ53403	PF04117|Mpv17 / PMP22 family
+EXJ53404	
+EXJ53405	PF12937|F-box-like
+EXJ53407	PF00638|RanBP1 domain
+EXJ53408	PF01198|Ribosomal protein L31e
+EXJ53409	PF00795|Carbon-nitrogen hydrolase
+EXJ53410	
+EXJ53411	
+EXJ53412	PF00122|P-type ATPase actuator domain;PF00689|Cation transporting ATPase, C-terminus;PF00690|Cation transporter/ATPase, N-terminus;PF08282|haloacid dehalogenase-like hydrolase;PF13246|P-type ATPase, cytoplasmic domain N
+EXJ53413	PF01384|Phosphate transporter family
+EXJ53414	PF14479|Prion-inhibition and propagation
+EXJ53415	PF00069|Protein kinase domain
+EXJ53416	PF13857|Ankyrin repeats (many copies)
+EXJ60657	PF01151|GNS1/SUR4 family
+EXJ60658	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+EXJ60659	PF00083|Sugar (and other) transporter
+EXJ60660	
+EXJ60661	PF00153|Mitochondrial carrier protein
+EXJ60662	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+EXJ60663	
+EXJ60664	
+EXJ60665	
+EXJ60666	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+EXJ60668	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+EXJ60669	PF06884|Protein of unknown function (DUF1264)
+EXJ60670	PF13561|Enoyl-(Acyl carrier protein) reductase
+EXJ60671	
+EXJ60672	PF08510|PIG-P
+EXJ60673	
+EXJ60674	PF04479|RTA1 like protein
+EXJ60675	PF01717|Cobalamin-independent synthase, Catalytic domain
+EXJ60676	PF01757|Acyltransferase domain
+EXJ60677	
+EXJ62102	PF00176|SNF2-related domain;PF00271|Helicase conserved C-terminal domain;PF14773|Helicase-associated putative binding domain, C-terminal;PF25806|ERCC6L2-like, ribbon-helix-helix domain
+EXJ62103	PF10336|Protein of unknown function (DUF2420)
+EXJ62104	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+EXJ62105	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+EXJ62106	PF11374|Protein of unknown function (DUF3176)
+EXJ62107	PF00083|Sugar (and other) transporter
+EXJ62108	PF00083|Sugar (and other) transporter
+EXJ62109	
+EXJ62110	PF04117|Mpv17 / PMP22 family
+EXJ62111	PF12937|F-box-like
+EXJ62113	PF00638|RanBP1 domain
+EXJ62114	PF01198|Ribosomal protein L31e
+EXJ62115	PF00795|Carbon-nitrogen hydrolase
+EXJ62116	
+EXJ62117	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+EXJ62118	PF00719|Inorganic pyrophosphatase
+EXJ62119	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+EXJ62120	PF00150|Cellulase (glycosyl hydrolase family 5)
+EXJ62121	PF13476|AAA domain;PF13558|SbcC/RAD50-like, Walker B motif
+EXJ62122	PF00320|GATA zinc finger;PF08447|PAS fold
+EXJ70098	PF14622|Ribonuclease-III-like
+EXJ70099	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+EXJ70100	PF00328|Histidine phosphatase superfamily (branch 2)
+EXJ70101	
+EXJ70102	
+EXJ70103	PF00106|short chain dehydrogenase;PF11754|Velvet factor
+EXJ70104	PF03033|Glycosyltransferase family 28 N-terminal domain;PF06722|Erythromycin biosynthesis protein CIII-like, C-terminal domain
+EXJ70105	PF01284|Membrane-associating domain
+EXJ70106	PF06884|Protein of unknown function (DUF1264)
+EXJ70107	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+EXJ70109	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+EXJ70110	
+EXJ70111	
+EXJ70112	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+EXJ70113	PF00153|Mitochondrial carrier protein
+EXJ70114	
+EXJ70115	PF00083|Sugar (and other) transporter
+EXJ70116	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+EXJ70117	PF01151|GNS1/SUR4 family
+EXJ70118	PF02284|Cytochrome c oxidase subunit Va
+EXJ83492	PF20254|N,N-dimethylformamidase beta subunit-like, C-terminal
+EXJ83493	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+EXJ83494	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+EXJ83495	PF11951|Fungal specific transcription factor domain
+EXJ83496	PF03417|Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
+EXJ83497	PF11927|Haem-dependent oxidative N-demethylase, alpha subunit-like
+EXJ83498	PF13520|Amino acid permease
+EXJ83499	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+EXJ83500	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+EXJ83501	PF12937|F-box-like
+EXJ83503	PF00638|RanBP1 domain
+EXJ83504	PF00246|Zinc carboxypeptidase
+EXJ83505	PF00838|Translationally controlled tumour protein
+EXJ83506	PF04116|Fatty acid hydroxylase
+EXJ83507	
+EXJ83508	PF07521|Zn-dependent metallo-hydrolase RNA specificity domain;PF10996|Beta-Casp domain;PF11718|Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term;PF16661|Metallo-beta-lactamase superfamily domain
+EXJ83509	PF05236|Transcription initiation factor TFIID component TAF4 family
+EXJ83510	PF00069|Protein kinase domain
+EXJ83511	
+EXJ83512	
+EXJ87317	PF00320|GATA zinc finger;PF08447|PAS fold
+EXJ87318	PF02463|RecF/RecN/SMC N terminal domain;PF13476|AAA domain
+EXJ87319	PF00150|Cellulase (glycosyl hydrolase family 5)
+EXJ87320	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+EXJ87321	PF10336|Protein of unknown function (DUF2420)
+EXJ87322	PF03239|Iron permease FTR1 family
+EXJ87323	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+EXJ87324	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+EXJ87325	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+EXJ87326	PF12937|F-box-like
+EXJ87328	PF00638|RanBP1 domain;PF08911|NUP50 (Nucleoporin 50 kDa)
+EXJ87329	PF01198|Ribosomal protein L31e
+EXJ87330	PF00795|Carbon-nitrogen hydrolase
+EXJ87331	
+EXJ87332	PF14420|Clr5 domain
+EXJ87333	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies)
+EXJ87334	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain
+EXJ87335	PF01363|FYVE zinc finger;PF13639|Ring finger domain
+EXJ87336	PF06011|Transient receptor potential (TRP) ion channel;PF14558|ML-like domain
+EXJ87337	PF13520|Amino acid permease
+EXJ91740	
+EXJ91741	PF00806|Pumilio-family RNA binding repeat
+EXJ91742	PF00326|Prolyl oligopeptidase family
+EXJ91743	PF03151|Triose-phosphate Transporter family
+EXJ91744	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family
+EXJ91745	PF05572|Pregnancy-associated plasma protein-A
+EXJ91746	PF02731|SKIP/SNW domain
+EXJ91747	
+EXJ91748	
+EXJ91749	
+EXJ91751	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+EXJ91752	PF06884|Protein of unknown function (DUF1264)
+EXJ91753	PF13561|Enoyl-(Acyl carrier protein) reductase
+EXJ91754	PF11754|Velvet factor
+EXJ91755	
+EXJ91756	PF00328|Histidine phosphatase superfamily (branch 2)
+EXJ91757	PF00443|Ubiquitin carboxyl-terminal hydrolase;PF12436|ICP0-binding domain of Ubiquitin-specific protease 7;PF14533|Ubiquitin-specific protease C-terminal;PF22486|MATH domain
+EXJ91758	PF02518|Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase;PF10436|Mitochondrial branched-chain alpha-ketoacid dehydrogenase kinase
+EXJ91759	PF01652|Eukaryotic initiation factor 4E
+EXJ91760	PF02902|Ulp1 protease family, C-terminal catalytic domain;PF25424|Fungal deubiquitinating enzyme PH domain
+EXJ93497	PF12796|Ankyrin repeats (3 copies)
+EXJ93498	PF11905|Domain of unknown function (DUF3425)
+EXJ93499	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+EXJ93500	PF14622|Ribonuclease-III-like
+EXJ93501	PF00328|Histidine phosphatase superfamily (branch 2)
+EXJ93502	
+EXJ93503	PF11754|Velvet factor
+EXJ93504	PF13561|Enoyl-(Acyl carrier protein) reductase
+EXJ93505	PF06884|Protein of unknown function (DUF1264)
+EXJ93506	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+EXJ93508	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+EXJ93509	
+EXJ93510	
+EXJ93511	PF02731|SKIP/SNW domain
+EXJ93512	PF13649|Methyltransferase domain
+EXJ93513	PF05572|Pregnancy-associated plasma protein-A
+EXJ93514	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family
+EXJ93515	PF03151|Triose-phosphate Transporter family
+EXJ93516	PF00326|Prolyl oligopeptidase family
+EXJ93517	PF00806|Pumilio-family RNA binding repeat
+GMI36378	PF07714|Protein tyrosine and serine/threonine kinase
+GMI36379	PF00561|alpha/beta hydrolase fold
+KAF5723948	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain
+KAF5723949	PF00933|Glycosyl hydrolase family 3 N terminal domain;PF01915|Glycosyl hydrolase family 3 C-terminal domain;PF07691|PA14 domain;PF14310|Fibronectin type III-like domain
+KAF5723950	PF07690|Major Facilitator Superfamily
+KAF5723951	PF00083|Sugar (and other) transporter
+KAF5723952	
+KAF5723953	
+KAF5723954	
+KAF5723955	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies)
+KAF5723956	
+KAF5723957	PF00082|Subtilase family
+KAF5723959	PF00387|Phosphatidylinositol-specific phospholipase C, Y domain;PF00388|Phosphatidylinositol-specific phospholipase C, X domain
+KAF5723960	PF07859|alpha/beta hydrolase fold
+KAF5723961	PF07714|Protein tyrosine and serine/threonine kinase
+KAF5723962	PF01048|Phosphorylase superfamily;PF24883|Nephrocystin 3, N-terminal;PF28131|Domain of unknown function (DUF8372)
+KAF5723963	
+KAF5723964	PF13427|Aminoglycoside adenylyltransferase, C-terminal domain
+KAF5723965	PF00067|Cytochrome P450
+KAF5723966	PF02129|X-Pro dipeptidyl-peptidase (S15 family);PF08530|X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain
+KAF5723967	PF02900|Catalytic LigB subunit of aromatic ring-opening dioxygenase
+KAF5723968	
+KAJ9616685	PF10336|Protein of unknown function (DUF2420)
+KAJ9616686	PF03239|Iron permease FTR1 family
+KAJ9616687	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+KAJ9616688	
+KAJ9616689	PF13417|Glutathione S-transferase, N-terminal domain;PF25907|Domain of unknown function (DUF7962)
+KAJ9616690	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+KAJ9616691	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+KAJ9616692	PF04117|Mpv17 / PMP22 family
+KAJ9616693	
+KAJ9616694	PF12937|F-box-like
+KAJ9616696	PF00638|RanBP1 domain
+KAJ9616697	PF01198|Ribosomal protein L31e
+KAJ9616698	PF00795|Carbon-nitrogen hydrolase
+KAJ9616699	
+KAJ9616700	
+KAJ9616701	
+KAJ9616702	PF00004|ATPase family associated with various cellular activities (AAA);PF22942|Domain of unknown function (DUF7025);PF23232|Fungal AAA+ ATPase lid domain
+KAJ9616703	PF24883|Nephrocystin 3, N-terminal
+KAJ9616704	
+KAJ9616705	
+KAJ9617276	PF01151|GNS1/SUR4 family
+KAJ9617277	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+KAJ9617278	PF00083|Sugar (and other) transporter
+KAJ9617279	
+KAJ9617280	PF00153|Mitochondrial carrier protein
+KAJ9617281	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+KAJ9617282	
+KAJ9617283	
+KAJ9617284	
+KAJ9617285	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAJ9617287	PF01370|NAD dependent epimerase/dehydratase family
+KAJ9617288	
+KAJ9617289	PF21924|XRCC4 coiled-coil
+KAJ9617290	PF12585|Virulence factor CipC-like
+KAJ9617291	PF02230|Phospholipase/Carboxylesterase
+KAJ9617292	PF23867|Mmc1 N-terminal domain;PF23868|Mmc1 C-terminal domain
+KAJ9617293	PF04130|Gamma tubulin complex component C-terminal;PF14609|Gamma-Tubulin ring complex non-core subunit mod21, N-terminal;PF17681|Gamma tubulin complex component N-terminal
+KAJ9617294	PF03517|Regulator of volume decrease after cellular swelling
+KAJ9617295	PF01793|Glycolipid 2-alpha-mannosyltransferase
+KAJ9617296	PF07690|Major Facilitator Superfamily
+KAJ9625458	PF00328|Histidine phosphatase superfamily (branch 2)
+KAJ9625459	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+KAJ9625460	
+KAJ9625461	PF11754|Velvet factor
+KAJ9625462	PF13738|Pyridine nucleotide-disulphide oxidoreductase
+KAJ9625463	PF04082|Fungal specific transcription factor domain
+KAJ9625464	PF00083|Sugar (and other) transporter
+KAJ9625465	PF00289|Biotin carboxylase, N-terminal domain;PF00364|Biotin-requiring enzyme;PF01039|Carboxyl transferase domain;PF02785|Biotin carboxylase C-terminal domain;PF02786|Carbamoyl-phosphate synthase L chain, ATP binding domain
+KAJ9625466	PF06884|Protein of unknown function (DUF1264)
+KAJ9625467	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+KAJ9625469	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAJ9625470	
+KAJ9625471	
+KAJ9625472	PF02731|SKIP/SNW domain
+KAJ9625473	PF13649|Methyltransferase domain
+KAJ9625474	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family;PF05572|Pregnancy-associated plasma protein-A
+KAJ9625475	PF03151|Triose-phosphate Transporter family
+KAJ9625476	PF00326|Prolyl oligopeptidase family
+KAJ9625477	PF00806|Pumilio-family RNA binding repeat
+KAJ9625478	PF17733|PEX14-like KPWE domain;PF25871|Helix-turn-helix domain
+KAJ9638629	PF01494|FAD binding domain
+KAJ9638630	PF02515|CoA-transferase family III
+KAJ9638631	PF07690|Major Facilitator Superfamily
+KAJ9638632	PF02627|Carboxymuconolactone decarboxylase family
+KAJ9638633	PF00753|Metallo-beta-lactamase superfamily
+KAJ9638634	PF04082|Fungal specific transcription factor domain
+KAJ9638635	PF03446|NAD binding domain of 6-phosphogluconate dehydrogenase;PF14833|NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase
+KAJ9638636	
+KAJ9638637	PF19047|HOOK domain
+KAJ9638638	
+KAJ9638640	PF04818|CID domain;PF11526|Pcf11, Clp1-interaction domain;PF21936|Pcf11, C-terminal domain
+KAJ9638641	PF00153|Mitochondrial carrier protein
+KAJ9638642	PF00561|alpha/beta hydrolase fold
+KAJ9638643	PF11654|Non-classical export protein 1
+KAJ9638644	PF00651|BTB/POZ domain
+KAJ9638645	PF06516|Purine nucleoside permease (NUP)
+KAJ9638646	PF00300|Histidine phosphatase superfamily (branch 1)
+KAJ9638647	PF05368|NmrA-like family
+KAJ9638648	PF00710|Asparaginase, N-terminal;PF12796|Ankyrin repeats (3 copies);PF17763|Glutaminase/Asparaginase C-terminal domain
+KAJ9638649	PF09362|Domain of unknown function (DUF1996)
+KAJ9645479	
+KAJ9645480	
+KAJ9645481	PF01172|Shwachman-Bodian-Diamond syndrome (SBDS) N-terminal domain;PF09377|SBDS protein, domain II;PF20268|SBDS protein, C-terminal domain
+KAJ9645482	PF00773|RNB domain;PF23214|Mitochondrial protein cyt-4 SH3 domain;PF23216|Mitochondrial protein cyt-4, winged helix
+KAJ9645483	
+KAJ9645484	PF01425|Amidase
+KAJ9645485	PF10336|Protein of unknown function (DUF2420)
+KAJ9645486	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+KAJ9645487	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+KAJ9645488	PF12937|F-box-like
+KAJ9645490	PF00638|RanBP1 domain
+KAJ9645491	PF00795|Carbon-nitrogen hydrolase;PF01198|Ribosomal protein L31e
+KAJ9645492	
+KAJ9645493	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF11951|Fungal specific transcription factor domain
+KAJ9645494	PF00324|Amino acid permease
+KAJ9645495	
+KAJ9645496	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAJ9645497	
+KAJ9645498	PF02668|Taurine catabolism dioxygenase TauD, TfdA family
+KAJ9645499	PF00083|Sugar (and other) transporter
+KAJ9653347	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAJ9653348	
+KAJ9653349	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAJ9653350	PF14622|Ribonuclease-III-like
+KAJ9653351	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAJ9653352	
+KAJ9653353	PF00743|Flavin-binding monooxygenase-like
+KAJ9653354	PF00956|Nucleosome assembly protein (NAP)
+KAJ9653355	PF09177|Syntaxin 6/10/61, N-terminal
+KAJ9653356	PF00107|Zinc-binding dehydrogenase;PF08240|Alcohol dehydrogenase GroES-like domain
+KAJ9658504	PF28440|Domain of unknown function (DUF8399);PF28442|Domain of unknown function (DUF8400)
+KAJ9658505	
+KAJ9658506	PF09365|Conserved hypothetical protein (DUF2461)
+KAJ9658507	PF13489|Methyltransferase domain
+KAJ9658508	PF02676|Methyltransferase TYW3
+KAJ9658509	PF12710|haloacid dehalogenase-like hydrolase
+KAJ9658510	PF01544|CorA-like Mg2+ transporter protein
+KAJ9658511	PF03972|MmgE/PrpD N-terminal domain;PF19305|MmgE/PrpD C-terminal domain
+KAJ9658512	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAJ9658513	
+KAJ9658515	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAJ9658516	PF00307|Calponin homology (CH) domain;PF08726|Ca2+ insensitive EF hand
+KAJ9658517	PF01501|Glycosyl transferase family 8
+KAJ9658518	
+KAJ9658519	
+KAJ9658520	
+KAJ9658521	PF13350|Tyrosine phosphatase family
+KAJ9658522	PF13350|Tyrosine phosphatase family
+KAK5052408	PF01417|ENTH domain
+KAK5052409	PF13489|Methyltransferase domain
+KAK5052410	PF00067|Cytochrome P450
+KAK5052411	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain
+KAK5052412	
+KAK5052413	
+KAK5052414	
+KAK5052415	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+KAK5052416	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+KAK5052417	PF12937|F-box-like
+KAK5052419	PF00638|RanBP1 domain;PF08911|NUP50 (Nucleoporin 50 kDa)
+KAK5052420	PF01198|Ribosomal protein L31e
+KAK5052421	PF00795|Carbon-nitrogen hydrolase
+KAK5052422	
+KAK5052423	PF05875|Ceramidase
+KAK5052424	PF10346|Conidiation protein 6
+KAK5052425	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK5052426	PF00324|Amino acid permease
+KAK5052427	PF02668|Taurine catabolism dioxygenase TauD, TfdA family
+KAK5052428	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain
+KAK5058609	PF17733|PEX14-like KPWE domain;PF25871|Helix-turn-helix domain
+KAK5058610	PF00806|Pumilio-family RNA binding repeat
+KAK5058611	PF00326|Prolyl oligopeptidase family
+KAK5058612	PF03151|Triose-phosphate Transporter family
+KAK5058613	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family;PF05572|Pregnancy-associated plasma protein-A
+KAK5058614	PF13649|Methyltransferase domain
+KAK5058615	PF02731|SKIP/SNW domain
+KAK5058616	
+KAK5058617	
+KAK5058618	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAK5058620	PF04055|Radical SAM superfamily
+KAK5058621	PF01042|Endoribonuclease L-PSP
+KAK5058622	
+KAK5058623	PF00109|Beta-ketoacyl synthase, N-terminal domain;PF00550|Phosphopantetheine attachment site;PF00698|Acyl transferase domain;PF00975|Thioesterase domain;PF02801|Beta-ketoacyl synthase, C-terminal domain;PF14765|Polyketide synthase dehydratase N-terminal domain;PF16073|Starter unit:ACP transacylase in aflatoxin biosynthesis;PF22621|CurL-like, PKS C-terminal
+KAK5058624	PF02466|Tim17/Tim22/Tim23/Pmp24 family
+KAK5058625	PF20408|Alpha/beta hydrolase domain
+KAK5058626	
+KAK5058627	
+KAK5058628	PF10306|Hypothetical protein FLILHELTA
+KAK5058629	PF00334|Nucleoside diphosphate kinase
+KAK5067178	PF01053|Cys/Met metabolism PLP-dependent enzyme
+KAK5067179	PF14622|Ribonuclease-III-like
+KAK5067180	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5067181	PF00328|Histidine phosphatase superfamily (branch 2)
+KAK5067182	
+KAK5067183	
+KAK5067184	PF11754|Velvet factor
+KAK5067185	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK5067186	PF06884|Protein of unknown function (DUF1264)
+KAK5067187	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+KAK5067189	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAK5067190	
+KAK5067191	
+KAK5067192	PF02731|SKIP/SNW domain
+KAK5067193	PF13649|Methyltransferase domain
+KAK5067194	
+KAK5067195	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family
+KAK5067196	PF03151|Triose-phosphate Transporter family
+KAK5067197	PF00326|Prolyl oligopeptidase family
+KAK5067198	PF00806|Pumilio-family RNA binding repeat
+KAK5088252	
+KAK5088253	
+KAK5088254	
+KAK5088255	PF13639|Ring finger domain
+KAK5088256	
+KAK5088257	PF04588|Hypoxia induced protein conserved region
+KAK5088258	PF01794|Ferric reductase like transmembrane component;PF08022|FAD-binding domain
+KAK5088259	PF04851|Type III restriction enzyme, res subunit;PF13625|Helicase conserved C-terminal domain;PF16203|ERCC3/RAD25/XPB C-terminal helicase
+KAK5088260	PF15932|Domain of unknown function (DUF4748)
+KAK5088261	PF04818|CID domain
+KAK5088263	
+KAK5088264	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAK5088265	PF14622|Ribonuclease-III-like
+KAK5088266	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5088267	
+KAK5088268	PF00743|Flavin-binding monooxygenase-like
+KAK5088269	
+KAK5088270	PF00702|haloacid dehalogenase-like hydrolase
+KAK5088271	
+KAK5088272	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+KAK5090854	PF01717|Cobalamin-independent synthase, Catalytic domain;PF08267|Cobalamin-independent synthase, N-terminal domain
+KAK5090855	PF10369|Small subunit of acetolactate synthase;PF22629|AHAS small subunit-like ACT domain
+KAK5090856	PF06687|SUR7/PalI family
+KAK5090857	PF28440|Domain of unknown function (DUF8399);PF28442|Domain of unknown function (DUF8400)
+KAK5090858	PF05856|ARP2/3 complex 20 kDa subunit (ARPC4)
+KAK5090859	PF00240|Ubiquitin family;PF00443|Ubiquitin carboxyl-terminal hydrolase
+KAK5090860	PF04758|Ribosomal protein S30
+KAK5090861	
+KAK5090862	PF12710|haloacid dehalogenase-like hydrolase
+KAK5090863	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAK5090865	
+KAK5090866	PF00289|Biotin carboxylase, N-terminal domain;PF00364|Biotin-requiring enzyme;PF02785|Biotin carboxylase C-terminal domain;PF02786|Carbamoyl-phosphate synthase L chain, ATP binding domain
+KAK5090867	
+KAK5090868	
+KAK5090869	
+KAK5090870	PF00106|short chain dehydrogenase;PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK5090871	PF00566|Rab-GTPase-TBC domain
+KAK5090872	PF00621|RhoGEF domain;PF00780|CNH domain;PF15405|Pleckstrin homology domain;PF23582|RGF3 winged helix domain
+KAK5090873	PF00579|tRNA synthetases class I (W and Y)
+KAK5090874	PF00561|alpha/beta hydrolase fold
+KAK5093161	
+KAK5093162	
+KAK5093163	PF28440|Domain of unknown function (DUF8399);PF28442|Domain of unknown function (DUF8400)
+KAK5093164	PF05856|ARP2/3 complex 20 kDa subunit (ARPC4)
+KAK5093165	PF00240|Ubiquitin family;PF00443|Ubiquitin carboxyl-terminal hydrolase
+KAK5093166	PF04758|Ribosomal protein S30
+KAK5093167	
+KAK5093168	PF12710|haloacid dehalogenase-like hydrolase
+KAK5093169	
+KAK5093170	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAK5096246	PF13813|Membrane bound O-acyl transferase family
+KAK5096247	PF01729|Quinolinate phosphoribosyl transferase, C-terminal domain;PF02749|Quinolinate phosphoribosyl transferase, N-terminal domain
+KAK5096248	PF07247|Alcohol acetyltransferase
+KAK5096249	PF07859|alpha/beta hydrolase fold
+KAK5096250	PF00067|Cytochrome P450
+KAK5096251	
+KAK5096252	PF01494|FAD binding domain
+KAK5096253	
+KAK5096254	
+KAK5096255	PF00920|Dihydroxy-acid/6-phosphogluconate dehydratase N-terminal;PF24877|Dihydroxy-acid/6-phosphogluconate dehydratase C-terminal
+KAK5096257	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAK5096258	
+KAK5096259	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAK5096260	PF14622|Ribonuclease-III-like
+KAK5096261	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5096262	
+KAK5096263	
+KAK5096264	PF00743|Flavin-binding monooxygenase-like
+KAK5096265	PF00956|Nucleosome assembly protein (NAP)
+KAK5096266	PF09177|Syntaxin 6/10/61, N-terminal
+KAK5529488	PF13489|Methyltransferase domain
+KAK5529489	PF00067|Cytochrome P450
+KAK5529490	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain
+KAK5529491	
+KAK5529492	
+KAK5529493	
+KAK5529494	PF10336|Protein of unknown function (DUF2420)
+KAK5529495	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+KAK5529496	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+KAK5529497	PF12937|F-box-like
+KAK5529499	PF00638|RanBP1 domain
+KAK5529500	PF01198|Ribosomal protein L31e
+KAK5529501	PF00795|Carbon-nitrogen hydrolase
+KAK5529502	
+KAK5529503	
+KAK5529504	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK5529505	PF02668|Taurine catabolism dioxygenase TauD, TfdA family
+KAK5529506	PF00083|Sugar (and other) transporter
+KAK5529507	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF04082|Fungal specific transcription factor domain;PF11374|Protein of unknown function (DUF3176)
+KAK5529508	PF06011|Transient receptor potential (TRP) ion channel;PF14558|ML-like domain
+KAK5532793	PF00324|Amino acid permease
+KAK5532794	PF17733|PEX14-like KPWE domain;PF25871|Helix-turn-helix domain
+KAK5532795	PF00806|Pumilio-family RNA binding repeat
+KAK5532796	PF00326|Prolyl oligopeptidase family
+KAK5532797	PF03151|Triose-phosphate Transporter family
+KAK5532798	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family
+KAK5532799	PF13847|Methyltransferase domain
+KAK5532800	PF02731|SKIP/SNW domain
+KAK5532801	
+KAK5532802	
+KAK5532804	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+KAK5532805	PF06884|Protein of unknown function (DUF1264)
+KAK5532806	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK5532807	PF11754|Velvet factor
+KAK5532808	
+KAK5532809	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+KAK5532810	PF00328|Histidine phosphatase superfamily (branch 2)
+KAK5532811	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5532812	PF14622|Ribonuclease-III-like
+KAK5532813	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAK5541269	PF08423|Rad51
+KAK5541270	PF01179|Copper amine oxidase, enzyme domain
+KAK5541271	PF08325|WLM domain
+KAK5541272	PF00300|Histidine phosphatase superfamily (branch 1);PF01591|6-phosphofructo-2-kinase
+KAK5541273	PF00999|Sodium/hydrogen exchanger, transmembrane
+KAK5541274	PF00075|RNase H;PF01693|Ribonuclease H1 N-terminal domain
+KAK5541275	PF11654|Non-classical export protein 1
+KAK5541276	PF00561|alpha/beta hydrolase fold
+KAK5541277	PF00153|Mitochondrial carrier protein
+KAK5541278	PF04818|CID domain;PF11526|Pcf11, Clp1-interaction domain;PF21936|Pcf11, C-terminal domain
+KAK5541280	
+KAK5541281	PF19047|HOOK domain
+KAK5541282	
+KAK5541283	PF03446|NAD binding domain of 6-phosphogluconate dehydrogenase;PF14833|NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase
+KAK5541284	PF00096|Zinc finger, C2H2 type;PF04082|Fungal specific transcription factor domain
+KAK5541285	PF00753|Metallo-beta-lactamase superfamily
+KAK5541286	PF02627|Carboxymuconolactone decarboxylase family
+KAK5541287	PF07690|Major Facilitator Superfamily
+KAK5541288	
+KAK5541289	
+KAK5937197	PF00067|Cytochrome P450
+KAK5937198	PF07859|alpha/beta hydrolase fold
+KAK5937199	PF00188|Cysteine-rich secretory protein family
+KAK5937200	PF01753|MYND finger
+KAK5937201	
+KAK5937202	PF07859|alpha/beta hydrolase fold
+KAK5937203	PF00933|Glycosyl hydrolase family 3 N terminal domain;PF01915|Glycosyl hydrolase family 3 C-terminal domain;PF14310|Fibronectin type III-like domain
+KAK5937204	
+KAK5937205	PF11807|Mycotoxin biosynthesis protein UstYa
+KAK5937206	PF00920|Dihydroxy-acid/6-phosphogluconate dehydratase N-terminal;PF24877|Dihydroxy-acid/6-phosphogluconate dehydratase C-terminal
+KAK5937208	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAK5937209	
+KAK5937210	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAK5937211	PF14622|Ribonuclease-III-like
+KAK5937212	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5937213	
+KAK5937214	PF00743|Flavin-binding monooxygenase-like
+KAK5937215	PF00956|Nucleosome assembly protein (NAP)
+KAK5937216	PF09177|Syntaxin 6/10/61, N-terminal
+KAK5937217	PF00076|RNA recognition motif;PF13446|A repeated domain in UCH-protein
+KAK5941944	
+KAK5941945	PF00587|tRNA synthetase class II core domain (G, H, P, S and T);PF02403|Seryl-tRNA synthetase N-terminal domain
+KAK5941946	PF01015|Ribosomal S3Ae family
+KAK5941947	PF00561|alpha/beta hydrolase fold
+KAK5941948	PF00579|tRNA synthetases class I (W and Y)
+KAK5941949	PF00621|RhoGEF domain;PF00780|CNH domain;PF23582|RGF3 winged helix domain
+KAK5941950	PF00566|Rab-GTPase-TBC domain
+KAK5941951	
+KAK5941952	
+KAK5941953	
+KAK5941955	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAK5941956	PF12710|haloacid dehalogenase-like hydrolase
+KAK5941957	PF28440|Domain of unknown function (DUF8399);PF28442|Domain of unknown function (DUF8400)
+KAK5941958	PF05856|ARP2/3 complex 20 kDa subunit (ARPC4)
+KAK5941959	PF00240|Ubiquitin family;PF00443|Ubiquitin carboxyl-terminal hydrolase
+KAK5941960	PF04758|Ribosomal protein S30
+KAK5941961	
+KAK5941962	PF06609|Fungal trichothecene efflux pump (TRI12)
+KAK5941963	PF00067|Cytochrome P450
+KAK5941964	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+KAK5950131	PF09177|Syntaxin 6/10/61, N-terminal
+KAK5950132	PF00956|Nucleosome assembly protein (NAP)
+KAK5950133	PF00743|Flavin-binding monooxygenase-like
+KAK5950134	
+KAK5950135	PF00890|FAD binding domain
+KAK5950136	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KAK5950137	PF14622|Ribonuclease-III-like
+KAK5950138	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KAK5950139	
+KAK5950140	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KAK5950142	PF00920|Dihydroxy-acid/6-phosphogluconate dehydratase N-terminal;PF24877|Dihydroxy-acid/6-phosphogluconate dehydratase C-terminal
+KAK5950143	
+KAK5950144	PF11807|Mycotoxin biosynthesis protein UstYa
+KAK5950145	
+KAK5950146	PF00933|Glycosyl hydrolase family 3 N terminal domain;PF01915|Glycosyl hydrolase family 3 C-terminal domain;PF14310|Fibronectin type III-like domain
+KAK5950147	PF07859|alpha/beta hydrolase fold
+KAK5950148	
+KAK5950149	PF01753|MYND finger
+KAK5950150	PF00188|Cysteine-rich secretory protein family
+KAK5950151	PF07859|alpha/beta hydrolase fold
+KAK5954565	
+KAK5954566	PF00587|tRNA synthetase class II core domain (G, H, P, S and T);PF02403|Seryl-tRNA synthetase N-terminal domain
+KAK5954567	PF01015|Ribosomal S3Ae family
+KAK5954568	PF00561|alpha/beta hydrolase fold
+KAK5954569	PF00579|tRNA synthetases class I (W and Y)
+KAK5954570	PF00621|RhoGEF domain;PF00780|CNH domain;PF23582|RGF3 winged helix domain
+KAK5954571	PF00566|Rab-GTPase-TBC domain
+KAK5954572	
+KAK5954573	
+KAK5954574	
+KAK5954576	PF00501|AMP-binding enzyme;PF13193|AMP-binding enzyme C-terminal domain
+KAK5954577	PF12710|haloacid dehalogenase-like hydrolase
+KAK5954578	PF28440|Domain of unknown function (DUF8399);PF28442|Domain of unknown function (DUF8400)
+KAK5954579	PF05856|ARP2/3 complex 20 kDa subunit (ARPC4)
+KAK5954580	PF00240|Ubiquitin family;PF00443|Ubiquitin carboxyl-terminal hydrolase
+KAK5954581	PF04758|Ribosomal protein S30
+KAK5954582	
+KAK5954583	PF06609|Fungal trichothecene efflux pump (TRI12)
+KAK5954584	PF00067|Cytochrome P450
+KAK5954585	
+KAL3783390	
+KAL3783391	PF01554|MatE
+KAL3783392	PF00134|Cyclin, N-terminal domain;PF02984|Cyclin, C-terminal domain
+KAL3783394	PF00071|Ras family;PF08356|EF hand associated
+KAL3783395	PF05686|Glycosyl transferase family 90
+KAL3783396	PF00134|Cyclin, N-terminal domain;PF02984|Cyclin, C-terminal domain
+KAL3783397	PF04452|RNA methyltransferase domain
+KAL3783398	PF08538|Protein of unknown function (DUF1749)
+KAL3783399	PF00071|Ras family;PF08356|EF hand associated
+KEF54653	
+KEF54654	
+KEF54655	PF20408|Alpha/beta hydrolase domain
+KEF54656	PF02466|Tim17/Tim22/Tim23/Pmp24 family
+KEF54657	PF00109|Beta-ketoacyl synthase, N-terminal domain;PF00550|Phosphopantetheine attachment site;PF00698|Acyl transferase domain;PF00975|Thioesterase domain;PF02801|Beta-ketoacyl synthase, C-terminal domain;PF14765|Polyketide synthase dehydratase N-terminal domain;PF16073|Starter unit:ACP transacylase in aflatoxin biosynthesis;PF22621|CurL-like, PKS C-terminal
+KEF54658	
+KEF54659	PF01042|Endoribonuclease L-PSP
+KEF54660	PF04055|Radical SAM superfamily
+KEF54661	PF00406|Adenylate kinase
+KEF54662	PF01928|CYTH domain
+KEF54664	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KEF54665	
+KEF54666	
+KEF54667	PF02731|SKIP/SNW domain
+KEF54668	PF13649|Methyltransferase domain
+KEF54669	PF05572|Pregnancy-associated plasma protein-A
+KEF54670	PF03381|LEM3 (ligand-effect modulator 3) family / CDC50 family
+KEF54671	PF03151|Triose-phosphate Transporter family
+KEF54672	PF00326|Prolyl oligopeptidase family
+KEF54673	PF00806|Pumilio-family RNA binding repeat
+KEF56261	PF13476|AAA domain;PF13558|SbcC/RAD50-like, Walker B motif
+KEF56262	PF00150|Cellulase (glycosyl hydrolase family 5)
+KEF56263	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+KEF56264	PF10336|Protein of unknown function (DUF2420)
+KEF56265	PF03239|Iron permease FTR1 family
+KEF56266	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+KEF56267	PF12937|F-box-like
+KEF56268	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+KEF56269	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+KEF56270	
+KEF56272	PF02826|D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+KEF56273	PF00072|Response regulator receiver domain;PF00512|His Kinase A (phospho-acceptor) domain;PF02518|Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+KEF56274	PF00067|Cytochrome P450
+KEF56275	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain;PF11951|Fungal specific transcription factor domain
+KEF56276	PF04479|RTA1 like protein
+KEF56277	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies)
+KEF56278	PF01284|Membrane-associating domain
+KEF56279	PF01409|tRNA synthetases class II core domain (F);PF18553|PheRS DNA binding domain 3
+KEF56280	PF01249|Ribosomal protein S21e
+KEF56281	
+KIX94121	PF06963|Ferroportin1 (FPN1)
+KIX94122	PF14622|Ribonuclease-III-like
+KIX94123	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+KIX94124	PF00328|Histidine phosphatase superfamily (branch 2)
+KIX94125	PF00172|Fungal Zn(2)-Cys(6) binuclear cluster domain
+KIX94126	
+KIX94127	PF11754|Velvet factor
+KIX94128	PF13561|Enoyl-(Acyl carrier protein) reductase
+KIX94129	PF06884|Protein of unknown function (DUF1264)
+KIX94130	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+KIX94132	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+KIX94133	
+KIX94134	
+KIX94135	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+KIX94136	PF00153|Mitochondrial carrier protein
+KIX94137	
+KIX94138	PF00083|Sugar (and other) transporter
+KIX94139	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+KIX94140	PF01151|GNS1/SUR4 family
+KIX94141	PF02284|Cytochrome c oxidase subunit Va
+KKY25711	PF00288|GHMP kinases N terminal domain;PF08544|GHMP kinases C terminal
+KKY25712	PF00586|AIR synthase related protein, N-terminal domain;PF01071|Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain;PF02769|AIR synthase related protein, C-terminal domain;PF02843|Phosphoribosylglycinamide synthetase, C domain
+KKY25713	PF24802|Domain of unknown function (DUF7703)
+KKY25714	PF08634|Mitochondrial protein Pet127
+KKY25715	PF00475|Imidazoleglycerol-phosphate dehydratase
+KKY25716	PF04488|Glycosyltransferase sugar-binding region containing DXD motif
+KKY25717	PF01095|Pectinesterase
+KKY25718	PF00731|AIR carboxylase;PF02222|ATP-grasp domain;PF17769|Phosphoribosylaminoimidazole carboxylase C-terminal domain;PF22660|Ribonucleotide synthetase preATP-grasp domain
+KKY25719	PF03690|Uncharacterised protein family (UPF0160)
+KKY25720	PF00106|short chain dehydrogenase
+KKY25722	PF04667|cAMP-regulated phosphoprotein/endosulfine conserved region
+KKY25723	PF04252|Protein arginine N-methyltransferase SFM1-like
+KKY25724	PF00450|Serine carboxypeptidase
+KKY25725	
+KKY25726	PF01613|Flavin reductase like domain
+KKY25727	PF00400|WD domain, G-beta repeat
+KKY25728	
+KKY25729	PF20684|Fungal rhodopsin domain
+KKY25730	PF07690|Major Facilitator Superfamily
+KKY25731	PF07690|Major Facilitator Superfamily
+KPI38693	PF13409|Glutathione S-transferase, N-terminal domain;PF22041|Glutathione S-transferase, C-terminal domain
+KPI38700	
+KPI38707	PF05502|Dynactin p62 family
+KPI38710	
+KPI38720	PF24320|Domain of unknown function (DUF7492)
+KPI38729	PF00389|D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain;PF02826|D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+KPI38742	PF04699|ARP2/3 complex 16 kDa subunit (p16-Arc)
+KPI38764	PF13621|Cupin-like domain
+KPI38775	PF00137|ATP synthase subunit C
+KPI38800	
+KPI38808	PF08547|Complex I intermediate-associated protein 30 (CIA30)
+KPI38815	
+KPI38821	PF00005|ABC transporter;PF06472|ABC transporter transmembrane region 2
+KPI38830	
+KPI38844	PF00743|Flavin-binding monooxygenase-like;PF13450|NAD(P)-binding Rossmann-like domain
+KPI38856	PF00107|Zinc-binding dehydrogenase;PF08240|Alcohol dehydrogenase GroES-like domain
+KPI38880	PF08240|Alcohol dehydrogenase GroES-like domain
+KPI38890	PF01251|Ribosomal protein S7e
+KPI38904	PF05368|NmrA-like family
+KPI38911	PF13489|Methyltransferase domain
+KPI43162	PF00735|Septin;PF20571|Domain of unknown function (DUF6780)
+KPI43165	
+KPI43185	
+KPI43221	
+KPI43223	PF06985|Heterokaryon incompatibility protein (HET)
+KPI43297	
+KPI43298	
+KPI43311	
+KPI43356	PF00406|Adenylate kinase;PF05191|Adenylate kinase, active site lid
+KPI43380	
+KPI43408	
+KPI43414	PF22892|MRPL44 dsRNA-binding domain
+KPI43424	
+KPI43427	PF01822|WSC domain
+KPI43487	
+KPI43490	PF00076|RNA recognition motif;PF02136|Nuclear transport factor 2 (NTF2) domain
+KPI43491	
+KPI43496	PF08445|FR47-like protein;PF28379|Acyl-CoA N-acyltransferase verG N-terminal domain
+KPI43555	PF04104|Eukaryotic and archaeal DNA primase, large subunit C-terminal domain;PF26466|Eukaryotic and archaeal DNA primase, large subunit N-terminal domain
+KPI43649	
+OAG34671	PF10336|Protein of unknown function (DUF2420)
+OAG34672	PF03239|Iron permease FTR1 family
+OAG34673	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+OAG34674	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+OAG34675	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+OAG34676	PF04117|Mpv17 / PMP22 family
+OAG34677	
+OAG34678	PF12937|F-box-like
+OAG34680	PF00638|RanBP1 domain;PF08911|NUP50 (Nucleoporin 50 kDa)
+OAG34681	PF01198|Ribosomal protein L31e
+OAG34682	PF00795|Carbon-nitrogen hydrolase
+OAG34683	
+OAG34684	
+OAG34685	PF13489|Methyltransferase domain
+OAG34686	PF00083|Sugar (and other) transporter
+OAG34687	PF02668|Taurine catabolism dioxygenase TauD, TfdA family
+OAG34688	PF00176|SNF2-related domain;PF00271|Helicase conserved C-terminal domain;PF14773|Helicase-associated putative binding domain, C-terminal;PF25806|ERCC6L2-like, ribbon-helix-helix domain
+OAG34689	
+OAG42803	PF02284|Cytochrome c oxidase subunit Va
+OAG42804	PF01151|GNS1/SUR4 family
+OAG42805	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+OAG42806	PF00083|Sugar (and other) transporter
+OAG42807	
+OAG42808	PF00153|Mitochondrial carrier protein
+OAG42809	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+OAG42810	
+OAG42811	
+OAG42812	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+OAG42814	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+OAG42815	PF06884|Protein of unknown function (DUF1264)
+OAG42816	PF00106|short chain dehydrogenase
+OAG42817	
+OAG42818	PF11754|Velvet factor
+OAL39813	
+OAL39814	PF00176|SNF2-related domain;PF00271|Helicase conserved C-terminal domain;PF14773|Helicase-associated putative binding domain, C-terminal;PF25806|ERCC6L2-like, ribbon-helix-helix domain
+OAL39815	PF02668|Taurine catabolism dioxygenase TauD, TfdA family
+OAL39816	PF00083|Sugar (and other) transporter
+OAL39817	PF13489|Methyltransferase domain
+OAL39818	
+OAL39819	
+OAL39820	PF00795|Carbon-nitrogen hydrolase
+OAL39821	PF01198|Ribosomal protein L31e
+OAL39822	PF00638|RanBP1 domain;PF08911|NUP50 (Nucleoporin 50 kDa)
+OAL39824	PF12937|F-box-like
+OAL39825	
+OAL39826	PF04117|Mpv17 / PMP22 family
+OAL39827	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+OAL39828	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+OAL39829	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+OAL39830	PF03239|Iron permease FTR1 family
+OAL39831	PF10336|Protein of unknown function (DUF2420)
+OAL39832	
+OAL39833	
+OAP56201	
+OAP56202	PF10336|Protein of unknown function (DUF2420)
+OAP56203	PF03239|Iron permease FTR1 family
+OAP56204	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+OAP56205	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+OAP56206	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+OAP56207	PF01988|VIT family
+OAP56208	PF04117|Mpv17 / PMP22 family
+OAP56209	
+OAP56210	PF12937|F-box-like
+OAP56212	PF00638|RanBP1 domain;PF08911|NUP50 (Nucleoporin 50 kDa)
+OAP56213	PF01198|Ribosomal protein L31e
+OAP56214	PF00795|Carbon-nitrogen hydrolase
+OAP56215	
+OAP56216	
+OAP56217	PF13508|Acetyltransferase (GNAT) domain
+OAP56218	PF20684|Fungal rhodopsin domain
+OAP56219	PF13520|Amino acid permease
+OAP56220	PF13489|Methyltransferase domain
+OAP56221	PF00083|Sugar (and other) transporter
+OAP65707	PF01151|GNS1/SUR4 family
+OAP65708	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+OAP65709	PF00083|Sugar (and other) transporter
+OAP65710	
+OAP65711	PF00153|Mitochondrial carrier protein
+OAP65712	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+OAP65713	
+OAP65714	
+OAP65715	
+OAP65716	
+OAP65718	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+OAP65719	PF06884|Protein of unknown function (DUF1264)
+OAP65720	PF13561|Enoyl-(Acyl carrier protein) reductase
+OAP65721	PF11754|Velvet factor
+OAP65722	
+OAP65723	
+OAP65724	PF00328|Histidine phosphatase superfamily (branch 2)
+OAP65725	PF00890|FAD binding domain;PF02910|Fumarate reductase flavoprotein C-term
+OAP65726	
+OAP65727	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+OCT50136	PF00394|Multicopper oxidase;PF07731|Multicopper oxidase;PF07732|Multicopper oxidase
+OCT50137	PF01773|Na+ dependent nucleoside transporter N-terminus;PF07662|Na+ dependent nucleoside transporter C-terminus;PF07670|Nucleoside recognition
+OCT50138	PF02582|RMND1/Sif2-Sif3/Mrx10, DUF155
+OCT50139	PF00083|Sugar (and other) transporter
+OCT50140	PF00083|Sugar (and other) transporter
+OCT50141	
+OCT50142	
+OCT50143	PF00069|Protein kinase domain;PF06985|Heterokaryon incompatibility protein (HET);PF07714|Protein tyrosine and serine/threonine kinase
+OCT50144	PF04117|Mpv17 / PMP22 family
+OCT50145	PF12937|F-box-like
+OCT50147	PF00638|RanBP1 domain
+OCT50148	
+OCT50149	PF01198|Ribosomal protein L31e
+OCT50150	PF00795|Carbon-nitrogen hydrolase
+OCT50151	
+OCT50152	
+OCT50153	
+OCT50154	PF00928|Adaptor complexes medium subunit family;PF01217|Clathrin adaptor complex small chain
+OCT50155	PF00150|Cellulase (glycosyl hydrolase family 5)
+OCT50156	PF02463|RecF/RecN/SMC N terminal domain;PF13476|AAA domain
+OCT52445	PF04479|RTA1 like protein
+OCT52446	
+OCT52447	
+OCT52448	
+OCT52449	PF08510|PIG-P
+OCT52450	
+OCT52451	PF13561|Enoyl-(Acyl carrier protein) reductase
+OCT52452	PF06884|Protein of unknown function (DUF1264)
+OCT52453	PF06884|Protein of unknown function (DUF1264)
+OCT52454	PF01253|Translation initiation factor SUI1;PF25304|eIF2D winged helix domain;PF26292|elF2D, PUA domain
+OCT52456	PF15508|beta subunit of N-acylethanolamine-hydrolyzing acid amidase
+OCT52457	
+OCT52458	
+OCT52459	PF00557|Metallopeptidase family M24;PF08512|Histone chaperone Rttp106-like, middle domain;PF08644|FACT complex subunit (SPT16/CDC68);PF14826|FACT complex subunit SPT16 N-terminal lobe domain;PF21091|FACT complex subunit SPT16, C-terminal domain;PF24824|FACT complex subunit SPT16 PH-like domain
+OCT52460	PF00153|Mitochondrial carrier protein
+OCT52461	
+OCT52462	PF00083|Sugar (and other) transporter
+OCT52463	PF02769|AIR synthase related protein, C-terminal domain;PF13507|CobB/CobQ-like glutamine amidotransferase domain;PF18072|Formylglycinamide ribonucleotide amidotransferase linker domain;PF18076|Formylglycinamide ribonucleotide amidotransferase N-terminal;PF22689|FGAR-AT PurM_N-like domain
+OCT52464	PF01151|GNS1/SUR4 family
+OCT52465	PF02284|Cytochrome c oxidase subunit Va

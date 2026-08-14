@@ -1,0 +1,54 @@
+product	n_queries	freq_all	freq_with_data	total
+atp-dependent dna ligase	7	0.875	1.000	10
+protoporphyrinogen oxidase	5	0.625	0.714	5
+glutamate decarboxylase	4	0.500	0.571	4
+peptide-methionine (r)-s-oxide reductase msrb	4	0.500	0.571	4
+class ii glutamine amidotransferase	4	0.500	0.571	4
+glycogen debranching protein glgx	4	0.500	0.571	4
+pyrimidine reductase family protein	4	0.500	0.571	4
+isovaleryl-coa dehydrogenase	4	0.500	0.571	4
+peptide-methionine (r)-s-oxide reductase	3	0.375	0.429	3
+azld domain-containing protein	3	0.375	0.429	3
+sige family rna polymerase sigma factor	3	0.375	0.429	3
+duf1707 domain-containing protein	3	0.375	0.429	3
+ankyrin repeat domain-containing protein	3	0.375	0.429	3
+osmc family protein	3	0.375	0.429	3
+non-homologous end-joining dna ligase	3	0.375	0.429	3
+peroxiredoxin	2	0.250	0.286	2
+acyl-coa dehydrogenase	2	0.250	0.286	2
+glycogen operon protein glgx homolog	2	0.250	0.286	2
+chlorite dismutase family protein	2	0.250	0.286	2
+azlc family abc transporter permease	2	0.250	0.286	2
+putative acyl-coa dehydrogenase	1	0.125	0.143	1
+glutamine amidotransferase	1	0.125	0.143	1
+chlorite dismutase	1	0.125	0.143	1
+pyrimidine reductase, riboflavin biosynthesis	1	0.125	0.143	1
+ankyrin repeat-containing protein	1	0.125	0.143	1
+nad(p)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	1	0.125	0.143	1
+dna ligase d	1	0.125	0.143	1
+predicted branched-chain amino acid permease (azaleucine resistance)	1	0.125	0.143	1
+rna polymerase sigma-70 factor, sigma-e family	1	0.125	0.143	1
+oxygen-dependent protoporphyrinogen oxidase	1	0.125	0.143	1
+branched-chain amino acid transport protein (azld)	1	0.125	0.143	1
+tigr03083 family protein	1	0.125	0.143	1
+cell wall-active antibiotics response 4tms yvqf	1	0.125	0.143	1
+glycogen operon protein	1	0.125	0.143	1
+osmotically inducible protein osmc	1	0.125	0.143	1
+rok family protein	1	0.125	0.143	1
+osmc family peroxiredoxin	1	0.125	0.143	1
+branched-chain amino acid abc transporter permease	1	0.125	0.143	1
+ankryin	1	0.125	0.143	1
+alkaline phosphatase family protein	1	0.125	0.143	1
+rna polymerase sigma-e factor	1	0.125	0.143	1
+short-chain dehydrogenase	1	0.125	0.143	1
+branched-chain amino acid transporter azld	1	0.125	0.143	1
+dna-binding response regulator	1	0.125	0.143	1
+duf1707 and duf2154 domain-containing protein	1	0.125	0.143	1
+duf664 domain-containing protein	1	0.125	0.143	1
+rok family transcriptional regulator	1	0.125	0.143	1
+sensor histidine kinase	1	0.125	0.143	1
+response regulator transcription factor	1	0.125	0.143	1
+hydrogen peroxide-dependent heme synthase	1	0.125	0.143	1
+sam-dependent methyltransferase	1	0.125	0.143	1
+duf2267 domain-containing protein	1	0.125	0.143	1
+gfo/idh/moca family oxidoreductase	1	0.125	0.143	1

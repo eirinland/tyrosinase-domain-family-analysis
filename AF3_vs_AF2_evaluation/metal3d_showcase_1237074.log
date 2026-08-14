@@ -1,0 +1,35 @@
+Starting job 1237074 on gpu-1-81 on Olivia at Thu Jun 11 09:19:32 CEST 2026
+
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Processing 1_AF2_A0A0B7AML2...
+  Done: ['1_AF2_A0A0B7AML2_out.cube', '1_AF2_A0A0B7AML2_metals.pdb']
+Processing 2_AF2_A0A166Y7S8...
+  Done: ['2_AF2_A0A166Y7S8_metals.pdb', '2_AF2_A0A166Y7S8_out.cube']
+Processing 3_AF2_A0A2N5VYD7...
+  Done: ['3_AF2_A0A2N5VYD7_out.cube', '3_AF2_A0A2N5VYD7_metals.pdb']
+
+All done.
+
+Job 1237074 consumed 0.0 billing hours and 0.6 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T09:19:31; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 2.0 hours
+Elapsed wallclock time:   36.0 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start   Elapsed  Exit status
+1237074           1            0.0 %  2026-06-11T09:19:32  2163.0 s  0
+1237074.batch     1      1    91.1 %  2026-06-11T09:19:32  2163.0 s  0
+
+Used CPU time:   32.8 CPU minutes
+Unused CPU time: 3.2 CPU minutes
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1237074         120.0        
+1237074.batch   120.0    49.6
+
+Job 1237074 completed at Thu Jun 11 09:55:35 CEST 2026

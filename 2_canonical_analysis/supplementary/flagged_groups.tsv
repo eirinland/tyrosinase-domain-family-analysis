@@ -1,0 +1,22 @@
+position	residue	tier	n	basis
+Trp68	Y	high	326	conserved position, placed, coherent (HD4)
+His230	Y	high	206	conserved position, placed, coherent (HD4)
+His230	F	high	175	conserved position, placed, coherent (HD5)
+His230	V	high	92	conserved position, placed, coherent (HD4)
+Phe227	W	high	84	conserved position, placed, coherent (HD1)
+Phe65	T	high	65	conserved position, placed, coherent (HD0)
+Trp68	Q	high	51	conserved position, placed, coherent (HD4)
+His230	W	high	46	conserved position, placed, coherent (HD4)
+Phe65	M	high	40	conserved position, placed, coherent (HD3)
+Glu195	D	intermediate	534	displaced but Cu-confirmed pocket (6.7 A) [structural value-add]
+Glu195	N	intermediate	145	displaced but Cu-confirmed pocket (6.8 A) [structural value-add]
+Asn205	R	intermediate	143	charge introduced at the Asn205 controller (never charged in characterised)
+Glu195	R	intermediate	136	positive charge at the Glu195 catalytic residue (charge reversal; never in characterised)
+Asn205	K	intermediate	111	charge introduced at the Asn205 controller (never charged in characterised)
+Glu195	H	intermediate	54	positive charge at the Glu195 catalytic residue (charge reversal; never in characterised)
+Asn205	E	intermediate	42	charge introduced at the Asn205 controller (never charged in characterised)
+Glu195	K	intermediate	28	positive charge at the Glu195 catalytic residue (charge reversal; never in characterised)
+Gly46	E	variable	246	displaced but Cu-confirmed pocket (7.4 A) [structural value-add]
+Val218	H	variable	99	displaced but Cu-confirmed pocket (8.9 A) [structural value-add]
+Gly46	Y	variable	68	displaced but Cu-confirmed pocket (8.6 A) [structural value-add]
+Gly46	H	variable	54	displaced but Cu-confirmed pocket (7.8 A) [structural value-add]

@@ -1,0 +1,1061 @@
+accession	classification	n_coord_his	af3_cu1_assignment	af3_cu1_dist_canonical	af3_cu1_plddt	af3_cu2_assignment	af3_cu2_dist_canonical	af3_cu2_plddt	af3_cu_cu_dist	m3d_n_cu_sites	m3d_n_total_sites	m3d_cu1_closest_cu_dist	m3d_cu1_closest_cu_prob	m3d_cu1_closest_any_dist	m3d_cu1_closest_any_element	m3d_cu2_closest_cu_dist	m3d_cu2_closest_cu_prob	m3d_cu2_closest_any_dist	m3d_cu2_closest_any_element	m3d_CuA_cu_dist	m3d_CuA_cu_prob	m3d_CuA_any_dist	m3d_CuA_any_element	m3d_CuB_cu_dist	m3d_CuB_cu_prob	m3d_CuB_any_dist	m3d_CuB_any_element
+A0A010RV53	mononuclear	5	CuA	0.44	97.3	CuB	0.55	95.0	3.84	3	32	0.77	0.950	0.77	CU	0.97	0.880	0.97	CU								
+A0A014N831	mononuclear	5	CuA	0.37	96.3	CuB	0.53	94.6	3.74	3	26	0.30	0.990	0.30	CU	1.07	0.950	1.07	CU								
+A0A016W215	no_cu	3	CuA	0.78	90.6	neither		57.5	27.72	0	18			0.29	X			4.63	X								
+A0A016W324	no_cu	3	CuA	0.87	93.5	neither		64.6	17.28	0	30			5.61	X			1.01	X								
+A0A023GU59	mononuclear	5	CuB	0.47	96.0	CuA	0.57	85.2	3.74	2	35	0.42	0.970	0.42	CU	0.77	0.570	0.77	CU								
+A0A024UGQ1	mononuclear	4	CuB	0.33	95.9	neither		61.6	24.93	1	29	0.37	0.770	0.37	CU	24.80	0.770	10.09	X	4.14	0.920	4.14	CU	1.28	0.900	1.28	CU
+A0A061GFI2	mononuclear	3	CuA	1.37	59.6	neither		34.5	5.36	0	37			0.96	X			3.99	X			2.44	X			2.58	X
+A0A066RUA7	mononuclear	5	CuB	0.38	92.7	CuA	0.95	85.2	4.18	2	27	0.30	0.990	0.30	CU	0.65	0.440	0.65	CU								
+A0A066X3Q1	mononuclear	5	CuA	0.39	94.5	CuB	0.21	86.2	3.98	3	22	0.36	0.940	0.36	CU	0.59	0.710	0.59	CU								
+A0A066XSE1	mononuclear	5	CuA	0.57	96.2	CuB	0.53	94.8	3.92	2	24	1.16	0.560	1.16	CU	3.56	0.150	3.56	CU								
+A0A067CT24	mononuclear	3	CuB	0.45	97.8	neither		58.8	24.39	2	22	0.74	0.790	0.74	CU	24.04	0.820	11.28	X	3.94	0.860	3.94	CU	0.88	0.860	0.88	CU
+A0A067CZT6	mononuclear	5	CuA	0.16	96.9	CuB	0.47	86.7	4.41	4	32	0.90	0.960	0.90	CU	1.27	0.500	1.27	CU								
+A0A072Q6Y5	mononuclear	5	CuA	0.63	96.7	CuB	0.52	94.6	4.02	2	18	0.24	0.960	0.24	CU	0.76	0.770	0.76	CU								
+A0A074RWE6	no_cu	3	CuA	0.58	94.3	CuB	0.50	77.8	4.18	1	26	1.42	0.540	1.42	CU	3.05	0.540	0.73	X								
+A0A074S9M8	mononuclear	5	CuB	0.30	94.9	CuA	0.39	90.0	3.84	3	20	0.53	0.880	0.53	CU	0.64	0.690	0.64	CU								
+A0A074SDG0	no_cu	3	CuA	2.24	85.4	neither		64.1	4.38	1	22	1.50	0.380	1.50	CU	3.49	0.380	3.49	CU								
+A0A074VI76	no_cu	2	neither		74.3	neither		76.3	16.57	0	19			1.45	X			4.04	X								
+A0A074W682	mononuclear	5	CuA	0.53	97.6	CuB	0.74	95.6	4.48	4	23	0.47	0.950	0.47	CU	0.88	0.850	0.88	CU								
+A0A074W6F3	no_cu	2	neither		86.9	neither		77.2	16.77	0	23			4.32	X			15.83	X								
+A0A074XND5	no_cu	1	neither		86.6	neither		60.5	24.39	0	22			11.55	X			1.27	X								
+A0A074YQS1	no_cu	2	neither		83.6	neither		78.3	29.61	0	20			2.25	X			7.39	X								
+A0A075AEH4	mononuclear	5	CuA	0.18	93.6	CuB	0.44	88.5	4.17	1	20	0.62	0.970	0.62	CU	4.48	0.970	4.48	CU								
+A0A077YX65	mononuclear	3	CuA	0.72	95.7	neither		70.0	25.14	2	23	0.56	0.760	0.56	CU	25.05	0.760	0.66	X	0.65	0.920	0.65	CU	3.64	0.920	3.64	CU
+A0A077ZFE0	no_cu	1	neither		47.5	neither		48.7	36.57	0	36			5.98	X			16.16	X								
+A0A077ZGT3	no_cu	2	CuA	1.21	65.4	neither		40.8	40.79	1	39	1.34	0.520	1.34	CU	39.65	0.520	12.62	X								
+A0A080ZC48	no_cu	0	neither		65.1	neither		57.2	30.6	0	27			5.88	X			9.91	X								
+A0A080ZC49	no_cu	0	neither		66.1	neither		59.3	31.55	0	29			1.40	X			1.57	X								
+A0A080ZVP9	mononuclear	4	CuB	0.41	97.6	neither		73.7	21.66	2	25	0.42	0.950	0.42	CU	21.61	0.950	9.37	X	3.70	0.890	3.70	CU	1.10	0.960	1.10	CU
+A0A084AJL7	mononuclear	5	CuA	0.56	92.6	CuB	0.62	88.8	3.71	3	26	1.26	0.890	1.26	CU	1.31	0.850	1.31	CU								
+A0A084GDW0	no_cu	2	neither		79.5	neither		57.7	38.07	0	29			0.90	X			5.23	X								
+A0A084R1I5	mononuclear	5	CuA	0.36	95.2	CuB	0.48	90.2	3.71	2	33	0.30	0.940	0.30	CU	1.19	0.940	1.19	CU								
+A0A085M8H3	no_cu	3	CuA	0.98	65.2	neither		40.2	40.98	2	44	1.56	0.330	1.56	CU	39.37	0.380	12.40	X								
+A0A085NCJ6	no_cu	0	neither		51.8	neither		39.2	19.31	0	26			16.55	X			10.04	X								
+A0A086T0Z5	no_cu	4	CuA	1.20	86.2	CuB	0.48	73.9	5.29	4	34	0.55	0.970	0.55	CU	0.41	0.200	0.41	CU								
+A0A087UWG8	no_cu	2	CuB	0.89	81.7	neither		66.4	15.74	1	26	0.69	0.670	0.69	CU	15.11	0.670	1.64	X								
+A0A091EJM4	mononuclear	5	CuA	0.28	96.7	CuB	0.54	92.1	3.34	1	21	0.87	0.990	0.87	CU	2.61	0.990	2.61	CU								
+A0A091IY37	mononuclear	4	CuA	0.27	84.4	CuB	2.32	51.0	3.67	1	37	0.98	0.630	0.98	CU	3.66	0.630	3.58	ZN								
+A0A091L9M2	mononuclear	4	CuA	0.45	94.5	CuB	0.26	66.7	3.59	2	27	0.61	0.880	0.61	CU	1.55	0.890	1.55	CU								
+A0A091M3M6	mononuclear	4	CuA	0.41	83.8	neither		27.9	30.85	1	27	1.01	0.770	1.01	CU	30.13	0.770	18.71	X								
+A0A091Q771	mononuclear	4	CuA	0.43	93.5	CuB	0.14	54.1	3.59	2	36	1.45	0.730	1.45	CU	2.44	0.380	2.44	CU								
+A0A091TFJ5	mononuclear	4	CuA	0.51	88.3	CuB	0.39	66.3	3.9	2	24	0.17	0.890	0.17	CU	2.77	0.850	2.77	CU								
+A0A091TMG5	binuclear	5	CuA	0.39	91.5	CuB	0.51	85.4	4.36	2	23	0.51	0.930	0.51	CU	1.32	0.890	1.32	CU								
+A0A093CQX0	mononuclear	5	CuA	0.39	84.7	CuB	0.20	80.7	3.7	3	24	0.71	0.970	0.71	CU	0.96	0.740	0.96	CU								
+A0A093H736	mononuclear	5	CuA	0.39	97.1	CuB	0.76	94.1	3.19	1	33	0.98	1.000	0.98	CU	2.23	1.000	2.23	CU								
+A0A093JA04	mononuclear	4	CuA	0.52	92.4	CuB	0.56	62.9	4.02	2	28	0.44	0.980	0.44	CU	2.08	0.980	2.08	CU								
+A0A093R256	mononuclear	5	CuA	0.42	89.5	CuB	0.51	76.9	3.49	1	20	0.58	0.930	0.58	CU	3.00	0.930	3.00	CU								
+A0A099ZQM2	mononuclear	5	CuA	0.47	97.5	CuB	0.60	95.8	3.38	2	29	1.01	0.770	1.01	CU	0.41	0.450	0.41	CU								
+A0A0A2X4S5	mononuclear	5	CuB	0.23	96.2	CuA	0.74	86.1	4.34	3	34	0.30	0.950	0.30	CU	0.71	0.860	0.71	CU								
+A0A0A7CM13	mononuclear	4	CuA	0.78	94.8	CuB	0.38	79.6	4.02	0	29			13.77	X			13.16	X								
+A0A0A7CM93	mononuclear	3	CuB	0.45	97.1	neither		78.1	25.41	1	23	0.35	0.960	0.35	CU	25.31	0.960	6.98	X	4.72	0.960	4.72	CU	1.08	0.960	1.08	CU
+A0A0A7CMA7	mononuclear	5	CuA	0.11	96.2	CuB	0.40	82.7	4.27	3	34	0.78	0.830	0.78	CU	0.82	0.430	0.82	CU								
+A0A0A7CN79	mononuclear	5	CuA	0.11	97.1	CuB	0.44	88.2	4.21	2	26	0.70	0.990	0.70	CU	0.70	0.590	0.70	CU								
+A0A0A7CP65	no_cu	2	neither		42.2	neither		30.3	27.97	0	40											7.78	X			7.12	X
+A0A0B2X1U6	mononuclear	5	CuB	0.25	88.9	CuA	0.45	72.7	3.82	2	31	0.51	0.930	0.51	CU	3.62	0.930	3.62	CU								
+A0A0B7FL26	no_cu	3	CuA	0.84	94.1	CuB	0.61	81.8	4.06	2	21	2.01	0.450	2.01	CU	1.72	0.550	1.72	CU								
+A0A0C2HHH6	no_cu	3	CuA	0.99	91.5	neither		60.0	17.29	3	20	0.96	0.430	0.96	CU	16.41	0.430	9.63	X								
+A0A0C2WPB2	binuclear	4	CuB	0.14	91.3	CuA	1.08	68.1	5.06	3	27	0.61	0.970	0.61	CU	3.38	0.710	0.86	ZN								
+A0A0C2XCT6	mononuclear	5	CuB	2.42	84.9	CuA	3.99	55.2	4.45	2	55	0.24	0.980	0.24	CU	1.73	0.890	1.73	CU								
+A0A0C3B6I5	binuclear	5	CuB	0.33	92.7	CuA	0.93	84.0	3.94	3	62	0.48	0.950	0.48	CU	0.45	0.990	0.45	CU								
+A0A0C9SL04	mononuclear	5	CuA	0.59	95.2	CuB	0.63	85.9	4.94	2	20	0.45	0.970	0.45	CU	1.34	0.820	1.34	CU								
+A0A0C9SRH3	mononuclear	5	CuA	1.01	94.0	CuB	0.54	85.4	5.33	4	24	1.01	0.980	1.01	CU	1.75	0.450	1.75	CU								
+A0A0D2FU82	binuclear	5	CuB	0.14	89.9	CuA	0.91	79.7	4.12	2	44	0.45	0.820	0.45	CU	0.21	0.510	0.21	CU								
+A0A0D2M1N4	mononuclear	3	CuA	0.81	95.0	neither		72.4	26.23	0	22			0.47	X			8.70	X			1.72	X			0.71	X
+A0A0D3HYU6	mononuclear	4	CuB	0.41	80.3	CuA	0.92	33.7	4.23	1	43	0.75	0.860	0.75	CU	3.98	0.860	1.02	X								
+A0A0D6LZL4	binuclear	5	CuB	0.71	96.2	CuA	0.63	88.4	4.17	2	22	0.95	0.170	0.95	CU	1.00	0.900	1.00	CU								
+A0A0D6M6M4	mononuclear	4	CuA	0.23	96.6	neither		55.5	24.55	1	23	0.60	0.990	0.60	CU	24.53	0.990	7.08	X	0.49	0.950	0.49	CU	2.93	0.910	2.93	CU
+A0A0D9NQW1	mononuclear	5	CuA	0.39	96.1	CuB	0.55	93.0	3.79	3	16	0.55	0.900	0.55	CU	1.14	0.760	1.14	CU								
+A0A0F4GBJ7	mononuclear	5	CuA	0.19	89.8	CuB	0.40	89.5	4.03	3	39	2.04	0.490	2.04	CU	0.89	0.510	0.89	CU								
+A0A0F5VAR5	mononuclear	5	CuB	0.27	93.4	CuA	0.79	85.4	4.19	3	16	0.46	0.970	0.46	CU	0.21	0.680	0.21	CU								
+A0A0F8A4E9	binuclear	5	CuB	0.06	97.2	CuA	0.94	93.3	4.36	3	19	0.21	0.960	0.21	CU	0.63	0.960	0.63	CU								
+A0A0G2GB29	mononuclear	4	CuB	1.18	90.3	CuA	3.54	40.6	5.17	1	44	0.45	0.640	0.45	CU	5.37	0.640	5.37	CU								
+A0A0G4IUF0	no_cu	1	CuA	1.13	71.3	neither		78.2	23.6	0	27			1.16	X			1.54	X								
+A0A0G4N7R0	binuclear	5	CuB	1.20	91.9	CuA	0.74	87.5	3.79	2	38	2.62	0.630	2.62	CU	0.66	0.950	0.66	CU								
+A0A0K6G359	mononuclear	3	CuA	0.89	93.5	neither		70.3	13.89	1	19	0.70	0.860	0.70	CU	14.43	0.860	12.47	X	2.05	0.470	2.05	CU	3.55	0.470	3.55	CU
+A0A0K6G3H3	mononuclear	3	CuA	0.97	93.8	neither		73.6	13.4	2	18	0.54	0.440	0.54	CU	13.89	0.440	1.09	X	2.13	0.500	2.13	CU	3.45	0.500	3.45	CU
+A0A0K6GCM0	binuclear	3	CuB	0.32	93.4	neither		67.5	11.39	4	47	1.27	0.850	1.27	CU	8.62	0.910	1.88	ZN								
+A0A0L0NB41	mononuclear	5	CuA	0.34	96.4	CuB	0.21	93.5	3.86	2	13	0.38	0.960	0.38	CU	1.12	0.850	1.12	CU								
+A0A0L0VSP3	binuclear	5	CuA	0.41	83.6	CuB	0.73	62.1	3.81	3	13	0.88	0.990	0.88	CU	2.98	0.980	2.98	CU								
+A0A0L0VSW2	binuclear	5	CuA	0.59	90.5	CuB	0.59	79.0	3.87	4	19	0.49	0.950	0.49	CU	0.36	0.860	0.36	CU								
+A0A0L6VTF1	binuclear	5	CuA	0.63	87.4	CuB	1.47	65.8	4.6	2	29	0.48	0.920	0.48	CU	2.90	0.920	2.90	CU								
+A0A0L8FGF3	no_cu	2	neither		42.9	neither		23.4	25.54	0	42											3.63	X			3.38	X
+A0A0L8ICD6	mononuclear	3	CuB	1.89	42.9	neither		23.3	29.74	0	53			0.90	X			14.57	X			2.42	X			1.96	X
+A0A0L8IDI7	mononuclear	2	CuB	1.27	46.0	neither		20.4	29.9	0	57			1.13	X			3.89	X			3.39	X			1.37	X
+A0A0M3IG66	mononuclear	5	CuA	0.48	94.6	CuB	0.75	87.2	3.55																		
+A0A0M3IJ33	mononuclear	3	CuA	0.80	81.4	CuB	0.75	68.1	3.96	1	42	3.04	0.220	3.04	CU	1.84	0.220	1.84	CU								
+A0A0N4SWM8	mononuclear	5	CuA	0.34	96.9	CuB	0.52	89.7	3.5	2	60	0.28	0.930	0.28	CU	2.23	0.800	2.23	CU								
+A0A0P1ANE6	no_cu	1	neither		60.0	neither		50.2	35.13	0	25											4.49	X			3.93	X
+A0A0R3QQ18	mononuclear	5	CuA	0.54	95.2	CuB	0.72	88.9	3.63	2	26	0.20	0.960	0.20	CU	1.97	0.930	1.97	CU								
+A0A0R3RX42	mononuclear	5	CuA	0.37	96.1	CuB	0.98	89.4	3.54	3	49	0.70	0.960	0.70	CU	1.77	0.900	1.77	CU								
+A0A0U1M3F3	mononuclear	5	CuA	0.96	90.8	CuB	0.44	81.8	3.92	3	31	0.61	0.990	0.61	CU	0.96	0.590	0.96	CU								
+A0A0V0R8Y7	no_cu	5	neither		76.1	CuB	0.15	75.5	43.9	1	55	44.17	0.320	0.33	ZN	2.00	0.320	2.00	CU								
+A0A0V0S806	mononuclear	4	CuA	0.71	67.0	neither		27.4	28.53	1	52	0.61	0.900	0.61	CU	28.44	0.900	5.42	X	1.24	0.890	1.24	CU	4.29	0.890	4.29	CU
+A0A0V0SMD1	no_cu	2	neither		67.7	neither		51.6	36.8	0	35											3.95	X			4.95	X
+A0A0V0TGR2	mononuclear	4	CuA	0.91	64.4	neither		30.4	26.0	1	63	0.55	0.840	0.55	CU	25.63	0.840	1.07	X	1.48	0.860	1.48	CU	4.48	0.860	4.48	CU
+A0A0V0YE73	mononuclear	3	CuA	0.80	62.7	neither		17.2	22.8	1	33	0.56	0.620	0.56	CU	23.13	0.620	13.94	X	0.82	0.680	0.82	CU	4.11	0.680	3.62	X
+A0A0V1A2F9	no_cu	2	neither		66.3	neither		53.7	40.1	0	38											2.87	X			5.96	X
+A0A0V1AAJ2	mononuclear	3	CuA	0.60	61.9	neither		24.7	26.02	1	41	0.31	0.960	0.31	CU	25.77	0.960	2.41	X	1.03	0.750	1.03	CU	4.40	0.750	3.24	X
+A0A0V1ABN4	mononuclear	4	CuA	0.36	78.2	neither		38.3	27.4	1	36	0.41	0.880	0.41	CU	27.15	0.880	2.37	X			7.28	X			6.17	X
+A0A0V1BIN6	mononuclear	4	CuA	0.58	58.8	neither		28.4	26.76	1	37	1.15	0.750	1.15	CU	25.88	0.750	1.97	X	1.50	0.950	1.50	CU	3.88	0.950	3.88	CU
+A0A0V1DE70	mononuclear	5	CuA	0.59	74.5	neither		38.9	24.92	2	46	0.50	0.910	0.50	CU	24.69	0.910	3.04	X	0.72	0.670	0.72	CU	2.53	0.530	2.53	CU
+A0A0V1DFZ9	no_cu	2	neither		58.9	neither		51.5	25.76	0	31			5.54	X			0.68	X								
+A0A0V1EIF6	no_cu	3	neither		62.7	neither		51.0	27.71	0	39			9.56	X			5.36	X								
+A0A0V1ESS6	mononuclear	4	CuA	0.80	75.4	neither		40.1	24.82	1	37	0.07	0.620	0.07	CU	24.75	0.620	6.16	X	0.74	0.850	0.74	CU	4.32	0.850	4.32	CU
+A0A0V1FSY3	no_cu	3	neither		63.9	neither		48.1	28.76	0	29											3.92	X			5.72	X
+A0A0V1G4S3	mononuclear	5	CuA	0.71	79.2	neither		41.6	25.41	1	46	0.57	0.740	0.57	CU	25.08	0.740	6.42	X	0.93	0.680	0.93	CU	4.28	0.680	3.53	X
+A0A0V1I3Y0	mononuclear	4	CuA	0.70	72.8	neither		37.5	24.66	1	47	0.37	0.820	0.37	CU	24.48	0.820	3.40	X	0.72	0.420	0.72	CU	4.26	0.420	4.11	X
+A0A0V1I4K6	no_cu	2	neither		65.3	neither		49.1	28.24	0	32											3.48	X			4.32	X
+A0A0V1JHS7	mononuclear	4	CuA	0.68	78.2	neither		41.4	27.66	1	38	0.33	0.910	0.33	CU	27.41	0.910	6.47	X	0.69	0.640	0.69	CU	4.04	0.640	3.24	X
+A0A0V1KD92	mononuclear	5	CuA	0.67	76.9	neither		39.9	26.43	1	40	0.26	0.940	0.26	CU	26.50	0.940	5.58	X	0.76	0.930	0.76	CU	4.30	0.930	4.30	CU
+A0A0V1KR57	mononuclear	3	CuA	0.89	71.6	neither		34.3	13.11	1	47	0.23	0.640	0.23	CU	13.24	0.640	9.87	X	1.53	0.750	1.53	CU	4.49	0.750	4.49	CU
+A0A0V1LPZ2	no_cu	2	neither		62.5	neither		48.9	36.26	0	31			14.88	X			20.37	X								
+A0A0V1MUW3	mononuclear	5	CuA	0.90	72.2	neither		36.9	25.68	1	44	0.49	0.940	0.49	CU	25.82	0.940	13.03	X	0.77	0.890	0.77	CU	3.46	0.540	3.46	CU
+A0A0V1N8R5	no_cu	3	neither		66.3	neither		55.8	27.74																		
+A0A0W8AY19	no_cu	1	neither		69.7	neither		55.4	41.06	0	31											4.02	X			3.26	X
+A0A0W8C3R7	mononuclear	4	CuB	0.48	97.5	neither		68.5	21.71	1	21	0.25	0.870	0.25	CU	21.59	0.870	6.64	X	3.91	0.980	3.91	CU	1.30	0.980	1.30	CU
+A0A0W8DAM1	no_cu	2	CuB	1.89	76.3	neither		39.7	22.38	0	43			13.33	X			10.56	X								
+A0A0Y0DNT4	mononuclear	4	CuA	0.23	90.6	CuB	1.90	38.6	2.54	1	33	0.47	0.990	0.47	CU	2.13	0.990	2.13	CU								
+A0A135SEP1	no_cu	4	CuB	0.65	89.7	CuA	0.59	84.9	3.9	3	28	0.63	0.690	0.63	CU	0.64	0.470	0.64	CU								
+A0A135UY99	no_cu	4	CuB	0.57	89.4	CuA	0.47	86.4	3.86	2	28	1.35	0.710	1.35	CU	0.53	0.300	0.53	CU								
+A0A135V6Y1	mononuclear	4	CuB	1.52	90.9	neither		72.8	11.98	1	20	0.35	0.890	0.35	CU	11.83	0.890	11.83	CU	4.40	0.870	4.40	CU	0.55	0.870	0.55	CU
+A0A135V8Q3	mononuclear	5	CuA	0.52	97.2	CuB	0.46	90.4	3.79	2	27	0.23	0.920	0.23	CU	1.05	0.840	1.05	CU								
+A0A137NPX8	no_cu	2	CuB	0.18	85.5	neither		74.2	22.3	0	9			1.83	X			4.32	X								
+A0A139HAY5	mononuclear	5	CuA	0.51	94.4	CuB	0.62	91.8	3.67	1	20	3.80	0.880	3.80	CU	0.89	0.880	0.89	CU								
+A0A142I737	mononuclear	5	CuA	0.47	95.2	CuB	0.64	92.8	4.0	2	25	0.46	0.850	0.46	CU	0.24	0.660	0.24	CU								
+A0A158RAT2	mononuclear	3	CuA	0.63	94.9	CuB	3.54	63.8	3.24	1	42	0.18	0.940	0.18	CU	3.28	0.940	3.28	CU								
+A0A161VY89	mononuclear	5	CuA	0.24	96.3	CuB	0.59	91.9	4.03	2	24	3.27	0.540	3.27	CU	0.96	0.540	0.96	CU								
+A0A166M367	mononuclear	5	CuA	0.52	97.3	CuB	0.56	94.7	3.98	0	19			7.94	X			5.92	X								
+A0A166TEN8	mononuclear	5	CuA	0.22	94.1	CuB	0.32	87.4	3.73	3	30	0.60	0.960	0.60	CU	0.52	0.910	0.52	CU								
+A0A166U3J7	mononuclear	5	CuA	0.52	97.9	CuB	0.56	95.0	3.9	2	18	0.35	0.980	0.35	CU	1.04	0.920	1.04	CU								
+A0A167AFV0	mononuclear	5	CuA	0.29	95.9	CuB	0.43	92.3	4.11	3	14	0.47	1.000	0.47	CU	0.91	0.980	0.91	CU								
+A0A167BRG2	mononuclear	5	CuA	0.34	95.3	CuB	0.27	91.2	3.94	3	29	0.38	0.790	0.38	CU	0.59	0.490	0.59	CU								
+A0A168EXD0	mononuclear	5	CuA	0.51	97.5	CuB	0.44	94.9	3.89	3	19	0.35	0.970	0.35	CU	0.93	0.590	0.93	CU								
+A0A175VYW1	mononuclear	5	CuA	0.54	96.6	neither		74.1	16.98	2	37	0.33	0.990	0.33	CU	17.12	0.990	0.88	X	0.58	1.000	0.58	CU	2.69	0.830	2.69	CU
+A0A175W3Y2	mononuclear	5	CuA	0.45	95.2	CuB	0.82	94.7	3.52	2	28	0.48	0.850	0.48	CU	0.48	0.630	0.48	CU								
+A0A177DSJ1	mononuclear	5	CuA	0.45	96.7	CuB	0.57	91.0	3.95	2	25	0.55	0.990	0.55	CU	0.46	0.660	0.46	CU								
+A0A177T6E5	mononuclear	5	CuB	0.49	92.4	CuA	0.53	80.0	3.96	4	24	0.82	0.970	0.82	CU	1.18	0.540	1.18	CU								
+A0A180GDP5	no_cu	5	CuA	4.46	90.0	CuB	3.53	83.0	4.26	2	20	0.19	0.910	0.19	CU	2.22	0.700	1.74	X								
+A0A183I077	mononuclear	5	CuA	0.36	94.4	CuB	1.00	88.7	3.58	0	47			6.22	X			5.57	X								
+A0A183IVQ9	no_cu	2	neither		68.0	neither		65.4	28.47	0	27											1.67	X			2.84	X
+A0A194WE27	mononuclear	5	CuA	2.21	84.1	CuB	4.14	28.8	4.41	3	29	0.68	0.990	0.68	CU	2.57	0.910	2.57	CU								
+A0A194XMC7	mononuclear	5	CuA	0.79	91.8	CuB	0.86	92.1	3.71	3	23	0.27	0.710	0.27	CU	0.83	0.570	0.83	CU								
+A0A194XN12	mononuclear	5	CuA	0.55	95.8	CuB	0.44	92.9	3.89	3	21	0.38	0.940	0.38	CU	1.06	0.760	1.06	CU								
+A0A194XSF1	mononuclear	4	CuA	0.66	91.8	CuB	1.72	68.4	4.95	2	16	0.48	0.990	0.48	CU	4.09	0.910	4.09	CU								
+A0A1B7YR08	mononuclear	5	CuA	0.54	97.3	CuB	0.69	95.2	3.93	2	24	1.51	0.210	1.51	CU	0.64	0.290	0.64	CU								
+A0A1G4AYJ9	mononuclear	5	CuA	0.49	97.2	CuB	0.55	95.3	3.88	3	32	0.37	0.900	0.37	CU	1.49	0.930	1.49	CU								
+A0A1G4BKS1	mononuclear	5	CuA	0.43	94.8	CuB	0.46	92.3	3.73	1	24	0.28	0.980	0.28	CU	3.49	0.980	3.49	CU								
+A0A1G6VNA4	no_cu	2	CuB	2.14	86.4	neither		20.9	24.31	0	33			0.89	X			8.37	X								
+A0A1G8B6K0	mononuclear	3	CuB	0.65	96.0	neither		78.1	19.26	2	19	0.61	0.650	0.61	CU	19.09	0.650	4.00	ZN	2.67	0.950	2.47	X	1.36	0.950	1.36	CU
+A0A1H1X1U7	mononuclear	5	CuB	0.30	97.2	CuA	0.65	90.3	4.26	3	32	0.61	0.940	0.61	CU	0.67	0.800	0.67	CU								
+A0A1H7VPR3	mononuclear	4	CuB	0.75	93.5	neither		61.4	27.21	1	34	0.14	0.870	0.14	CU	27.33	0.870	3.81	X								
+A0A1I4X2F3	mononuclear	5	CuB	0.38	93.8	CuA	0.70	88.8	4.2	2	26	0.54	0.880	0.54	CU	0.54	0.940	0.54	CU								
+A0A1I5PK02	binuclear	5	CuB	0.47	97.3	CuA	0.79	93.5	4.2	3	27	1.21	0.860	1.21	CU	1.18	0.770	1.18	CU								
+A0A1I7VEA5	mononuclear	5	CuA	0.38	95.7	CuB	0.75	82.2	3.67	2	51	0.64	0.840	0.64	CU	2.60	0.710	2.60	CU								
+A0A1I8I6W4	mononuclear	5	CuB	0.94	93.2	CuA	0.43	68.1	4.2	1	28	0.60	0.950	0.60	CU	4.76	0.950	4.76	CU								
+A0A1I8IJ91	mononuclear	5	CuB	0.46	86.2	CuA	0.36	79.5	4.11	0	41			9.98	X			8.48	X								
+A0A1I9G609	mononuclear	5	CuA	0.53	94.8	CuB	0.86	90.2	3.73	3	52	0.28	0.980	0.28	CU	1.92	0.780	1.92	CU								
+A0A1I9G629	mononuclear	5	CuA	0.35	97.3	CuB	0.67	94.3	3.56	1	44	0.22	0.960	0.22	CU	3.58	0.960	3.58	CU								
+A0A1J9R2U7	binuclear	5	CuB	0.41	95.5	CuA	0.34	90.0	3.84	4	17	0.71	0.930	0.71	CU	0.47	0.840	0.47	CU								
+A0A1L7T8U3	mononuclear	5	CuA	0.33	97.1	CuB	0.53	95.4	3.7	2	17	0.56	0.990	0.56	CU	0.86	0.800	0.86	CU								
+A0A1L7V991	mononuclear	5	CuA	0.29	96.5	CuB	0.40	95.3	3.7	2	17	0.60	0.840	0.60	CU	0.89	0.750	0.89	CU								
+A0A1L7XXI3	mononuclear	3	CuA	0.92	79.6	neither		69.5	25.78	0	15			1.88	X			11.21	ZN								
+A0A1L9PZT9	mononuclear	5	CuA	0.46	93.1	CuB	0.51	87.4	3.84	3	21	0.57	0.990	0.57	CU	0.62	0.830	0.62	CU								
+A0A1L9S434	no_cu	3	CuA	1.09	66.8	neither		59.3	24.04	0	24			3.73	X			2.14	X								
+A0A1L9T6V0	mononuclear	5	CuA	0.54	93.0	CuB	0.47	87.4	3.97	4	24	0.94	0.980	0.94	CU	1.15	0.940	1.15	CU								
+A0A1L9WGB2	mononuclear	5	CuB	0.34	94.2	CuA	0.35	85.4	3.83	2	18	0.46	0.820	0.46	CU	1.87	0.810	1.87	CU								
+A0A1N6ZK30	no_cu	2	CuA	1.66	92.7	neither		77.0	31.08	0	27			0.81	X			2.87	X								
+A0A1Q8RG93	mononuclear	3	CuA	0.68	97.9	CuB	2.65	50.3	2.51	2	21	0.15	0.970	0.15	CU	0.99	0.960	0.99	CU								
+A0A1Q8RT46	mononuclear	5	CuA	0.40	96.7	CuB	0.35	95.0	3.92	2	24	0.73	1.000	0.73	CU	0.68	0.710	0.68	CU								
+A0A1R3RV41	mononuclear	5	CuA	0.73	96.6	CuB	0.45	92.8	4.05	3	21	0.89	0.920	0.89	CU	0.78	0.710	0.78	CU								
+A0A1R3VBN3	mononuclear	5	CuB	0.13	96.2	CuA	0.80	89.3	4.37	4	26	0.78	0.920	0.78	CU	0.75	0.840	0.75	CU								
+A0A1R4H6E4	mononuclear	5	CuB	0.54	96.4	CuA	1.01	89.7	4.39	3	28	0.91	0.940	0.91	CU	0.43	0.640	0.43	CU								
+A0A1R4H727	mononuclear	5	CuB	0.39	96.4	CuA	1.03	89.7	4.39	4	33	0.53	0.870	0.53	CU	0.84	1.000	0.84	CU								
+A0A1S8CTM4	binuclear	5	CuB	0.55	97.1	CuA	0.82	94.3	4.13	3	39	0.48	0.810	0.48	CU	0.45	0.750	0.45	CU								
+A0A1S8X904	no_cu	4	CuB	1.49	87.8	CuA	1.08	81.9	6.13	0	36			1.03	X			2.66	X								
+A0A1U7LR42	binuclear	4	CuB	0.38	83.0	CuA	2.04	39.9	4.81	1	40	1.41	0.500	1.41	CU	3.62	0.500	3.35	ZN								
+A0A1V4I1C4	mononuclear	5	CuB	0.21	95.5	CuA	1.34	86.1	4.86	3	36	0.18	0.960	0.18	CU	0.69	0.760	0.69	CU								
+A0A1V6NT23	no_cu	4	CuA	0.57	96.1	CuB	0.52	91.0	3.52	2	21	1.29	0.580	1.29	CU	1.09	0.550	1.09	CU								
+A0A1V9YE51	no_cu	3	neither		67.8	neither		43.7	32.19	0	35											3.90	X			2.54	X
+A0A1V9YSU1	mononuclear	4	CuA	0.31	86.5	CuB	1.30	65.2	3.66	2	31	1.12	0.790	1.12	CU	2.72	0.790	2.72	CU								
+A0A1V9YYD2	mononuclear	5	CuA	0.12	96.5	CuB	0.36	79.6	4.15	3	28	0.56	0.960	0.56	CU	2.32	0.860	2.32	CU								
+A0A1V9Z4B6	no_cu	1	neither		83.0	neither		52.1	22.47	0	19											15.20	X			15.14	X
+A0A1X6NRK9	no_cu	2	CuA	0.68	83.8	neither		68.2	26.4	0	21			0.44	X			9.35	X								
+A0A1X6PJ39	no_cu	3	CuB	1.48	75.6	neither		61.9	16.31	0	13			0.59	X			5.99	X								
+A0A1X7RU91	mononuclear	5	CuA	0.28	95.7	CuB	0.41	92.6	4.1	2	27	1.49	0.820	1.49	CU	2.88	0.120	2.88	CU								
+A0A1X7RVT3	mononuclear	5	CuA	0.46	95.1	CuB	0.53	91.4	3.8	3	19	0.78	0.830	0.78	CU	1.46	0.530	1.46	CU								
+A0A1Y1VYU8	mononuclear	5	CuA	0.78	93.8	CuB	0.20	86.2	4.09	3	33	0.46	0.930	0.46	CU	1.50	0.440	1.50	CU								
+A0A1Y1Z6J4	no_cu	2	neither		82.8	neither		76.2	36.33	0	12											2.77	X			5.11	X
+A0A1Y1ZAQ2	no_cu	4	CuA	0.35	95.9	CuB	0.46	95.0	3.51	3	14	1.14	0.590	1.14	CU	1.36	0.610	1.36	CU								
+A0A1Y2CTW7	mononuclear	3	CuA	1.05	78.2	neither		21.2	19.27																		
+A0A1Y2EAK7	binuclear	5	CuB	1.05	93.9	CuA	0.61	92.3	3.75	2	22	0.44	0.460	0.44	CU	0.52	0.960	0.52	CU								
+A0A1Y2HIE7	binuclear	5	CuA	0.22	89.9	CuB	1.14	88.9	3.8	2	24	0.66	0.820	0.66	CU	3.23	0.820	3.23	CU								
+A0A1Y6LJW2	mononuclear	5	CuA	0.16	94.4	CuB	0.55	93.1	4.11	2	18	0.24	0.950	0.24	CU	1.42	0.910	1.42	CU								
+A0A1Y6LLM1	mononuclear	5	CuA	0.46	95.1	CuB	0.53	91.4	3.8	3	19	0.78	0.830	0.78	CU	1.46	0.530	1.46	CU								
+A0A210R2D2	no_cu	0	neither		63.2	neither		20.4	13.32	0	40			1.32	X			12.04	ZN								
+A0A218Z9Z9	no_cu	4	CuB	1.31	91.1	neither		84.8	12.25	1	27	9.22	0.680	1.46	X	3.41	0.680	0.25	ZN								
+A0A225WZW1	mononuclear	4	CuB	0.43	97.2	neither		71.3	21.37	1	38	0.32	0.990	0.32	CU	21.58	0.990	10.57	X	2.68	0.810	2.68	CU	1.23	0.900	1.23	CU
+A0A232M3P4	mononuclear	5	CuB	0.57	83.4	CuA	1.54	77.2	4.5	2	40	2.28	1.000	2.28	CU	0.36	1.000	0.36	CU								
+A0A238C4W2	mononuclear	5	CuA	0.35	95.5	CuB	0.54	88.5	3.71	0	49			6.63	X			6.14	X								
+A0A2A2KWS8	no_cu	0	neither		64.2	neither		29.1	21.16	0	33											2.77	X			3.08	X
+A0A2B7X1D4	binuclear	5	CuB	0.27	94.4	CuA	1.02	90.0	4.36	5	51	0.39	0.840	0.39	CU	0.61	0.830	0.61	CU								
+A0A2C9KDQ8	mononuclear	3	CuB	0.98	87.6	neither		51.3	25.99	0	17			3.06	X			2.22	X			3.57	X			3.63	X
+A0A2G8L6J4	mononuclear	2	CuA	1.31	60.2	neither		21.7	28.76	0	35			1.63	X			14.70	X			1.96	X			2.20	X
+A0A2G9GQP1	mononuclear	4	CuB	0.48	84.2	CuA	1.37	52.8	4.42	2	22	0.95	0.970	0.95	CU	3.06	0.800	3.06	CU								
+A0A2H1GH96	mononuclear	5	CuA	0.41	96.0	CuB	0.40	91.2	4.26	2	24	0.40	0.990	0.40	CU	1.00	0.720	1.00	CU								
+A0A2H3E8H0	mononuclear	5	CuA	0.34	96.8	CuB	0.96	94.0	4.3	1	24	2.78	0.260	2.78	CU	1.61	0.260	1.61	CU								
+A0A2H3S6Y7	mononuclear	5	CuA	0.26	95.7	CuB	0.40	95.0	3.84	2	24	0.31	0.930	0.31	CU	0.81	0.920	0.81	CU								
+A0A2H3SXS3	mononuclear	5	CuA	0.43	90.4	CuB	0.59	82.2	4.38	3	20	0.69	0.970	0.69	CU	0.38	0.990	0.38	CU								
+A0A2H4SUB3	binuclear	5	CuB	0.27	91.9	CuA	0.71	83.2	4.19	3	30	0.45	0.860	0.45	CU	0.51	0.870	0.51	CU								
+A0A2I0MT65	mononuclear	4	CuA	0.64	93.8	CuB	0.58	68.7	3.88	1	22	0.39	0.910	0.39	CU	3.57	0.910	1.84	ZN								
+A0A2J6PRK0	mononuclear	5	CuA	0.38	96.0	CuB	0.30	92.8	3.9	2	29	0.70	0.860	0.70	CU	2.32	0.960	2.32	CU								
+A0A2J6QS19	mononuclear	5	CuA	0.57	94.7	CuB	0.75	90.7	3.61	5	22	0.62	0.860	0.62	CU	0.86	0.890	0.86	CU								
+A0A2J6S1F6	mononuclear	5	CuA	0.33	96.6	CuB	0.33	95.1	3.95	2	16	0.64	0.940	0.64	CU	0.85	0.770	0.85	CU								
+A0A2J6S2Q8	mononuclear	5	CuA	0.34	96.5	CuB	0.29	95.0	3.86	2	15	0.78	0.650	0.78	CU	0.44	0.750	0.44	CU								
+A0A2J6TC85	binuclear	3	CuB	0.56	90.1	neither		83.2	26.56	3	16	1.09	0.460	1.09	CU	26.10	0.640	6.04	X								
+A0A2J6TD48	mononuclear	5	CuA	0.66	95.2	CuB	0.70	91.9	3.79	2	17	0.17	0.940	0.17	CU	0.39	0.740	0.39	CU								
+A0A2J8X8R4	binuclear	5	CuB	0.21	80.4	CuA	0.29	85.5	3.98	2	34	4.58	0.590	4.58	CU	0.65	0.590	0.65	CU								
+A0A2L2TIX2	mononuclear	5	CuA	0.43	94.8	CuB	1.21	75.0	3.22	2	17	0.23	0.950	0.23	CU	0.68	0.980	0.68	CU								
+A0A2N3MZ18	no_cu	2	neither		77.2	neither		66.2	33.01	0	28											10.62	X			13.45	X
+A0A2N5SEN2	mononuclear	5	CuA	0.49	93.7	CuB	0.76	82.1	3.81	2	17	1.18	0.970	1.18	CU	2.72	0.970	2.72	CU								
+A0A2N5SRB5	mononuclear	5	CuA	0.13	91.5	CuB	0.42	87.7	4.16	2	23	0.58	0.930	0.58	CU	1.93	0.480	1.93	CU								
+A0A2N5SSF6	mononuclear	5	CuA	0.15	92.9	CuB	0.41	87.5	4.06	2	20	0.34	0.990	0.34	CU	1.54	0.800	1.54	CU								
+A0A2N5TV63	binuclear	5	CuA	0.60	77.5	CuB	0.93	63.6	4.49	3	31	0.47	0.970	0.47	CU	0.37	0.470	0.37	CU								
+A0A2N5U4U9	mononuclear	5	CuA	0.94	76.3	CuB	1.81	72.0	6.24	2	27	0.55	0.680	0.55	CU	2.42	0.590	0.84	ZN								
+A0A2N5VYB1	mononuclear	5	CuA	0.34	92.0	CuB	0.41	87.9	4.33	2	20	0.45	0.990	0.45	CU	1.52	0.480	1.52	CU								
+A0A2P7YDE6	mononuclear	5	CuB	0.95	92.5	CuA	0.70	69.0	4.11	3	25	0.63	0.850	0.63	CU	1.13	0.630	1.13	CU								
+A0A2P7Z1M8	binuclear	5	CuB	0.77	88.5	CuA	0.87	80.0	4.03	2	17	0.26	0.980	0.26	CU	2.55	0.940	2.55	CU								
+A0A2P7ZE68	mononuclear	5	CuA	0.68	91.9	CuB	0.42	88.3	4.07	3	18	0.72	0.840	0.72	CU	0.82	0.570	0.82	CU								
+A0A2R5FJR1	mononuclear	5	CuA	0.27	89.0	CuB	0.54	82.2	4.5	2	26	0.27	0.990	0.27	CU	0.43	0.740	0.43	CU								
+A0A2S4UTV9	binuclear	4	CuA	0.47	90.7	CuB	1.00	79.5	4.05	1	17	0.49	0.980	0.49	CU	3.92	0.980	3.92	CU								
+A0A2S4VER1	mononuclear	5	CuA	0.42	83.5	CuB	0.65	71.3	4.06	3	16	0.84	0.950	0.84	CU	0.80	0.570	0.80	CU								
+A0A2S4VEY7	binuclear	4	CuA	0.47	90.7	CuB	1.00	79.5	4.05	1	17	0.49	0.980	0.49	CU	3.92	0.980	3.92	CU								
+A0A2T2NJ62	no_cu	0	neither		77.3	neither		52.5	29.41	0	32											3.88	X			3.86	X
+A0A2T2PBL1	no_cu	4	CuB	0.48	94.1	CuA	0.72	85.6	3.92	4	49	0.34	0.550	0.34	CU	1.24	0.730	1.24	CU								
+A0A2T3ZXK1	mononuclear	5	CuA	0.58	97.0	CuB	0.68	94.9	3.94	3	19	1.00	0.830	1.00	CU	0.67	0.690	0.67	CU								
+A0A2T4GS12	mononuclear	5	CuA	0.65	86.8	CuB	0.30	77.3	4.07	3	29	0.54	0.970	0.54	CU	2.33	0.970	2.33	CU								
+A0A2T6BVL4	mononuclear	2	CuB	1.08	97.3	neither		82.1	14.23	1	20	0.36	0.890	0.36	CU	14.41	0.890	5.03	X								
+A0A2T6ZWP4	binuclear	3	CuB	0.23	94.1	neither		71.3	11.01	3	38	0.46	0.930	0.46	CU	7.65	0.880	1.24	ZN								
+A0A2V1D8S9	mononuclear	5	CuA	0.58	94.0	CuB	0.79	92.0	3.61	2	21	0.63	0.960	0.63	CU	0.31	0.870	0.31	CU								
+A0A2V1EB40	binuclear	5	CuB	0.77	95.9	CuA	1.06	94.6	4.3	5	31	0.69	0.750	0.69	CU	0.49	0.950	0.49	CU								
+A0A2V5IDW1	mononuclear	5	CuA	0.20	93.2	CuB	0.13	87.2	3.98	2	29	0.45	0.980	0.45	CU	0.68	0.800	0.68	CU								
+A0A2V5JDM1	mononuclear	4	CuB	0.47	94.1	neither		68.5	25.19	1	30	0.39	0.740	0.39	CU	25.52	0.740	1.74	X	3.11	0.970	3.11	CU	1.19	0.980	1.19	CU
+A0A2Z5HVJ6	mononuclear	5	CuB	0.49	94.3	CuA	0.82	95.1	4.09	3	33	1.98	0.880	1.98	CU	0.42	0.910	0.42	CU								
+A0A317SGF7	mononuclear	5	CuB	1.11	85.7	CuA	0.52	84.5	4.65	3	34	1.80	0.790	1.80	CU	0.28	0.930	0.28	CU								
+A0A317VMA5	mononuclear	5	CuA	0.26	94.2	CuB	0.16	92.2	3.78	2	25	1.27	0.760	1.27	CU	1.24	0.560	1.24	CU								
+A0A319FJL1	mononuclear	5	CuB	0.54	92.1	CuA	0.57	77.7	4.15	6	27	1.05	0.780	1.05	CU	0.74	0.590	0.74	CU								
+A0A329SB08	no_cu	0	neither		61.4	neither		55.0	30.64	0	31											4.55	X			4.09	X
+A0A329SW91	mononuclear	4	CuB	0.46	97.5	neither		72.6	21.97	1	30	0.17	0.790	0.17	CU	22.05	0.790	8.63	X	3.17	0.980	3.17	CU	0.83	0.990	0.83	CU
+A0A365NE95	mononuclear	5	CuA	0.32	96.9	CuB	0.46	95.7	3.62	2	21	1.43	0.360	1.43	CU	1.03	0.300	1.03	CU								
+A0A368GCB1	mononuclear	4	CuA	0.58	86.6	CuB	1.14	55.4	4.68	2	13	0.77	0.500	0.77	CU	4.91	0.500	3.57	ZN								
+A0A368QNI6	mononuclear	4	CuA	1.13	80.0	CuB	0.83	67.2	4.39	2	33	0.49	1.000	0.49	CU	2.93	0.710	2.93	CU								
+A0A384BB62	binuclear	4	CuA	0.37	89.6	CuB	0.50	76.7	4.05	1	28	0.13	0.890	0.13	CU	3.92	0.890	3.92	CU								
+A0A384K0M5	mononuclear	5	CuA	0.44	96.4	CuB	0.98	82.4	4.61	2	11	0.32	0.990	0.32	CU	1.15	0.920	1.15	CU								
+A0A384K4W6	mononuclear	5	CuA	0.61	96.0	CuB	0.73	93.3	3.57	2	19	0.68	0.950	0.68	CU	0.54	0.690	0.54	CU								
+A0A395HJP7	binuclear	5	CuA	0.71	93.7	CuB	1.04	90.0	3.54	3	19	0.37	0.800	0.37	CU	0.44	0.410	0.44	CU								
+A0A395T2J9	binuclear	5	CuB	0.44	94.8	CuA	0.91	91.2	4.44	2	22	0.38	0.980	0.38	CU	1.67	0.570	1.67	CU								
+A0A3B6EKX7	binuclear	5	CuB	0.42	94.6	CuA	0.78	83.2	4.15	5	30	1.24	0.880	1.24	CU	0.34	0.930	0.34	CU								
+A0A3B6J0G9	mononuclear	5	CuB	0.64	81.2	CuA	0.89	67.3	4.03	3	22	1.66	0.900	1.66	CU	0.39	0.920	0.39	CU								
+A0A3E2HCJ3	mononuclear	5	CuA	0.45	92.9	CuB	0.68	85.4	3.51	2	21	2.57	0.370	2.57	CU	1.27	0.370	1.27	CU								
+A0A3F2RYX7	no_cu	1	neither		76.2	neither		68.5	17.26	0	24											5.65	X			4.57	X
+A0A3F3PW89	mononuclear	5	CuB	0.50	93.4	CuA	0.45	85.8	4.1	2	27	0.70	0.970	0.70	CU	3.24	0.950	0.76	X								
+A0A3F3Q782	binuclear	5	CuB	0.33	94.4	CuA	0.51	83.5	3.99	3	44	0.48	0.860	0.48	CU	1.17	0.690	1.17	CU								
+A0A3M0L5Z8	mononuclear	4	CuA	0.39	95.4	CuB	0.51	59.2	4.1	2	32	0.43	0.750	0.43	CU	2.02	0.760	2.02	CU								
+A0A3M6VLC9	no_cu	1	neither		64.8	neither		51.0	35.25	0	25											6.49	X			5.80	X
+A0A3M6XNY6	binuclear	5	CuB	0.26	92.4	CuA	0.67	82.7	4.12	3	20	1.59	0.770	1.59	CU	0.98	0.670	0.98	CU								
+A0A3M7C5D9	mononuclear	5	CuB	0.39	92.5	CuA	1.20	79.8	4.8	2	42	2.26	0.150	2.26	CU	1.09	0.280	1.09	CU								
+A0A3M7J5F3	mononuclear	5	CuB	0.38	91.2	CuA	1.36	75.3	5.24	2	38	0.51	0.870	0.51	CU	1.82	0.360	1.82	CU								
+A0A3M7MKX7	binuclear	5	CuB	0.22	95.9	CuA	0.83	91.9	4.41	4	37	0.97	0.860	0.97	CU	0.27	0.910	0.27	CU								
+A0A3N0CP77	no_cu	0	neither		88.6	neither		50.9	46.13	0	26											1.08	X			3.88	X
+A0A3N4IPE1	binuclear	5	CuB	0.29	94.3	CuA	0.96	87.7	4.07	2	37	0.38	0.700	0.38	CU	0.70	0.850	0.70	CU								
+A0A3N4K3H4	mononuclear	4	CuB	0.62	89.0	CuA	0.97	50.0	3.15	1	17	0.46	0.990	0.46	CU	2.78	0.990	2.78	CU								
+A0A3P3Y6E4	no_cu	0	neither		44.0	neither		39.9	13.34	0	29			17.02	X			21.58	X								
+A0A3P3Y6K2	no_cu	2	CuB	0.41	85.9	neither		77.3	13.78	0	25			4.30	X			1.16	ZN								
+A0A3P6S9E3	mononuclear	5	CuA	0.26	96.6	CuB	0.52	85.7	3.74	2	40	0.33	0.930	0.33	CU	0.87	0.800	0.87	CU								
+A0A3P7DNC2	mononuclear	5	CuA	0.42	96.2	CuB	0.91	87.5	3.44	2	55	0.45	0.980	0.45	CU	1.57	0.950	1.57	CU								
+A0A3P8DS39	mononuclear	4	CuA	0.37	89.1	CuB	0.87	57.0	3.58	1	20	0.35	0.890	0.35	CU	3.63	0.890	3.63	CU								
+A0A3P8WSE3	mononuclear	5	CuB	0.74	91.0	CuA	0.65	93.6	4.6	3	29	0.32	0.820	0.32	CU	0.60	0.960	0.60	CU								
+A0A3Q3L0Y4	binuclear	5	CuB	0.69	84.8	CuA	0.24	86.1	4.31	3	37	1.00	0.790	1.00	CU	0.27	0.960	0.27	CU								
+A0A3R6YR15	no_cu	2	CuB	0.88	67.8	neither		26.9	14.15	2	27	9.05	0.330	1.72	X	3.53	0.210	1.29	X								
+A0A3R7FX46	no_cu	0	neither		77.5	neither		54.0	19.95	0	32											5.70	X			4.88	X
+A0A3S3Q853	mononuclear	5	CuB	0.48	96.6	CuA	0.91	86.7	4.25	2	35	0.35	0.980	0.35	CU	0.68	0.980	0.68	CU								
+A0A401PX39	no_cu	2	neither		23.5	neither		25.5	60.14	0	68											0.84	X			2.66	X
+A0A409WYM8	mononuclear	4	CuA	0.65	88.4	CuB	0.33	80.4	4.0	2	18	1.15	0.610	1.15	CU	0.52	0.600	0.52	CU								
+A0A409XK29	mononuclear	5	CuA	0.36	87.6	CuB	0.63	82.9	4.12	3	22	0.13	0.950	0.13	CU	0.76	0.450	0.76	CU								
+A0A419QAV9	no_cu	4	CuB	1.53	90.1	CuA	0.96	89.1	6.04	0	35			0.90	X			1.81	X								
+A0A420TE23	mononuclear	4	CuB	0.37	93.1	neither		52.7	14.3	1	18	0.22	0.810	0.22	CU	14.37	0.810	1.44	X								
+A0A421G844	mononuclear	5	CuA	0.23	91.9	CuB	0.72	85.7	4.45	2	30	1.09	0.780	1.09	CU	2.98	0.260	2.98	CU								
+A0A425CLB8	no_cu	1	neither		65.5	neither		51.6	35.26	0	30											5.34	X			3.51	X
+A0A430HE78	binuclear	5	CuB	0.39	96.1	CuA	1.28	92.9	4.77	2	28	0.12	0.890	0.12	CU	0.60	0.690	0.60	CU								
+A0A437ABU9	binuclear	5	CuB	0.10	96.7	CuA	1.08	94.1	4.26	4	46	1.03	0.940	1.03	CU	0.72	0.790	0.72	CU								
+A0A443HXX0	mononuclear	5	CuA	0.56	96.4	CuB	0.39	91.7	4.06	3	18	0.39	1.000	0.39	CU	1.30	0.980	1.30	CU								
+A0A444RJX5	binuclear	5	CuB	1.07	95.1	CuA	0.70	95.3	4.46	3	26	1.57	0.630	1.57	CU	0.30	0.980	0.30	CU								
+A0A444UPP0	mononuclear	5	CuA	0.27	76.9	CuB	1.00	65.1	4.11	3	22	0.47	0.680	0.47	CU	1.99	0.530	1.99	CU								
+A0A446BXJ9	mononuclear	4	CuA	0.28	96.4	CuB	0.71	63.9	4.81	1	21	0.36	0.870	0.36	CU	4.51	0.870	1.53	X								
+A0A447TAE7	mononuclear	5	CuB	0.33	94.6	CuA	0.94	86.5	4.44	3	26	0.33	0.930	0.33	CU	0.80	0.920	0.80	CU								
+A0A484G057	mononuclear	3	CuA	0.73	79.8	CuB	2.71	44.2	2.58	1	42	4.44	0.140	4.44	CU	2.07	0.140	2.07	CU								
+A0A485KPS2	no_cu	3	CuB	1.06	80.9	neither		58.4	34.39	1	29	3.94	0.130	3.94	CU	33.11	0.130	4.98	X								
+A0A485KPU0	mononuclear	3	CuB	0.99	92.5	neither		60.1	24.99	1	32	0.54	0.600	0.54	CU	24.68	0.600	6.85	X	4.74	0.820	4.74	CU	1.33	0.820	1.33	CU
+A0A485KQE4	mononuclear	3	CuB	0.98	95.8	neither		71.7	25.04	1	31	0.41	0.720	0.41	CU	25.04	0.720	6.20	X	4.64	0.890	4.64	CU	1.39	0.890	1.39	CU
+A0A485KTR0	binuclear	5	CuB	0.57	95.7	CuA	0.57	86.5	4.05	2	43	0.31	0.970	0.31	CU	1.06	0.780	1.06	CU								
+A0A498S2C2	mononuclear	5	CuA	0.42	95.3	CuB	0.89	84.2	3.36	3	46	1.52	0.490	1.52	CU	1.85	0.490	1.85	CU								
+A0A4E9FIB1	mononuclear	5	CuA	0.39	95.5	CuB	1.00	88.7	3.52	3	39	0.68	0.640	0.68	CU	0.87	0.290	0.87	CU								
+A0A4P9VZN9	mononuclear	5	CuB	0.52	91.0	CuA	0.42	52.9	3.83	3	22	0.69	0.930	0.69	CU	1.72	0.750	1.72	CU								
+A0A4P9XG75	mononuclear	4	CuA	1.41	81.8	neither		48.4	22.19	0	27			0.69	X			9.30	X	2.07	0.430	2.07	CU	2.03	0.430	2.03	CU
+A0A4P9XJ34	no_cu	0	neither		77.5	neither		67.1	48.3	0	18											1.61	X			2.08	X
+A0A4P9XNA4	mononuclear	4	CuA	0.32	97.5	CuB	0.38	95.5	3.94	2	15	0.47	0.960	0.47	CU	0.88	0.730	0.88	CU								
+A0A4Q4M2B0	mononuclear	5	CuA	0.39	96.4	CuB	0.46	94.4	3.92	1	19	0.27	0.960	0.27	CU	3.96	0.960	3.96	CU								
+A0A4Q4NQ20	mononuclear	5	CuA	0.31	90.8	CuB	0.45	89.4	4.07	3	25	0.38	0.860	0.38	CU	1.05	0.680	1.05	CU								
+A0A4R8PT74	mononuclear	4	CuA	0.67	97.8	CuB	1.36	77.2	5.29	2	17	0.16	0.990	0.16	CU	2.68	0.810	2.68	CU								
+A0A4R8REE8	mononuclear	4	CuA	0.65	98.0	CuB	1.26	83.9	5.27	3	12	0.99	0.980	0.99	CU	3.33	0.540	3.33	CU								
+A0A4R8RI59	binuclear	5	CuB	0.46	97.8	CuA	0.52	92.1	3.74	2	24	0.51	0.970	0.51	CU	1.61	0.740	1.61	CU								
+A0A4R8T272	mononuclear	3	CuA	0.65	91.9	CuB	2.14	47.4	3.24	3	41	0.43	0.780	0.43	CU	1.62	0.530	1.62	CU								
+A0A4S2LAY4	no_cu	4	CuB	1.71	89.2	CuA	1.15	85.3	6.4	0	43			0.51	X			1.52	X								
+A0A4S2LBN1	no_cu	4	CuB	1.59	88.7	CuA	0.85	88.3	5.97	1	29	4.51	0.660	0.61	X	1.48	0.660	1.48	CU								
+A0A4S9AAS5	no_cu	2	neither		84.4	neither		70.9	31.03	0	20			12.38	X			16.78	X								
+A0A4S9D5E3	no_cu	2	neither		79.7	neither		74.6	30.02	0	17			1.59	X			8.04	X								
+A0A4S9F9F9	no_cu	2	neither		78.1	neither		76.8	15.18	0	12			18.47	X			16.71	X								
+A0A4S9LP12	no_cu	1	neither		86.7	neither		61.0	24.16	0	19			0.91	X			1.80	X								
+A0A4S9TIS8	no_cu	2	neither		77.2	neither		70.7	29.75	0	27			4.84	X			4.25	X								
+A0A4S9V507	no_cu	2	neither		77.8	neither		77.9	15.28	0	29			12.46	X			13.55	X								
+A0A4S9Y8F5	no_cu	2	neither		82.0	neither		81.0	29.99	0	25			8.40	X			0.67	X								
+A0A4S9ZZ06	no_cu	2	neither		82.9	neither		64.5	32.82	0	23			3.72	X			18.86	X								
+A0A4T0BL07	no_cu	1	neither		83.6	neither		71.2	21.96	0	20			16.64	X			10.05	X								
+A0A4T0EP09	no_cu	2	neither		79.9	neither		77.8	15.22	0	18			17.66	NA			16.37	X								
+A0A4T0FMD4	mononuclear	5	CuB	0.05	94.7	CuA	0.36	89.6	4.02	4	15	0.90	0.920	0.90	CU	0.69	0.510	0.69	CU								
+A0A4T0WAP6	mononuclear	5	CuA	0.51	97.4	CuB	0.69	95.3	3.87	3	26	0.34	0.950	0.34	CU	0.49	0.670	0.49	CU								
+A0A4U0TXP9	mononuclear	5	CuA	0.47	97.3	CuB	0.65	96.1	3.61	2	25	0.48	0.980	0.48	CU	0.44	0.620	0.44	CU								
+A0A4U0VC90	mononuclear	5	CuA	0.42	93.5	CuB	0.64	89.1	3.86	2	28	0.25	0.760	0.25	CU	0.48	0.370	0.48	CU								
+A0A4U0VS63	mononuclear	5	CuA	0.40	96.0	CuB	0.62	96.3	3.61	1	29	0.27	0.910	0.27	CU	3.75	0.910	3.75	CU								
+A0A4U0XT20	mononuclear	5	CuA	0.47	96.1	CuB	0.48	95.0	3.67	1	31	3.08	0.100	3.08	CU	1.92	0.100	1.92	CU								
+A0A4U6X5Z4	mononuclear	3	CuA	0.56	96.5	CuB	3.26	54.4	3.31	2	27	0.30	0.960	0.30	CU	1.49	0.770	1.49	CU								
+A0A4U7AY24	mononuclear	5	CuB	1.92	49.4	CuA	1.11	38.4	3.16	4	55	0.97	0.900	0.97	CU	1.21	0.900	1.21	CU								
+A0A4U7B5J3	mononuclear	5	CuA	0.21	93.4	CuB	0.35	91.0	3.91	2	20	1.05	0.610	1.05	CU	1.04	0.730	1.04	CU								
+A0A4W4EZ83	no_cu	3	CuB	0.47	87.4	neither		54.7	16.19	0	32			0.87	X			1.19	X								
+A0A4W6F5R6	binuclear	5	CuA	0.44	96.9	CuB	0.33	90.9	3.83	2	33	0.26	0.940	0.26	CU	0.28	0.770	0.28	CU								
+A0A4Y8CCG2	mononuclear	4	CuA	0.45	86.3	CuB	0.32	74.6	4.4	1	23	0.19	0.960	0.19	CU	4.53	0.960	4.53	CU								
+A0A4Y8D0D0	binuclear	5	CuB	0.64	96.4	CuA	0.72	76.8	3.88	2	14	0.26	0.900	0.26	CU	0.85	0.730	0.85	CU								
+A0A4Y8D0V3	mononuclear	5	CuA	0.53	96.7	CuB	0.64	94.0	3.75	4	27	0.57	0.960	0.57	CU	1.25	0.730	1.25	CU								
+A0A4Y9L370	mononuclear	5	CuB	0.18	96.3	CuA	1.00	89.5	4.54	3	32	0.31	0.980	0.31	CU	0.58	0.930	0.58	CU								
+A0A4Z0YK01	mononuclear	5	CuA	0.71	94.3	CuB	0.74	92.5	3.95	3	16	0.79	0.850	0.79	CU	1.02	0.760	1.02	CU								
+A0A4Z1EV38	no_cu	4	CuA	0.40	65.8	CuB	0.20	61.8	3.86	2	57	0.77	0.360	0.77	CU	1.57	0.160	1.57	CU								
+A0A4Z1FR91	mononuclear	5	CuA	0.45	94.0	CuB	0.55	91.8	3.72	2	28	0.40	0.950	0.40	CU	1.64	0.710	1.64	CU								
+A0A4Z1HA19	mononuclear	4	CuA	0.31	89.5	CuB	0.63	79.0	3.62	2	22	0.17	0.990	0.17	CU	1.10	0.970	1.10	CU								
+A0A4Z1K5V5	no_cu	4	CuA	0.42	66.5	CuB	0.28	58.1	3.74	2	52	0.80	0.430	0.80	CU	0.86	0.550	0.86	CU								
+A0A4Z1NUI9	mononuclear	5	CuA	0.36	93.6	CuB	0.51	92.2	4.02	1	24	0.77	0.950	0.77	CU	3.35	0.950	3.35	CU								
+A0A4Z1PB68	mononuclear	4	CuB	0.72	86.8	CuA	0.32	66.2	4.14	0	18			6.34	X			8.98	X								
+A0A507BI78	binuclear	5	CuB	0.16	94.0	CuA	1.01	85.8	4.21	5	38	0.54	0.970	0.54	CU	1.06	0.790	1.06	CU								
+A0A507BMG0	mononuclear	4	CuB	0.42	87.0	CuA	0.71	47.6	4.35	3	24	1.74	0.510	1.74	CU	0.75	0.470	0.75	CU								
+A0A507BNL8	mononuclear	5	CuA	1.80	63.0	CuB	0.84	48.8	3.87	2	37	0.20	0.600	0.20	CU	1.90	0.290	1.90	CU								
+A0A507F691	mononuclear	5	CuB	0.44	87.7	CuA	0.34	81.2	3.78	3	31	0.38	0.880	0.38	CU	0.94	0.770	0.94	CU								
+A0A507F697	binuclear	5	CuB	0.38	85.4	CuA	0.58	74.5	3.6	0	26			7.54	X			7.13	X								
+A0A544XUX3	no_cu	2	CuA	1.58	91.9	neither		76.8	30.97	0	16			2.08	X			5.58	X								
+A0A562PHQ5	mononuclear	5	CuB	0.23	97.7	CuA	0.93	92.6	4.7	2	29	0.32	0.960	0.32	CU	0.72	0.920	0.72	CU								
+A0A5C3QBW9	mononuclear	4	CuB	0.50	96.0	CuA	1.39	75.3	4.84	2	17	0.40	0.910	0.40	CU	2.95	0.840	2.95	CU								
+A0A5C6MG15	mononuclear	5	CuB	0.44	91.5	CuA	0.45	78.1	3.95	2	26	0.71	0.370	0.71	CU	1.41	0.330	1.41	CU								
+A0A5C6SKB8	binuclear	5	CuB	0.44	92.0	CuA	0.87	89.9	4.58	2	15	0.59	0.950	0.59	CU	1.96	0.690	1.96	CU								
+A0A5J6HY91	no_cu	4	CuA	0.75	95.5	CuB	2.26	82.6	5.54	1	8	1.03	0.220	1.03	CU	5.62	0.220	5.62	CU								
+A0A5M8PS01	mononuclear	5	CuA	0.54	93.7	CuB	0.97	88.4	3.4	3	20	0.56	0.800	0.56	CU	1.52	0.620	1.52	CU								
+A0A5N5DM31	mononuclear	5	CuB	0.30	90.6	CuA	0.70	78.4	4.02	3	14	0.86	0.970	0.86	CU	0.92	0.380	0.92	CU								
+A0A5N5QEZ6	binuclear	5	CuB	0.16	97.3	CuA	0.78	89.4	3.88	4	27	0.81	0.940	0.81	CU	1.54	0.680	1.54	CU								
+A0A5N6BWN4	no_cu	2	CuA	1.62	93.2	neither		80.8	18.2	0	16			0.68	X			4.66	X								
+A0A5N7CL84	no_cu	1	neither		40.4	neither		26.4	9.44	0	48											14.28	X			11.11	X
+A0A5N7DKE9	mononuclear	5	CuA	0.48	92.5	CuB	0.34	84.5	4.0	3	28	0.29	0.990	0.29	CU	1.00	0.350	1.00	CU								
+A0A5Q4BTC4	no_cu	4	CuA	2.75	77.8	CuB	2.24	44.5	3.42	4	30	0.76	1.000	0.76	CU	1.54	0.810	1.54	CU								
+A0A5Q4BZL7	mononuclear	5	CuA	0.60	97.8	CuB	0.55	96.7	3.69	2	24	0.66	1.000	0.66	CU	3.26	0.990	3.26	CU								
+A0A5S6PYS3	no_cu	2	neither		67.2	neither		42.1	28.55	0	34			3.70	X			3.42	X								
+A0A5S6QIU3	no_cu	4	CuA	1.03	85.8	CuB	0.75	72.5	4.7	2	34	0.17	0.350	0.17	CU	0.85	0.130	0.85	CU								
+A0A5S6QUR5	mononuclear	5	CuA	0.95	59.9	neither		35.5	25.29	2	50	1.25	0.930	1.25	CU	24.82	0.930	1.90	X	0.97	0.810	0.97	CU	3.47	0.810	3.31	X
+A0A654M5U9	binuclear	5	CuB	0.44	98.2	CuA	0.66	91.9	4.35	3	25	0.66	0.530	0.66	CU	1.72	0.470	1.72	CU								
+A0A665TYY4	mononuclear	5	CuA	0.59	93.0	neither		55.6	20.81	1	30	0.18	0.930	0.18	CU	20.87	0.930	2.56	X	1.03	0.980	1.03	CU	1.77	0.500	1.77	CU
+A0A665U0T6	mononuclear	4	CuA	0.54	93.7	neither		56.9	17.42	2	36	0.52	0.950	0.52	CU	17.61	0.950	2.74	ZN	1.26	0.660	1.26	CU	0.51	0.440	0.51	CU
+A0A669D1M6	mononuclear	5	CuA	0.38	89.6	CuB	4.56	35.8	7.59	1	34	0.31	0.970	0.31	CU	7.36	0.970	7.36	CU	1.26	0.490	1.26	CU	2.68	0.410	2.68	CU
+A0A672MGC5	mononuclear	4	CuB	0.46	89.5	CuA	4.39	62.0	7.49	1	20	0.34	0.960	0.34	CU	7.73	0.960	7.73	CU								
+A0A672ML46	mononuclear	4	CuB	0.40	90.6	CuA	4.60	62.7	7.71	1	21	0.59	0.650	0.59	CU	7.89	0.650	0.54	ZN								
+A0A673AVA6	mononuclear	4	CuA	0.48	92.2	neither		60.1	21.95	1	37	0.08	0.970	0.08	CU	21.95	0.970	3.58	X	1.05	0.260	1.05	CU	4.36	0.260	4.36	CU
+A0A673AW28	mononuclear	4	CuA	0.35	92.7	CuB	1.34	47.4	4.21	2	37	0.73	0.960	0.73	CU	3.83	0.760	3.83	CU								
+A0A6A3EYQ9	mononuclear	4	CuB	0.48	97.2	neither		65.1	27.63	1	28	0.45	0.970	0.45	CU	27.40	0.970	21.17	X	4.31	0.590	4.31	CU	1.17	0.590	1.17	CU
+A0A6A3FBU7	no_cu	0	neither		67.5	neither		55.6	31.28	0	30											7.64	X			7.56	X
+A0A6A3HLB0	binuclear	5	CuB	0.42	94.7	CuA	0.21	94.9	4.22	3	31	0.73	0.770	0.73	CU	0.49	0.930	0.49	CU								
+A0A6A3L3S8	mononuclear	4	CuB	0.37	96.8	neither		63.5	25.73	1	28	0.37	0.970	0.37	CU	25.73	0.970	4.61	X	4.69	0.960	3.10	ZN	1.26	0.960	1.26	CU
+A0A6A3MUA3	mononuclear	4	CuB	0.47	97.3	neither		64.4	27.78	1	24	0.48	0.970	0.48	CU	27.67	0.970	14.29	X	4.75	0.970	4.75	CU	1.54	0.970	1.54	CU
+A0A6A3NDJ9	mononuclear	4	CuB	0.40	97.2	neither		65.1	25.69	1	32	0.22	1.000	0.22	CU	25.70	1.000	2.26	X			12.85	X			13.69	X
+A0A6A3Q4B5	binuclear	5	CuA	0.17	94.7	CuB	0.39	93.3	4.15	3	37	1.06	1.000	1.06	CU	0.22	0.940	0.22	CU								
+A0A6A4E140	mononuclear	4	CuB	0.42	97.4	neither		65.5	25.71	2	26	0.36	0.970	0.36	CU	25.90	0.970	6.24	X			11.25	X			10.35	X
+A0A6A4G489	no_cu	0	neither		68.3	neither		56.2	31.61	0	33											7.43	X			7.52	X
+A0A6A4ZE36	binuclear	5	CuB	0.47	95.1	CuA	0.47	87.2	4.01	3	29	0.39	0.970	0.39	CU	1.16	0.930	1.16	CU								
+A0A6A5RAM1	mononuclear	4	CuA	0.83	89.9	CuB	0.64	68.0	4.3	1	29	0.51	0.840	0.51	CU	3.82	0.840	3.82	CU								
+A0A6A5TLY8	mononuclear	5	CuA	0.50	95.3	CuB	0.59	91.3	3.72	3	27	0.38	0.900	0.38	CU	0.55	0.670	0.55	CU								
+A0A6A5XM88	no_cu	2	CuA	1.13	72.5	neither		40.7	15.57	0	24			0.38	X			5.29	X								
+A0A6A5YJL3	mononuclear	3	CuA	0.34	91.5	neither		71.9	29.33	1	18	1.06	0.550	1.06	CU	28.82	0.550	11.65	X	0.62	0.970	0.62	CU	2.76	0.980	2.76	CU
+A0A6A5ZPV6	mononuclear	5	CuA	0.54	95.9	CuB	0.50	93.2	3.87	2	21	0.30	0.980	0.30	CU	2.84	0.870	2.84	CU								
+A0A6A6BKX9	no_cu	4	CuA	0.51	96.5	CuB	0.71	94.6	3.73	2	21	0.66	0.740	0.66	CU	0.72	0.660	0.72	CU								
+A0A6A6C2M9	mononuclear	5	CuA	0.68	95.0	CuB	0.61	94.9	3.85	3	21	0.76	0.990	0.76	CU	1.17	0.420	1.17	CU								
+A0A6A6CAJ8	mononuclear	5	CuA	0.89	95.7	CuB	1.08	93.8	3.49	2	25	0.13	0.810	0.13	CU	0.60	0.540	0.60	CU								
+A0A6A6CBF1	mononuclear	5	CuA	0.53	96.7	CuB	0.58	94.8	3.82	2	17	0.38	0.860	0.38	CU	0.57	0.720	0.57	CU								
+A0A6A6D3V8	mononuclear	5	CuB	0.18	94.6	CuA	1.11	79.8	4.84	2	35	0.26	0.740	0.26	CU	1.51	0.190	1.51	CU								
+A0A6A6H4U9	mononuclear	4	CuA	0.49	95.4	neither		72.7	23.56	4	26	0.65	0.930	0.65	CU	21.52	0.580	13.34	X	1.00	0.850	1.00	CU	2.64	0.440	1.50	X
+A0A6A6HHK4	mononuclear	5	CuA	0.47	96.8	CuB	0.60	94.8	3.78	3	16	0.56	1.000	0.56	CU	1.29	0.290	1.29	CU								
+A0A6A6JAY1	mononuclear	5	CuA	0.61	95.3	CuB	0.50	93.8	3.91	2	19	0.30	0.980	0.30	CU	0.41	0.730	0.41	CU								
+A0A6A6TSU5	no_cu	2	neither		77.5	neither		48.8	39.32	0	29											2.31	X			2.32	X
+A0A6A6V9C0	binuclear	5	CuB	0.12	97.1	CuA	1.14	94.8	4.19	4	45	1.01	0.700	1.01	CU	0.50	0.580	0.50	CU								
+A0A6A6VF46	mononuclear	5	CuA	0.52	93.2	CuB	0.76	87.8	3.51	2	19	1.03	0.730	1.03	CU	0.73	0.710	0.73	CU								
+A0A6A6VMY9	mononuclear	5	CuB	0.66	94.6	CuA	0.91	74.7	4.94	3	41	0.30	0.930	0.30	CU	0.91	0.600	0.91	CU								
+A0A6A6VU64	mononuclear	5	CuA	0.35	96.1	CuB	0.37	94.6	4.03	2	17	0.76	0.880	0.76	CU	3.65	0.880	3.65	CU								
+A0A6A6XLR7	mononuclear	4	CuB	0.50	86.1	CuA	0.94	56.8	4.59	2	17	0.94	0.740	0.94	CU	3.86	0.740	3.86	CU								
+A0A6A7BLX6	mononuclear	5	CuA	0.38	95.9	CuB	0.60	93.7	3.68	2	24	0.71	0.810	0.71	CU	0.68	0.820	0.68	CU								
+A0A6G0JRR3	mononuclear	5	CuB	0.48	87.1	CuA	0.19	78.7	3.92	3	38	0.84	0.980	0.84	CU	1.37	0.770	1.37	CU								
+A0A6G0LHA8	mononuclear	4	CuB	0.49	97.1	neither		64.7	27.7	1	22	0.10	0.980	0.10	CU	27.75	0.980	12.59	X	3.45	0.710	3.45	CU	1.17	0.970	1.17	CU
+A0A6G0QFF2	binuclear	5	CuA	0.20	95.6	CuB	0.40	94.6	4.14	2	36	1.36	0.440	1.36	CU	0.19	0.600	0.19	CU								
+A0A6G0S364	mononuclear	4	CuB	0.50	97.3	neither		63.9	26.79	1	21	0.24	0.990	0.24	CU	26.98	0.990	19.44	X	4.47	0.590	4.47	CU	1.15	0.590	1.15	CU
+A0A6G0WB52	mononuclear	4	CuB	0.67	95.7	neither		69.2	33.87	1	29	0.30	0.810	0.30	CU	33.91	0.810	12.09	X	4.24	0.900	4.24	CU	0.98	0.900	0.98	CU
+A0A6G0XI62	mononuclear	2	neither		41.9	neither		15.4	11.79	1	49									36.31	0.470	0.88	X	37.10	0.470	4.41	X
+A0A6G1IEP5	mononuclear	5	CuA	0.78	96.6	CuB	0.67	94.3	4.29	3	17	0.90	0.990	0.90	CU	0.88	0.680	0.88	CU								
+A0A6G1KGG9	no_cu	3	neither		65.7	neither		35.0	3.03	0	22											4.24	X			1.21	X
+A0A6H0Y3Z6	mononuclear	5	CuA	0.32	76.2	CuB	0.47	51.4	3.55	2	51	1.41	0.360	1.41	CU	0.60	0.370	0.60	CU								
+A0A6I3X362	mononuclear	5	CuB	0.29	97.5	CuA	1.01	92.9	4.65	3	25	0.12	0.980	0.12	CU	0.58	0.890	0.58	CU								
+A0A6J1BLU4	mononuclear	4	CuB	0.55	89.5	CuA	0.55	53.2	3.4	1	19	0.58	0.920	0.58	CU	2.96	0.920	2.96	CU								
+A0A6J8AZI7	no_cu	3	CuB	0.48	83.7	neither		55.1	24.62	1	24	1.82	0.490	0.69	X	24.88	0.490	7.55	X								
+A0A6J8CJF7	no_cu	2	neither		75.8	neither		44.2	43.98	0	24											10.50	X			9.44	X
+A0A6J8CNM0	mononuclear	5	CuA	0.63	91.0	CuB	0.95	86.8	4.51	3	13	0.54	0.970	0.54	CU	1.92	0.720	1.92	CU								
+A0A6J8CZL5	no_cu	3	CuA	0.79	59.9	neither		32.4	37.97	0	72			4.63	X			4.89	X								
+A0A6J8EAN0	mononuclear	4	CuB	0.63	89.9	neither		42.2	24.67	2	40	0.31	0.890	0.31	CU	24.56	0.890	1.22	X	2.81	0.790	2.81	CU	1.38	0.680	1.38	CU
+A0A6P4ZCR3	no_cu	3	CuB	0.99	80.4	neither		57.8	10.41	0	24			1.14	X			6.49	X								
+A0A6P8I208	mononuclear	4	CuA	1.22	94.6	neither		55.4	37.67	1	39	0.88	0.940	0.88	CU	38.25	0.940	6.55	X	2.06	0.680	2.06	CU	2.41	0.470	2.41	CU
+A0A6V7V3D6	mononuclear	4	CuA	0.59	93.4	neither		69.7	16.45																		
+A0A6V7WY80	no_cu	5	CuB	1.54	86.1	CuA	1.00	77.2	6.02																		
+A0A7C8I7T2	mononuclear	5	CuA	0.50	96.2	CuB	1.31	81.5	5.26	1	15	0.47	0.840	0.47	CU	4.82	0.840	1.92	X								
+A0A7C8IE08	binuclear	5	CuB	0.33	94.9	CuA	0.98	93.1	4.32	2	26	0.31	0.860	0.31	CU	0.85	0.890	0.85	CU								
+A0A7C8MC86	mononuclear	5	CuA	0.78	95.6	CuB	0.78	92.2	3.92	1	18	0.49	0.920	0.49	CU	3.59	0.920	3.59	CU								
+A0A7C8UE72	no_cu	3	neither		86.6	neither		59.5	29.66	1	35	0.34	0.970	0.34	CU	29.47	0.970	14.90	X								
+A0A7C9LY48	mononuclear	5	CuB	0.26	96.0	CuA	0.61	87.1	4.36	4	38	0.60	0.950	0.60	CU	0.26	0.990	0.26	CU								
+A0A7C9M494	mononuclear	5	CuB	0.24	96.2	CuA	0.79	87.7	4.43	3	34	0.59	0.960	0.59	CU	0.95	0.870	0.95	CU								
+A0A7D5Z0B1	mononuclear	5	CuA	0.31	95.5	CuB	0.45	94.7	3.79	1	23	0.59	0.990	0.59	CU	3.23	0.990	3.23	CU								
+A0A7E6EGY5	no_cu	3	neither		53.6	neither		25.8	56.36	0	42											3.83	X			4.58	X
+A0A7H8RBQ9	no_cu	4	CuA	0.46	86.0	CuB	0.49	81.3	3.55	2	26	0.89	0.340	0.89	CU	0.82	0.350	0.82	CU								
+A0A7J6IXY4	mononuclear	5	CuA	0.28	95.3	CuB	0.40	92.5	4.11	2	26	0.46	0.930	0.46	CU	0.46	0.560	0.46	CU								
+A0A7J6J5I0	mononuclear	5	CuA	0.57	98.0	CuB	0.64	94.8	4.13	2	20	0.49	0.950	0.49	CU	0.22	0.770	0.22	CU								
+A0A7J6UTM6	binuclear	5	CuB	0.85	91.3	CuA	1.23	85.9	4.39	2	32	1.54	0.870	1.54	CU	0.38	0.990	0.38	CU								
+A0A7J7J2C8	mononuclear	3	neither		36.8	CuA	0.85	19.0	21.6	0	35			0.96	X			5.48	X			8.15	X			4.27	X
+A0A7K7RZM1	mononuclear	5	CuA	0.32	95.8	CuB	0.40	90.0	3.5	2	27	0.11	0.860	0.11	CU	1.25	0.840	1.25	CU								
+A0A7M5V4K9	no_cu	3	neither		67.6	neither		79.0	39.58	0	23											6.81	X			9.21	X
+A0A7M5WXX0	no_cu	2	neither		76.5	neither		55.1	36.57	0	38											2.97	X			3.56	X
+A0A7M5XIS8	no_cu	3	neither		73.9	neither		73.6	29.99	0	26											2.27	X			2.45	X
+A0A7M6DQE2	no_cu	1	neither		79.2	neither		66.0	29.17	0	24			7.92	X			2.36	X								
+A0A7N6AMA0	mononuclear	5	CuA	0.62	94.0	CuB	1.45	53.0	4.93	1	28	0.22	0.970	0.22	CU	4.79	0.970	1.29	X								
+A0A7R8ARR0	mononuclear	5	CuA	0.61	95.0	CuB	0.48	90.6	4.08	2	16	0.21	1.000	0.21	CU	0.57	0.760	0.57	CU								
+A0A7R9UNI4	no_cu	1	neither		88.8	neither		66.6	31.19	0	26											7.99	X			7.35	X
+A0A7S0FYS9	mononuclear	3	CuB	1.10	88.8	neither		61.5	19.45	2	22	0.75	0.900	0.75	CU	19.55	0.900	6.14	X								
+A0A7S1T762	mononuclear	5	CuB	1.46	93.0	CuA	0.43	92.0	5.0	2	18	1.28	0.680	1.28	CU	0.31	0.960	0.31	CU								
+A0A7S1T768	mononuclear	5	CuB	1.46	78.9	CuA	0.38	79.2	5.02	3	21	0.72	0.610	0.72	CU	0.55	0.890	0.55	CU								
+A0A7S2D0S4	no_cu	2	neither		60.3	neither		57.6	27.41	0	28											2.59	X			0.96	X
+A0A7S2EUW0	mononuclear	5	CuB	0.84	75.4	neither		79.7	44.08	2	55	1.01	0.840	1.01	CU	43.23	0.840	0.53	ZN	1.99	0.330	1.99	CU	1.07	0.920	1.07	CU
+A0A7S2JHL4	no_cu	2	neither		56.3	neither		42.3	52.49	1	61	39.54	0.140	3.07	X	13.93	0.140	2.36	X								
+A0A7S2JHQ4	no_cu	1	neither		59.1	neither		34.1	22.11	0	61			3.52	ZN			1.24	X								
+A0A7S3EYR7	binuclear	3	CuB	0.18	78.6	neither		30.4	11.0	2	46	0.59	0.700	0.59	CU	8.72	0.290	0.67	ZN								
+A0A7S4QPD7	binuclear	5	CuB	0.34	94.3	CuA	0.44	90.2	4.19	3	47	0.39	0.830	0.39	CU	0.60	0.940	0.60	CU								
+A0A7S4QRZ1	binuclear	5	CuB	0.32	95.1	CuA	0.47	90.3	4.09	2	40	0.43	0.940	0.43	CU	0.64	0.670	0.64	CU								
+A0A7W5H8K5	mononuclear	5	CuB	0.16	97.5	CuA	0.68	90.5	4.44	0	22			6.39	X			6.27	X								
+A0A7W8KIV5	binuclear	5	CuB	0.41	84.4	CuA	1.14	63.8	4.91	3	55	0.87	0.890	0.87	CU	0.83	0.620	0.83	CU								
+A0A7X5ASN3	mononuclear	5	CuB	0.25	91.8	CuA	0.94	79.5	4.34	3	22	0.26	0.970	0.26	CU	0.43	0.860	0.43	CU								
+A0A7Y7WSX0	mononuclear	5	CuB	0.34	97.2	CuA	1.39	86.2	4.7	2	31	0.48	0.940	0.48	CU	0.73	0.700	0.73	CU								
+A0A7Y7X987	mononuclear	5	CuB	0.32	97.1	CuA	0.70	90.4	4.22	1	22	0.30	0.880	0.30	CU	3.99	0.880	3.99	CU								
+A0A7Y8BLA6	mononuclear	5	CuB	0.32	96.6	CuA	0.69	90.8	4.38	4	26	0.69	0.980	0.69	CU	1.20	0.560	1.20	CU								
+A0A812BCK9	no_cu	1	neither		45.7	neither		24.3	43.1	0	62											11.58	X			10.20	X
+A0A812PC05	no_cu	4	CuA	0.50	94.9	CuB	2.13	83.3	6.09	1	35	1.30	0.930	1.30	CU	4.81	0.930	4.81	CU								
+A0A812V664	no_cu	4	CuA	0.64	94.1	CuB	1.92	75.3	5.54	0	21			0.58	X			1.85	X								
+A0A812XIJ6	no_cu	4	CuA	0.51	94.3	CuB	1.84	81.5	5.63	1	26	1.02	0.610	1.02	CU	4.73	0.610	4.73	CU								
+A0A833WLV2	no_cu	0	neither		64.0	neither		59.8	30.79	0	24											5.39	X			4.97	X
+A0A858R6E5	mononuclear	5	CuB	0.24	94.8	CuA	0.88	88.1	4.46	2	27	0.46	0.780	0.46	CU	0.55	0.880	0.55	CU								
+A0A8A3PKD0	mononuclear	5	CuB	0.29	92.5	CuA	0.82	75.2	3.83	2	36	0.29	0.930	0.29	CU	0.28	0.480	0.28	CU								
+A0A8B6E8R8	no_cu	2	CuA	0.60	64.8	neither		76.0	28.08	0	30			0.76	X			6.05	X								
+A0A8B6FI79	mononuclear	4	CuB	0.51	92.4	neither		34.8	29.13	2	41	0.24	0.970	0.24	CU	29.05	0.970	2.88	ZN	3.30	0.970	3.30	CU	0.72	0.970	0.72	CU
+A0A8B8D4J3	no_cu	2	neither		51.7	neither		29.2	2.25	0	53											7.94	X			10.22	X
+A0A8B9AG70	no_cu	3	CuB	1.23	78.2	neither		57.3	22.74	2	35	0.71	0.900	0.71	CU	22.42	0.620	1.04	X								
+A0A8B9GJT5	mononuclear	5	CuB	0.47	89.3	CuA	0.23	61.5	4.49	2	31	0.28	0.700	0.28	CU	1.14	0.490	1.14	CU								
+A0A8C0NCZ3	binuclear	5	CuB	0.21	83.9	CuA	0.45	88.9	3.66	1	37	3.27	0.970	3.27	CU	0.42	0.970	0.42	CU								
+A0A8H2VQV0	mononuclear	5	CuA	0.50	96.4	CuB	0.61	94.7	3.69	3	18	1.03	0.950	1.03	CU	1.34	0.810	1.34	CU								
+A0A8H2X9J9	mononuclear	5	CuA	0.64	92.4	CuB	1.48	86.1	5.34	3	23	0.15	0.980	0.15	CU	0.50	0.360	0.50	CU								
+A0A8H2XQY6	no_cu	3	CuA	0.64	93.7	CuB	0.61	80.2	4.15	1	22	1.15	0.430	1.15	CU	3.29	0.430	1.28	X								
+A0A8H3ANG7	no_cu	3	CuA	0.80	93.7	neither		50.7	24.05	1	26	0.27	0.840	0.27	CU	23.99	0.840	0.80	ZN								
+A0A8H3BNH7	no_cu	3	CuA	0.68	93.2	CuB	0.57	79.3	4.08	2	16	0.21	0.830	0.21	CU	1.95	0.740	1.95	CU								
+A0A8H3CDA8	no_cu	3	CuA	0.68	94.6	neither		58.4	23.91	2	27	0.47	0.400	0.47	CU	23.73	0.400	1.34	X								
+A0A8H3CUW5	binuclear	3	CuB	0.25	88.8	neither		61.9	11.36	3	46	0.09	0.940	0.09	CU	7.88	0.860	1.94	ZN								
+A0A8H3CZ20	mononuclear	3	CuB	2.67	85.7	CuA	1.00	71.8	2.89	0	21			0.73	X			2.28	X								
+A0A8H3DH08	no_cu	3	CuB	3.91	92.2	neither		65.3	10.97	3	50	0.10	0.960	0.10	CU	8.28	0.380	1.03	ZN								
+A0A8H3DKS2	mononuclear	4	CuB	0.22	93.2	CuA	1.58	67.2	5.39	1	41	0.97	0.960	0.97	CU	5.76	0.960	0.81	X								
+A0A8H3DR34	no_cu	3	CuA	0.67	93.2	CuB	0.40	74.6	3.97	1	15	1.02	0.430	1.02	CU	3.26	0.430	1.65	X								
+A0A8H3FNM0	mononuclear	4	CuA	0.54	96.9	CuB	0.44	76.6	4.21	1	16	0.67	0.990	0.67	CU	3.64	0.990	2.08	X								
+A0A8H3FR24	binuclear	3	CuB	0.33	93.2	neither		64.5	10.51	3	44	0.98	0.830	0.98	CU	6.65	0.590	0.82	ZN								
+A0A8H3GJI1	no_cu	3	CuA	0.58	94.3	CuB	0.54	77.9	4.21	0	26			0.28	X			1.38	X								
+A0A8H3HGU7	no_cu	3	CuA	0.66	86.5	CuB	0.56	69.4	3.86	1	25	1.05	0.580	1.05	CU	3.20	0.580	1.83	X								
+A0A8H3I335	mononuclear	4	CuA	0.55	92.3	CuB	1.03	89.3	3.28	3	16	1.88	0.610	1.88	CU	1.18	0.660	1.18	CU								
+A0A8H3IAU0	mononuclear	5	CuA	0.61	96.8	CuB	0.65	93.6	3.78	2	31	0.90	0.890	0.90	CU	1.46	0.930	1.46	CU								
+A0A8H3IDD5	mononuclear	5	CuA	0.61	96.8	CuB	0.65	94.4	3.8	2	23	0.49	0.750	0.49	CU	1.11	0.880	1.11	CU								
+A0A8H3UFY5	mononuclear	5	CuA	0.26	95.9	CuB	0.50	92.5	3.88	2	22	0.31	0.860	0.31	CU	1.17	0.800	1.17	CU								
+A0A8H3VC67	mononuclear	5	CuA	0.21	96.0	CuB	0.47	92.1	3.99	2	42	0.49	0.720	0.49	CU	0.67	0.520	0.67	CU								
+A0A8H3W2Z1	mononuclear	5	CuA	0.56	98.0	CuB	0.62	94.5	4.02	3	21	1.11	0.930	1.11	CU	1.33	0.660	1.33	CU								
+A0A8H3W909	mononuclear	5	CuA	0.35	95.4	CuB	0.47	94.2	4.16	3	20	0.24	0.980	0.24	CU	0.14	0.880	0.14	CU								
+A0A8H4CJG9	mononuclear	4	CuB	2.14	72.6	neither		35.5	23.93	1	27	0.29	0.880	0.29	CU	23.76	0.880	7.26	X								
+A0A8H4CPR6	mononuclear	5	CuA	0.56	98.1	CuB	0.67	95.2	4.12	3	20	0.43	0.970	0.43	CU	0.87	0.560	0.87	CU								
+A0A8H4CUC1	mononuclear	5	CuB	0.54	92.6	CuA	0.54	86.0	4.08	1	21	0.47	0.740	0.47	CU	4.01	0.740	4.01	CU								
+A0A8H4FHG1	mononuclear	5	CuA	0.34	96.1	CuB	0.38	95.4	4.22	3	17	0.38	0.920	0.38	CU	1.62	0.670	1.62	CU								
+A0A8H4IVL2	mononuclear	5	CuB	0.50	96.5	CuA	0.23	92.1	3.81	2	15	1.73	0.510	1.73	CU	1.26	0.460	1.26	CU								
+A0A8H4JDQ9	mononuclear	5	CuB	1.08	94.5	CuA	1.43	81.2	4.95	3	17	0.69	0.940	0.69	CU	0.95	0.740	0.95	CU								
+A0A8H4JHW9	mononuclear	5	CuA	0.29	96.9	CuB	0.48	95.3	3.67	3	15	1.10	0.970	1.10	CU	1.91	0.530	1.91	CU								
+A0A8H4QR39	mononuclear	5	CuA	0.55	92.2	CuB	0.94	80.2	3.43	3	53	0.29	0.900	0.29	CU	0.85	0.800	0.85	CU								
+A0A8H4RK75	mononuclear	5	CuA	0.45	96.2	CuB	0.63	94.3	4.0	3	21	0.31	0.990	0.31	CU	1.40	0.910	1.40	CU								
+A0A8H4RXM0	mononuclear	5	CuA	0.37	94.2	CuB	0.53	93.2	3.62	3	23	0.33	0.980	0.33	CU	0.68	0.970	0.68	CU								
+A0A8H4Z0P3	mononuclear	5	CuA	0.33	95.0	CuB	0.42	94.0	3.86	2	21	0.87	0.730	0.87	CU	1.29	0.400	1.29	CU								
+A0A8H4ZIX0	binuclear	5	CuB	0.40	95.5	CuA	0.68	93.1	3.86	5	41	0.95	0.740	0.95	CU	1.36	0.950	1.36	CU								
+A0A8H5AS67	binuclear	5	CuB	0.27	94.9	CuA	0.85	90.3	4.02	4	45	0.72	0.850	0.72	CU	1.31	0.980	1.31	CU								
+A0A8H5ATU2	no_cu	3	neither		74.1	neither		56.2	19.22	0	16											8.99	X			7.90	X
+A0A8H5EAG2	binuclear	5	CuB	0.50	96.6	CuA	0.87	91.8	4.87	1	14	0.17	0.980	0.17	CU	4.74	0.980	2.00	X								
+A0A8H5GBV2	mononuclear	5	CuB	0.58	79.1	CuA	0.80	80.5	3.82	3	30	1.00	0.980	1.00	CU	1.10	0.970	1.10	CU								
+A0A8H5JRL3	mononuclear	5	CuB	0.37	85.4	CuA	0.56	65.6	3.71	1	38	2.24	0.450	2.24	CU	5.68	0.450	5.68	CU								
+A0A8H5MQC7	mononuclear	5	CuA	0.40	95.2	CuB	0.59	95.7	3.71	2	20	0.49	1.000	0.49	CU	0.94	0.890	0.94	CU								
+A0A8H5N7B6	mononuclear	5	CuA	0.27	90.9	CuB	0.14	86.4	3.84	1	19	0.29	0.990	0.29	CU	3.58	0.990	3.58	CU								
+A0A8H5PBB3	no_cu	4	neither		74.2	CuB	3.97	38.3	2.74	2	24	0.46	0.870	0.46	CU	2.35	0.870	2.35	CU								
+A0A8H5PBF2	mononuclear	5	CuA	0.46	90.0	CuB	0.63	91.8	3.68	2	22	0.18	0.920	0.18	CU	1.30	0.940	1.30	CU								
+A0A8H5Q6G5	binuclear	5	CuA	0.41	94.9	CuB	0.44	71.7	3.88	3	17	0.24	0.820	0.24	CU	1.19	0.710	1.19	CU								
+A0A8H5TQU7	binuclear	5	CuB	0.28	94.9	CuA	0.67	92.1	3.84	2	37	0.36	0.770	0.36	CU	0.30	0.980	0.30	CU								
+A0A8H5UC91	mononuclear	5	CuA	0.28	95.8	CuB	0.41	94.5	3.87	2	30	0.58	0.960	0.58	CU	1.36	0.140	1.36	CU								
+A0A8H5V6E6	mononuclear	5	CuA	0.34	96.6	CuB	0.51	95.1	3.69	3	30	0.42	0.810	0.42	CU	1.25	0.680	1.25	CU								
+A0A8H5WCB4	binuclear	5	CuB	0.58	97.4	CuA	0.88	93.3	4.88	1	14	0.43	0.990	0.43	CU	4.84	0.990	0.49	X								
+A0A8H5XW17	mononuclear	5	CuA	0.32	96.1	CuB	0.40	95.0	3.84	3	21	1.00	0.760	1.00	CU	1.15	0.610	1.15	CU								
+A0A8H6A0W2	no_cu	2	CuB	0.95	59.6	neither		29.5	17.79	0	38			4.74	X			5.92	X								
+A0A8H6ANQ1	mononuclear	4	CuA	0.38	87.2	CuB	0.58	66.5	3.73	2	16	0.30	0.980	0.30	CU	2.20	0.930	2.20	CU								
+A0A8H6FIQ4	mononuclear	5	CuA	0.71	89.5	CuB	0.94	86.2	3.63	2	23	0.72	0.930	0.72	CU	0.65	0.800	0.65	CU								
+A0A8H6HT48	mononuclear	4	CuB	2.22	87.4	CuA	2.87	52.4	3.19	3	26	0.57	0.350	0.57	CU	3.64	0.350	3.64	CU								
+A0A8H6JVW5	no_cu	4	CuB	0.63	94.1	CuA	0.55	88.1	4.03	0	17			12.52	NA			12.73	NA								
+A0A8H6L0G3	mononuclear	5	CuA	0.61	94.1	CuB	0.79	91.7	3.66	1	17	0.36	0.960	0.36	CU	3.92	0.960	3.92	CU								
+A0A8H6MKC6	no_cu	4	CuB	0.70	94.0	CuA	0.46	89.1	3.92	3	22	0.61	0.690	0.61	CU	0.51	0.510	0.51	CU								
+A0A8H6MX70	mononuclear	5	CuA	0.47	97.6	CuB	0.60	96.1	4.04	4	22	0.40	0.990	0.40	CU	1.05	0.730	1.05	CU								
+A0A8H6N7U5	mononuclear	5	CuA	0.36	96.5	CuB	0.62	93.7	4.1	2	22	0.28	0.960	0.28	CU	1.03	0.570	1.03	CU								
+A0A8H6S8I0	mononuclear	5	CuB	0.33	95.3	CuA	0.46	82.1	3.83	2	28	0.25	0.830	0.25	CU	0.43	0.620	0.43	CU								
+A0A8H6YHY9	binuclear	5	CuB	0.18	90.6	CuA	0.80	83.8	4.03	3	42	0.50	0.920	0.50	CU	0.46	0.960	0.46	CU								
+A0A8H7BB98	mononuclear	5	CuA	0.65	93.2	CuB	0.81	91.9	3.74	2	37	0.30	0.850	0.30	CU	0.32	0.880	0.32	CU								
+A0A8H7CJP5	binuclear	5	CuA	0.37	90.8	CuB	0.76	85.2	3.44	3	26	0.67	0.980	0.67	CU	1.27	0.800	1.27	CU								
+A0A8H7H065	mononuclear	4	CuB	1.98	93.1	CuA	1.60	59.2	5.36	3	58	0.54	0.830	0.54	CU	4.29	0.670	0.31	X								
+A0A8H7H0A0	no_cu	3	CuA	0.77	92.7	neither		50.3	24.33	3	20	0.50	0.510	0.50	CU	24.13	0.520	1.21	ZN								
+A0A8H7HFI3	mononuclear	4	CuB	0.38	90.3	CuA	0.96	66.3	4.09	5	22	0.55	0.980	0.55	CU	1.05	0.540	1.05	CU								
+A0A8H7I333	no_cu	3	CuA	0.89	91.0	CuB	0.76	72.1	3.97	1	20	0.41	0.700	0.41	CU	3.57	0.700	1.12	X								
+A0A8H7IC95	mononuclear	5	CuB	0.43	90.5	CuA	0.60	64.4	4.12	4	15	0.55	0.970	0.55	CU	1.33	0.140	1.33	CU								
+A0A8H7K265	binuclear	5	CuB	0.57	96.1	CuA	0.54	94.5	3.92	1	21	1.42	0.130	1.42	CU	4.03	0.130	4.03	CU								
+A0A8H7LYZ4	mononuclear	5	CuB	0.32	92.1	CuA	0.99	69.2	4.0	6	27	1.01	0.990	1.01	CU	2.10	0.780	2.10	CU								
+A0A8H7M1F4	mononuclear	4	CuB	0.34	91.6	CuA	1.81	60.0	5.41	4	52	0.61	0.880	0.61	CU	2.99	0.870	0.49	X								
+A0A8H7MHY0	mononuclear	5	CuA	0.53	93.8	CuB	0.80	93.0	4.78	4	27	0.31	0.960	0.31	CU	1.20	0.750	1.20	CU								
+A0A8H7W0M8	mononuclear	5	CuA	0.65	95.8	CuB	0.26	93.7	4.21	2	16	0.62	0.980	0.62	CU	0.39	0.460	0.39	CU								
+A0A8H7Y763	mononuclear	4	CuA	0.72	94.7	CuB	0.26	88.4	3.92	2	18	1.87	0.380	1.87	CU	0.43	0.410	0.43	CU								
+A0A8H8P4P0	no_cu	3	CuA	0.72	92.4	CuB	0.54	73.1	3.68	3	19	0.34	0.550	0.34	CU	1.39	0.340	1.39	CU								
+A0A8H8RL10	mononuclear	5	CuA	0.83	95.8	CuB	0.83	94.3	3.8	3	18	0.22	0.890	0.22	CU	0.19	0.740	0.19	CU								
+A0A8H8RRA0	mononuclear	5	CuB	1.11	90.1	CuA	0.87	61.7	4.67	3	25	0.27	0.370	0.27	CU	1.23	0.470	1.23	CU								
+A0A8H8U2D2	mononuclear	5	CuA	0.71	94.2	CuB	0.94	92.7	3.56	3	20	0.70	0.890	0.70	CU	0.87	0.690	0.87	CU								
+A0A8H9LF69	no_cu	2	CuA	1.51	94.2	neither		79.4	30.38	0	13			1.41	X			5.27	X								
+A0A8J1TDZ8	no_cu	1	neither		49.7	neither		15.8	20.36	2	68									2.46	0.390	2.46	CU	2.30	0.390	2.30	CU
+A0A8J4W827	no_cu	0	neither		77.6	neither		54.4	19.95	0	33											5.47	X			4.91	X
+A0A8J5IZX1	no_cu	1	neither		72.8	neither		55.5	40.96	0	34											4.53	X			3.09	X
+A0A8J5M7S4	mononuclear	4	CuB	0.47	97.5	neither		72.1	21.66	1	31	0.32	0.860	0.32	CU	21.64	0.860	14.21	X	4.02	0.980	3.92	X	0.79	0.980	0.79	CU
+A0A8J5XMZ9	no_cu	1	neither		89.4	neither		68.0	30.44	0	30											10.32	ZN			12.43	X
+A0A8J7L7N4	binuclear	5	CuB	0.62	96.7	CuA	0.94	93.3	4.34	3	34	1.89	0.270	1.89	CU	0.73	0.870	0.73	CU								
+A0A8J9R8H5	mononuclear	5	CuA	0.45	94.6	CuB	0.59	94.0	4.18	2	28	0.31	0.990	0.31	CU	0.82	0.630	0.82	CU								
+A0A8K0IA90	no_cu	2	CuB	1.03	52.7	neither		13.9	11.04	0	45			0.46	X			4.78	ZN								
+A0A8K0R3D6	mononuclear	5	CuA	0.44	95.2	CuB	0.63	94.3	3.67	2	19	1.42	0.840	1.42	CU	2.66	0.780	2.66	CU								
+A0A8K0SEI0	mononuclear	4	CuB	0.78	95.2	neither		75.6	23.69	1	19	0.43	0.580	0.43	CU	23.99	0.580	10.31	X								
+A0A8K0T8Y5	mononuclear	5	CuA	0.48	96.0	CuB	0.21	91.3	4.14	2	21	0.60	0.980	0.60	CU	0.90	0.700	0.90	CU								
+A0A8N5I073	mononuclear	4	CuA	0.57	90.8	CuB	0.97	55.6	4.21	2	24	0.82	0.760	0.82	CU	3.52	0.550	3.52	CU								
+A0A8R1TKI8	mononuclear	5	CuA	0.32	95.3	CuB	0.99	90.0	3.56	1	63	2.37	0.320	2.37	CU	1.46	0.320	1.46	CU								
+A0A8S3QCE6	no_cu	3	CuB	0.72	87.4	CuA	1.10	69.0	3.83	1	20	1.24	0.360	1.24	CU	2.63	0.360	2.63	CU								
+A0A8S3RVL9	no_cu	2	neither		77.8	neither		62.7	40.82	0	27											10.03	X			8.89	X
+A0A8S3S028	no_cu	2	CuA	0.85	58.2	neither		23.9	25.94	2	70	0.79	0.360	0.79	CU	25.16	0.370	0.55	X								
+A0A8S3S1J4	no_cu	2	CuA	0.76	64.0	neither		25.5	32.53	1	59	2.61	0.330	2.61	CU	33.10	0.330	3.19	X								
+A0A8S3THZ3	mononuclear	4	CuB	0.54	91.7	neither		33.5	29.13	3	40	0.50	0.920	0.50	CU	28.73	0.920	3.35	X	2.75	0.910	2.75	CU	1.09	0.960	1.09	CU
+A0A8T1MS49	mononuclear	5	CuA	0.14	96.1	CuB	1.35	82.7	5.07	2	27	0.56	0.990	0.56	CU	2.31	0.880	2.31	CU								
+A0A8T1U1C5	mononuclear	5	CuA	1.98	73.2	CuB	3.83	40.2	5.77																		
+A0A8T1W4C6	mononuclear	4	CuB	0.45	96.5	neither		67.6	21.95	1	35	0.63	0.960	0.63	CU	21.89	0.960	10.46	X	4.57	0.930	4.57	CU	0.94	0.930	0.94	CU
+A0A8T1W6M6	no_cu	0	neither		67.3	neither		58.8	31.51	0	39											5.60	X			4.51	X
+A0A8T1WU85	no_cu	1	neither		72.0	neither		60.4	17.52	0	26											4.89	X			3.52	X
+A0A8T9AZC4	mononuclear	5	CuA	0.60	95.0	CuB	0.73	89.6	3.75	3	21	0.59	0.980	0.59	CU	1.88	0.950	1.88	CU								
+A0A8U0BYH4	no_cu	2	CuB	2.02	78.8	neither		52.1	30.61	0	23			4.36	X			0.55	X								
+A0A8U0BYU8	no_cu	2	neither		67.0	neither		57.5	34.61	0	24											8.03	X			8.39	X
+A0A8U0BZ64	no_cu	1	neither		66.5	CuB	0.38	32.9	24.04	0	52			15.42	X			8.72	X								
+A0A8U0BZL2	no_cu	1	neither		59.2	neither		56.2	37.04	0	25											12.00	X			8.36	X
+A0A8U0C0J3	no_cu	2	neither		72.5	neither		58.8	35.0	0	25											3.24	X			1.26	X
+A0A8W8J4S3	no_cu	3	CuB	0.42	82.6	neither		50.2	16.0	2	31	1.24	0.410	1.24	CU	14.73	0.380	2.49	X								
+A0A8X6KWP2	no_cu	2	neither		55.8	neither		49.4	26.43	0	29											3.53	ZN			1.26	ZN
+A0A8X7N2K2	binuclear	5	CuB	0.62	92.2	CuA	0.67	81.0	3.88	2	23	0.42	0.990	0.42	CU	0.42	0.590	0.42	CU								
+A0A913XYY6	mononuclear	2	CuA	1.03	72.2	neither		46.9	27.1	0	12			1.38	X			14.94	X			2.75	X			1.57	X
+A0A914DIV0	mononuclear	5	CuB	0.52	90.9	CuA	0.31	80.8	4.1	2	33	0.45	0.960	0.45	CU	0.97	0.540	0.97	CU								
+A0A914L211	binuclear	5	CuB	0.94	66.1	CuA	0.46	69.7	4.59	3	34	1.14	0.710	1.14	CU	0.25	0.920	0.25	CU								
+A0A914L5B1	mononuclear	4	CuB	0.53	87.1	CuA	0.80	60.8	4.86	0	20			4.90	X			6.38	X								
+A0A914S644	mononuclear	3	CuA	1.22	72.5	CuB	0.89	62.0	4.85	1	25	26.97	0.230	3.38	X	29.01	0.230	2.59	X								
+A0A914V8X7	mononuclear	3	CuB	1.32	70.8	CuA	4.32	41.1	3.29	1	13	1.45	0.680	1.45	CU	3.68	0.680	3.68	CU								
+A0A914VGJ7	no_cu	1	neither		75.8	neither		51.2	27.77	0	20			2.80	X			14.47	X								
+A0A914XEE1	no_cu	1	neither		75.8	neither		70.7	35.53	0	22			0.70	X			0.44	X								
+A0A915AZH0	mononuclear	5	CuA	0.37	96.0	CuB	0.84	87.0	3.67	1	49	0.80	0.960	0.80	CU	2.91	0.960	2.91	CU								
+A0A915C5Q4	mononuclear	3	CuA	0.74	81.1	CuB	0.79	70.0	4.05	0	47			2.93	X			1.84	X								
+A0A915C6W5	mononuclear	3	CuA	0.72	80.3	CuB	0.67	69.0	3.97	0	44			6.93	X			6.61	X								
+A0A915JK17	no_cu	4	CuB	0.91	89.3	neither		50.9	17.14	1	24	0.34	0.670	0.34	CU	16.88	0.670	6.71	X								
+A0A915M8S0	binuclear	5	CuA	0.40	92.8	CuB	0.56	81.2	4.64	2	19	0.39	0.990	0.39	CU	3.01	0.980	3.01	CU								
+A0A917QDB2	binuclear	5	CuB	0.33	97.2	CuA	0.48	95.1	4.01	2	23	0.64	0.910	0.64	CU	0.82	0.950	0.82	CU								
+A0A918SV45	mononuclear	5	CuB	0.35	97.7	CuA	0.88	94.2	4.43	2	23	0.38	0.980	0.38	CU	1.58	0.570	1.58	CU								
+A0A918T1K9	mononuclear	5	CuB	0.20	96.5	CuA	0.89	85.3	4.6	2	30	0.26	0.990	0.26	CU	1.28	0.840	1.28	CU								
+A0A918W4Y4	mononuclear	5	CuB	0.24	97.4	CuA	0.53	89.5	4.22	2	19	0.33	0.960	0.33	CU	0.61	0.940	0.61	CU								
+A0A918Z2Y2	mononuclear	5	CuB	0.20	96.2	CuA	0.89	84.4	4.57	3	26	0.27	0.970	0.27	CU	0.57	0.970	0.57	CU								
+A0A919DDV5	mononuclear	5	CuB	0.14	96.5	CuA	0.60	86.4	4.34	5	34	1.23	0.900	1.23	CU	1.05	0.850	1.05	CU								
+A0A919RHA1	mononuclear	4	CuB	2.14	65.6	neither		62.7	4.22	2	19	0.79	0.380	0.79	CU	3.64	0.380	3.64	CU	3.20	0.460	3.20	CU	1.75	0.460	1.75	CU
+A0A934SPS7	no_cu	2	CuB	0.80	97.6	neither		75.2	24.03	1	30	0.62	0.450	0.62	CU	24.57	0.450	2.02	X								
+A0A976IE71	no_cu	1	neither		72.7	neither		54.9	18.99	0	38											5.45	X			3.72	X
+A0A9D3URW0	mononuclear	4	CuB	0.74	85.0	CuA	0.64	53.9	3.6	2	21	1.28	0.700	1.28	CU	2.73	0.700	2.73	CU								
+A0A9D4DVG4	mononuclear	5	CuB	0.10	94.2	CuA	1.26	68.2	4.21	2	34	0.64	0.870	0.64	CU	2.93	0.840	2.93	CU								
+A0A9D4DW49	mononuclear	4	CuB	0.17	95.2	neither		60.2	22.1																		
+A0A9D4EB14	mononuclear	3	CuA	0.99	81.8	neither		57.1	27.0	0	37			2.63	X			0.61	X			1.64	X			1.15	X
+A0A9D4GX75	no_cu	4	CuB	0.39	93.8	CuA	0.73	70.5	4.75	2	25	0.26	0.540	0.26	CU	3.62	0.460	3.62	CU								
+A0A9D4IDS9	mononuclear	5	CuB	0.10	94.1	CuA	1.11	69.8	4.11	1	34	0.27	0.970	0.27	CU	4.00	0.970	4.00	CU								
+A0A9D4JUB0	no_cu	4	CuB	0.35	94.1	CuA	0.58	71.7	4.48	2	23	0.94	0.550	0.94	CU	2.97	0.530	2.97	CU								
+A0A9D4V2I4	mononuclear	5	CuA	0.80	94.6	CuB	0.42	94.8	4.31	3	35	1.06	0.980	1.06	CU	0.27	0.630	0.27	CU								
+A0A9D4Z585	mononuclear	5	CuA	0.86	95.7	CuB	0.56	95.6	3.84	2	18	1.58	0.790	1.58	CU	2.14	0.870	2.14	CU								
+A0A9E7H3J2	binuclear	5	CuB	0.24	94.1	CuA	0.73	81.8	4.05	2	22	0.39	0.750	0.39	CU	0.49	0.930	0.49	CU								
+A0A9J2Q8W3	no_cu	4	neither		82.9	neither		72.2	13.42																		
+A0A9J7MSC3	no_cu	1	neither		67.3	neither		50.5	26.67	0	34											0.80	X			3.14	X
+A0A9N8JDS5	binuclear	5	CuA	0.50	92.6	CuB	1.41	92.2	3.97	2	37	0.87	0.990	0.87	CU	0.92	0.870	0.92	CU								
+A0A9N8KBE8	no_cu	2	neither		72.5	neither		61.5	25.98																		
+A0A9N8PYA4	no_cu	1	neither		64.8	neither		79.3	31.19	0	32			6.57	X			0.79	X								
+A0A9N9KL52	mononuclear	5	CuA	0.53	97.0	CuB	0.67	95.4	3.69	3	22	0.64	0.990	0.64	CU	0.46	0.980	0.46	CU								
+A0A9N9LFQ9	binuclear	5	CuB	0.53	91.6	CuA	0.92	87.0	4.02	2	46	1.52	0.910	1.52	CU	0.38	0.940	0.38	CU								
+A0A9N9LHE3	binuclear	5	CuB	0.30	95.9	CuA	0.96	88.0	4.26	2	35	0.44	0.900	0.44	CU	0.32	0.780	0.32	CU								
+A0A9N9PT18	binuclear	5	CuB	0.28	97.3	CuA	0.50	93.6	4.03	2	21	0.24	0.990	0.24	CU	0.94	0.800	0.94	CU								
+A0A9N9TUY4	mononuclear	4	CuB	0.26	90.1	CuA	2.37	46.3	5.78	2	51	0.56	0.780	0.56	CU	3.00	0.750	3.00	CU								
+A0A9P4H2P0	binuclear	5	CuB	0.76	97.7	CuA	1.25	96.2	4.67	3	21	0.45	0.910	0.45	CU	0.22	0.910	0.22	CU								
+A0A9P4IEM6	mononuclear	5	CuA	0.88	69.9	CuB	1.39	56.1	5.14	3	42	0.77	0.990	0.77	CU	4.44	0.980	4.44	CU								
+A0A9P4JTW6	mononuclear	5	CuA	0.61	93.3	CuB	0.78	89.3	3.68	1	17	1.98	0.180	1.98	CU	1.92	0.180	1.92	CU								
+A0A9P4NQG6	mononuclear	5	CuB	0.59	96.2	CuA	0.64	93.5	3.47	3	23	0.93	0.940	0.93	CU	2.46	0.920	2.46	CU								
+A0A9P4PM19	binuclear	5	CuB	0.54	98.1	CuA	0.69	94.6	4.21	2	24	0.58	0.930	0.58	CU	0.95	0.630	0.95	CU								
+A0A9P4PTR1	binuclear	5	CuB	0.25	95.7	CuA	0.92	93.5	4.01	3	32	0.50	0.930	0.50	CU	0.69	0.940	0.69	CU								
+A0A9P4QMU1	mononuclear	5	CuA	0.55	96.5	CuB	0.55	90.7	3.98	4	25	0.61	0.940	0.61	CU	0.96	0.760	0.96	CU								
+A0A9P4U804	mononuclear	5	CuA	0.46	93.8	CuB	0.44	86.0	4.01	2	25	0.14	0.950	0.14	CU	1.01	0.390	1.01	CU								
+A0A9P4YYF2	mononuclear	5	CuB	0.29	85.1	CuA	0.58	45.2	4.35	1	25	1.11	0.300	1.11	CU	3.68	0.300	3.68	CU								
+A0A9P5BFG7	mononuclear	5	CuA	0.64	88.2	CuB	2.42	64.3	3.71	2	27	0.37	0.880	0.37	CU	3.07	0.820	3.07	CU								
+A0A9P5F1P8	mononuclear	5	CuA	0.56	98.0	CuB	0.67	94.9	4.13	3	25	0.26	0.930	0.26	CU	0.85	0.830	0.85	CU								
+A0A9P5IJI5	mononuclear	5	CuA	0.19	94.1	CuB	0.56	91.0	3.5	3	26	0.58	0.960	0.58	CU	0.33	0.810	0.33	CU								
+A0A9P6DJR5	mononuclear	5	CuB	0.59	93.1	CuA	1.15	50.3	3.69	4	29	1.09	0.990	1.09	CU	0.86	0.380	0.86	CU								
+A0A9P6EYF3	binuclear	5	CuB	0.30	84.8	CuA	0.64	61.0	3.91	3	36	1.20	0.700	1.20	CU	1.26	0.790	1.06	ZN								
+A0A9P6HVN3	no_cu	4	neither		93.8	neither		70.3	14.81																		
+A0A9P6HYB5	mononuclear	5	CuA	0.55	97.7	CuB	0.57	95.2	4.03	2	18	0.41	1.000	0.41	CU	1.21	0.720	1.21	CU								
+A0A9P6LG06	mononuclear	5	CuA	0.31	96.1	CuB	0.44	88.3	4.37	2	16	2.61	0.410	2.61	CU	1.16	0.480	1.16	CU								
+A0A9P7HU99	mononuclear	5	CuA	0.30	95.7	CuB	0.47	94.3	3.85	3	20	0.34	0.980	0.34	CU	1.36	0.940	1.36	CU								
+A0A9P7QPY3	binuclear	5	CuA	0.46	97.1	CuB	1.02	93.8	3.92	1	18	0.24	0.970	0.24	CU	3.79	0.970	3.79	CU								
+A0A9P7R1E3	mononuclear	4	CuB	0.07	90.4	CuA	1.25	55.6	5.08	2	23	0.06	0.920	0.06	CU	2.35	0.510	2.35	CU								
+A0A9P7R9D2	mononuclear	5	CuA	0.53	97.2	CuB	0.54	94.8	3.88	3	24	0.82	0.670	0.82	CU	0.37	0.830	0.37	CU								
+A0A9P8DKY9	mononuclear	5	CuA	0.29	95.2	CuB	0.47	93.3	3.86	3	25	0.61	0.830	0.61	CU	0.53	0.640	0.53	CU								
+A0A9P8EVR0	no_cu	2	neither		81.3	neither		71.6	33.24	0	27			11.54	X			2.97	X								
+A0A9P8G211	no_cu	1	neither		81.4	neither		72.9	32.34	0	19			12.77	X			6.37	X								
+A0A9P8G4G9	no_cu	1	neither		76.7	neither		76.4	35.77	0	27			1.62	X			0.05	X								
+A0A9P8GH40	no_cu	1	neither		84.4	neither		72.6	18.5	0	21			1.53	X			6.15	X								
+A0A9P8JBW6	no_cu	1	neither		74.7	neither		74.4	32.49	0	24			4.64	X			0.61	X								
+A0A9P8MUU1	no_cu	2	CuB	2.96	76.6	neither		79.6	19.91	0	20			4.04	X			12.53	X								
+A0A9P8SF21	binuclear	5	CuA	0.72	93.4	CuB	0.41	93.6	4.16	2	38	0.24	0.880	0.24	CU	2.39	0.680	2.39	CU								
+A0A9P9AG59	mononuclear	5	CuA	0.50	94.3	CuB	0.12	86.4	4.45	3	17	1.17	0.950	1.17	CU	1.00	0.890	1.00	CU								
+A0A9P9IM25	binuclear	5	CuB	0.37	91.0	CuA	0.96	88.3	4.26	3	38	1.23	0.620	1.23	CU	0.56	0.600	0.56	CU								
+A0A9P9KNI3	mononuclear	5	CuA	0.29	96.7	CuB	0.51	94.2	3.83	2	17	0.47	0.950	0.47	CU	0.54	0.880	0.54	CU								
+A0A9Q0B6Y1	mononuclear	5	CuA	0.49	97.4	CuB	0.56	95.1	3.9	2	23	0.12	0.970	0.12	CU	0.57	0.780	0.57	CU								
+A0A9Q0QJI7	binuclear	5	CuA	0.60	90.3	CuB	0.64	86.4	3.93	2	23	0.80	0.990	0.80	CU	0.26	0.840	0.26	CU								
+A0A9Q3GXD1	binuclear	5	CuA	0.20	91.6	CuB	0.85	87.1	3.96	2	16	0.30	0.910	0.30	CU	0.67	0.860	0.67	CU								
+A0A9Q3H9V3	no_cu	3	CuA	1.40	75.1	CuB	1.97	37.6	3.38	0	15			0.80	ZN			2.64	ZN								
+A0A9Q8LKP3	mononuclear	5	CuA	0.50	96.2	CuB	0.37	94.9	3.95	3	23	1.16	0.890	1.16	CU	0.19	0.320	0.19	CU								
+A0A9Q8T2R4	mononuclear	5	CuB	0.52	91.8	CuA	0.42	80.8	3.75	2	13	0.46	0.910	0.46	CU	1.48	0.860	1.48	CU								
+A0A9Q8WCM4	mononuclear	5	CuA	0.46	97.2	CuB	0.51	94.7	4.02	3	21	0.49	0.920	0.49	CU	0.45	0.670	0.45	CU								
+A0A9Q8WG05	mononuclear	4	CuB	2.93	95.1	neither		73.5	2.66	1	22	0.85	0.960	0.85	CU	3.19	0.960	3.16	ZN	3.21	0.990	3.21	CU	0.90	0.990	0.90	CU
+A0A9Q8ZBH0	mononuclear	5	CuB	0.93	94.3	CuA	1.27	78.8	3.72	2	24	0.69	0.750	0.69	CU	2.15	0.720	1.69	ZN								
+A0A9R0TD02	mononuclear	5	CuB	0.71	90.5	CuA	0.82	90.5	3.8	2	39	1.17	0.920	1.17	CU	0.33	0.990	0.33	CU								
+A0A9R0VMT2	binuclear	5	CuB	0.46	93.3	CuA	0.84	82.1	4.23	2	26	0.33	0.950	0.33	CU	0.14	0.850	0.14	CU								
+A0A9R1KF29	mononuclear	5	CuB	0.65	81.3	CuA	0.90	66.1	4.05	2	25	1.38	0.630	1.38	CU	0.54	0.950	0.54	CU								
+A0A9R1N0A3	binuclear	5	CuB	0.43	94.7	CuA	0.78	83.5	4.14	3	21	0.62	0.670	0.62	CU	0.70	0.920	0.70	CU								
+A0A9R1RCW5	mononuclear	4	CuB	0.41	84.0	neither		33.5	9.59	2	27	0.58	0.890	0.58	CU	6.86	0.560	2.42	X	2.93	0.960	2.93	CU	1.48	0.950	1.48	CU
+A0A9W3BB61	no_cu	3	CuB	0.34	72.0	neither		60.8	25.64	0	38			3.64	X			5.45	X								
+A0A9W4KMZ8	binuclear	5	CuA	0.68	80.3	CuB	0.89	71.9	4.54	1	37	0.36	0.610	0.36	CU	4.52	0.610	4.52	CU								
+A0A9W4W8U2	mononuclear	5	CuA	0.51	97.5	CuB	0.69	94.6	4.01	2	15	0.88	0.970	0.88	CU	0.39	0.820	0.39	CU								
+A0A9W6BT77	binuclear	5	CuB	0.36	91.6	CuA	0.65	70.9	4.23	2	44	0.63	0.970	0.63	CU	1.44	0.870	1.44	CU								
+A0A9W6TPR0	mononuclear	5	CuA	0.32	93.4	CuB	0.71	78.7	4.43	2	27	0.42	0.970	0.42	CU	1.96	0.910	1.96	CU								
+A0A9W6UBD6	no_cu	1	neither		67.6	neither		54.4	31.07	0	25											6.57	X			6.95	X
+A0A9W7T0I7	mononuclear	5	CuA	0.48	96.5	CuB	0.83	96.3	3.54	2	16	0.51	0.930	0.51	CU	1.29	0.890	1.29	CU								
+A0A9W8VAU3	mononuclear	3	CuB	2.07	96.0	neither		64.0	5.04																		
+A0A9W9IRY5	mononuclear	5	CuA	0.33	94.0	CuB	0.70	90.3	3.57	2	21	0.91	0.980	0.91	CU	1.10	0.380	1.10	CU								
+A0A9W9Q612	mononuclear	5	CuB	0.64	69.6	CuA	0.99	69.2	3.99	2	50	1.44	0.620	1.44	CU	0.56	0.660	0.56	CU								
+A0A9W9T4Q6	no_cu	4	CuA	0.53	95.8	CuB	0.44	90.3	3.69	2	21	0.60	0.560	0.60	CU	0.50	0.620	0.50	CU								
+A0A9W9UKW6	mononuclear	5	CuB	0.56	69.3	CuA	0.80	67.5	3.92	3	52	0.32	0.680	0.32	CU	0.67	1.000	0.67	CU								
+A0A9W9WQE3	mononuclear	5	CuB	0.26	94.1	CuA	0.91	82.3	4.48	4	39	1.16	0.900	1.16	CU	0.29	0.640	0.29	CU								
+A0A9X0AKU8	mononuclear	5	CuA	0.67	95.8	CuB	0.65	94.9	4.07	2	20	0.19	0.970	0.19	CU	1.20	0.910	1.20	CU								
+A0A9X0AXG5	mononuclear	5	CuA	0.65	93.5	CuB	0.77	91.5	3.77	1	17	0.45	0.890	0.45	CU	3.93	0.890	3.93	CU								
+A0AA35M0Q8	mononuclear	4	CuB	0.37	90.8	CuA	1.49	50.6	4.91	3	51	0.34	0.970	0.34	CU	2.20	0.860	2.20	CU								
+A0AA35TLZ1	mononuclear	4	CuA	0.12	95.2	CuB	0.26	75.3	3.85	2	25	0.52	0.940	0.52	CU	0.83	0.590	0.83	CU								
+A0AA37GRR7	mononuclear	5	CuB	0.57	94.1	CuA	0.48	96.8	3.89	2	16	0.53	0.730	0.53	CU	0.42	0.940	0.42	CU								
+A0AA37LRM6	mononuclear	5	CuA	0.42	90.7	CuB	0.49	86.4	3.81	2	28	0.15	0.960	0.15	CU	1.28	0.900	1.28	CU								
+A0AA37P8W3	mononuclear	5	CuA	0.54	98.0	CuB	1.32	94.7	3.72	2	16	0.95	0.860	0.95	CU	1.71	0.890	1.71	CU								
+A0AA38RAI0	mononuclear	5	CuA	0.32	93.8	CuB	0.56	90.8	3.85	3	20	0.81	0.880	0.81	CU	1.29	0.390	1.29	CU								
+A0AA38XVF3	mononuclear	5	CuA	0.41	93.7	CuB	0.63	93.3	3.81	2	20	0.26	0.970	0.26	CU	1.17	0.940	1.17	CU								
+A0AA38ZJU6	binuclear	5	CuB	0.86	85.0	CuA	0.87	80.7	3.91	1	27	3.01	0.790	3.01	CU	0.91	0.790	0.91	CU								
+A0AA39GKR5	mononuclear	5	CuA	0.36	93.1	CuB	0.33	88.0	4.03	3	28	0.26	0.990	0.26	CU	1.27	0.700	1.27	CU								
+A0AA39K704	binuclear	5	CuB	0.33	97.8	CuA	0.80	91.3	4.05	2	18	0.67	0.820	0.67	CU	0.33	0.830	0.33	CU								
+A0AA39T9Y6	binuclear	5	CuB	0.65	97.2	CuA	0.49	93.4	3.72	2	29	0.51	0.910	0.51	CU	1.52	0.980	1.52	CU								
+A0AA39WFD7	binuclear	5	CuA	0.59	97.3	CuB	0.87	97.3	3.75	4	19	0.43	1.000	0.43	CU	1.24	0.490	1.24	CU								
+A0AA39YZL0	mononuclear	5	CuB	0.37	89.5	CuA	0.62	74.7	4.01	3	19	0.65	0.950	0.65	CU	0.90	0.600	0.90	CU								
+A0AA39ZVR3	mononuclear	5	CuA	0.38	83.3	CuB	0.67	68.2	4.23	1	14	0.44	0.980	0.44	CU	3.85	0.980	3.85	CU								
+A0AA40K7X1	binuclear	5	CuB	0.17	96.0	CuA	0.99	92.1	4.26	3	17	0.95	0.760	0.95	CU	0.68	0.510	0.68	CU								
+A0AA41U5V3	no_cu	2	CuB	1.33	91.3	CuA	3.19	69.1	5.36	0	18			2.14	X			3.23	X								
+A0AA42B2P4	mononuclear	5	CuA	0.69	88.8	CuB	0.31	75.1	4.03	2	27	0.42	0.930	0.42	CU	1.96	0.620	1.96	CU								
+A0AA43QLN8	mononuclear	3	CuA	0.51	93.0	CuB	2.42	74.5	4.62	4	17	1.69	0.630	1.69	CU	1.34	0.460	1.34	CU								
+A0AA87Y286	mononuclear	5	CuB	0.13	97.3	CuA	0.73	92.0	4.48	3	31	0.13	0.900	0.13	CU	0.24	0.790	0.24	CU								
+A0AA88XJ60	no_cu	1	neither		64.7	neither		42.2	10.75	0	26											1.00	X			4.84	X
+A0AA88XTS7	no_cu	1	neither		79.2	neither		58.6	35.11	0	25											9.61	X			9.00	X
+A0AA89B2U6	mononuclear	4	CuB	0.17	88.8	CuA	1.35	87.5	4.99	0	10			0.54	X			4.75	X								
+A0AAD2E0S8	mononuclear	5	CuB	0.24	63.8	CuA	1.26	47.2	4.95	2	19	2.20	0.650	2.20	CU	0.43	0.690	0.43	CU								
+A0AAD3DIW9	no_cu	5	CuA	1.09	72.4	neither		83.0	45.25	2	48	0.83	0.610	0.83	CU	44.49	0.610	0.57	ZN								
+A0AAD4BGZ0	mononuclear	5	CuB	2.12	93.2	CuA	3.72	69.3	4.25	5	43	0.75	0.940	0.75	CU	0.56	0.580	0.56	CU								
+A0AAD4NRB5	mononuclear	5	CuA	0.56	96.8	CuB	0.59	94.3	3.98	3	28	0.68	0.990	0.68	CU	1.51	0.750	1.51	CU								
+A0AAD5M387	mononuclear	5	CuB	0.29	96.3	CuA	1.09	70.7	4.45	3	25	0.70	0.990	0.70	CU	1.05	0.960	1.05	CU								
+A0AAD5T3C3	mononuclear	5	CuB	0.45	92.9	CuA	0.24	86.4	3.57	3	36	0.65	0.960	0.65	CU	0.63	0.800	0.63	CU								
+A0AAD5U3C8	mononuclear	5	CuB	0.34	95.5	CuA	0.84	88.9	3.66	2	51	0.64	0.830	0.64	CU	0.35	0.650	0.35	CU								
+A0AAD5V4M1	mononuclear	4	CuB	0.69	95.3	CuA	1.22	72.6	5.02	3	46	0.29	0.950	0.29	CU	1.78	0.690	1.78	CU								
+A0AAD5VMH3	mononuclear	4	CuB	0.45	96.3	CuA	0.69	94.5	3.91	2	36	3.07	0.350	3.07	CU	1.09	0.700	1.09	CU								
+A0AAD5WPZ9	mononuclear	5	CuB	0.67	98.0	CuA	0.99	90.5	4.01	2	18	0.88	0.980	0.88	CU	2.85	0.980	2.85	CU								
+A0AAD5XR56	binuclear	5	CuA	0.46	90.0	CuB	1.49	80.0	4.84	3	16	0.55	0.980	0.55	CU	0.45	0.650	0.45	CU								
+A0AAD6E0P8	no_cu	4	CuA	0.57	96.1	CuB	0.53	90.6	3.53	3	22	0.33	0.720	0.33	CU	1.26	0.770	1.26	CU								
+A0AAD6NK04	mononuclear	4	CuB	0.80	83.7	CuA	0.50	61.1	3.82	2	45	0.24	0.920	0.24	CU	1.06	0.590	1.06	CU								
+A0AAD7J5J2	binuclear	5	CuB	0.33	95.9	CuA	1.01	90.0	4.11	3	30	0.45	0.950	0.45	CU	0.91	0.830	0.91	CU								
+A0AAD8FEX8	mononuclear	5	CuB	0.76	96.3	CuA	0.72	93.1	4.42	3	40	1.21	0.740	1.21	CU	0.23	0.920	0.23	CU								
+A0AAD8PIW8	mononuclear	5	CuA	0.27	96.1	CuB	0.27	91.6	3.89	3	22	0.54	1.000	0.54	CU	1.09	0.750	1.09	CU								
+A0AAD8PLZ0	mononuclear	5	CuA	0.30	96.1	CuB	0.78	90.4	3.31	2	20	0.39	0.880	0.39	CU	1.01	0.880	1.01	CU								
+A0AAD8PVJ5	no_cu	2	CuB	0.59	94.7	neither		60.5	16.91	0	17			5.79	X			13.10	X								
+A0AAD8UFY3	mononuclear	5	CuA	0.52	97.3	CuB	0.55	95.2	3.9	2	27	0.70	0.980	0.70	CU	0.73	0.940	0.73	CU								
+A0AAD9ARY9	mononuclear	5	CuA	0.54	97.3	CuB	0.61	95.0	4.03	1	24	0.75	0.990	0.75	CU	3.38	0.990	3.38	CU								
+A0AAD9AZ26	mononuclear	5	CuA	0.51	96.8	CuB	0.63	94.5	3.61	2	21	0.40	0.400	0.40	CU	0.72	0.240	0.72	CU								
+A0AAD9ECK1	mononuclear	5	CuA	0.30	94.5	CuB	0.42	89.9	4.16	3	17	0.36	0.960	0.36	CU	0.69	0.790	0.69	CU								
+A0AAD9GMI7	no_cu	2	neither		73.7	neither		54.5	40.51	0	29											7.76	X			8.00	X
+A0AAD9HBC0	mononuclear	5	CuA	0.30	95.8	CuB	0.20	90.2	4.0	2	29	3.73	0.350	3.73	CU	0.67	0.410	0.67	CU								
+A0AAD9HKI6	mononuclear	5	CuA	0.63	96.7	CuB	0.57	93.4	4.0	2	20	0.76	0.970	0.76	CU	0.58	0.880	0.58	CU								
+A0AAD9KZ40	no_cu	3	CuB	1.71	45.6	neither		14.4	35.15	0	73			0.95	X			5.14	X								
+A0AAD9L024	no_cu	3	CuB	0.72	75.7	CuA	1.14	35.8	4.11	0	29			1.69	X			1.76	ZN								
+A0AAD9M015	mononuclear	5	CuA	0.27	92.7	CuB	0.37	82.6	3.75	3	21	1.24	0.730	1.24	CU	1.67	0.590	1.67	CU								
+A0AAD9PC82	no_cu	4	CuB	1.10	92.7	CuA	1.29	84.9	4.43	1	24	2.78	0.220	1.21	X	3.22	0.220	3.22	CU								
+A0AAD9QB69	mononuclear	4	neither		40.1	neither		26.7	2.68	5	41									1.14	0.900	1.14	CU	0.86	0.970	0.86	CU
+A0AAD9YE83	mononuclear	5	CuA	0.36	96.1	CuB	0.36	95.0	4.37	1	25	0.16	0.930	0.16	CU	4.33	0.930	4.33	CU								
+A0AAE0D8U4	mononuclear	5	CuA	0.52	98.0	CuB	0.67	95.5	4.05	2	16	0.76	0.960	0.76	CU	0.50	0.900	0.50	CU								
+A0AAE0HTN1	mononuclear	5	CuB	0.11	94.0	CuA	0.57	84.5	4.09	2	30	2.25	0.400	2.25	CU	0.80	0.420	0.80	CU								
+A0AAE0LYH8	no_cu	5	CuB	1.34	84.5	CuA	1.46	82.4	3.84	2	16	1.77	0.430	1.77	CU	1.92	0.520	1.92	CU								
+A0AAE0M077	binuclear	5	CuB	0.74	96.9	CuA	0.48	94.4	3.62	3	16	0.47	0.980	0.47	CU	1.01	0.960	1.01	CU								
+A0AAE0MG27	mononuclear	4	CuB	0.94	86.8	CuA	0.58	84.4	3.69	2	22	0.77	0.640	0.77	CU	0.64	0.630	0.64	CU								
+A0AAE0NMD8	mononuclear	3	CuA	1.62	79.7	neither		64.0	25.06	1	18	1.02	0.630	1.02	CU	25.39	0.630	4.66	X								
+A0AAE0NPZ1	binuclear	4	CuB	0.44	85.0	CuA	1.04	56.2	3.81	2	13	0.41	0.960	0.41	CU	0.63	0.490	0.63	CU								
+A0AAE0U1Q5	binuclear	4	CuB	0.81	81.1	CuA	1.12	61.2	3.4	2	51	1.99	0.320	1.99	CU	1.41	0.390	1.41	CU								
+A0AAE0WXT6	mononuclear	5	CuA	0.49	96.6	CuB	0.64	95.9	3.7	3	28	0.53	0.910	0.53	CU	0.81	0.470	0.81	CU								
+A0AAE0X2E2	mononuclear	5	CuA	0.74	96.1	CuB	0.64	96.3	4.24	2	22	0.67	0.780	0.67	CU	0.92	0.380	0.92	CU								
+A0AAE1CE31	binuclear	5	CuB	0.53	70.7	CuA	0.80	72.1	4.23	2	26	0.33	0.860	0.33	CU	0.72	0.810	0.72	CU								
+A0AAE8MN78	no_cu	3	CuA	1.55	87.6	CuB	1.62	65.2	2.48	1	13	2.97	0.620	0.66	ZN	0.52	0.620	0.52	CU								
+A0AAE8STA2	mononuclear	4	CuB	1.06	56.9	CuA	0.62	60.9	4.69	3	52	2.94	0.830	2.94	CU	0.52	0.950	0.52	CU								
+A0AAF5PZK9	mononuclear	5	CuA	0.36	95.8	CuB	0.93	85.8	3.51	3	62	2.55	0.560	2.55	CU	1.36	0.540	1.36	CU								
+A0AAI8YW60	no_cu	3	CuA	1.69	81.2	neither		71.2	24.28	0	34			1.43	X			5.74	X								
+A0AAI8YWT9	mononuclear	5	CuA	0.31	96.8	CuB	0.32	96.6	4.1	2	20	0.36	0.990	0.36	CU	0.43	0.910	0.43	CU								
+A0AAI8YZG9	mononuclear	5	CuA	0.36	96.0	CuB	0.47	92.3	3.77	2	25	0.73	0.950	0.73	CU	1.00	0.430	1.00	CU								
+A0AAI9UCA0	mononuclear	4	CuB	0.32	91.2	CuA	1.49	59.0	5.19	3	25	0.50	0.730	0.50	CU	0.80	0.640	0.80	CU								
+A0AAI9UNI6	mononuclear	5	CuB	0.82	87.7	CuA	1.10	61.1	5.15																		
+A0AAI9XI30	mononuclear	3	CuB	0.30	91.6	neither		45.6	12.56	3	45	1.04	0.980	1.04	CU	9.95	0.710	3.19	ZN								
+A0AAI9XMR1	mononuclear	5	CuA	0.30	96.8	CuB	0.40	91.2	3.87	2	16	0.39	0.980	0.39	CU	0.82	0.830	0.82	CU								
+A0AAI9XNV3	binuclear	5	CuB	0.70	95.2	CuA	0.45	87.9	3.89	6	26	1.41	0.840	1.41	CU	0.49	0.700	0.49	CU								
+A0AAI9XSF2	mononuclear	5	CuA	0.47	97.4	CuB	0.51	94.6	4.0	2	25	0.23	1.000	0.23	CU	1.81	0.230	1.81	CU								
+A0AAI9XYD0	mononuclear	5	CuA	0.50	97.1	CuB	0.58	94.1	3.97	3	24	0.36	0.990	0.36	CU	0.70	0.780	0.70	CU								
+A0AAI9YQA0	binuclear	3	neither		30.8	CuA	0.12	37.7	32.58	3	61	28.98	0.860	0.16	ZN	0.68	0.990	0.68	CU								
+A0AAJ0A0G4	mononuclear	5	CuA	0.51	97.9	CuB	0.81	95.0	4.03	2	15	0.76	0.940	0.76	CU	0.67	0.810	0.67	CU								
+A0AAJ0DBW4	mononuclear	5	CuA	0.47	96.4	CuB	0.49	95.0	3.78	3	22	0.66	0.640	0.66	CU	0.59	0.560	0.59	CU								
+A0AAJ0DVU7	mononuclear	5	CuA	0.44	97.1	CuB	0.50	94.6	3.84	1	21	0.47	0.850	0.47	CU	3.95	0.850	3.95	CU								
+A0AAJ0EU37	mononuclear	5	CuA	0.60	96.9	CuB	0.69	89.5	4.26	3	19	1.29	0.850	1.29	CU	1.35	0.410	1.35	CU								
+A0AAJ0HSA6	mononuclear	5	CuA	0.51	97.1	CuB	0.48	94.9	3.94	2	34	0.41	0.970	0.41	CU	0.86	0.730	0.86	CU								
+A0AAJ8BCI9	no_cu	2	neither		43.9	neither		14.2	15.22	0	52											2.71	X			2.52	X
+A0AAJ8BW86	mononuclear	4	CuB	0.62	89.7	CuA	0.67	56.0	3.91	1	27	0.41	0.990	0.41	CU	4.20	0.990	1.56	X								
+A0AAN6E594	mononuclear	5	CuA	0.47	96.5	CuB	0.44	90.0	3.86	3	34	0.44	0.810	0.44	CU	0.53	0.570	0.53	CU								
+A0AAN6F7R2	mononuclear	5	CuA	0.44	96.6	CuB	0.61	95.5	3.6	2	23	0.77	0.880	0.77	CU	2.24	0.860	2.24	CU								
+A0AAN6G1Z6	mononuclear	5	CuA	0.43	96.8	CuB	0.61	95.0	3.59	3	35	0.25	0.920	0.25	CU	0.17	0.640	0.17	CU								
+A0AAN6H7M5	mononuclear	5	CuA	0.54	97.2	CuB	0.62	96.0	3.68	2	29	0.37	0.960	0.37	CU	0.74	0.510	0.74	CU								
+A0AAN6K752	mononuclear	5	CuA	0.43	96.9	CuB	0.62	96.1	3.6	3	26	0.53	0.940	0.53	CU	1.01	0.910	1.01	CU								
+A0AAN6KA23	mononuclear	5	CuA	0.44	97.1	CuB	0.62	95.8	3.62	2	34	0.48	0.770	0.48	CU	1.02	0.700	1.02	CU								
+A0AAN6LYU1	binuclear	5	CuB	0.36	96.4	CuA	0.86	93.4	4.48	3	37	0.80	0.800	0.80	CU	1.06	0.980	1.06	CU								
+A0AAN6N1G2	mononuclear	5	CuA	0.54	97.5	CuB	0.34	93.4	4.1	3	22	0.35	1.000	0.35	CU	1.86	0.950	1.86	CU								
+A0AAN6SJA1	no_cu	4	neither		87.2	neither		54.9	3.28	0	16			4.02	ZN			1.26	ZN								
+A0AAN7GQ08	mononuclear	5	CuA	0.56	97.5	CuB	0.79	96.2	3.6	2	27	0.43	0.930	0.43	CU	1.00	0.860	1.00	CU								
+A0AAN7VN59	mononuclear	5	CuA	0.43	97.5	CuB	0.53	96.3	3.65	2	19	0.80	0.790	0.80	CU	1.51	0.910	1.51	CU								
+A0AAN8HSE1	mononuclear	4	CuA	0.55	95.1	neither		73.1	25.54	2	25	0.15	0.970	0.15	CU	24.49	0.480	2.39	X	1.08	0.780	1.08	CU	1.54	0.810	1.54	CU
+A0AAN8ZF79	mononuclear	4	CuB	1.48	71.4	neither		57.9	32.72	1	22	0.42	0.980	0.42	CU	32.76	0.980	2.22	X	3.41	1.000	3.41	CU	1.65	1.000	1.65	CU
+A0AAN9UQ80	mononuclear	5	CuA	0.71	83.4	CuB	1.17	77.2	4.18	2	22	0.75	0.900	0.75	CU	2.26	0.830	2.26	CU								
+A0AAN9YIB4	mononuclear	5	CuB	0.77	97.7	CuA	0.56	92.5	3.65	2	30	0.50	0.960	0.50	CU	1.20	0.650	1.20	CU								
+A0AAQ3M852	binuclear	5	CuB	0.31	95.3	CuA	0.97	91.1	4.24	4	46	0.99	0.920	0.99	CU	0.05	0.950	0.05	CU								
+A0AAU9KU22	no_cu	3	neither		70.8	neither		53.0	36.45	0	41											6.48	X			2.72	X
+A0AAV0UD10	no_cu	0	neither		71.5	neither		48.3	33.55	0	26											5.87	X			5.39	X
+A0AAV0UFB5	no_cu	1	neither		61.2	neither		45.3	57.77	0	33											4.29	X			4.24	X
+A0AAV0UHU3	no_cu	0	neither		68.3	neither		43.8	31.66	0	32											9.13	X			12.00	X
+A0AAV0V041	no_cu	1	neither		65.2	neither		37.8	30.35	0	41											1.59	X			3.24	X
+A0AAV1T0B6	no_cu	0	neither		74.3	neither		50.2	40.57	0	27											7.27	X			7.50	X
+A0AAV2QBX0	no_cu	3	neither		82.9	neither		57.9	26.08	0	25			1.30	ZN			20.13	X								
+A0AAV2QDB1	no_cu	0	neither		48.6	neither		9.5	1.78	0	39											5.62	X			3.50	X
+A0AAV2T9N0	mononuclear	5	CuA	0.31	91.2	CuB	0.67	72.0	4.55	2	31	0.54	0.960	0.54	CU	0.66	0.630	0.66	CU								
+A0AAV2VYF3	mononuclear	5	CuB	0.23	95.0	CuA	0.93	88.8	4.38	2	32	0.20	0.980	0.20	CU	0.40	0.410	0.40	CU								
+A0AAV2YQR1	mononuclear	4	CuB	0.30	97.0	neither		72.1	21.58	1	23	0.26	0.970	0.26	CU	21.63	0.970	4.41	X	4.05	0.910	4.05	CU	1.19	0.910	1.19	CU
+A0AAV2Z9U8	mononuclear	3	CuB	1.91	66.5	neither		57.7	27.3	0	33			5.84	X			1.38	X			4.47	X			2.84	X
+A0AAV4IQ38	no_cu	2	CuB	0.17	56.6	neither		17.8	23.88	1	29	31.67	0.110	1.64	X	33.77	0.110	2.96	X								
+A0AAV4JTX0	no_cu	3	neither		64.6	neither		46.3	30.49	0	43											3.71	X			3.29	X
+A0AAV7NZD3	no_cu	2	neither		75.3	neither		70.2	36.84	0	20											1.92	X			0.48	X
+A0AAV9J8F3	mononuclear	5	CuA	0.43	91.6	CuB	0.64	90.7	3.69	1	23	0.14	0.880	0.14	CU	3.72	0.880	3.72	CU								
+A0AAV9LU83	mononuclear	3	CuB	0.38	83.7	neither		34.6	8.98	1	23	0.57	0.830	0.57	CU	9.44	0.830	4.98	X	4.50	0.950	3.86	ZN	1.10	0.950	1.10	CU
+A0AAV9N1J6	mononuclear	5	CuA	0.58	96.5	CuB	0.47	94.3	4.06	2	18	0.12	0.980	0.12	CU	0.44	0.520	0.44	CU								
+A0AAV9SY11	mononuclear	5	CuA	0.53	97.4	CuB	0.66	95.6	4.0	3	26	0.34	0.970	0.34	CU	0.73	0.780	0.73	CU								
+A0AAV9VIS4	mononuclear	5	CuB	1.29	96.2	CuA	2.77	92.9	4.43	3	42	1.22	0.850	1.22	CU	0.22	0.990	0.22	CU								
+A0AAV9WSZ8	binuclear	5	CuB	0.12	96.5	CuA	0.88	94.2	4.2	2	33	0.27	0.740	0.27	CU	0.44	0.910	0.44	CU								
+A0AAW0DCV9	mononuclear	5	CuB	0.63	95.6	CuA	0.36	93.1	4.09	3	30	1.05	0.690	1.05	CU	0.46	0.780	0.46	CU								
+A0AAW0GI35	binuclear	5	CuB	0.41	94.9	CuA	0.87	90.7	3.87	2	38	0.45	0.910	0.45	CU	0.73	0.870	0.73	CU								
+A0AAW0Q5S1	mononuclear	5	CuA	0.69	92.4	CuB	0.71	83.1	4.65	1	27	4.20	0.230	4.20	CU	0.45	0.230	0.45	CU								
+A0AAW2WSM8	binuclear	5	CuA	0.85	92.1	CuB	0.49	89.5	4.19	3	22	1.51	1.000	1.51	CU	0.52	0.950	0.52	CU								
+A0AAX4I0H5	mononuclear	5	CuA	0.51	97.3	CuB	0.69	95.2	3.87	2	25	0.19	0.960	0.19	CU	0.56	0.830	0.56	CU								
+A0AAX4IJG7	mononuclear	5	CuA	0.55	92.6	CuB	0.55	91.7	3.68	3	27	0.88	0.680	0.88	CU	1.29	0.530	1.29	CU								
+A0AAX6MJK2	binuclear	5	CuA	0.39	74.1	CuB	0.86	79.1	3.47	4	42	0.37	0.990	0.37	CU	1.18	0.780	1.18	CU								
+A0AB74JLQ5	no_cu	2	neither		73.3	neither		75.1	26.18	0	25			12.28	X			12.11	X								
+A0ABD1WHD2	binuclear	5	CuB	0.41	94.9	CuA	0.74	95.0	4.47	3	19	0.68	0.540	0.68	CU	1.01	1.000	1.01	CU								
+A0ABD2IJ80	no_cu	4	neither		75.6	neither		48.0	4.1																		
+A0ABD2QHI1	no_cu	4	neither		92.2	neither		50.3	4.58	1	32	3.91	0.150	3.91	CU	2.68	0.150	2.68	CU								
+A0ABD3FTY2	mononuclear	4	CuB	0.53	97.3	neither		72.2	22.58	1	29	0.37	0.990	0.37	CU	22.37	0.990	10.52	X	4.60	0.980	4.60	CU	0.95	0.980	0.95	CU
+A0ABD3FX43	no_cu	1	neither		70.2	neither		65.3	40.83	0	31											6.22	X			5.77	X
+A0ABD3I4U1	mononuclear	5	CuB	0.62	97.3	CuA	1.04	92.5	4.43	3	20	0.80	0.920	0.80	CU	1.30	0.820	1.30	CU								
+A0ABD6GFY7	mononuclear	5	CuB	0.18	96.9	CuA	0.72	91.7	4.38	5	27	0.96	0.890	0.96	CU	0.80	0.900	0.80	CU								
+A0ABM0MAQ4	mononuclear	5	CuB	0.27	95.5	CuA	0.23	95.3	4.3	3	33	0.47	0.450	0.47	CU	0.46	0.890	0.46	CU								
+A0ABM1B806	mononuclear	4	CuA	1.98	55.9	neither		29.5	24.15	0	51			1.64	X			4.52	X			3.18	X			1.37	X
+A0ABM1VVY2	no_cu	1	neither		58.8	neither		46.1	21.96	0	30											4.89	X			4.03	X
+A0ABM4UF39	mononuclear	5	CuB	0.42	86.2	CuA	1.04	76.9	4.32	2	45	1.30	0.980	1.30	CU	0.36	0.990	0.36	CU								
+A0ABM7Q8T6	mononuclear	5	CuB	0.29	96.1	CuA	0.98	86.7	4.6	4	27	0.87	0.830	0.87	CU	0.85	0.880	0.85	CU								
+A0ABM7QH35	mononuclear	5	CuB	0.29	96.1	CuA	0.98	86.7	4.6	4	27	0.87	0.830	0.87	CU	0.85	0.880	0.85	CU								
+A0ABN3U7S0	no_cu	1	neither		84.0	neither		61.5	27.68	0	13											10.68	X			8.41	X
+A0ABN8C0W3	no_cu	1	neither		74.0	neither		60.0	35.05	0	33											5.92	X			2.09	X
+A0ABN8CNH4	no_cu	1	CuA	1.08	74.1	neither		50.9	18.71	0	34			2.55	X			1.22	X								
+A0ABN8LS46	no_cu	3	CuB	0.33	93.0	neither		58.5	26.86	0	28			0.46	X			8.46	X								
+A0ABN8LUS6	mononuclear	5	CuB	0.50	97.3	CuA	0.70	95.1	4.17	4	22	0.82	0.950	0.82	CU	0.39	0.660	0.39	CU								
+A0ABN8LVE4	mononuclear	5	CuB	0.51	97.1	CuA	0.80	94.9	4.23	4	26	0.17	0.920	0.17	CU	1.14	0.650	1.14	CU								
+A0ABN8LXN0	mononuclear	5	CuB	0.67	94.8	CuA	0.35	86.7	3.94	4	19	0.18	0.930	0.18	CU	0.11	0.490	0.11	CU								
+A0ABN8MSS7	mononuclear	5	CuB	0.50	95.4	CuA	0.52	88.9	3.81	2	16	2.65	0.220	2.65	CU	0.63	0.710	0.63	CU								
+A0ABN8MVN3	mononuclear	5	CuB	0.45	97.8	CuA	0.71	96.7	4.3	2	22	0.39	0.980	0.39	CU	1.34	0.830	1.34	CU								
+A0ABN8MVN6	mononuclear	4	CuA	0.62	92.1	CuB	0.66	92.0	3.73	3	17	0.28	0.380	0.28	CU	0.45	0.660	0.45	CU								
+A0ABN8MVQ8	mononuclear	5	CuB	0.32	96.7	CuA	0.70	94.0	3.53	3	24	0.74	0.950	0.74	CU	1.22	0.940	1.22	CU								
+A0ABN8MXH6	mononuclear	5	CuB	0.67	95.7	CuA	0.69	91.7	3.8	4	21	0.38	0.970	0.38	CU	1.13	0.680	1.13	CU								
+A0ABN8MXX5	mononuclear	5	CuB	0.50	96.0	CuA	0.65	92.7	4.15	3	18	0.93	0.970	0.93	CU	0.63	0.640	0.63	CU								
+A0ABN8MY60	mononuclear	5	CuB	0.62	95.0	CuA	0.64	90.8	4.13	2	20	0.27	0.990	0.27	CU	1.04	0.850	1.04	CU								
+A0ABN8MZV7	mononuclear	5	CuB	0.57	97.2	CuA	0.68	95.5	4.43	3	21	0.67	0.990	0.67	CU	1.25	0.560	1.25	CU								
+A0ABN8N4G6	mononuclear	5	CuB	0.42	97.3	CuA	0.45	92.5	3.96	3	31	0.76	0.960	0.76	CU	0.50	0.320	0.50	CU								
+A0ABN8PCP7	mononuclear	5	CuB	0.67	94.6	CuA	0.13	83.1	4.18	1	18	4.24	0.730	3.99	ZN	0.23	0.730	0.23	CU								
+A0ABN8PTR8	no_cu	1	neither		49.7	neither		63.5	45.55	0	17											5.28	X			6.02	X
+A0ABN8PUI2	no_cu	3	CuB	0.39	92.2	neither		66.8	24.7	0	29			0.90	X			7.11	X								
+A0ABN8Q7Y1	mononuclear	5	CuB	0.24	97.3	CuA	0.35	92.5	4.01	1	27	0.42	0.610	0.42	CU	4.39	0.610	4.39	CU								
+A0ABN8SLK2	mononuclear	5	CuB	0.63	96.0	CuA	0.41	91.7	4.38	2	12	0.45	0.990	0.45	CU	0.58	0.930	0.58	CU								
+A0ABP2BNE3	mononuclear	5	CuB	0.26	96.7	CuA	0.71	92.7	4.28	2	23	0.42	0.990	0.42	CU	1.15	0.780	1.15	CU								
+A0ABP3EMV2	no_cu	2	CuB	1.69	86.0	neither		72.2	20.57	0	16			1.35	X			15.55	X								
+A0ABQ0GAI5	mononuclear	5	CuA	0.46	95.0	CuB	0.66	94.7	3.6	1	21	4.53	0.510	4.53	CU	1.21	0.510	1.21	CU								
+A0ABQ0GL05	mononuclear	5	CuA	0.45	96.6	neither		88.1	26.6	1	28	0.77	0.980	0.77	CU	25.92	0.980	1.12	ZN	1.29	0.960	1.29	CU	1.99	0.720	1.99	CU
+A0ABQ0LKN2	mononuclear	5	CuB	0.16	95.9	CuA	0.41	93.9	4.01	2	21	0.59	0.980	0.59	CU	2.14	0.960	2.14	CU								
+A0ABQ0M8A7	mononuclear	5	CuB	0.44	95.6	CuA	0.53	80.7	3.79	2	22	0.19	0.950	0.19	CU	0.48	0.640	0.48	CU								
+A0ABQ4GGN2	no_cu	2	CuA	1.30	90.0	neither		71.0	22.92	0	18			1.53	X			0.08	X								
+A0ABQ6N7K7	binuclear	5	CuB	0.34	97.0	CuA	1.06	95.1	5.07	2	22	1.37	0.860	1.37	CU	0.48	0.740	0.48	CU								
+A0ABQ7J1C5	mononuclear	5	CuA	0.38	96.8	CuB	0.49	94.3	3.75	2	22	0.45	0.990	0.45	CU	1.17	0.630	1.17	CU								
+A0ABQ8R1M6	binuclear	5	CuB	0.30	92.7	CuA	0.78	79.0	3.97	4	51	0.07	0.910	0.07	CU	0.66	0.810	0.66	CU								
+A0ABQ9PEH4	mononuclear	5	CuB	0.57	77.5	CuA	0.67	75.8	3.85	2	24	0.44	0.840	0.44	CU	1.31	0.570	1.31	CU								
+A0ABQ9PND2	mononuclear	5	CuA	0.49	97.3	CuB	0.53	94.5	4.03	2	18	0.59	0.890	0.59	CU	0.31	0.830	0.31	CU								
+A0ABQ9Q197	mononuclear	5	CuA	0.66	97.1	CuB	0.50	94.4	4.41	2	19	0.12	0.960	0.12	CU	0.86	0.700	0.86	CU								
+A0ABQ9QHE7	mononuclear	5	CuA	0.54	97.4	CuB	0.57	95.1	3.91	3	19	0.37	0.980	0.37	CU	0.08	0.830	0.08	CU								
+A0ABQ9S7H6	binuclear	4	CuB	0.42	86.4	CuA	0.97	54.0	4.66	1	16	0.61	0.740	0.61	CU	5.11	0.740	1.79	X								
+A0ABQ9T229	mononuclear	5	CuA	0.44	97.2	CuB	0.48	94.7	3.82	2	26	0.98	0.140	0.98	CU	2.97	0.140	2.97	CU								
+A0ABR0EHV5	mononuclear	5	CuA	0.55	95.8	CuB	0.60	94.3	3.82	3	22	0.36	0.980	0.36	CU	0.36	0.840	0.36	CU								
+A0ABR0H9K2	binuclear	5	CuA	0.62	95.9	CuB	0.47	88.3	4.54	4	21	0.36	0.920	0.36	CU	1.29	0.710	1.29	CU								
+A0ABR0I6B4	binuclear	5	CuA	0.62	95.9	CuB	0.47	88.3	4.54	4	21	0.36	0.920	0.36	CU	1.29	0.710	1.29	CU								
+A0ABR0JJU7	mononuclear	5	CuA	0.40	96.0	CuB	0.42	95.1	3.86	1	27	4.15	0.770	4.15	CU	0.78	0.770	0.78	CU								
+A0ABR0ML46	mononuclear	5	CuA	0.96	85.3	CuB	0.58	73.5	4.38	3	37	0.57	1.000	0.57	CU	1.20	0.850	1.20	CU								
+A0ABR0S881	mononuclear	5	CuA	0.43	95.8	CuB	0.25	92.0	3.84	2	20	0.54	0.940	0.54	CU	0.87	0.490	0.87	CU								
+A0ABR0TFM8	no_cu	2	neither		78.0	neither		69.8	23.78	0	20			7.23	X			11.17	NA								
+A0ABR1FHI7	mononuclear	5	CuA	0.16	94.9	CuB	1.04	89.0	4.63	1	17	0.46	0.870	0.46	CU	4.29	0.870	4.29	CU								
+A0ABR1QFP3	mononuclear	5	CuA	0.28	96.2	CuB	0.40	92.2	4.02	3	30	0.41	0.910	0.41	CU	1.43	0.720	1.43	CU								
+A0ABR1T514	mononuclear	5	CuA	0.12	94.8	CuB	0.38	92.5	3.99	3	23	0.87	0.890	0.87	CU	0.92	0.460	0.92	CU								
+A0ABR1TI72	binuclear	5	CuA	0.51	94.0	CuB	0.40	77.2	4.28	2	18	0.96	0.580	0.96	CU	2.81	0.390	2.81	CU								
+A0ABR1TNQ8	mononuclear	4	CuA	0.68	79.8	neither		73.3	31.87	1	22	1.00	0.940	1.00	CU	30.94	0.940	1.33	X	0.63	0.660	0.63	CU	2.47	0.640	2.47	CU
+A0ABR1U9F9	mononuclear	5	CuB	1.13	81.9	CuA	2.28	58.1	4.04	2	46	0.84	0.730	0.84	CU	0.26	0.430	0.26	CU								
+A0ABR1VP59	mononuclear	5	CuA	0.51	81.7	CuB	1.75	64.9	3.79	3	24	0.56	0.940	0.56	CU	1.28	0.580	1.28	CU								
+A0ABR1X4W4	mononuclear	5	CuA	0.29	90.3	CuB	0.51	89.4	4.03	3	30	0.47	0.920	0.47	CU	0.90	0.970	0.90	CU								
+A0ABR1YMI8	binuclear	5	CuB	0.61	95.7	CuA	0.48	90.5	4.24	2	16	0.78	0.960	0.78	CU	2.85	0.970	2.85	CU								
+A0ABR1YVN4	mononuclear	5	CuB	0.67	92.4	CuA	0.42	82.2	4.15	3	17	0.46	0.960	0.46	CU	1.21	0.410	1.21	CU								
+A0ABR2VUU4	no_cu	2	neither		45.2	neither		44.2	26.76	0	23											1.50	MG			3.63	MG
+A0ABR2W3C9	mononuclear	2	CuA	0.46	93.2	neither		74.8	16.06	1	14	0.53	0.340	0.53	CU	16.23	0.340	1.70	X			1.71	X			3.22	X
+A0ABR2W3S2	no_cu	4	CuA	0.89	92.4	CuB	0.66	91.7	3.92	2	22	0.18	0.590	0.18	CU	1.61	0.550	1.61	CU								
+A0ABR2W902	no_cu	2	neither		81.4	CuB	1.52	71.5	16.6	0	20			5.41	X			1.66	X								
+A0ABR3CFI6	mononuclear	5	CuB	0.47	95.8	CuA	0.48	90.6	3.74	3	19	0.84	0.740	0.84	CU	1.34	0.880	1.34	CU								
+A0ABR3D6M0	mononuclear	5	CuB	0.65	98.1	CuA	0.50	94.9	3.94	3	21	0.52	0.950	0.52	CU	0.47	0.590	0.47	CU								
+A0ABR3FXT6	mononuclear	4	CuA	0.12	95.1	CuB	0.31	85.2	4.0	1	17	0.11	0.980	0.11	CU	4.02	0.980	2.15	X								
+A0ABR3QSB3	binuclear	5	CuA	0.79	76.0	CuB	1.49	68.7	3.6	3	32	0.66	0.820	0.66	CU	1.13	0.760	1.13	CU								
+A0ABR3TFZ3	mononuclear	5	CuB	0.47	95.5	CuA	0.66	91.7	4.2	2	12	0.32	0.870	0.32	CU	1.65	0.750	1.65	CU								
+A0ABR3U3E6	mononuclear	5	CuB	0.60	95.8	CuA	0.63	88.0	4.01	1	21	0.74	0.870	0.74	CU	3.37	0.870	3.37	CU								
+A0ABR3UTG0	mononuclear	5	CuA	0.62	97.0	CuB	0.83	95.6	3.77	2	24	0.55	1.000	0.55	CU	1.86	1.000	1.86	CU								
+A0ABR4BR18	mononuclear	5	CuA	0.54	81.3	CuB	0.44	71.2	3.78	3	48	0.48	0.640	0.48	CU	0.40	0.640	0.40	CU								
+A0ABR4C2T6	mononuclear	5	CuA	0.53	93.1	CuB	0.56	89.2	3.74	2	36	0.42	0.990	0.42	CU	0.67	0.860	0.67	CU								
+A0ABR4CF27	mononuclear	5	CuA	0.65	96.7	CuB	0.58	94.7	3.97	1	27	0.38	0.980	0.38	CU	3.75	0.980	3.31	X								
+A0ABR4EPU0	mononuclear	5	CuA	0.57	94.5	CuB	0.88	67.0	5.24	2	18	0.32	1.000	0.32	CU	3.23	0.840	3.23	CU								
+A0ABR4ES42	no_cu	3	neither		93.0	neither		42.4	5.27	1	17	0.47	0.990	0.47	CU	5.00	0.990	5.00	CU								
+A0ABR4K145	binuclear	5	CuB	0.62	74.5	CuA	1.25	66.8	4.86	4	55	0.33	0.620	0.33	CU	0.92	0.620	0.92	CU								
+A0ABR4NDE5	no_cu	1	neither		76.0	neither		50.0	44.03	0	28											1.38	X			4.00	X
+A0ABR7QDC1	mononuclear	3	CuB	0.99	96.9	neither		79.9	26.83	0	9			0.58	ZN			6.00	X								
+A0ABR7X9J7	mononuclear	5	CuB	0.53	97.7	CuA	0.85	95.1	4.29	3	26	0.23	0.860	0.23	CU	0.90	0.780	0.90	CU								
+A0ABR8L1I5	no_cu	2	CuA	1.53	93.2	neither		80.3	30.17	0	15			1.27	X			15.14	X								
+A0ABR9BSA8	mononuclear	5	CuB	0.28	90.9	CuA	0.93	81.6	4.34	2	21	0.12	0.980	0.12	CU	0.89	0.950	0.89	CU								
+A0ABS8JIA8	mononuclear	5	CuB	0.40	96.4	CuA	0.81	86.8	4.38	2	27	0.75	0.770	0.75	CU	2.26	0.460	2.26	CU								
+A0ABS8JID1	mononuclear	5	CuB	0.20	96.2	CuA	1.08	88.9	4.69	3	30	0.34	0.900	0.34	CU	0.79	0.820	0.79	CU								
+A0ABT9CR60	mononuclear	5	CuB	0.12	97.2	CuA	0.66	92.8	4.22	3	34	0.51	0.980	0.51	CU	1.63	0.810	1.63	CU								
+A0ABV0AFJ4	no_cu	2	CuA	1.74	91.5	neither		74.5	22.87	0	19			2.31	X			0.66	X								
+A0ABV6RIB9	mononuclear	5	CuB	0.19	96.7	CuA	0.81	87.7	4.43	2	29	0.64	0.990	0.64	CU	2.05	0.960	2.05	CU								
+A0ABV6RUK0	mononuclear	5	CuB	0.17	95.8	CuA	0.88	84.8	4.61	3	28	0.31	0.910	0.31	CU	0.72	0.660	0.72	CU								
+A0ABV9FV84	no_cu	2	CuB	0.50	76.9	neither		28.4	14.11	2	28	1.17	0.760	1.17	CU	15.10	0.760	0.77	X								
+A0ABV9I266	mononuclear	2	CuB	1.08	97.8	neither		81.2	13.93	0	13			0.92	ZN			1.33	X	4.61	0.980	4.61	CU	1.39	0.980	1.39	CU
+A0ABW1EV91	binuclear	5	CuB	0.37	96.5	CuA	0.74	92.9	4.05	2	29	0.13	0.910	0.13	CU	0.50	0.650	0.50	CU								
+A0ABW2RRB3	mononuclear	5	CuB	0.42	95.9	CuA	0.37	87.5	3.62	2	29	2.67	0.750	2.67	CU	0.99	0.750	0.99	CU								
+A0ABW9S031	binuclear	5	CuB	0.41	93.3	CuA	0.61	89.7	4.12	3	38	0.74	0.910	0.74	CU	0.53	0.830	0.53	CU								
+A0ABX5RWM9	mononuclear	5	CuB	0.16	97.2	CuA	0.76	91.5	4.41	3	27	0.26	0.970	0.26	CU	0.55	0.950	0.55	CU								
+A0ABX5UDS5	mononuclear	5	CuB	0.18	97.3	CuA	0.88	91.6	4.66	3	36	0.74	0.870	0.74	CU	0.52	0.800	0.52	CU								
+A0ABX6FJC2	mononuclear	5	CuB	0.23	97.6	CuA	0.91	92.4	4.76	4	45	1.28	0.900	1.28	CU	0.99	0.880	0.99	CU								
+A0ABY0G5N1	mononuclear	5	CuA	0.32	96.8	CuB	0.46	94.5	3.93	2	23	0.70	0.860	0.70	CU	2.34	0.810	2.34	CU								
+A0ABY2RLZ4	mononuclear	4	CuB	0.37	93.1	CuA	1.62	45.4	3.0	2	31	0.55	0.970	0.55	CU	1.23	0.760	1.23	CU								
+A0ABY7EU49	no_cu	2	neither		65.8	neither		48.5	20.81	0	28											2.05	X			0.95	X
+A0ABZ1SYY9	no_cu	2	CuA	1.50	88.6	neither		74.8	31.95	0	16			1.43	X			1.88	X								
+A0ACB1AYY7	no_cu	3	neither		88.8	neither		69.5	24.27																		
+A0ACB6QFG3	no_cu	2	CuA	1.01	86.1	neither		79.3	23.98	0	27			0.72	X			8.73	X								
+A0ACB7IQP8	no_cu	4	CuB	1.45	77.4	CuA	2.35	56.7	3.19	2	16	1.86	0.770	1.86	CU	2.02	0.770	2.02	CU								
+A0ACB8HCS0	mononuclear	4	CuA	0.72	94.8	CuB	0.27	88.4	3.92	3	16	1.61	0.560	1.61	CU	0.30	0.790	0.30	CU								
+A0ACC0W512	no_cu	1	neither		68.5	neither		51.8	46.52	0	40											7.43	X			4.75	X
+A0ACC1A5Y2	mononuclear	5	CuB	0.53	78.7	CuA	3.08	37.0	6.31	1	29	0.36	0.930	0.36	CU	6.56	0.930	6.46	X								
+A0ACC1QNQ0	mononuclear	5	CuA	0.41	92.0	CuB	0.53	91.0	3.86	2	20	0.98	0.620	0.98	CU	0.79	0.510	0.79	CU								
+A0ACC1SFB7	no_cu	4	CuB	4.77	88.7	neither		46.2	3.6	1	39	0.63	0.820	0.63	CU	3.92	0.820	3.92	CU								
+A0ACC2HR65	binuclear	5	CuB	0.74	97.4	CuA	0.81	93.1	4.12	1	20	0.59	0.970	0.59	CU	4.42	0.970	0.30	X								
+A0ACC2ID33	mononuclear	5	CuA	0.65	94.7	CuB	0.54	94.8	4.04	2	19	0.68	0.940	0.68	CU	0.84	0.760	0.84	CU								
+A0ACC2JBL3	mononuclear	5	CuB	0.74	96.6	CuA	0.35	90.4	3.44	2	25	0.40	0.970	0.40	CU	0.84	0.920	0.84	CU								
+A0ACC2S0P5	no_cu	3	CuA	0.49	92.0	CuB	1.05	71.3	3.92	0	18			0.44	X			1.73	X								
+A0ACC2S7C6	no_cu	1	neither		73.1	neither		75.1	29.42	0	20			1.28	X			4.08	X								
+A0ACC2T2P1	no_cu	1	neither		53.6	neither		45.2	39.65	0	11			6.00	X			7.06	X								
+A0ACC2T3L9	no_cu	2	neither		74.1	neither		47.2	15.26	0	22			16.38	X			6.42	X								
+A0ACC2T4I7	no_cu	2	neither		74.7	neither		69.2	38.16	0	11											3.18	X			0.87	X
+A0ACC2TJ92	no_cu	2	neither		66.4	neither		50.6	23.32	0	23			2.42	X			5.37	X								
+A0ACC2TJW4	no_cu	2	neither		72.1	neither		55.8	28.26	0	20			6.21	X			4.14	X								
+A0ACC2TU75	no_cu	2	neither		56.0	neither		73.2	38.77	0	13			5.95	X			5.11	X								
+A0ACC2TZL3	no_cu	2	CuB	1.99	58.0	neither		40.9	27.73	0	20			2.44	X			5.22	X								
+A0ACC2U0B8	mononuclear	4	CuB	0.82	96.2	CuA	1.14	82.2	4.61	3	26	0.80	0.420	0.80	CU	1.80	0.410	1.80	CU								
+A0ACC2U405	no_cu	3	CuB	1.59	81.3	neither		47.7	20.33	0	17			1.18	ZN			7.62	X								
+A0ACC2U767	no_cu	3	CuA	0.49	90.7	CuB	1.24	70.0	3.75	0	16			0.71	X			3.06	X								
+A0ACC2U7B3	mononuclear	4	CuA	1.10	89.8	CuB	0.72	92.4	4.52	2	29	3.02	0.680	3.02	CU	1.31	0.730	1.31	CU								
+A0ACC3CBK0	no_cu	0	neither		17.6	neither		3.0	39.77	0	27			9.34	X			3.02	X								
+A0ACC3CBV5	no_cu	2	CuA	0.64	81.7	neither		66.5	25.76	0	21			5.98	X			0.84	X								
+A0ACC3CEB8	no_cu	2	CuA	0.72	94.3	neither		41.3	12.29	0	22			1.50	X			9.12	X								
+A0ACC3DNN8	mononuclear	5	CuA	0.38	95.3	CuB	0.56	94.0	3.6	3	25	0.78	0.820	0.78	CU	0.51	0.780	0.51	CU								
+A0ACC3SCJ8	mononuclear	5	CuA	0.36	95.7	CuB	0.60	93.7	3.7	2	28	0.41	0.980	0.41	CU	0.79	0.820	0.79	CU								
+A0ACC3YJX9	mononuclear	5	CuA	0.62	97.6	CuB	0.64	95.7	4.03	3	20	0.32	0.980	0.32	CU	1.01	0.940	1.01	CU								
+A0ACD1IG11	mononuclear	5	CuA	0.27	91.1	CuB	0.62	81.0	4.5	2	21	1.06	0.900	1.06	CU	0.87	0.400	0.87	CU								
+A0ACD3ADA0	mononuclear	4	CuB	0.21	91.8	CuA	1.64	57.3	5.19	1	42	0.45	0.900	0.45	CU	5.24	0.900	5.24	CU								
+A0ACD3YVM0	mononuclear	5	CuB	0.73	95.6	CuA	0.45	91.2	4.17	3	16	0.75	0.620	0.75	CU	0.99	0.710	0.99	CU								
+A2RBK8	mononuclear	4	CuB	0.61	89.4	CuA	0.67	55.2	3.91	1	25	0.54	0.990	0.54	CU	4.20	0.990	1.25	X								
+A3K3J4	mononuclear	5	CuB	0.26	96.4	CuA	0.98	88.5	4.51	4	25	0.35	0.940	0.35	CU	0.58	0.880	0.58	CU								
+A7RKE4	mononuclear	3	CuA	0.33	95.1	neither		77.6	7.79	1	19	0.49	0.610	0.49	CU	7.35	0.610	1.32	ZN	0.76	0.720	0.76	CU	4.06	0.720	3.12	X
+A8N3S0	mononuclear	5	CuB	0.58	96.4	CuA	0.86	85.3	4.36	2	25	0.23	0.930	0.23	CU	0.84	0.730	0.84	CU								
+A8N4B1	mononuclear	1	neither		45.4	neither		31.4	14.74	1	57									3.81	0.950	2.06	X	0.58	0.950	0.58	CU
+B2WH32	mononuclear	4	CuB	1.09	92.4	CuA	0.60	66.9	4.07	2	20	0.43	0.980	0.43	CU	1.67	0.500	1.67	CU								
+B9XQZ3	mononuclear	5	CuB	0.29	69.8	CuA	0.59	72.2	4.49	6	36	0.93	0.820	0.93	CU	0.37	0.970	0.37	CU								
+C3YG81	no_cu	1	neither		78.5	neither		57.0	27.24	0	19											7.75	ZN			9.40	ZN
+C8CHT1	binuclear	5	CuB	0.88	94.6	CuA	0.80	85.3	5.02	3	10	0.91	0.930	0.91	CU	0.74	0.970	0.74	CU								
+D0NAA1	no_cu	1	CuB	3.61	65.4	neither		73.7	19.18	0	13			1.52	X			2.59	X								
+E3Q7T1	no_cu	2	CuB	0.60	94.5	neither		62.2	17.17	1	24	0.36	0.190	0.36	CU	17.50	0.190	14.40	X								
+E3QWQ8	mononuclear	5	CuA	0.43	94.2	CuB	0.27	85.2	3.9	1	17	0.71	0.960	0.71	CU	3.93	0.960	3.93	CU								
+E5Q8T0	binuclear	5	CuB	0.57	91.2	CuA	0.91	89.9	4.04	2	36	1.87	0.890	1.87	CU	0.81	0.720	0.81	CU								
+E5SC69	no_cu	2	neither		67.1	neither		52.9	40.14	0	27											2.76	X			4.80	X
+E9FAB7	mononuclear	5	CuA	0.38	96.4	CuB	0.50	94.5	3.86	2	19	0.74	0.980	0.74	CU	1.57	0.980	1.57	CU								
+F0XF66	no_cu	1	neither		70.3	neither		37.7	4.69	0	47											1.41	X			4.37	X
+F0Y382	binuclear	3	CuB	0.48	83.5	neither		36.8	9.28	3	41	0.75	0.850	0.75	CU	5.98	0.430	1.07	ZN								
+F0YJP7	mononuclear	5	CuB	0.33	79.9	CuA	0.98	62.6	4.54	2	52	3.24	0.350	3.24	CU	0.83	0.690	0.83	CU								
+F1KXG5	mononuclear	4	CuA	1.53	75.4	neither		44.9	34.0	1	43	1.82	0.110	1.82	CU	33.21	0.110	5.16	X	2.71	0.250	2.71	CU	1.46	0.250	1.46	CU
+F6G5J6	binuclear	5	CuB	0.95	88.6	CuA	0.91	87.9	4.31	2	20	1.48	0.630	1.48	CU	0.67	0.900	0.67	CU								
+F9X2G9	mononuclear	5	CuA	0.50	89.4	CuB	0.68	61.8	4.7	4	24	0.50	0.970	0.50	CU	0.99	0.440	0.99	CU								
+F9XBE5	mononuclear	5	CuA	0.32	96.2	CuB	0.43	93.8	4.2	2	20	0.51	0.830	0.51	CU	0.41	0.650	0.41	CU								
+F9XCV9	mononuclear	5	CuA	0.46	95.2	CuB	0.53	91.6	3.8	3	22	0.66	0.880	0.66	CU	1.30	0.380	1.30	CU								
+G1S3C9	binuclear	5	CuA	0.19	88.4	CuB	0.36	81.0	4.2	1	31	0.96	0.960	0.96	CU	4.95	0.960	4.95	CU								
+G2QVS9	mononuclear	5	CuA	0.43	94.3	CuB	0.49	94.4	4.07	3	15	0.91	0.720	0.91	CU	0.27	0.570	0.27	CU								
+G2YP57	mononuclear	5	CuA	0.40	94.0	CuB	0.47	91.4	3.68	2	28	0.70	0.890	0.70	CU	1.99	0.870	1.99	CU								
+G3JPN7	mononuclear	5	CuA	0.55	97.0	CuB	0.50	94.6	3.91	2	17	0.65	0.950	0.65	CU	1.03	0.560	1.03	CU								
+G3XUP5	mononuclear	5	CuA	0.55	76.4	CuB	0.32	70.7	4.44	4	26	0.53	0.740	0.53	CU	1.10	0.520	1.10	CU								
+G4Z7X0	no_cu	1	CuB	2.08	68.9	neither		78.0	19.72	0	20			2.27	X			11.16	X								
+G5A9J7	mononuclear	2	CuB	1.75	59.6	neither		46.8	26.76	0	21			1.59	X			9.37	X								
+G5AB92	mononuclear	5	CuA	1.11	88.3	CuB	0.78	88.9	5.55	2	7	0.19	0.980	0.19	CU	1.49	0.770	1.49	CU								
+G5ABA8	mononuclear	4	CuB	0.50	97.3	neither		62.9	26.17	1	26	0.14	0.980	0.14	CU	26.27	0.980	7.39	X	3.63	0.670	3.63	CU	1.20	0.910	1.20	CU
+G5B168	binuclear	5	CuB	0.28	79.5	CuA	0.21	86.9	4.14	1	29	4.40	0.240	4.40	CU	1.16	0.240	1.16	CU								
+H1UWR0	mononuclear	5	CuA	0.54	97.9	CuB	0.70	95.3	3.9	3	18	0.61	0.980	0.61	CU	0.86	0.800	0.86	CU								
+H1VZE2	mononuclear	5	CuB	0.36	98.4	CuA	0.76	95.9	4.45	3	25	0.87	0.990	0.87	CU	0.73	0.460	0.73	CU								
+H2KPL1	no_cu	4	CuB	1.67	90.1	CuA	1.03	90.4	6.23	1	32	5.08	0.680	2.31	X	1.19	0.680	1.19	CU								
+H3GEM4	no_cu	2	neither		75.7	neither		59.9	40.39	0	25											8.07	X			7.69	X
+I7CCR9	mononuclear	5	CuB	0.37	95.7	CuA	1.11	83.2	4.2	2	31	0.43	0.920	0.43	CU	2.09	0.590	2.09	CU								
+K2RLK6	mononuclear	5	CuB	0.56	92.0	CuA	0.51	84.4	4.24	2	15	0.22	0.980	0.22	CU	1.13	0.710	1.13	CU								
+K3WBN0	mononuclear	3	CuB	1.43	88.1	neither		69.7	22.22	0	27			0.20	X			0.87	X	20.81	0.350	5.50	X	17.48	0.350	2.61	X
+L2FID8	mononuclear	5	CuA	0.24	95.5	CuB	0.41	91.6	4.06	4	21	1.60	0.220	1.60	CU	1.23	0.590	1.23	CU								
+L2FNV4	mononuclear	5	CuB	0.55	95.7	CuA	0.49	88.9	4.19	4	22	1.39	0.990	1.39	CU	0.90	0.330	0.90	CU								
+L2GEI1	mononuclear	5	CuA	0.57	97.7	CuB	0.62	94.3	4.08	2	16	0.34	0.920	0.34	CU	0.36	0.880	0.36	CU								
+L8X5X1	mononuclear	5	CuB	0.51	75.4	CuA	0.77	70.0	4.25	2	19	0.41	0.990	0.41	CU	0.39	0.770	0.39	CU								
+M1R095	no_cu	4	CuB	1.52	89.3	CuA	1.00	89.4	6.04	0	38			1.43	X			1.80	X								
+M2MQZ6	mononuclear	5	CuA	0.40	91.8	CuB	0.41	92.0	3.72	3	29	0.70	0.870	0.70	CU	0.69	0.550	0.69	CU								
+M2SQZ2	mononuclear	3	CuA	0.94	87.0	CuB	2.74	65.6	6.36	0	23			1.33	X			1.61	X								
+M2YMY9	mononuclear	5	CuA	0.36	94.4	CuB	0.51	94.3	3.76	4	24	1.01	0.620	1.01	CU	1.08	0.650	1.08	CU								
+M3C9Q8	binuclear	5	CuB	0.18	96.5	CuA	1.04	94.5	4.23	4	31	0.92	0.840	0.92	CU	0.37	0.960	0.37	CU								
+M4C6D4	no_cu	2	CuA	0.56	65.0	neither		35.3	20.19	1	34	7.80	0.210	2.27	X	27.93	0.210	4.77	X								
+M7UN52	mononuclear	5	CuA	0.50	96.8	CuB	1.33	83.7	5.3	1	17	0.36	0.940	0.36	CU	5.49	0.940	2.29	X								
+N1RKC9	binuclear	5	CuB	0.23	97.1	CuA	0.67	89.7	4.07	1	18	0.42	0.990	0.42	CU	3.87	0.990	0.57	X								
+N1S3E0	binuclear	5	CuB	0.49	95.6	CuA	0.51	89.7	4.19	2	18	0.59	0.950	0.59	CU	0.57	0.480	0.57	CU								
+N1S8Q1	mononuclear	4	CuB	0.32	90.7	neither		79.1	14.37	1	14	0.27	0.990	0.27	CU	14.27	0.990	10.71	X	4.04	0.990	3.19	X	1.00	0.990	1.00	CU
+N4TKR4	mononuclear	5	CuB	0.63	96.9	CuA	0.39	85.8	4.17	3	16	0.35	0.990	0.35	CU	1.26	0.950	1.26	CU								
+N4X430	mononuclear	3	CuA	0.94	87.0	CuB	2.74	65.6	6.36	0	23			1.33	X			1.61	X								
+P55022	mononuclear	5	CuB	0.28	96.6	CuA	0.56	92.2	3.79	2	17	0.59	0.810	0.59	CU	1.16	0.670	1.16	CU								
+Q33CJ6	no_cu	1	CuB	1.18	53.7	neither		64.6	23.71	0	24			1.26	X			7.34	X								
+R1D043	mononuclear	4	CuB	0.41	80.3	CuA	0.92	33.7	4.23	1	43	0.75	0.860	0.75	CU	3.98	0.860	1.02	X								
+R1EXG5	mononuclear	5	CuB	0.54	94.4	CuA	0.43	88.2	4.08	2	10	0.24	0.950	0.24	CU	1.54	0.930	1.54	CU								
+R7UB97	mononuclear	3	CuA	0.98	65.7	neither		56.9	30.88	0	57			0.57	X			0.73	X			0.85	X			4.20	X
+R7YGC4	mononuclear	5	CuA	0.60	97.0	CuB	0.60	92.9	4.1	3	23	0.62	1.000	0.62	CU	1.92	0.300	1.92	CU								
+S0DQZ0	mononuclear	5	CuA	0.29	96.5	CuB	0.38	95.5	3.77	3	30	0.47	0.990	0.47	CU	0.28	0.890	0.28	CU								
+S3D1Q3	mononuclear	5	CuA	0.58	95.6	CuB	0.56	88.8	3.81	2	17	0.76	0.660	0.76	CU	1.80	0.620	1.80	CU								
+T0KJ59	mononuclear	5	CuA	0.51	97.4	CuB	0.64	94.4	4.11	2	15	1.28	0.480	1.28	CU	0.31	0.930	0.31	CU								
+T0KXU6	mononuclear	5	CuB	0.45	94.8	CuA	0.80	79.2	3.57	5	21	1.19	0.910	1.19	CU	1.64	0.920	1.64	CU								
+T0PKY7	mononuclear	4	CuB	0.35	97.5	neither		69.1	15.55	1	23	1.11	0.750	1.11	CU	15.50	0.750	9.68	X	3.87	0.980	3.87	CU	0.95	0.980	0.95	CU
+T0PU14	no_cu	1	neither		41.7	neither		26.5	55.21	0	47											8.09	X			7.14	X
+T0QXV8	mononuclear	5	CuA	0.15	91.9	CuB	0.32	79.3	4.22	3	32	0.27	0.970	0.27	CU	1.40	0.650	1.40	CU								
+T0S9R0	mononuclear	5	CuA	0.15	96.8	CuB	0.62	87.4	4.57	2	28	0.65	0.990	0.65	CU	1.94	0.630	1.03	X								
+T5A6R2	mononuclear	5	CuB	0.19	92.2	CuA	0.60	77.4	3.95	3	27	0.35	0.810	0.35	CU	1.04	0.540	1.04	CU								
+U3AIJ7	mononuclear	5	CuB	0.39	96.7	CuA	0.98	90.0	4.58	3	24	0.86	0.810	0.86	CU	0.51	0.960	0.51	CU								
+U4K751	mononuclear	5	CuB	0.29	91.1	CuA	1.05	79.7	4.5	2	23	0.40	0.970	0.40	CU	1.54	0.950	1.54	CU								
+V5FME0	mononuclear	5	CuA	0.64	95.7	CuB	0.41	90.6	4.08	1	22	0.29	0.990	0.29	CU	3.90	0.990	3.90	CU								
+V9E917	no_cu	0	neither		64.3	neither		56.8	30.6	0	28			8.75	X			1.79	ZN								
+V9EB77	no_cu	0	neither		65.5	neither		59.7	31.61	0	32			1.47	X			2.43	X								
+V9EVI6	mononuclear	4	CuB	0.49	97.7	neither		72.8	21.96	1	24	0.27	0.910	0.27	CU	21.89	0.910	4.46	X	4.13	0.950	4.13	CU	0.76	0.890	0.76	CU
+W2I6U4	no_cu	0	neither		64.3	neither		56.8	30.6	0	28			8.75	X			1.79	ZN								
+W2I6Y9	no_cu	0	neither		65.5	neither		59.7	31.61	0	32			1.47	X			2.43	X								
+W2IN56	mononuclear	4	CuB	0.49	97.7	neither		72.8	21.96	1	24	0.27	0.910	0.27	CU	21.89	0.910	4.46	X	4.13	0.950	4.13	CU	0.76	0.890	0.76	CU
+W2KB90	no_cu	0	neither		61.9	neither		55.9	31.25	0	29											5.66	X			5.03	X
+W2MH14	no_cu	1	neither		58.6	neither		59.8	41.68	0	27			3.36	X			2.69	X								
+W2PMT3	no_cu	0	neither		68.4	neither		44.0	21.08	0	30											6.50	X			5.49	X
+W2PPJ1	no_cu	0	neither		64.7	neither		56.1	31.27	0	32											4.95	X			3.70	X
+W2PY30	mononuclear	4	CuB	0.48	97.7	neither		73.8	22.08	1	29	0.58	0.940	0.58	CU	22.07	0.940	1.82	X	3.73	0.660	3.73	CU	1.04	0.980	1.04	CU
+W2W5P6	no_cu	0	neither		64.3	neither		56.8	30.6	0	28			8.75	X			1.79	ZN								
+W2W6T1	no_cu	0	neither		65.5	neither		59.7	31.61	0	32			1.47	X			2.43	X								
+W2WMR4	mononuclear	4	CuB	0.49	97.7	neither		72.8	21.96	1	24	0.27	0.910	0.27	CU	21.89	0.910	4.46	X	4.13	0.950	4.13	CU	0.76	0.890	0.76	CU
+W2YEN6	no_cu	0	neither		61.9	neither		55.9	31.25	0	29											5.66	X			5.03	X
+W2YF51	no_cu	1	neither		58.6	neither		59.8	41.68	0	27			3.36	X			2.69	X								
+W2YZ31	mononuclear	4	CuB	0.49	97.7	neither		72.8	21.96	1	24	0.27	0.910	0.27	CU	21.89	0.910	4.46	X	4.13	0.950	4.13	CU	0.76	0.890	0.76	CU
+W3WIK4	mononuclear	5	CuA	0.37	90.1	CuB	1.64	83.8	4.19	1	26	0.80	0.860	0.80	CU	4.59	0.860	4.59	CU								
+W4GC36	mononuclear	3	CuB	0.34	95.4	neither		45.9	30.03	2	33	1.35	0.890	1.35	CU	28.90	0.890	16.82	X	4.55	0.960	4.55	CU	1.12	0.960	1.12	CU
+W6ZD78	mononuclear	5	CuA	0.39	92.7	CuB	0.74	76.6	4.42	3	23	0.33	0.980	0.33	CU	0.70	0.400	0.70	CU								
+W7F1D8	mononuclear	5	CuB	1.69	83.8	CuA	1.15	88.7	6.24	2	19	3.91	0.940	2.28	ZN	0.53	0.980	0.53	CU								
+W7M987	mononuclear	5	CuA	0.32	97.0	CuB	0.48	94.6	3.88	3	22	0.34	0.960	0.34	CU	1.42	0.500	1.42	CU								
+W7MLF2	mononuclear	4	CuA	0.71	94.9	CuB	0.50	63.6	4.41	2	20	0.36	0.980	0.36	CU	2.85	0.900	2.85	CU								
+W9I5K7	mononuclear	5	CuB	0.46	97.8	CuA	0.40	90.3	4.08	3	21	1.03	0.860	1.03	CU	1.37	0.430	1.37	CU								
+X0JGY5	binuclear	5	CuB	0.39	92.7	CuA	0.95	84.8	4.36	1	11	0.23	0.980	0.23	CU	4.33	0.980	0.47	X								
+X8JBW1	no_cu	3	CuA	2.25	85.5	neither		64.3	4.25	1	21	0.42	0.620	0.42	CU	4.01	0.620	4.01	CU								
+X8JFG5	no_cu	3	CuA	0.52	93.7	CuB	0.55	79.6	4.42	1	18	0.94	0.540	0.94	CU	3.48	0.540	1.88	X								
+X8JFZ0	no_cu	1	neither		68.2	neither		77.7	38.63	0	24											1.66	X			2.44	X

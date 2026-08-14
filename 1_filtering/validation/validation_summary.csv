@@ -1,0 +1,17 @@
+accession,ppo_range,full_canon,full_CuCu,full_nHis,full_pLDDT,trim_canon,trim_CuCu,trim_nHis,trim_pLDDT,fs2_alnlen,fs2_qtmscore,fs2_best_ref
+A0A075DN54,86-429,True,3.8,6,86.5,True,3.8,6,86.5,344,9.230E-01,ref_5CE9_Jregia
+A0A0K1ZP03,38-310,True,4.52,6,85.3,True,4.52,6,85.3,310,7.796E-01,ref_5CE9_Jregia
+A0A1S9DK56,18-614,True,4.36,6,81.5,True,4.36,6,81.5,434,4.824E-01,ref_2Y9W_Abisporus
+A0A261GRE4,2-294,True,3.89,6,89.6,True,3.89,6,89.6,330,7.314E-01,ref_5CE9_Jregia
+A0A8D3X086,6-296,True,3.89,6,94.7,True,3.89,6,94.7,284,9.727E-01,ref_PmTYR
+C7FF05,14-355,True,3.88,6,80.8,True,3.88,6,80.8,353,9.517E-01,ref_2Y9W_Abisporus
+G2QLD3,42-423,True,4.05,6,96.9,True,4.05,6,96.9,423,5.110E-01,ref_A0A9N8ELP9_oomycota
+P43309,97-418,True,3.86,6,91.7,True,3.86,6,91.7,322,9.829E-01,ref_5CE9_Jregia
+P43311,104-433,True,3.82,6,92.6,True,3.82,6,92.6,331,9.783E-01,ref_5CE9_Jregia
+Q08303,102-427,True,3.9,6,85.2,True,3.9,6,85.2,330,9.168E-01,ref_5CE9_Jregia
+Q2T7K1,8-399,True,3.89,6,90.0,True,3.89,6,90.0,428,6.523E-01,ref_2Y9W_Abisporus
+Q2UNF9,39-407,True,3.92,6,98.4,True,3.92,6,98.4,357,5.616E-01,ref_PmTYR
+Q83WS2,3-271,True,4.03,6,96.7,True,4.03,6,96.7,281,9.115E-01,ref_PmTYR
+Q93HL2,3-271,True,3.96,6,96.4,True,3.96,6,96.4,281,9.176E-01,ref_PmTYR
+Q2UP46,18-580,False,5.01,7,66.8,False,5.01,7,66.8,435,5.036E-01,ref_2Y9W_Abisporus
+P83040,10-310,True,4.28,6,92.5,True,4.28,6,92.5,282,8.315E-01,ref_1JS8_squid

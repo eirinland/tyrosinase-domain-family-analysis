@@ -1,0 +1,30 @@
+Starting job 1237300 on c1-3 on Olivia at Thu Jun 11 10:57:18 CEST 2026
+
+=== Extracting CIFs ===
+Extracted: 16 CIFs
+=== Trimming to PPO core ===
+sed: -e expression #1, char 2: unterminated `s' command
+
+Job 1237300 consumed 0.0 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T10:57:17; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 30.0 minutes
+Elapsed wallclock time:   2.0 seconds
+
+Job failed.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1237300           4            0.0 %  2026-06-11T10:57:18    2.0 s  1
+1237300.batch     4      1     4.1 %  2026-06-11T10:57:18    2.0 s  1
+
+Used CPU time:   0.3 CPU seconds
+Unused CPU time: 7.7 CPU seconds
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1237300          16.0        
+1237300.batch    16.0     0.0
+
+Job 1237300 completed at Thu Jun 11 10:57:20 CEST 2026

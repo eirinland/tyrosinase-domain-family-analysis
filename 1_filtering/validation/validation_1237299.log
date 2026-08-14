@@ -1,0 +1,53 @@
+Starting job 1237299 on c1-3 on Olivia at Thu Jun 11 10:55:39 CEST 2026
+
+=== Extracting CIFs ===
+tr: missing operand after ','
+Two strings must be given when translating.
+Try 'tr --help' for more information.
+ls: cannot access 'cifs_full/*.cif': No such file or directory
+Extracted: 0 CIFs
+=== Trimming to PPO core ===
+SKIP A0A075DN54: no CIF file
+SKIP A0A0K1ZP03: no CIF file
+SKIP A0A1S9DK56: no CIF file
+SKIP A0A261GRE4: no CIF file
+SKIP A0A8D3X086: no CIF file
+SKIP C7FF05: no CIF file
+SKIP G2QLD3: no CIF file
+SKIP P43309: no CIF file
+SKIP P43311: no CIF file
+SKIP Q08303: no CIF file
+SKIP Q2T7K1: no CIF file
+SKIP Q2UNF9: no CIF file
+SKIP Q83WS2: no CIF file
+SKIP Q93HL2: no CIF file
+SKIP Q2UP46: no CIF file
+SKIP P83040: no CIF file
+
+Trimmed: 0, Skipped: 16
+=== Foldseek pass 2 (trimmed) ===
+/var/spool/slurmd/job1237299/slurm_script: line 44: foldseek: command not found
+
+Job 1237299 consumed 0.0 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T10:55:29; waited 10.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 30.0 minutes
+Elapsed wallclock time:   2.0 seconds
+
+Job failed.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1237299           4            0.0 %  2026-06-11T10:55:39    2.0 s  127 (command not found)
+1237299.batch     4      1     4.9 %  2026-06-11T10:55:39    2.0 s  127 (command not found)
+
+Used CPU time:   0.4 CPU seconds
+Unused CPU time: 7.6 CPU seconds
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1237299          16.0        
+1237299.batch    16.0     0.1
+
+Job 1237299 completed at Thu Jun 11 10:55:41 CEST 2026

@@ -1,0 +1,7 @@
+Starting job 1237298 on c1-3 on Olivia at Thu Jun 11 10:54:39 CEST 2026
+
+=== Extracting CIFs ===
+fuse: bad mount point `/tmp/sqsh_validation_913477': No such file or directory
+
+
+Job 1237298 completed at Thu Jun 11 10:54:40 CEST 2026

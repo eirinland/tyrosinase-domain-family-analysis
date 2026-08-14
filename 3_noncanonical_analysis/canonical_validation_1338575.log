@@ -1,0 +1,104 @@
+Starting job 1338575 on c1-33 on Olivia at Mon Jun 22 23:50:16 CEST 2026
+
+copied: 606 cifs
+
+Time for processing: 0h 0m 0s 2ms
+foldseek hits: 606
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+pool: 606
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Indexing CIFs...
+  606 CIFs
+Non-canonical pool: 606
+Loading taxonomy...
+Parsing B2ZB02 reference...
+  CuA His: [42, 60, 69]   CuB His: [204, 208, 231]
+  [200/606]
+  [400/606]
+  [600/606]
+
+Processed 606  (no_fs=0 no_cu=0 no_seed=0)
+Cu assignment pairs:
+  CuB+CuA: 563
+  CuA+CuB: 33
+  neither+neither: 5
+  CuB+neither: 2
+  neither+CuB: 2
+  neither+CuA: 1
+Written 606 rows to /cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/3_noncanonical_analysis/canonical_validation_results.tsv
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Total processed: 606
+6/6 His recovered: 571
+6/6 mapped (any residue): 582
+<6 mapped (has gaps): 24
+
+        Kingdom     N  6His  6map    rate
+        Animals   100   100   100  100.0%
+        Archaea     6     5     5   83.3%
+       Bacteria   100    99   100   99.0%
+          Fungi   100    99   100   99.0%
+       Oomycota   100    93    93   93.0%
+         Plants   100   100   100  100.0%
+        Unknown   100    75    84   75.0%
+
+Structures with <6 His recovered (35):
+  A0A7S3XTZ6 (Oomycota): 0/6 His, 2/6 mapped, gaps: CuA_His2,CuB_His1,CuB_His2,CuB_His3
+  A0ABR1FJ54 (Unknown): 0/6 His, 5/6 mapped, gaps: CuA_His3
+  A0A0G4HMU6 (Unknown): 1/6 His, 3/6 mapped, gaps: CuB_His1,CuB_His2,CuB_His3
+  A0A0G4ICW5 (Unknown): 1/6 His, 3/6 mapped, gaps: CuB_His1,CuB_His2,CuB_His3
+  A0A2N3N4T8 (Unknown): 1/6 His, 2/6 mapped, gaps: CuA_His1,CuA_His3,CuB_His1,CuB_His2
+  A0A8H6DNI4 (Unknown): 1/6 His, 5/6 mapped, gaps: CuB_His1
+  A0ABR1G8A5 (Oomycota): 1/6 His, 4/6 mapped, gaps: CuA_His2,CuA_His3
+  A0A6C0KGS2 (Unknown): 2/6 His, 5/6 mapped, gaps: CuB_His3
+  A0A6C0KLD2 (Unknown): 2/6 His, 4/6 mapped, gaps: CuB_His1,CuB_His3
+  A0AAD7U9P3 (Unknown): 2/6 His, 3/6 mapped, gaps: CuB_His1,CuB_His2,CuB_His3
+  D7FNR4 (Unknown): 2/6 His, 4/6 mapped, gaps: CuB_His1,CuB_His3
+  A0A7C8PX01 (Unknown): 3/6 His, 5/6 mapped, gaps: CuA_His3
+  A0A7S2BK70 (Unknown): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0A7S2F5L7 (Oomycota): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0A7S2R8C7 (Oomycota): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0AAD7UGQ8 (Oomycota): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0AAD7UHF1 (Oomycota): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0ABR1FRY0 (Oomycota): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0ABR1FXM0 (Unknown): 3/6 His, 5/6 mapped, gaps: CuB_His3
+  A0A4Y8CKP8 (Unknown): 4/6 His, 6/6 mapped, gaps: 
+  A0A654M0W1 (Archaea): 4/6 His, 5/6 mapped, gaps: CuA_His1
+  A0A813JVL4 (Unknown): 4/6 His, 6/6 mapped, gaps: 
+  A0AAD7UHA8 (Unknown): 4/6 His, 6/6 mapped, gaps: 
+  A0ABT9FYM9 (Unknown): 4/6 His, 6/6 mapped, gaps: 
+  Q2UP46 (Unknown): 4/6 His, 5/6 mapped, gaps: CuA_His1
+  A0A0G4GTR9 (Unknown): 5/6 His, 6/6 mapped, gaps: 
+  A0A225X002 (Unknown): 5/6 His, 6/6 mapped, gaps: 
+  A0A397IQP5 (Unknown): 5/6 His, 6/6 mapped, gaps: 
+  A0A559JN81 (Unknown): 5/6 His, 5/6 mapped, gaps: CuA_His2
+  A0A6S7I642 (Unknown): 5/6 His, 6/6 mapped, gaps: 
+  A0A7G5C193 (Unknown): 5/6 His, 5/6 mapped, gaps: CuA_His2
+  A0A7S2B6E8 (Unknown): 5/6 His, 6/6 mapped, gaps: 
+  A0A812JR76 (Unknown): 5/6 His, 5/6 mapped, gaps: CuA_His2
+  A0A8H7IZ83 (Fungi): 5/6 His, 6/6 mapped, gaps: 
+  Q7NXK8 (Bacteria): 5/6 His, 6/6 mapped, gaps: 
+Done: Mon Jun 22 23:51:25 CEST 2026
+
+Job 1338575 consumed 0.2 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-22T23:50:15; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 60.0 minutes
+Elapsed wallclock time:   1.1 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1338575           8            0.0 %  2026-06-22T23:50:16   69.0 s  0
+1338575.batch     8      1    15.9 %  2026-06-22T23:50:16   69.0 s  0
+
+Used CPU time:   1.5 CPU minutes
+Unused CPU time: 7.7 CPU minutes
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1338575          24.0        
+1338575.batch    24.0     3.5
+
+Job 1338575 completed at Mon Jun 22 23:51:26 CEST 2026

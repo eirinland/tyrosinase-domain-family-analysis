@@ -1,0 +1,753 @@
+protein_id	pfam
+CAI0647110	PF24864|Domain of unknown function (DUF7730)
+CAI0647111	PF01163|RIO domain
+CAI0647113	
+CAI0647114	PF12937|F-box-like
+CAI0647115	PF00246|Zinc carboxypeptidase
+CAI0647116	PF11374|Protein of unknown function (DUF3176)
+CAI0647117	
+CAI0647118	PF11374|Protein of unknown function (DUF3176)
+CAI0647119	PF00083|Sugar (and other) transporter
+CAI0647120	PF24803|Domain of unknown function (DUF7704)
+CAI0647121	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+EUN30003	
+EUN30004	PF13911|AhpC/TSA antioxidant enzyme
+EUN30005	PF13350|Tyrosine phosphatase family
+EUN30006	PF03798|TLC domain
+EUN30007	PF01027|Inhibitor of apoptosis-promoting Bax1
+EUN30008	
+EUN30009	
+EUN30010	
+EUN30011	PF00735|Septin
+EUN30012	PF21032|PROPPIN
+EXF84411	PF04108|Autophagy protein ATG17-like domain
+EXF84412	PF04515|Plasma-membrane choline transporter
+EXF84413	
+EXF84414	
+EXF84415	PF00023|Ankyrin repeat
+EXF84416	PF20150|2EXR family
+EXF84417	PF17784|Sulfotransferase domain
+EXF84418	PF24864|Domain of unknown function (DUF7730)
+EXF84419	
+EXF84420	PF01163|RIO domain
+EXF84422	
+EXF84423	
+EXF84424	
+EXF84425	PF00246|Zinc carboxypeptidase
+EXF84426	
+EXF84427	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+EXF84428	PF07969|Amidohydrolase family
+EXF84429	PF01083|Cutinase
+EXF84430	PF07690|Major Facilitator Superfamily
+EXF84431	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+GJC86029	PF13434|L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+GJC86030	PF07690|Major Facilitator Superfamily
+GJC86031	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+GJC86032	PF01083|Cutinase
+GJC86033	PF07969|Amidohydrolase family
+GJC86034	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+GJC86035	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+GJC86036	PF24803|Domain of unknown function (DUF7704)
+GJC86037	PF00246|Zinc carboxypeptidase
+GJC86038	
+GJC86040	PF01163|RIO domain
+GJC86041	PF01822|WSC domain
+GJC86042	PF24864|Domain of unknown function (DUF7730)
+GJC86043	PF17784|Sulfotransferase domain
+GJC86044	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+GJC86045	PF04515|Plasma-membrane choline transporter
+GJC86046	
+GJC86047	
+GJC86048	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases
+GJC86049	PF24883|Nephrocystin 3, N-terminal
+GKT47790	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases
+GKT47791	
+GKT47792	PF04515|Plasma-membrane choline transporter
+GKT47793	
+GKT47794	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+GKT47795	PF17784|Sulfotransferase domain
+GKT47796	PF24864|Domain of unknown function (DUF7730)
+GKT47797	PF01822|WSC domain
+GKT47798	PF01163|RIO domain
+GKT47799	
+GKT47801	
+GKT47802	PF00246|Zinc carboxypeptidase
+GKT47803	PF24803|Domain of unknown function (DUF7704)
+GKT47804	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+GKT47805	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+GKT47806	
+GKT47807	PF07969|Amidohydrolase family
+GKT47808	PF01083|Cutinase
+GKT47809	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+GKT47810	PF07690|Major Facilitator Superfamily
+KAF0320223	PF05368|NmrA-like family
+KAF0320224	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAF0320225	PF00106|short chain dehydrogenase
+KAF0320226	PF00106|short chain dehydrogenase
+KAF0320227	
+KAF0320228	PF17784|Sulfotransferase domain
+KAF0320229	PF24864|Domain of unknown function (DUF7730)
+KAF0320230	
+KAF0320231	PF01163|RIO domain
+KAF0320232	
+KAF0320234	
+KAF0320235	PF12937|F-box-like
+KAF0320236	PF00246|Zinc carboxypeptidase
+KAF0320237	PF11374|Protein of unknown function (DUF3176)
+KAF0320238	PF11374|Protein of unknown function (DUF3176)
+KAF0320239	PF00083|Sugar (and other) transporter
+KAF0320240	PF24803|Domain of unknown function (DUF7704)
+KAF0320241	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAF0320242	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAF0320243	PF01083|Cutinase;PF07969|Amidohydrolase family;PF22039|Imidazolonepropionase-like composite domain, bacteria
+KAF3807808	PF00106|short chain dehydrogenase
+KAF3807809	PF00728|Glycosyl hydrolase family 20, catalytic domain;PF02838|Glycosyl hydrolase family 20, domain 2;PF07519|Tannase and feruloyl esterase
+KAF3807810	PF00067|Cytochrome P450
+KAF3807811	PF05368|NmrA-like family
+KAF3807812	PF00083|Sugar (and other) transporter
+KAF3807813	PF11374|Protein of unknown function (DUF3176)
+KAF3807814	PF11374|Protein of unknown function (DUF3176)
+KAF3807815	PF00246|Zinc carboxypeptidase
+KAF3807816	PF12937|F-box-like
+KAF3807817	
+KAF3807819	PF01163|RIO domain
+KAF3807820	PF01822|WSC domain
+KAF3807821	PF24864|Domain of unknown function (DUF7730)
+KAF3807822	PF17784|Sulfotransferase domain
+KAF3807823	
+KAF3807824	PF00106|short chain dehydrogenase
+KAF3807825	PF00106|short chain dehydrogenase
+KAF3807826	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAF3807827	PF06985|Heterokaryon incompatibility protein (HET);PF26639|Het-6 beta-barrel domain
+KAF3807828	PF24803|Domain of unknown function (DUF7704)
+KAF4483627	PF11374|Protein of unknown function (DUF3176)
+KAF4483628	PF00246|Zinc carboxypeptidase
+KAF4483812	PF00083|Sugar (and other) transporter
+KAF4483813	PF05368|NmrA-like family
+KAF4483814	PF11374|Protein of unknown function (DUF3176)
+KAF4483815	PF11374|Protein of unknown function (DUF3176)
+KAF4484075	PF01544|CorA-like Mg2+ transporter protein
+KAF4484076	PF17784|Sulfotransferase domain
+KAF4484078	PF24803|Domain of unknown function (DUF7704)
+KAF4484079	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAF4484080	PF00106|short chain dehydrogenase
+KAF4484362	
+KAF4484885	
+KAF4484886	
+KAF4484887	
+KAF4484888	PF01163|RIO domain
+KAF4485203	PF00067|Cytochrome P450
+KAF4485204	PF00728|Glycosyl hydrolase family 20, catalytic domain;PF02838|Glycosyl hydrolase family 20, domain 2
+KAF4485540	
+KAF4485541	PF24864|Domain of unknown function (DUF7730)
+KAF4863848	PF07519|Tannase and feruloyl esterase
+KAF4863849	PF11374|Protein of unknown function (DUF3176)
+KAF4863850	
+KAF4863851	PF00246|Zinc carboxypeptidase
+KAF4863852	PF12937|F-box-like
+KAF4863853	PF00728|Glycosyl hydrolase family 20, catalytic domain;PF02838|Glycosyl hydrolase family 20, domain 2
+KAF4863854	PF00067|Cytochrome P450
+KAF4863855	PF05368|NmrA-like family
+KAF4863856	PF00083|Sugar (and other) transporter
+KAF4863885	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAF4863886	PF24803|Domain of unknown function (DUF7704)
+KAF4864092	
+KAF4864094	
+KAF4864095	PF24864|Domain of unknown function (DUF7730)
+KAF4864096	
+KAF4864097	PF01163|RIO domain
+KAF4864098	PF00106|short chain dehydrogenase
+KAF4864099	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAF4864100	PF17784|Sulfotransferase domain
+KAF4864101	PF00106|short chain dehydrogenase
+KAF6811538	PF24803|Domain of unknown function (DUF7704)
+KAF6811539	
+KAF6811540	
+KAF6811541	PF07969|Amidohydrolase family
+KAF6811542	PF01083|Cutinase
+KAF6811543	PF11374|Protein of unknown function (DUF3176)
+KAF6811544	PF12937|F-box-like
+KAF6811545	PF00246|Zinc carboxypeptidase
+KAF6811546	
+KAF6811547	
+KAF6811549	PF01163|RIO domain
+KAF6811550	PF01822|WSC domain
+KAF6811551	PF24864|Domain of unknown function (DUF7730)
+KAF6811552	PF17784|Sulfotransferase domain
+KAF6811553	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAF6811554	PF05368|NmrA-like family
+KAF6811555	
+KAF6811556	
+KAF6811557	
+KAF6811558	PF01261|Xylose isomerase-like TIM barrel
+KAF9873068	
+KAF9873069	
+KAF9873070	
+KAF9873071	PF05730|CFEM domain;PF20684|Fungal rhodopsin domain
+KAF9873072	PF00728|Glycosyl hydrolase family 20, catalytic domain;PF02838|Glycosyl hydrolase family 20, domain 2
+KAF9873073	PF00067|Cytochrome P450;PF05368|NmrA-like family
+KAF9873074	PF01687|Riboflavin kinase;PF17784|Sulfotransferase domain;PF26728|FMNK-like N-terminal domain
+KAF9873075	PF24864|Domain of unknown function (DUF7730)
+KAF9873076	
+KAF9873077	PF01163|RIO domain
+KAF9873079	
+KAF9873080	
+KAF9873081	PF00246|Zinc carboxypeptidase
+KAF9873082	
+KAF9873083	
+KAF9873084	PF01168|Alanine racemase, N-terminal domain
+KAF9873085	PF01042|Endoribonuclease L-PSP
+KAF9873086	PF00083|Sugar (and other) transporter
+KAF9873087	PF07519|Tannase and feruloyl esterase
+KAF9873088	PF00924|Mechanosensitive ion channel, beta-domain;PF25886|Mechanosensitive ion channel protein Msy1-like, transmembrane domain
+KAG7050859	
+KAG7050861	PF20150|2EXR family
+KAG7050868	PF00246|Zinc carboxypeptidase
+KAG7050871	PF07969|Amidohydrolase family
+KAG7050873	PF01083|Cutinase
+KAG7050874	
+KAG7050875	
+KAG7050876	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAG7050877	PF00023|Ankyrin repeat
+KAG7050879	PF07690|Major Facilitator Superfamily
+KAG7050881	PF24864|Domain of unknown function (DUF7730)
+KAG7050882	PF01163|RIO domain
+KAG7050884	
+KAG7050886	
+KAG7050887	
+KAG7050888	
+KAI3554047	PF00891|O-methyltransferase domain
+KAI3554048	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAI3554049	PF07690|Major Facilitator Superfamily
+KAI3554050	PF01083|Cutinase
+KAI3554051	PF07969|Amidohydrolase family
+KAI3554052	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAI3554053	PF00246|Zinc carboxypeptidase
+KAI3554054	PF12937|F-box-like
+KAI3554055	
+KAI3554056	
+KAI3554058	PF01163|RIO domain
+KAI3554059	
+KAI3554060	PF24864|Domain of unknown function (DUF7730)
+KAI3554061	PF17784|Sulfotransferase domain
+KAI3554062	
+KAI3554063	PF20150|2EXR family
+KAI3554064	PF00083|Sugar (and other) transporter
+KAI3554065	PF05572|Pregnancy-associated plasma protein-A
+KAI3554066	PF00067|Cytochrome P450
+KAI3554067	
+KAK0373035	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK0373036	PF07690|Major Facilitator Superfamily
+KAK0373037	PF01083|Cutinase
+KAK0373038	PF07969|Amidohydrolase family
+KAK0373039	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK0373040	
+KAK0373041	PF00246|Zinc carboxypeptidase
+KAK0373042	PF12937|F-box-like
+KAK0373043	
+KAK0373044	
+KAK0373046	PF01163|RIO domain
+KAK0373047	
+KAK0373048	PF24864|Domain of unknown function (DUF7730)
+KAK0373049	PF17784|Sulfotransferase domain
+KAK0373050	
+KAK0373051	PF20150|2EXR family
+KAK1462029	
+KAK1462030	PF04515|Plasma-membrane choline transporter
+KAK1462031	
+KAK1462032	
+KAK1462033	PF20150|2EXR family
+KAK1462034	
+KAK1462035	PF17784|Sulfotransferase domain
+KAK1462036	PF24864|Domain of unknown function (DUF7730)
+KAK1462037	
+KAK1462038	PF01163|RIO domain
+KAK1462040	
+KAK1462041	
+KAK1462042	
+KAK1462043	PF12937|F-box-like
+KAK1462044	PF00246|Zinc carboxypeptidase
+KAK1462045	
+KAK1462046	
+KAK1462047	
+KAK1462048	
+KAK1462049	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1467620	PF00083|Sugar (and other) transporter
+KAK1467621	PF13561|Enoyl-(Acyl carrier protein) reductase
+KAK1467622	PF00923|Transaldolase/Fructose-6-phosphate aldolase
+KAK1467623	PF00010|Helix-loop-helix DNA-binding domain
+KAK1467624	PF20150|2EXR family
+KAK1467625	
+KAK1467626	PF17784|Sulfotransferase domain
+KAK1467627	PF24864|Domain of unknown function (DUF7730)
+KAK1467628	
+KAK1467629	PF01163|RIO domain
+KAK1467631	
+KAK1467632	
+KAK1467633	PF12937|F-box-like
+KAK1467634	PF00246|Zinc carboxypeptidase
+KAK1467635	
+KAK1467636	
+KAK1467637	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1467638	PF07969|Amidohydrolase family
+KAK1467639	PF01083|Cutinase
+KAK1467640	PF07690|Major Facilitator Superfamily
+KAK1470394	
+KAK1470396	PF01163|RIO domain
+KAK1470397	
+KAK1470398	PF24864|Domain of unknown function (DUF7730)
+KAK1470399	PF17784|Sulfotransferase domain
+KAK1470400	
+KAK1470401	PF20150|2EXR family
+KAK1516833	PF00891|O-methyltransferase domain
+KAK1516834	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK1516835	PF07690|Major Facilitator Superfamily
+KAK1516836	PF01083|Cutinase
+KAK1516837	PF07969|Amidohydrolase family
+KAK1516838	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1516839	PF00246|Zinc carboxypeptidase
+KAK1516840	
+KAK1516841	
+KAK1516842	
+KAK1516844	PF01163|RIO domain
+KAK1516845	
+KAK1516846	PF24864|Domain of unknown function (DUF7730)
+KAK1516847	PF17784|Sulfotransferase domain
+KAK1516848	
+KAK1516849	PF20150|2EXR family
+KAK1516850	
+KAK1516851	
+KAK1516852	PF04515|Plasma-membrane choline transporter
+KAK1516853	
+KAK1545827	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK1545828	PF07690|Major Facilitator Superfamily
+KAK1545829	PF01083|Cutinase
+KAK1545830	PF07969|Amidohydrolase family
+KAK1545831	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1545832	
+KAK1545833	PF00246|Zinc carboxypeptidase
+KAK1545834	PF12937|F-box-like
+KAK1545835	
+KAK1545836	
+KAK1545838	PF01163|RIO domain
+KAK1545839	
+KAK1545840	PF24864|Domain of unknown function (DUF7730)
+KAK1545841	PF17784|Sulfotransferase domain
+KAK1545842	
+KAK1545843	PF20150|2EXR family
+KAK1545844	
+KAK1545845	PF04515|Plasma-membrane choline transporter
+KAK1545846	
+KAK1545847	PF04108|Autophagy protein ATG17-like domain
+KAK1654116	PF04515|Plasma-membrane choline transporter
+KAK1654117	PF17100|N-terminal domain of NWD NACHT-NTPase
+KAK1654118	PF12796|Ankyrin repeats (3 copies)
+KAK1654119	
+KAK1654120	PF20150|2EXR family
+KAK1654121	
+KAK1654122	PF17784|Sulfotransferase domain
+KAK1654123	PF24864|Domain of unknown function (DUF7730)
+KAK1654124	
+KAK1654125	PF01163|RIO domain
+KAK1654127	
+KAK1654128	
+KAK1654129	
+KAK1654130	
+KAK1654131	
+KAK1654132	
+KAK1654133	PF04098|Rad52/22 family double-strand break repair protein
+KAK1654134	PF08559|Cut8, nuclear proteasome tether protein
+KAK1654135	PF00076|RNA recognition motif
+KAK1654136	
+KAK1676841	PF00891|O-methyltransferase domain
+KAK1676842	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK1676843	PF07690|Major Facilitator Superfamily
+KAK1676844	PF01083|Cutinase
+KAK1676845	PF07969|Amidohydrolase family
+KAK1676846	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1676847	PF00246|Zinc carboxypeptidase
+KAK1676848	
+KAK1676849	
+KAK1676850	
+KAK1676852	
+KAK1676853	PF01163|RIO domain
+KAK1676854	PF01822|WSC domain
+KAK1676855	PF24864|Domain of unknown function (DUF7730)
+KAK1676856	PF17784|Sulfotransferase domain
+KAK1676857	
+KAK1676858	PF20150|2EXR family
+KAK1676859	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies)
+KAK1676860	PF03055|Retinal pigment epithelial membrane protein
+KAK1676861	
+KAK1718055	PF01408|Oxidoreductase family, NAD-binding Rossmann fold
+KAK1718056	PF07690|Major Facilitator Superfamily
+KAK1718057	PF01083|Cutinase
+KAK1718058	PF07969|Amidohydrolase family
+KAK1718059	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK1718060	
+KAK1718061	PF00246|Zinc carboxypeptidase
+KAK1718062	PF12937|F-box-like
+KAK1718063	
+KAK1718064	
+KAK1718066	PF01163|RIO domain
+KAK1718067	
+KAK1718068	PF24864|Domain of unknown function (DUF7730)
+KAK1718069	PF17784|Sulfotransferase domain
+KAK1718070	PF20150|2EXR family
+KAK1718071	
+KAK1718072	
+KAK1718073	
+KAK1718074	PF04515|Plasma-membrane choline transporter
+KAK1718075	
+KAK1853443	
+KAK1853444	
+KAK1853445	PF08241|Methyltransferase domain
+KAK1853446	PF17784|Sulfotransferase domain
+KAK1853447	PF24864|Domain of unknown function (DUF7730)
+KAK1853448	
+KAK1853449	PF01163|RIO domain
+KAK1853450	
+KAK1853452	
+KAK1853453	PF12937|F-box-like
+KAK1853454	PF00246|Zinc carboxypeptidase
+KAK1853455	PF00246|Zinc carboxypeptidase
+KAK1853456	
+KAK1853457	PF11374|Protein of unknown function (DUF3176)
+KAK1853458	PF00083|Sugar (and other) transporter
+KAK1853459	PF24803|Domain of unknown function (DUF7704)
+KAK1853460	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAK1853461	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK2030775	PF04108|Autophagy protein ATG17-like domain
+KAK2030776	PF04515|Plasma-membrane choline transporter
+KAK2030777	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAK2030778	
+KAK2030779	PF17784|Sulfotransferase domain
+KAK2030780	PF24864|Domain of unknown function (DUF7730)
+KAK2030781	PF08450|SMP-30/Gluconolactonase/LRE-like region
+KAK2030782	PF18961|Domain of unknown function (DUF5703)
+KAK2030783	
+KAK2030784	PF01163|RIO domain
+KAK2030786	
+KAK2030787	PF00246|Zinc carboxypeptidase
+KAK2030788	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAK2030789	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK2030790	PF07969|Amidohydrolase family
+KAK2030791	PF01083|Cutinase
+KAK2030792	
+KAK2030793	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK2030794	PF07690|Major Facilitator Superfamily
+KAK2030795	
+KAK2767865	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK2767866	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAK2767867	PF24803|Domain of unknown function (DUF7704)
+KAK2767868	PF00083|Sugar (and other) transporter
+KAK2767869	PF11374|Protein of unknown function (DUF3176)
+KAK2767870	PF11374|Protein of unknown function (DUF3176)
+KAK2767871	PF11374|Protein of unknown function (DUF3176)
+KAK2767872	PF00246|Zinc carboxypeptidase
+KAK2767873	PF12937|F-box-like
+KAK2767874	
+KAK2767876	PF01163|RIO domain
+KAK2767877	PF01822|WSC domain
+KAK2767878	PF24864|Domain of unknown function (DUF7730)
+KAK2767879	PF17784|Sulfotransferase domain
+KAK2767880	
+KAK2767881	PF00106|short chain dehydrogenase
+KAK2767882	PF00106|short chain dehydrogenase
+KAK2767883	
+KAK2767884	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAK2767885	
+KAK6209765	PF07690|Major Facilitator Superfamily
+KAK6209766	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAK6209767	PF24883|Nephrocystin 3, N-terminal
+KAK6209768	PF01083|Cutinase
+KAK6209769	PF07969|Amidohydrolase family
+KAK6209770	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAK6209771	PF24803|Domain of unknown function (DUF7704)
+KAK6209772	PF00246|Zinc carboxypeptidase
+KAK6209773	
+KAK6209774	
+KAK6209776	PF01163|RIO domain
+KAK6209777	PF01822|WSC domain
+KAK6209778	PF24864|Domain of unknown function (DUF7730)
+KAK6209779	PF17784|Sulfotransferase domain
+KAK6209780	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAK6209781	PF04515|Plasma-membrane choline transporter
+KAK6209782	PF13409|Glutathione S-transferase, N-terminal domain;PF22041|Glutathione S-transferase, C-terminal domain
+KAK6209783	PF04108|Autophagy protein ATG17-like domain
+KAK6209784	PF00732|GMC oxidoreductase;PF05199|GMC oxidoreductase;PF13450|NAD(P)-binding Rossmann-like domain
+KAK6209785	
+KAK9717835	PF00018|SH3 domain
+KAK9717836	
+KAK9717837	
+KAK9717839	PF13639|Ring finger domain
+KAK9717840	PF04190|Golgi to ER traffic protein 4
+KAK9717841	PF00590|Tetrapyrrole (Corrin/Porphyrin) Methylases;PF13241|Putative NAD(P)-binding;PF14823|Sirohaem biosynthesis protein C-terminal;PF14824|Sirohaem biosynthesis protein central
+KAK9717842	PF01370|NAD dependent epimerase/dehydratase family
+KAK9717843	PF01566|Natural resistance-associated macrophage protein-like
+KAK9717844	PF01566|Natural resistance-associated macrophage protein-like
+KAK9717845	
+KAL0932164	PF00106|short chain dehydrogenase
+KAL0932165	PF00106|short chain dehydrogenase
+KAL0932166	PF07519|Tannase and feruloyl esterase
+KAL0932167	
+KAL0932168	PF00728|Glycosyl hydrolase family 20, catalytic domain;PF02838|Glycosyl hydrolase family 20, domain 2
+KAL0932169	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KAL0932170	PF17784|Sulfotransferase domain
+KAL0932171	PF24864|Domain of unknown function (DUF7730)
+KAL0932172	PF01822|WSC domain
+KAL0932173	PF01163|RIO domain
+KAL0932175	
+KAL0932176	
+KAL0932177	PF00246|Zinc carboxypeptidase
+KAL0932178	PF24803|Domain of unknown function (DUF7704)
+KAL0932179	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KAL0932180	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KAL0932181	PF07969|Amidohydrolase family
+KAL0932182	PF01083|Cutinase
+KAL0932183	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KAL0932184	PF07690|Major Facilitator Superfamily
+KDN70614	
+KDN70615	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases;PF24883|Nephrocystin 3, N-terminal
+KDN70616	
+KDN70617	PF04515|Plasma-membrane choline transporter
+KDN70618	PF26728|FMNK-like N-terminal domain
+KDN70619	PF17784|Sulfotransferase domain
+KDN70620	PF24864|Domain of unknown function (DUF7730)
+KDN70621	PF08450|SMP-30/Gluconolactonase/LRE-like region;PF18961|Domain of unknown function (DUF5703)
+KDN70622	
+KDN70623	PF01163|RIO domain
+KDN70625	
+KDN70626	PF00246|Zinc carboxypeptidase
+KDN70627	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KDN70628	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KDN70629	PF07969|Amidohydrolase family
+KDN70630	PF01083|Cutinase
+KDN70631	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KDN70632	PF01822|WSC domain;PF07690|Major Facilitator Superfamily
+KDN70633	
+KDN70634	PF13460|NAD(P)H-binding
+KXH69094	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases
+KXH69095	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases
+KXH69096	PF12796|Ankyrin repeats (3 copies)
+KXH69097	
+KXH69098	PF04515|Plasma-membrane choline transporter
+KXH69099	
+KXH69100	PF17784|Sulfotransferase domain
+KXH69101	PF24864|Domain of unknown function (DUF7730)
+KXH69102	
+KXH69103	PF01163|RIO domain
+KXH69105	
+KXH69106	
+KXH69107	
+KXH69108	PF00246|Zinc carboxypeptidase
+KXH69109	
+KXH69110	
+KXH69111	
+KXH69112	PF07969|Amidohydrolase family
+KXH69113	PF01083|Cutinase
+KXH69114	PF07690|Major Facilitator Superfamily
+KZL64138	PF07690|Major Facilitator Superfamily
+KZL64139	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KZL64140	PF01083|Cutinase
+KZL64141	PF07969|Amidohydrolase family
+KZL64144	PF01593|Flavin containing amine oxidoreductase
+KZL64145	PF01822|WSC domain
+KZL64224	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KZL64225	PF06985|Heterokaryon incompatibility protein (HET)
+KZL64226	PF23397|Domain of unknown function (DUF7104)
+KZL64227	PF24864|Domain of unknown function (DUF7730)
+KZL64228	PF01163|RIO domain
+KZL64230	
+KZL64231	PF00246|Zinc carboxypeptidase
+KZL64232	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+KZL64233	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+KZL64262	PF04515|Plasma-membrane choline transporter
+KZL64263	
+KZL64264	
+KZL64298	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies);PF13637|Ankyrin repeats (many copies);PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases;PF24883|Nephrocystin 3, N-terminal
+KZL64299	PF04108|Autophagy protein ATG17-like domain
+KZL72883	PF01822|WSC domain
+KZL72884	PF07690|Major Facilitator Superfamily
+KZL72888	PF06985|Heterokaryon incompatibility protein (HET);PF23397|Domain of unknown function (DUF7104)
+KZL72890	PF00246|Zinc carboxypeptidase
+KZL72892	PF01083|Cutinase
+KZL72893	
+KZL72894	PF07969|Amidohydrolase family
+KZL72921	PF24564|Domain of unknown function (DUF7605)
+KZL72922	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+KZL72923	PF17107|N-terminal domain on NACHT_NTPase and P-loop NTPases
+KZL72924	
+KZL72936	PF00023|Ankyrin repeat;PF12796|Ankyrin repeats (3 copies);PF22939|GPI inositol-deacylase, winged helix domain;PF24883|Nephrocystin 3, N-terminal
+KZL72937	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+KZL72938	PF04515|Plasma-membrane choline transporter
+KZL72939	PF01163|RIO domain
+KZL72947	PF24864|Domain of unknown function (DUF7730)
+KZL72948	PF17784|Sulfotransferase domain
+KZL72949	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+OBR14457	PF01822|WSC domain
+OBR14458	PF07690|Major Facilitator Superfamily
+OBR14459	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+OBR14460	
+OBR14461	PF01083|Cutinase
+OBR14462	PF07969|Amidohydrolase family
+OBR14463	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+OBR14464	PF00246|Zinc carboxypeptidase
+OBR14465	
+OBR14466	
+OBR14468	PF01163|RIO domain
+OBR14469	PF01822|WSC domain
+OBR14470	PF24864|Domain of unknown function (DUF7730)
+OBR14471	
+OBR14472	PF17784|Sulfotransferase domain
+OBR14473	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+OBR14474	PF04515|Plasma-membrane choline transporter
+OBR14475	PF13409|Glutathione S-transferase, N-terminal domain;PF22041|Glutathione S-transferase, C-terminal domain
+OBR14476	PF04108|Autophagy protein ATG17-like domain
+OBR14477	PF00732|GMC oxidoreductase;PF05199|GMC oxidoreductase
+OHE94165	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+OHE94166	PF07690|Major Facilitator Superfamily
+OHE94167	PF01083|Cutinase
+OHE94168	PF07969|Amidohydrolase family
+OHE94169	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+OHE94170	
+OHE94171	
+OHE94172	PF00246|Zinc carboxypeptidase
+OHE94173	
+OHE94174	
+OHE94176	
+OHE94177	PF01163|RIO domain
+OHE94178	
+OHE94179	PF24864|Domain of unknown function (DUF7730)
+OHE94180	PF17784|Sulfotransferase domain
+OHE94181	PF00023|Ankyrin repeat;PF03055|Retinal pigment epithelial membrane protein;PF12796|Ankyrin repeats (3 copies)
+OHE94182	
+OHE94183	
+OHE94184	PF04515|Plasma-membrane choline transporter
+OHE94185	PF04108|Autophagy protein ATG17-like domain
+OLN83262	PF02733|Dak1 domain;PF02734|DAK2 domain
+OLN83263	PF04082|Fungal specific transcription factor domain
+OLN83264	PF00121|Triosephosphate isomerase
+OLN83265	PF02502|Ribose/Galactose Isomerase
+OLN83266	PF00400|WD domain, G-beta repeat;PF24883|Nephrocystin 3, N-terminal
+OLN83267	PF07969|Amidohydrolase family
+OLN83268	PF05721|Phytanoyl-CoA dioxygenase (PhyH)
+OLN83269	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+OLN83270	
+OLN83271	PF00246|Zinc carboxypeptidase
+OLN83357	
+OLN83358	PF20684|Fungal rhodopsin domain
+OLN83359	
+OLN83360	PF24864|Domain of unknown function (DUF7730)
+OLN83362	PF01163|RIO domain
+OLN83363	PF04108|Autophagy protein ATG17-like domain
+OLN83364	PF04515|Plasma-membrane choline transporter
+OLN83365	PF17784|Sulfotransferase domain
+OLN83366	PF06985|Heterokaryon incompatibility protein (HET);PF26640|Domain of unknown function (DUF8212)
+OLN83448	PF00107|Zinc-binding dehydrogenase;PF00109|Beta-ketoacyl synthase, N-terminal domain;PF00698|Acyl transferase domain;PF02801|Beta-ketoacyl synthase, C-terminal domain;PF08240|Alcohol dehydrogenase GroES-like domain;PF08242|Methyltransferase domain;PF08659|KR domain;PF14765|Polyketide synthase dehydratase N-terminal domain;PF21089|Polyketide synthase dehydratase domain;PF23114|HRPKS sdrA-like, NAD(P)-binding Rossmann-fold domain;PF23297|Highly reducing polyketide synthase sdgA, C-terminal ACP domain
+TDZ23498	
+TDZ23499	
+TDZ23500	PF01163|RIO domain
+TDZ23502	
+TDZ23503	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+TDZ23504	PF00246|Zinc carboxypeptidase
+TDZ23505	PF24803|Domain of unknown function (DUF7704)
+TDZ23506	PF07969|Amidohydrolase family
+TDZ23507	PF01083|Cutinase
+TDZ23988	PF07690|Major Facilitator Superfamily
+TDZ23989	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+TDZ24012	PF17784|Sulfotransferase domain
+TDZ24013	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+TDZ24014	PF13460|NAD(P)H-binding
+TDZ24015	PF04515|Plasma-membrane choline transporter
+TDZ24016	PF04108|Autophagy protein ATG17-like domain
+TDZ24017	
+TDZ24018	
+TDZ24020	
+TDZ24021	PF24864|Domain of unknown function (DUF7730)
+TDZ28835	PF04108|Autophagy protein ATG17-like domain
+TDZ28846	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+TDZ28847	
+TDZ28856	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+TDZ28870	PF07690|Major Facilitator Superfamily
+TDZ28877	
+TDZ28878	PF01163|RIO domain
+TDZ28879	PF17784|Sulfotransferase domain
+TDZ28880	PF24864|Domain of unknown function (DUF7730)
+TDZ28881	
+TDZ28882	PF04515|Plasma-membrane choline transporter
+TDZ28883	PF13460|NAD(P)H-binding
+TDZ28929	PF06985|Heterokaryon incompatibility protein (HET)
+TDZ28935	
+TDZ28936	PF00246|Zinc carboxypeptidase
+TDZ28937	PF24803|Domain of unknown function (DUF7704)
+TDZ28938	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+TDZ28939	PF07969|Amidohydrolase family
+TDZ28940	PF01083|Cutinase
+TDZ28942	PF00441|Acyl-CoA dehydrogenase, C-terminal domain;PF02771|Acyl-CoA dehydrogenase, N-terminal domain
+TDZ58218	PF04108|Autophagy protein ATG17-like domain
+TDZ58280	PF05368|NmrA-like family
+TDZ58281	PF00441|Acyl-CoA dehydrogenase, C-terminal domain;PF02771|Acyl-CoA dehydrogenase, N-terminal domain
+TDZ58282	
+TDZ58283	PF04515|Plasma-membrane choline transporter
+TDZ58284	PF13460|NAD(P)H-binding
+TDZ58285	
+TDZ58286	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+TDZ58287	PF24864|Domain of unknown function (DUF7730)
+TDZ58288	PF17784|Sulfotransferase domain
+TDZ58289	PF01163|RIO domain
+TDZ58290	
+TDZ58292	
+TQN72531	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+TQN72532	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+TQN72533	PF24883|Nephrocystin 3, N-terminal
+TQN72534	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+TQN72535	PF01822|WSC domain
+TQN72536	PF00246|Zinc carboxypeptidase
+TQN72537	PF17784|Sulfotransferase domain;PF24864|Domain of unknown function (DUF7730)
+TQN72538	PF07690|Major Facilitator Superfamily
+TQN72539	
+TQN72540	
+TQN72541	PF01163|RIO domain
+TQN72543	PF07969|Amidohydrolase family
+TQN72544	PF01083|Cutinase
+UQC78823	PF07690|Major Facilitator Superfamily
+UQC78824	
+UQC78825	PF01083|Cutinase
+UQC78826	PF07969|Amidohydrolase family
+UQC78827	
+UQC78828	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+UQC78829	PF00246|Zinc carboxypeptidase
+UQC78830	
+UQC78831	
+UQC78832	
+UQC78834	
+UQC78835	PF01163|RIO domain
+UQC78836	
+UQC78837	PF17784|Sulfotransferase domain;PF24864|Domain of unknown function (DUF7730)
+UQC78838	
+UQC78839	PF20150|2EXR family
+UQC78840	PF00083|Sugar (and other) transporter
+UQC78841	PF05572|Pregnancy-associated plasma protein-A
+UQC78842	
+UQC78843	
+WQF76498	PF01408|Oxidoreductase family, NAD-binding Rossmann fold;PF02894|Oxidoreductase family, C-terminal alpha/beta domain
+WQF76499	PF24883|Nephrocystin 3, N-terminal;PF25053|Domain of unknown function (DUF7791)
+WQF76500	PF01083|Cutinase
+WQF76501	PF07969|Amidohydrolase family
+WQF76502	
+WQF76503	PF00350|Dynamin family;PF24564|Domain of unknown function (DUF7605)
+WQF76504	PF24803|Domain of unknown function (DUF7704)
+WQF76505	PF00246|Zinc carboxypeptidase
+WQF76506	
+WQF76507	
+WQF76509	PF01163|RIO domain
+WQF76510	
+WQF76511	PF24864|Domain of unknown function (DUF7730)
+WQF76512	
+WQF76513	PF17784|Sulfotransferase domain
+WQF76514	PF01687|Riboflavin kinase;PF26728|FMNK-like N-terminal domain
+WQF76515	PF04515|Plasma-membrane choline transporter
+WQF76516	PF13409|Glutathione S-transferase, N-terminal domain;PF22041|Glutathione S-transferase, C-terminal domain
+WQF76517	PF04108|Autophagy protein ATG17-like domain
+WQF76518	PF00732|GMC oxidoreductase;PF05199|GMC oxidoreductase

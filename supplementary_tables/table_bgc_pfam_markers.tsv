@@ -1,0 +1,7 @@
+Category	Pfam accessions	Pfam names
+Transcription factor (fungal)	PF00172, PF04082, PF11951	Zn(2)-C6 fungal-type, GAL4-like, Fungal-specific TF
+Transcription factor (bacterial)	PF00126, PF00440, PF01047, PF00165, PF00392	HTH_1, HLH, MarR, HTH_AraC, GntR
+Transporter	PF07690, PF00083, PF00005, PF00664	MFS_1, Sugar_tr, ABC_tran, ABC_membrane
+Cytochrome P450	PF00067	p450
+O-methyltransferase	PF00891	Methyltransf_2
+NRPS/PKS biosynthetic	PF00501, PF00109, PF02801, PF00668	AMP-binding, ketoacyl-synt, Ketoacyl-synt_C, Condensation

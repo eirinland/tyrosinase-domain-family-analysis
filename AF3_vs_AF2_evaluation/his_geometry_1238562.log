@@ -1,0 +1,73 @@
+Starting job 1238562 on c1-35 on Olivia at Thu Jun 11 22:53:16 CEST 2026
+
+Mounted AF3 structures: 32069
+Starting His geometry comparison at Thu Jun 11 22:53:17 CEST 2026
+Canonical structures: 21893
+Processing 21893 structures with AF3 CIFs...
+  1000/21893 done, 1000 results
+  2000/21893 done, 2000 results
+  3000/21893 done, 3000 results
+  4000/21893 done, 4000 results
+  5000/21893 done, 5000 results
+  6000/21893 done, 6000 results
+  7000/21893 done, 7000 results
+  8000/21893 done, 8000 results
+  9000/21893 done, 9000 results
+  10000/21893 done, 10000 results
+  11000/21893 done, 11000 results
+  12000/21893 done, 12000 results
+  13000/21893 done, 13000 results
+  14000/21893 done, 14000 results
+  15000/21893 done, 15000 results
+  16000/21893 done, 16000 results
+  17000/21893 done, 17000 results
+  18000/21893 done, 18000 results
+  19000/21893 done, 19000 results
+  20000/21893 done, 20000 results
+  21000/21893 done, 21000 results
+
+Results: 21893 total, 18762 AFDB available, 18749 with His data
+Structures with delta_centroid > 3 A: 14
+
+Top 20 largest His-centroid shifts (AF3 -> AFDB):
+  D7F7N7: AF3 centroid=5.0 A, AFDB centroid=62.8 A, delta=57.8 A
+  A0A0B7AML2: AF3 centroid=5.3 A, AFDB centroid=50.6 A, delta=45.3 A
+  A0AA35WWP0: AF3 centroid=5.2 A, AFDB centroid=34.0 A, delta=28.8 A
+  W6XVD7: AF3 centroid=5.2 A, AFDB centroid=29.9 A, delta=24.7 A
+  A0AAU9XFP2: AF3 centroid=5.0 A, AFDB centroid=29.0 A, delta=24.1 A
+  A0A833RDF0: AF3 centroid=4.8 A, AFDB centroid=25.4 A, delta=20.6 A
+  G7JSE1: AF3 centroid=4.8 A, AFDB centroid=16.8 A, delta=12.0 A
+  A0A395IYP4: AF3 centroid=5.0 A, AFDB centroid=16.5 A, delta=11.5 A
+  A0A8H3HCF2: AF3 centroid=5.1 A, AFDB centroid=16.2 A, delta=11.1 A
+  A0A0D3G0L1: AF3 centroid=4.8 A, AFDB centroid=12.0 A, delta=7.2 A
+  A0AAV0PBZ6: AF3 centroid=4.9 A, AFDB centroid=11.8 A, delta=7.0 A
+  A0A6A6VI08: AF3 centroid=4.6 A, AFDB centroid=10.5 A, delta=5.8 A
+  A0A974NRK7: AF3 centroid=5.2 A, AFDB centroid=10.4 A, delta=5.2 A
+  A0A9W8QX66: AF3 centroid=5.3 A, AFDB centroid=10.3 A, delta=5.0 A
+
+Cleaning up AFDB downloads...
+Done at Thu Jun 11 23:10:45 CEST 2026
+
+Job 1238562 consumed 2.3 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T22:53:08; waited 8.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 3.0 hours
+Elapsed wallclock time:   17.5 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start   Elapsed  Exit status
+1238562           8            0.0 %  2026-06-11T22:53:16  1051.0 s  0
+1238562.batch     8      1    11.9 %  2026-06-11T22:53:16  1051.0 s  0
+
+Used CPU time:   16.6 CPU minutes
+Unused CPU time: 2.1 CPU hours
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1238562          16.0        
+1238562.batch    16.0    15.8
+
+Job 1238562 completed at Thu Jun 11 23:10:48 CEST 2026

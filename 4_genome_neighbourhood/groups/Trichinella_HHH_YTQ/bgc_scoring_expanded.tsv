@@ -1,0 +1,12 @@
+accession	n_neighbours	n_ustya	closest_ustya	n_melc1	has_TF_fungal	has_TF_bacterial	has_transporter	has_P450	has_OMT	has_biosynthetic	bgc_context	bgc_old
+A0A0V0S806	20	0		0	0	0	1	0	0	0	none	none
+A0A0V0TGR2	15	0		0	0	0	0	0	0	0	none	none
+A0A0V1AAJ2	20	0		0	0	0	0	0	0	0	none	none
+A0A0V1ABN4	20	0		0	0	0	0	0	0	0	none	none
+A0A0V1BIN6	20	0		0	0	0	0	0	0	0	none	none
+A0A0V1DE70	20	0		0	0	0	0	0	0	0	none	none
+A0A0V1G4S3	20	0		0	0	0	1	0	0	0	none	none
+A0A0V1I3Y0	20	0		0	0	0	1	0	0	0	none	none
+A0A0V1JHS7	20	0		0	0	0	1	0	0	0	none	none
+A0A0V1KR57	16	0		0	0	0	0	0	0	0	none	none
+A0A0V1MUW3	20	0		0	0	0	1	0	0	0	none	none

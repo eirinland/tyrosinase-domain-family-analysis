@@ -1,0 +1,43 @@
+TM0.8 cluster 3 = 2965 members (SHORT median 174res, LONG median 421res)
+
+== SHORT  (n=1765) -> 84 distinct TM0.9 whole-structure clusters ==
+   tm09 rep A0AAE0IQ25   holds 1625 of this type (rep's full tm09 cluster size = 2052)
+   tm09 rep A0A4T0VD25   holds   16 of this type (rep's full tm09 cluster size = 16)
+   tm09 rep A0A9N8ZSY3   holds   10 of this type (rep's full tm09 cluster size = 78)
+   tm09 rep A0A9Q8USR0   holds    8 of this type (rep's full tm09 cluster size = 8)
+   tm09 rep A0A8H5J9Q5   holds    7 of this type (rep's full tm09 cluster size = 37)
+   tm09 rep A0A507BB61   holds    4 of this type (rep's full tm09 cluster size = 4)
+
+== LONG  (n=235) -> 37 distinct TM0.9 whole-structure clusters ==
+   tm09 rep A0A165TU36   holds   47 of this type (rep's full tm09 cluster size = 82)
+   tm09 rep A0AAE0IQ25   holds   27 of this type (rep's full tm09 cluster size = 2052)
+   tm09 rep A0A6A5WT48   holds   24 of this type (rep's full tm09 cluster size = 27)
+   tm09 rep A0A9P5DU41   holds   23 of this type (rep's full tm09 cluster size = 99)
+   tm09 rep A0ACC1SLU8   holds   15 of this type (rep's full tm09 cluster size = 32)
+   tm09 rep A0A5N6W347   holds   15 of this type (rep's full tm09 cluster size = 37)
+
+== minor  (n=330) -> 66 distinct TM0.9 whole-structure clusters ==
+   tm09 rep A0AAE0IQ25   holds  201 of this type (rep's full tm09 cluster size = 2052)
+   tm09 rep C0NXG2       holds   15 of this type (rep's full tm09 cluster size = 15)
+   tm09 rep A0AAD6D6A6   holds    7 of this type (rep's full tm09 cluster size = 7)
+   tm09 rep A0A1V6R4C4   holds    6 of this type (rep's full tm09 cluster size = 6)
+   tm09 rep A0A9W9NW18   holds    6 of this type (rep's full tm09 cluster size = 8)
+   tm09 rep A0A1J9Q075   holds    5 of this type (rep's full tm09 cluster size = 18)
+
+== no_Cterm  (n=635) -> 90 distinct TM0.9 whole-structure clusters ==
+   tm09 rep A0AAE0IQ25   holds  199 of this type (rep's full tm09 cluster size = 2052)
+   tm09 rep A0A9P5DU41   holds   76 of this type (rep's full tm09 cluster size = 99)
+   tm09 rep A0A9N8ZSY3   holds   54 of this type (rep's full tm09 cluster size = 78)
+   tm09 rep A0A167BY34   holds   43 of this type (rep's full tm09 cluster size = 46)
+   tm09 rep A0A165TU36   holds   31 of this type (rep's full tm09 cluster size = 82)
+   tm09 rep A0A8H5J9Q5   holds   26 of this type (rep's full tm09 cluster size = 37)
+
+SHORT occupies 84 TM0.9 clusters; LONG occupies 37.
+TM0.9 clusters containing BOTH SHORT and LONG: 5 ['A0A167BY34', 'A0A8H5J9Q5', 'A0A9N8ZSY3', 'A0AAE0IQ25', 'A0AAN6M0W3']
+
+Type composition of the TM0.9 clusters that hold the LONG type:
+   tm09 A0A165TU36   (size 82): {'LONG': 47, 'no_Cterm': 31, 'minor': 4}
+   tm09 A0AAE0IQ25   (size 2052): {'SHORT': 1625, 'minor': 201, 'LONG': 27, 'no_Cterm': 199}
+   tm09 A0A6A5WT48   (size 27): {'LONG': 24, 'no_Cterm': 3}
+   tm09 A0A9P5DU41   (size 99): {'no_Cterm': 76, 'LONG': 23}
+   tm09 A0ACC1SLU8   (size 32): {'no_Cterm': 17, 'LONG': 15}

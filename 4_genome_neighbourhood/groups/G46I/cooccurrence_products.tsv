@@ -1,0 +1,435 @@
+product	n_queries	freq_all	freq_with_data	total
+mfs transporter	12	0.073	0.143	12
+tyrosinase cofactor	10	0.061	0.119	10
+hypothetical predicted protein	9	0.055	0.107	99
+tyrosinase	8	0.049	0.095	8
+tyr3-like protein	8	0.049	0.095	10
+ribonuclease hi	7	0.043	0.083	7
+voc family protein	7	0.043	0.083	13
+globin	7	0.043	0.083	7
+helix-turn-helix transcriptional regulator	6	0.037	0.071	6
+aldo/keto reductase	6	0.037	0.071	6
+atp-binding protein	6	0.037	0.071	6
+vwa domain-containing protein	6	0.037	0.071	6
+sept7-like protein	6	0.037	0.071	6
+slip-like protein	6	0.037	0.071	17
+cc113-like protein	6	0.037	0.071	6
+st1a1-like protein	6	0.037	0.071	6
+acm4-like protein	6	0.037	0.071	6
+tetr family transcriptional regulator	5	0.030	0.060	5
+serine/threonine protein kinase	5	0.030	0.060	6
+hnh endonuclease	5	0.030	0.060	5
+6-phospho-beta-glucosidase	5	0.030	0.060	5
+glutamate abc transporter substrate-binding protein	5	0.030	0.060	5
+abc transporter substrate-binding protein	5	0.030	0.060	5
+fbp domain-containing protein	5	0.030	0.060	5
+tyro-like protein	5	0.030	0.060	5
+sam-dependent methyltransferase	4	0.024	0.048	4
+abc transporter atp-binding protein	4	0.024	0.048	4
+carbohydrate abc transporter permease	4	0.024	0.048	5
+rok family transcriptional regulator	4	0.024	0.048	4
+mechanosensitive ion channel family protein	4	0.024	0.048	4
+sugar abc transporter permease	4	0.024	0.048	5
+fha domain-containing protein	4	0.024	0.048	4
+protein phosphatase 2c domain-containing protein	4	0.024	0.048	4
+2-amino-4,5-dihydroxy-6-one-heptanoic acid-7-phosphate synthase	3	0.018	0.036	3
+epoxide hydrolase	3	0.018	0.036	3
+lysr family transcriptional regulator	3	0.018	0.036	3
+transcriptional regulator	3	0.018	0.036	5
+putative cytochrome p450	3	0.018	0.036	3
+acyl-coa thioesterase	3	0.018	0.036	3
+helix-turn-helix domain-containing protein	3	0.018	0.036	3
+fad-dependent monooxygenase	3	0.018	0.036	3
+llm class f420-dependent oxidoreductase	3	0.018	0.036	3
+methyltransferase domain-containing protein	3	0.018	0.036	4
+membrane protein	3	0.018	0.036	3
+ribonuclease h	3	0.018	0.036	3
+ssga family sporulation/cell division regulator	3	0.018	0.036	3
+rna polymerase sigma factor sigf	3	0.018	0.036	3
+aminoglycoside phosphotransferase family protein	3	0.018	0.036	3
+tetratricopeptide repeat protein	3	0.018	0.036	3
+s6a17-like protein	3	0.018	0.036	3
+trpv3-like protein	3	0.018	0.036	3
+apt-like protein	3	0.018	0.036	3
+lipase	2	0.012	0.024	2
+regulator	2	0.012	0.024	2
+cyclase	2	0.012	0.024	2
+tyrosinase-like protein 2	2	0.012	0.024	3
+ankyrin repeat domain-containing protein 12	2	0.012	0.024	2
+sodium- and chloride-dependent glycine transporter 2	2	0.012	0.024	2
+thymidine kinase 2, mitochondrial	2	0.012	0.024	2
+tyrosinase-like protein 1	2	0.012	0.024	13
+glyoxysomal fatty acid beta-oxidation multifunctional protein mfp-a	2	0.012	0.024	2
+polyprenyl synthetase family protein	2	0.012	0.024	2
+fad-binding monooxygenase	2	0.012	0.024	2
+cytochrome p450	2	0.012	0.024	2
+sensor histidine kinase	2	0.012	0.024	2
+gnat family n-acetyltransferase	2	0.012	0.024	3
+cytidine deaminase	2	0.012	0.024	2
+winged helix-turn-helix transcriptional regulator	2	0.012	0.024	2
+methyltransferase	2	0.012	0.024	2
+sugar-binding protein	2	0.012	0.024	2
+mechanosensitive ion channel protein mscs	2	0.012	0.024	2
+dead/deah box helicase	2	0.012	0.024	2
+n-acetyltransferase	2	0.012	0.024	2
+glutathione s-transferase mu 1,glutathione s-transferase mu 5,glutathione s-transferase mu 2,glutathione s-transferase	2	0.012	0.024	4
+ubid family decarboxylase	2	0.012	0.024	2
+fad-binding protein	2	0.012	0.024	3
+copper transporter	2	0.012	0.024	2
+ubix family flavin prenyltransferase	2	0.012	0.024	2
+amp-binding protein	2	0.012	0.024	2
+aromatic amino acid lyase	2	0.012	0.024	2
+3-dehydroquinate synthase ii family protein	2	0.012	0.024	2
+kinase-like domain-containing protein	2	0.012	0.024	2
+aryl-alcohol dehydrogenase-like predicted oxidoreductase	2	0.012	0.024	2
+acrr family transcriptional regulator	2	0.012	0.024	2
+putative mfs family arabinose efflux permease	2	0.012	0.024	2
+2-polyprenyl-6-methoxyphenol hydroxylase-like fad-dependent oxidoreductase	2	0.012	0.024	2
+neuronal cell adhesion molecule	2	0.012	0.024	2
+atp-dependent rna helicase ddx31/dbp7	2	0.012	0.024	4
+ggdef domain-containing protein	2	0.012	0.024	2
+heterokaryon incompatibility protein-domain-containing protein	2	0.012	0.024	2
+fad binding domain-containing protein	2	0.012	0.024	2
+duf6328 family protein	2	0.012	0.024	2
+abc transporter	2	0.012	0.024	2
+s-adenosyl-l-methionine-dependent methyltransferase	2	0.012	0.024	3
+badf/badg/bcra/bcrd atpase family protein	2	0.012	0.024	2
+serine hydrolase	2	0.012	0.024	2
+cold-shock protein	2	0.012	0.024	2
+rna polymerase sigma factor	2	0.012	0.024	2
+putative histone chaperone domain-containing protein	2	0.012	0.024	2
+putative glycosyltransferase family 28 domain-containing protein	2	0.012	0.024	2
+putative fad binding domain protein	2	0.012	0.024	2
+eal domain-containing protein	2	0.012	0.024	2
+msno8 family llm class oxidoreductase	2	0.012	0.024	2
+succinate dehydrogenase/fumarate reductase iron-sulfur subunit	2	0.012	0.024	2
+fumarate reductase/succinate dehydrogenase flavoprotein subunit	2	0.012	0.024	2
+succinate dehydrogenase cytochrome b subunit	2	0.012	0.024	2
+duf2238 domain-containing protein	2	0.012	0.024	2
+mbl fold metallo-hydrolase	2	0.012	0.024	3
+atp-dependent clp protease proteolytic subunit	2	0.012	0.024	4
+xrp2-like protein	2	0.012	0.024	2
+un93a-like protein	2	0.012	0.024	2
+es8l2-like protein	2	0.012	0.024	2
+phkg2-like protein	2	0.012	0.024	4
+apod-like protein	2	0.012	0.024	2
+ush1c-like protein	2	0.012	0.024	2
+if2-like protein	2	0.012	0.024	4
+akts1-like protein	2	0.012	0.024	2
+heat6-like protein	2	0.012	0.024	2
+ikzf5-like protein	2	0.012	0.024	2
+2-(s)-hydroxypropyl-com dehydrogenase	1	0.006	0.012	1
+carbohydrate esterase family 9 protein	1	0.006	0.012	1
+putative dimethylaniline monooxygenase	1	0.006	0.012	1
+siderophore iron transporter mirb	1	0.006	0.012	1
+alcohol oxidase	1	0.006	0.012	1
+putative 2og-fe oxygenase superfamily protein	1	0.006	0.012	1
+twitching motility protein pilt	1	0.006	0.012	1
+cof synthetase	1	0.006	0.012	1
+ubiquinone biosynthesis protein ubid	1	0.006	0.012	1
+3-dehydroquinate synthase	1	0.006	0.012	1
+udp-glucose 6-dehydrogenase	1	0.006	0.012	1
+nudix hydrolase	1	0.006	0.012	1
+dna polymerase iii subunit delta'	1	0.006	0.012	1
+histidine ammonia-lyase	1	0.006	0.012	1
+gramicidin biosynthesis protein	1	0.006	0.012	1
+antitoxin	1	0.006	0.012	1
+hydrolase	1	0.006	0.012	1
+crp/fnr family transcriptional regulator	1	0.006	0.012	1
+alcohol dehydrogenase	1	0.006	0.012	1
+phosphotransferase	1	0.006	0.012	1
+3-beta hydroxysteroid dehydrogenase	1	0.006	0.012	1
+fad-linked oxidase	1	0.006	0.012	1
+metastasis suppressor protein 1	1	0.006	0.012	1
+protein slowmo	1	0.006	0.012	1
+rna 2'-phosphotransferase	1	0.006	0.012	1
+hydrocephalus-inducing protein-like	1	0.006	0.012	1
+palmitoyltransferase zdhhc8	1	0.006	0.012	1
+tyrosinase-like protein tyr-3	1	0.006	0.012	1
+restriction of telomere capping protein 5	1	0.006	0.012	1
+rho gtpase activation protein	1	0.006	0.012	1
+glutamine synthetase/guanido kinase	1	0.006	0.012	1
+glycoside hydrolase/deacetylase	1	0.006	0.012	1
+aaa-domain-containing protein	1	0.006	0.012	1
+exportin-5	1	0.006	0.012	1
+cmgc/cdk protein kinase	1	0.006	0.012	1
+recq-mediated genome instability protein 1	1	0.006	0.012	1
+superkiller protein 3	1	0.006	0.012	1
+translation initiation factor 2 subunit 2	1	0.006	0.012	1
+glucose-6-phosphate 1-dehydrogenase	1	0.006	0.012	1
+apolipophorin	1	0.006	0.012	2
+aim24 family protein	1	0.006	0.012	1
+tetr/acrr family transcriptional regulator	1	0.006	0.012	1
+mfs general substrate transporter	1	0.006	0.012	1
+carbonic anhydrase	1	0.006	0.012	1
+putative efflux pump antibiotic resistance protein	1	0.006	0.012	1
+putative carbonate dehydratase	1	0.006	0.012	1
+polysaccharide synthase	1	0.006	0.012	1
+nad(p)-binding protein	1	0.006	0.012	1
+ferulic acid esterase	1	0.006	0.012	1
+sgnh hydrolase	1	0.006	0.012	1
+mycocerosic acid synthase	1	0.006	0.012	1
+het-domain-containing protein	1	0.006	0.012	1
+kinase-like protein	1	0.006	0.012	1
+l30e-like protein	1	0.006	0.012	1
+chromosome-partitioning protein spo0j	1	0.006	0.012	1
+caspase domain protein	1	0.006	0.012	1
+antirestriction protein (arda)	1	0.006	0.012	1
+circadian clock protein kaic	1	0.006	0.012	1
+dna methylase	1	0.006	0.012	1
+fibrillin-1	1	0.006	0.012	1
+non-syndromic hearing impairment protein 5	1	0.006	0.012	1
+nephrocystin-3	1	0.006	0.012	1
+epidermal growth factor receptor	1	0.006	0.012	1
+dystonin	1	0.006	0.012	1
+inositol-trisphosphate 3-kinase a	1	0.006	0.012	1
+solute carrier family 43 member 3	1	0.006	0.012	1
+glucose-6-phosphate isomerase	1	0.006	0.012	1
+osmotin, thaumatin-like protein	1	0.006	0.012	1
+cytochrome b5	1	0.006	0.012	1
+erg4/erg24 ergosterol biosynthesis protein	1	0.006	0.012	1
+ribosomal protein s25	1	0.006	0.012	1
+gtr1/raga g domain-containing protein	1	0.006	0.012	1
+rdd family protein	1	0.006	0.012	1
+abc transporter permease	1	0.006	0.012	1
+dna repair protein reco	1	0.006	0.012	1
+tigr03943 family protein	1	0.006	0.012	1
+isoprenyl transferase	1	0.006	0.012	1
+gtpase era	1	0.006	0.012	1
+antibiotic biosynthesis monooxygenase	1	0.006	0.012	1
+nacht domain-containing protein	1	0.006	0.012	1
+response regulator transcription factor	1	0.006	0.012	1
+transcriptional repressor	1	0.006	0.012	1
+permease	1	0.006	0.012	1
+glycine--trna ligase	1	0.006	0.012	1
+protein phosphatase	1	0.006	0.012	1
+atpase	1	0.006	0.012	1
+endonuclease	1	0.006	0.012	1
+hyaluronidase	1	0.006	0.012	1
+sugar abc transporter substrate-binding protein	1	0.006	0.012	1
+von willebrand factor a	1	0.006	0.012	1
+iclr family transcriptional regulator	1	0.006	0.012	1
+duf1857 family protein	1	0.006	0.012	1
+sugar kinase	1	0.006	0.012	1
+c4-dicarboxylate transporter dcta	1	0.006	0.012	1
+sigma-70 family rna polymerase sigma factor	1	0.006	0.012	1
+aldolase	1	0.006	0.012	1
+peptidase s8	1	0.006	0.012	1
+response regulator	1	0.006	0.012	1
+glutamate decarboxylase	1	0.006	0.012	1
+glycoside hydrolase family 18 protein	1	0.006	0.012	1
+(2fe-2s)-binding protein	1	0.006	0.012	1
+sugar isomerase	1	0.006	0.012	1
+metabotropic glutamate receptor 3,metabotropic glutamate receptor 5,metabotropic glutamate receptor 2,metabotropic glutamate receptor 1	1	0.006	0.012	1
+metabotropic glutamate receptor 7,metabotropic glutamate receptor 2,metabotropic glutamate receptor 3,metabotropic glutamate receptor 8,metabotropic glutamate receptor 1,metabotropic glutamate receptor 4,metabotropic glutamate receptor 5	1	0.006	0.012	1
+gmc oxidoreductase	1	0.006	0.012	1
+fibrinogen-like protein a,ryncolin-4,angiopoietin-related protein 1,ficolin-1-b,ficolin-2,ryncolin-1,tenascin-r, fibrinogen-like protein 1,tenascin-x,fibrinogen c domain-containing protein 1-a,ficolin-1,ryncolin-3,fibrinogen c domain-containing protein 1,ryncolin-2,microfibril-associated glycoprotein 4,fibrinogen alpha chain,ficolin-1-a,tenascin,fibrinogen c domain-containing protein 1-b	1	0.006	0.012	1
+tenascin,fibrinogen-like protein a,ryncolin-2,ryncolin-4,tenascin-x,fibrinogen c domain-containing protein 1-a,techylectin-5b,angiopoietin-related protein 7,ficolin-1-a,angiopoietin-related protein 1,ficolin-1-b,ficolin-2,ryncolin-1,tenascin-r,ryncolin-3, ficolin-1,fibrinogen c domain-containing protein 1-b,fibrinogen c domain-containing protein 1	1	0.006	0.012	1
+fibrinogen-like protein a,ficolin-1,angiopoietin-related protein 7,ficolin-2,tenascin	1	0.006	0.012	1
+luxr family transcriptional regulator	1	0.006	0.012	1
+marr family transcriptional regulator	1	0.006	0.012	1
+duf397 domain-containing protein	1	0.006	0.012	1
+afsr/sarp family transcriptional regulator	1	0.006	0.012	1
+prephenate dehydrogenase	1	0.006	0.012	1
+aminotransferase class iv family protein	1	0.006	0.012	1
+fad-binding oxidoreductase	1	0.006	0.012	2
+phenylacetate--coa ligase	1	0.006	0.012	1
+formylglycine-generating enzyme family protein	1	0.006	0.012	1
+aconitate hydratase	1	0.006	0.012	1
+pyridoxal 5'-phosphate synthase glutaminase subunit pdxt	1	0.006	0.012	1
+phenylalanine--trna ligase subunit alpha	1	0.006	0.012	1
+asnc family transcriptional regulator	1	0.006	0.012	1
+eve domain-containing protein	1	0.006	0.012	1
+phenylalanine--trna ligase subunit beta	1	0.006	0.012	1
+pyridoxal 5'-phosphate synthase lyase subunit pdxs	1	0.006	0.012	1
+tetratricopeptide repeat protein 36,tetratricopeptide repeat protein 36 homolog	1	0.006	0.012	1
+neuralized-like protein 4	1	0.006	0.012	1
+p-loop containing nucleoside triphosphate hydrolase protein	1	0.006	0.012	1
+emp24/gp25l/p24 family/gold-domain-containing protein	1	0.006	0.012	1
+mitomycin radical oxidase	1	0.006	0.012	2
+phenylacetate-coenzyme a ligase	1	0.006	0.012	1
+3-amino-4-hydroxybenzoic acid synthase	1	0.006	0.012	1
+2-amino-4, 5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase	1	0.006	0.012	1
+para-nitrobenzyl esterase	1	0.006	0.012	1
+tyrosine ammonia-lyase	1	0.006	0.012	1
+ubid-like decarboxylase	1	0.006	0.012	1
+putative ubix-like flavin prenyltransferase	1	0.006	0.012	1
+putative membrane protein	1	0.006	0.012	1
+aminoglycoside phosphotransferase (apt) family kinase protein	1	0.006	0.012	1
+2-methylisoborneol synthase	1	0.006	0.012	1
+crp-like camp-binding protein	1	0.006	0.012	1
+pimeloyl-acp methyl ester carboxylesterase	1	0.006	0.012	1
+geranyl diphosphate 2-c-methyltransferase	1	0.006	0.012	1
+rna polymerase sigma-b factor	1	0.006	0.012	1
+catechol 2,3-dioxygenase-like lactoylglutathione lyase family enzyme	1	0.006	0.012	1
+putative 3-demethylubiquinone-9 3-methyltransferase (glyoxalase superfamily)	1	0.006	0.012	1
+poly [adp-ribose] polymerase 10/14/15	1	0.006	0.012	2
+wd repeat-containing protein 78	1	0.006	0.012	2
+tenascin-r,tenascin,ficolin-1	1	0.006	0.012	1
+1-acyl-sn-glycerol-3-phosphate acyltransferase	1	0.006	0.012	1
+lipoprotein	1	0.006	0.012	2
+histidine n-alpha-methyltransferase	1	0.006	0.012	1
+succinate dehydrogenase	1	0.006	0.012	2
+succinate dehydrogenase flavoprotein subunit	1	0.006	0.012	1
+glutamate--cysteine ligase egta	1	0.006	0.012	1
+hercynine oxygenase	1	0.006	0.012	1
+methylene-tetrahydromethanopterin reductase	1	0.006	0.012	1
+gamma-glutamyl-hercynylcysteine sulfoxide hydrolase	1	0.006	0.012	1
+glutamate synthase	1	0.006	0.012	1
+toxin	1	0.006	0.012	1
+glycine/betaine abc transporter substrate-binding protein	1	0.006	0.012	1
+peptidase	1	0.006	0.012	1
+rna polymerase sigma24 factor	1	0.006	0.012	1
+aminopeptidase n	1	0.006	0.012	1
+superoxide dismutase [fe-zn] 1	1	0.006	0.012	1
+4-alpha-glucanotransferase	1	0.006	0.012	1
+thyroid hormone receptor beta	1	0.006	0.012	1
+frizzled 5/8	1	0.006	0.012	2
+importin subunit beta-1	1	0.006	0.012	3
+zinc-binding oxidoreductase-like protein cipb	1	0.006	0.012	1
+putative glutamyl-trna amidotransferase subunit a	1	0.006	0.012	1
+putative lipase 1	1	0.006	0.012	1
+putative 1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase 1	1	0.006	0.012	1
+fad binding domain protein	1	0.006	0.012	1
+retinol dehydrogenase 13	1	0.006	0.012	1
+sec61beta family-domain-containing protein	1	0.006	0.012	1
+glycosyltransferase family 28 domain-containing protein	1	0.006	0.012	1
+alpha/beta hydrolase protein	1	0.006	0.012	2
+glycoside hydrolase superfamily	1	0.006	0.012	1
+alcohol dehydrogenase catalytic domain-containing protein	1	0.006	0.012	1
+beta-lactamase family protein	1	0.006	0.012	1
+copper transport protein 86	1	0.006	0.012	1
+extracellular serine carboxypeptidase 2	1	0.006	0.012	1
+calcineurin-like phosphoesterase	1	0.006	0.012	1
+karyopherin kap123	1	0.006	0.012	1
+isochorismatase hydrolase	1	0.006	0.012	1
+niemann-pick type c-related protein 1	1	0.006	0.012	1
+cdk-activating kinase assembly factor mat1	1	0.006	0.012	1
+delta 8-(e)-sphingolipid desaturase 2	1	0.006	0.012	1
+cryptococcal mannosyltransferase 1-domain-containing protein	1	0.006	0.012	1
+glycoside hydrolase family 13 protein	1	0.006	0.012	1
+coa-dependent acyltransferase	1	0.006	0.012	1
+caspase domain-containing protein	1	0.006	0.012	3
+coproporphyrinogen iii oxidase	1	0.006	0.012	1
+putative trna threonylcarbamoyladenosine biosynthesis protein kae1	1	0.006	0.012	1
+kinesin-like protein kif3b	1	0.006	0.012	1
+phosphatidylinositol kinase- protein kinase tor1	1	0.006	0.012	1
+eukaryotic translation initiation factor eif-1	1	0.006	0.012	1
+intraflagellar transport protein 57	1	0.006	0.012	1
+peptidase s8/s53 domain-containing protein	1	0.006	0.012	1
+acetylxylan esterase a	1	0.006	0.012	1
+benzoate 4-monooxygenase cytochrome p450	1	0.006	0.012	1
+mannosyl-3-phosphoglycerate synthase	1	0.006	0.012	1
+histidine phosphatase superfamily	1	0.006	0.012	1
+nad(p)h-hydrate epimerase	1	0.006	0.012	1
+peptidase aspartic catalytic	1	0.006	0.012	1
+aminoglycoside phosphotransferase	1	0.006	0.012	1
+peptidyl-prolyl cis-trans isomerase-like 2	1	0.006	0.012	1
+lppg:fo 2-phospho-l-lactate transferase cofd/upf0052	1	0.006	0.012	1
+mitochondrial homologous recombination protein 1	1	0.006	0.012	1
+zinc finger ring-type	1	0.006	0.012	1
+ubiquitin-conjugating enzyme/rwd-like protein	1	0.006	0.012	1
+mfs gliotoxin efflux transporter glia	1	0.006	0.012	1
+serine/threonine-protein kinase	1	0.006	0.012	1
+polyisoprenoid-binding protein	1	0.006	0.012	1
+rida family protein	1	0.006	0.012	1
+deor/glpr family dna-binding transcription regulator	1	0.006	0.012	1
+histidine phosphatase family protein	1	0.006	0.012	1
+nad(p)-dependent oxidoreductase	1	0.006	0.012	1
+ycii family protein	1	0.006	0.012	1
+putative cytochrome p450 monooxygenase	1	0.006	0.012	1
+putative nmra family protein	1	0.006	0.012	1
+putative integral membrane protein	1	0.006	0.012	1
+putative opt family small oligopeptide transporter	1	0.006	0.012	1
+putative enth domain-containing protein	1	0.006	0.012	1
+putative protein png1	1	0.006	0.012	1
+putative extracellular exo-polygalacturonase	1	0.006	0.012	1
+putative cyclophilin-like domain-containing protein	1	0.006	0.012	1
+putative deoxyribodipyrimidine photo-lyase	1	0.006	0.012	1
+putative sti1 domain-containing protein	1	0.006	0.012	1
+putative dna-directed rna polymerase iii subunit rpc6	1	0.006	0.012	1
+dodecin family protein	1	0.006	0.012	1
+duf4239 domain-containing protein	1	0.006	0.012	1
+iron abc transporter substrate-binding protein	1	0.006	0.012	1
+iron abc transporter permease	1	0.006	0.012	1
+lysophospholipid acyltransferase family protein	1	0.006	0.012	1
+gnat family n-acyltransferase	1	0.006	0.012	1
+lysr substrate-binding domain-containing protein	1	0.006	0.012	1
+l-histidine n(alpha)-methyltransferase	1	0.006	0.012	1
+sco0930 family lipoprotein	1	0.006	0.012	1
+beta-mannosidase	1	0.006	0.012	1
+bi-functional transferase/deacetylase	1	0.006	0.012	1
+glcnac-pi de-n-acetylase	1	0.006	0.012	1
+adenosine deaminase	1	0.006	0.012	1
+cyclic nucleotide-binding domain-containing protein	1	0.006	0.012	1
+nuclear transport factor 2 family protein	1	0.006	0.012	1
+l-glyceraldehyde 3-phosphate reductase	1	0.006	0.012	1
+lipase family protein	1	0.006	0.012	1
+thioesterase family protein	1	0.006	0.012	1
+n-acetylglucosamine kinase	1	0.006	0.012	1
+cbs domain-containing protein	1	0.006	0.012	1
+pyruvate, phosphate dikinase	1	0.006	0.012	1
+duf4389 domain-containing protein	1	0.006	0.012	1
+universal stress protein	1	0.006	0.012	2
+nicotinate phosphoribosyltransferase	1	0.006	0.012	1
+prc-barrel domain containing protein	1	0.006	0.012	1
+srpbcc family protein	1	0.006	0.012	1
+putative nucleotidyltransferase	1	0.006	0.012	1
+uncharacterized membrane protein ykva (duf1232 family)	1	0.006	0.012	1
+uncharacterized protein ykwd/stress response protein scp2	1	0.006	0.012	1
+putative multiple sugar transport system substrate-binding protein	1	0.006	0.012	1
+dihydrofolate reductase	1	0.006	0.012	1
+dna gyrase subunit b	1	0.006	0.012	1
+nad(p)-dependent dehydrogenase (short-subunit alcohol dehydrogenase family)	1	0.006	0.012	1
+dna-binding transcriptional merr regulator	1	0.006	0.012	1
+glyoxylase-like metal-dependent hydrolase (beta-lactamase superfamily ii)	1	0.006	0.012	1
+alkylated dna repair dioxygenase alkb	1	0.006	0.012	1
+tol biopolymer transport system component	1	0.006	0.012	1
+extracellular solute-binding protein	1	0.006	0.012	1
+putative bifunctional diguanylate cyclase/phosphodiesterase	1	0.006	0.012	1
+m23 family metallopeptidase	1	0.006	0.012	1
+lysyl oxidase family protein	1	0.006	0.012	1
+dodecin	1	0.006	0.012	1
+atp-dependent dna ligase	1	0.006	0.012	1
+aminotransferase class i/ii-fold pyridoxal phosphate-dependent enzyme	1	0.006	0.012	1
+zinc-dependent alcohol dehydrogenase family protein	1	0.006	0.012	1
+phosphatidylinositol-specific phospholipase c domain-containing protein	1	0.006	0.012	1
+4a-hydroxytetrahydrobiopterin dehydratase	1	0.006	0.012	1
+vtt domain-containing protein	1	0.006	0.012	1
+phosphatase pap2 family protein	1	0.006	0.012	1
+arac family transcriptional regulator	1	0.006	0.012	1
+subtilase-type protease inhibitor	1	0.006	0.012	1
+phage holin family protein	1	0.006	0.012	1
+is5/is1182 family transposase	1	0.006	0.012	1
+acetoacetyl-coa reductase	1	0.006	0.012	1
+transposase	1	0.006	0.012	1
+is6 family transposase	1	0.006	0.012	1
+tigr01841 family phasin	1	0.006	0.012	1
+myo19-like protein	1	0.006	0.012	1
+wsb1-like protein	1	0.006	0.012	1
+cris3-like protein	1	0.006	0.012	1
+lrc69-like protein	1	0.006	0.012	1
+icen-like protein	1	0.006	0.012	1
+cy1-like protein	1	0.006	0.012	1
+gpaa1-like protein	1	0.006	0.012	1
+mcas-like protein	1	0.006	0.012	1
+zn341-like protein	1	0.006	0.012	1
+nek11-like protein	1	0.006	0.012	1
+p52k-like protein	1	0.006	0.012	1
+deoxyribose-phosphate aldolase	1	0.006	0.012	1
+uridine kinase	1	0.006	0.012	1
+ph domain-containing protein	1	0.006	0.012	1
+class f sortase	1	0.006	0.012	1
+sige family rna polymerase sigma factor	1	0.006	0.012	1
+aldehyde dehydrogenase family protein	1	0.006	0.012	2
+putative regulatory protein	1	0.006	0.012	1
+putative flavin-containing monooxygenase (putative secreted protein)	1	0.006	0.012	1
+probable transcriptional regulator lysr family protein	1	0.006	0.012	1
+tyrosinase co-factor	1	0.006	0.012	1
+hydroxylase	1	0.006	0.012	2
+oxidoreductase	1	0.006	0.012	1
+nucleotide-binding protein	1	0.006	0.012	1
+dna-binding protein	1	0.006	0.012	2
+regulatory protein	1	0.006	0.012	1
+membrane transport protein	1	0.006	0.012	1
+dehydrogenase	1	0.006	0.012	1

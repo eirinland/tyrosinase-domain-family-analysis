@@ -1,0 +1,57 @@
+Starting job 1238427 on c1-35 on Olivia at Thu Jun 11 22:45:51 CEST 2026
+
+Mounted AF3 structures: 32069
+Starting His geometry comparison at Thu Jun 11 22:45:52 CEST 2026
+Canonical structures: 21893
+Processing 21893 structures with AF3 CIFs...
+  1000/21893 done, 1000 results
+  2000/21893 done, 2000 results
+  3000/21893 done, 3000 results
+  4000/21893 done, 4000 results
+  5000/21893 done, 5000 results
+  6000/21893 done, 6000 results
+  7000/21893 done, 7000 results
+  8000/21893 done, 8000 results
+  9000/21893 done, 9000 results
+  10000/21893 done, 10000 results
+  11000/21893 done, 11000 results
+  12000/21893 done, 12000 results
+  13000/21893 done, 13000 results
+  14000/21893 done, 14000 results
+  15000/21893 done, 15000 results
+  16000/21893 done, 16000 results
+  17000/21893 done, 17000 results
+  18000/21893 done, 18000 results
+  19000/21893 done, 19000 results
+  20000/21893 done, 20000 results
+  21000/21893 done, 21000 results
+
+Results: 21893 total, 0 AFDB available, 0 with His data
+Structures with delta_centroid > 3 A: 0
+
+Cleaning up AFDB downloads...
+Done at Thu Jun 11 22:52:17 CEST 2026
+
+Job 1238427 consumed 0.9 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-11T22:45:50; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 3.0 hours
+Elapsed wallclock time:   6.5 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1238427           8            0.0 %  2026-06-11T22:45:51  387.0 s  0
+1238427.batch     8      1    17.6 %  2026-06-11T22:45:51  387.0 s  0
+
+Used CPU time:   9.1 CPU minutes
+Unused CPU time: 42.5 CPU minutes
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1238427          16.0        
+1238427.batch    16.0    15.8
+
+Job 1238427 completed at Thu Jun 11 22:52:18 CEST 2026

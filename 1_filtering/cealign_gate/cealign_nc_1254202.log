@@ -1,0 +1,56 @@
+Starting job 1254202 on c1-35 on Olivia at Sun Jun 14 01:27:24 CEST 2026
+
+mounted: 32069 files
+copied: 1163 cifs
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+loaded 9 refs
+  ...50/1163
+  ...100/1163
+  ...150/1163
+  ...200/1163
+  ...250/1163
+  ...300/1163
+  ...350/1163
+  ...400/1163
+  ...450/1163
+  ...500/1163
+  ...550/1163
+  ...600/1163
+  ...650/1163
+  ...700/1163
+  ...750/1163
+  ...800/1163
+  ...850/1163
+  ...900/1163
+  ...950/1163
+  ...1000/1163
+  ...1050/1163
+  ...1100/1163
+  ...1150/1163
+cealign done: 1163 structures
+results: 1163 rows
+Done: Sun Jun 14 01:42:36 CEST 2026
+
+Job 1254202 consumed 4.1 billing hours and 0.0 GPU hours from project nn1003k.
+
+Submitted 2026-06-14T01:27:23; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 4.0 hours
+Elapsed wallclock time:   15.2 minutes
+
+Job exited normally.
+
+Task and CPU statistics:
+ID             CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+1254202          16            0.0 %  2026-06-14T01:27:24  912.0 s  0
+1254202.batch    16      1     7.2 %  2026-06-14T01:27:24  912.0 s  0
+
+Used CPU time:   17.6 CPU minutes
+Unused CPU time: 3.8 CPU hours
+
+Memory statistics, in GiB:
+ID              Alloc   Usage
+1254202          24.0        
+1254202.batch    24.0     2.5
+
+Job 1254202 completed at Sun Jun 14 01:42:37 CEST 2026

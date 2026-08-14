@@ -1,0 +1,12 @@
+CuA_His1	CuA_His2	CuA_His3	CuB_His1	CuB_His2	CuB_His3	n	n_species	n_phyla	Top genera
+HIS	HIS	HIS	HIS	HIS	HIS	69	64	13	Fusarium(8); Triticum(3); Rhizoctonia(2)
+HIS	TYR	HIS	HIS	HIS	HIS	6	5	2	Fusarium(3); Ditylum(1); Clonostachys(1)
+TYR	HIS	HIS	HIS	HIS	HIS	5	5	3	Ancylostoma(1); Neolecta(1); Colletotrichum(1)
+HIS	HIS	HIS	HIS	TYR	HIS	5	5	2	Verticillium(2); Pseudomassariella(1); Colletotrichum(1)
+HIS	HIS	TYR	HIS	HIS	HIS	5	5	2	Hyaloscypha(1); Botryotinia(1); Ceratobasidium(1)
+HIS	HIS	HIS	HIS	HIS	TYR	5	5	3	Puccinia(1); Aureobasidium(1); Hirsutella(1)
+HIS	HIS	HIS	TYR	HIS	HIS	4	4	3	Catenaria(1); Thalictrum(1); Apiospora(1)
+HIS	HIS	HIS	GLU	HIS	HIS	4	2	2	Phytophthora(3); Sesamum(1)
+HIS	HIS	HIS	HIS	HIS	ASP	3	3	3	Mastacembelus(1); Meloidogyne(1); Aegiceras(1)
+HIS	ASP	HIS	HIS	HIS	HIS	2	2	2	Musa(1); Setomelanomma(1)
+HIS	HIS	ASP	HIS	HIS	HIS	2	2	1	Karstenula(1); Colletotrichum(1)

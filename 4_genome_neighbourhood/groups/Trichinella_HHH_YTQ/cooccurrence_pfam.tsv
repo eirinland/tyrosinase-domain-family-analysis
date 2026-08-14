@@ -1,0 +1,49 @@
+pfam_id	pfam_name	n_queries	freq_all	freq_pfam	total
+PF00752	XPG N-terminal domain	11	0.786	1.000	17
+PF00867	XPG I-region	11	0.786	1.000	17
+PF02115	RHO protein GDP dissociation inhibitor	11	0.786	1.000	11
+PF00498	FHA domain	11	0.786	1.000	22
+PF00300	Histidine phosphatase superfamily (branch 1)	11	0.786	1.000	12
+PF00351	Biopterin-dependent aromatic amino acid hydroxylase	10	0.714	0.909	19
+PF10637	Oxoglutarate and iron-dependent oxygenase degradation C-term	10	0.714	0.909	19
+PF13661	2OG-Fe(II) oxygenase superfamily	10	0.714	0.909	19
+PF08551	Eukaryotic integral membrane protein (DUF1751)	10	0.714	0.909	10
+PF06728	GPI transamidase subunit PIG-U	8	0.571	0.727	10
+PF03564	Protein of unknown function (DUF1759)	6	0.429	0.545	11
+PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	6	0.429	0.545	12
+PF08123	Histone methylation protein DOT1	6	0.429	0.545	7
+PF08784	Replication protein A C terminal	6	0.429	0.545	7
+PF00335	Tetraspanin family	6	0.429	0.545	7
+PF26051	ABCF3, PWI-like helical bundle domain	5	0.357	0.455	6
+PF12848	ABC transporter	5	0.357	0.455	6
+PF00005	ABC transporter	5	0.357	0.455	6
+PF00250	Forkhead domain	5	0.357	0.455	6
+PF18701	Family of unknown function (DUF5641)	4	0.286	0.364	6
+PF05380	Pao retrotransposon-like RNaseH-like domain	4	0.286	0.364	6
+PF12146	Serine aminopeptidase, S33	4	0.286	0.364	4
+PF00024	PAN domain	3	0.214	0.273	3
+PF17921	Integrase zinc binding domain	3	0.214	0.273	6
+PF00264	Common central domain of tyrosinase	3	0.214	0.273	3
+PF16923	Glycosyl hydrolase family 63 N-terminal domain	3	0.214	0.273	5
+PF03200	Glycosyl hydrolase family 63 C-terminal domain	3	0.214	0.273	5
+PF00173	Cytochrome b5-like Heme/Steroid binding domain	3	0.214	0.273	3
+PF17681	Gamma tubulin complex component N-terminal	2	0.143	0.182	6
+PF04130	Gamma tubulin complex component C-terminal	2	0.143	0.182	6
+PF00400	WD domain, G-beta repeat	2	0.143	0.182	2
+PF12937	F-box-like	2	0.143	0.182	2
+PF12125	D domain of beta-TrCP	2	0.143	0.182	2
+PF02136	Nuclear transport factor 2 (NTF2) domain	1	0.071	0.091	1
+PF00665	Integrase core domain	1	0.071	0.091	1
+PF00078	Reverse transcriptase (RNA-dependent DNA polymerase)	1	0.071	0.091	1
+PF13843	Transposase IS4	1	0.071	0.091	1
+PF17919	RNase H-like domain found in reverse transcriptase	1	0.071	0.091	1
+PF13650	Aspartyl protease	1	0.071	0.091	1
+PF23445	Winged Helix-turn-helix domain	1	0.071	0.091	1
+PF02771	Acyl-CoA dehydrogenase, N-terminal domain	1	0.071	0.091	3
+PF00271	Helicase conserved C-terminal domain	1	0.071	0.091	1
+PF02770	Acyl-CoA dehydrogenase, middle domain	1	0.071	0.091	3
+PF18149	N-terminal helicase PWI domain	1	0.071	0.091	1
+PF00270	DEAD/DEAH box helicase	1	0.071	0.091	1
+PF02889	Sec63 Brl domain	1	0.071	0.091	1
+PF21188	Pre-mRNA-splicing helicase BRR2 plug domain	1	0.071	0.091	1
+PF00441	Acyl-CoA dehydrogenase, C-terminal domain	1	0.071	0.091	3

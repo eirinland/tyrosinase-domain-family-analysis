@@ -1,0 +1,2248 @@
+accession	length	ndom_chainsaw	all_pfam	extra_pfam	domain_annotations
+A0A010RM53	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A010RV53	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0A010RYF3	750	3	PF00264 (Tyrosinase)	—	507-524: Tyrosinase copper-binding; 673-684: Tyrosinase copper-binding
+A0A024CHU4	438	1	PF00264 (Tyrosinase)	—	303-314: Tyrosinase copper-binding
+A0A024CIJ4	389	2	PF00264 (Tyrosinase)	—	254-265: Tyrosinase copper-binding
+A0A024CIJ8	265	2	PF00264 (Tyrosinase)	—	46-63: Tyrosinase copper-binding; 193-204: Tyrosinase copper-binding
+A0A024SD58	0	3	—	—	—
+A0A024TEL4	0	6	—	—	—
+A0A024UNS3	0	3	—	—	—
+A0A024UP64	0	2	—	—	—
+A0A024URD5	0	2	—	—	—
+A0A059F260	317	2	PF00264 (Tyrosinase)	—	69-86: Tyrosinase copper-binding; 199-210: Tyrosinase copper-binding
+A0A066X3Q1	370	1	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+A0A066XSE1	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0A067BTT5	511	2	PF00264 (Tyrosinase)	—	254-265: Tyrosinase copper-binding
+A0A067BUS0	494	2	PF00264 (Tyrosinase)	—	256-267: Tyrosinase copper-binding
+A0A067CPX4	464	2	PF00264 (Tyrosinase)	—	67-84: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A067CXC8	635	2	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding; 381-392: Tyrosinase copper-binding
+A0A067D814	806	2	PF00264 (Tyrosinase)	—	385-402: Tyrosinase copper-binding; 553-564: Tyrosinase copper-binding
+A0A067MC03	361	2	PF00264 (Tyrosinase)	—	277-288: Tyrosinase copper-binding
+A0A067N7R8	0	1	—	—	—
+A0A067S9C3	369	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0A072P5W0	375	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0A072P8W8	377	1	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding
+A0A072Q6Y5	251	1	PF00264 (Tyrosinase)	—	19-36: Tyrosinase copper-binding; 179-190: Tyrosinase copper-binding
+A0A074RCL1	320	1	PF00264 (Tyrosinase)	—	75-259: Tyrosinase copper-binding
+A0A074RLS0	322	1	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A074RSM2	320	1	PF00264 (Tyrosinase)	—	70-254: Tyrosinase copper-binding
+A0A074RTB9	353	1	PF00264 (Tyrosinase)	—	272-283: Tyrosinase copper-binding
+A0A074RXR6	354	2	PF00264 (Tyrosinase)	—	271-282: Tyrosinase copper-binding
+A0A074S0H8	317	1	PF00264 (Tyrosinase)	—	75-259: Tyrosinase copper-binding
+A0A074S7C5	381	1	PF00264 (Tyrosinase)	—	84-301: Tyrosinase copper-binding
+A0A074S7W9	350	1	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 262-273: Tyrosinase copper-binding
+A0A074SA15	350	1	PF00264 (Tyrosinase)	—	123-140: Tyrosinase copper-binding
+A0A074SFZ9	356	2	PF00264 (Tyrosinase)	—	91-108: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A074SK72	618	3	PF00264 (Tyrosinase)	—	86-297: Tyrosinase copper-binding
+A0A074SK81	281	2	PF00264 (Tyrosinase)	—	85-281: Tyrosinase copper-binding
+A0A074SUA9	304	1	PF00264 (Tyrosinase)	—	222-233: Tyrosinase copper-binding
+A0A080ZC48	0	2	—	—	—
+A0A080ZC49	0	3	—	—	—
+A0A080ZVP9	0	2	—	—	—
+A0A084AJL7	389	1	PF00264 (Tyrosinase)	—	315-326: Tyrosinase copper-binding
+A0A084B2K4	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A084BB06	325	1	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A084G3K0	339	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0A084GCK1	395	2	PF00264 (Tyrosinase)	—	320-331: Tyrosinase copper-binding
+A0A084QCB8	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A084QWG9	325	1	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A084R1I5	382	1	PF00264 (Tyrosinase)	—	308-319: Tyrosinase copper-binding
+A0A090N5Z6	0	1	—	—	—
+A0A093R256	416	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 285-296: Tyrosinase copper-binding
+A0A098SBM4	418	3	PF00264 (Tyrosinase)	—	66-122: Tyrosinase copper-binding; 143-220: Tyrosinase copper-binding
+A0A099MZ46	0	3	—	—	—
+A0A0A1UJW0	0	3	—	—	—
+A0A0A1UJX2	0	1	—	—	—
+A0A0A1YUC0	0	3	—	—	—
+A0A0A2JVP7	317	1	PF00264 (Tyrosinase)	—	80-97: Tyrosinase copper-binding; 239-250: Tyrosinase copper-binding
+A0A0A6UH53	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0A0A6UH99	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0A0A6UK08	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0A0A7CLT5	466	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding; 239-250: Tyrosinase copper-binding
+A0A0A7CNE6	485	2	PF00264 (Tyrosinase)	—	74-91: Tyrosinase copper-binding
+A0A0A7CNP6	472	2	PF00264 (Tyrosinase)	—	73-90: Tyrosinase copper-binding; 242-253: Tyrosinase copper-binding
+A0A0A7CP65	840	5	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	93-164: Apple
+A0A0A7CPE6	0	3	—	—	—
+A0A0B2VUC6	556	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	457-491: ShKT; 501-536: ShKT
+A0A0B7AML2	0	3	—	—	—
+A0A0B7F0F6	368	1	PF00264 (Tyrosinase)	—	90-305: Tyrosinase copper-binding
+A0A0B7F0G8	360	1	PF00264 (Tyrosinase)	—	86-297: Tyrosinase copper-binding
+A0A0B7F0N2	357	1	PF00264 (Tyrosinase)	—	86-294: Tyrosinase copper-binding
+A0A0B7F0Q1	357	1	PF00264 (Tyrosinase)	—	86-294: Tyrosinase copper-binding
+A0A0B7F1Z6	351	1	PF00264 (Tyrosinase)	—	85-287: Tyrosinase copper-binding
+A0A0B7F8H0	314	1	PF00264 (Tyrosinase)	—	75-259: Tyrosinase copper-binding
+A0A0B7FCB0	324	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A0B7FGN3	318	1	PF00264 (Tyrosinase)	—	75-259: Tyrosinase copper-binding
+A0A0B7FN78	356	1	PF00264 (Tyrosinase)	—	91-108: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A0B7FUY2	365	2	PF00264 (Tyrosinase)	—	84-301: Tyrosinase copper-binding
+A0A0B7FY08	393	2	PF00264 (Tyrosinase)	—	79-293: Tyrosinase copper-binding
+A0A0B7G165	365	1	PF00264 (Tyrosinase)	—	92-301: Tyrosinase copper-binding
+A0A0B7KA41	0	2	—	—	—
+A0A0C3CP60	365	2	PF00264 (Tyrosinase)	—	77-296: Tyrosinase copper-binding
+A0A0C3FFF8	362	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A0C3FYC4	365	2	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding
+A0A0C4DI87	0	2	—	—	—
+A0A0C4ECU2	330	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A0C9W3X0	371	1	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding; 286-297: Tyrosinase copper-binding
+A0A0D0CCA2	370	2	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding
+A0A0D1YF04	0	1	—	—	—
+A0A0D1ZN85	362	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0A0D2AGE3	638	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	119-136: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0A0D2BB96	368	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A0D2BH13	383	1	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding
+A0A0D2BKG3	374	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0A0D2BR19	332	1	PF00264 (Tyrosinase)	—	59-76: Tyrosinase copper-binding
+A0A0D2CZ06	369	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding
+A0A0D2D206	666	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	331-342: Tyrosinase copper-binding
+A0A0D2D664	335	1	PF00264 (Tyrosinase)	—	59-76: Tyrosinase copper-binding
+A0A0D2DPV7	379	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding
+A0A0D2DYM6	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0A0D2EDR6	383	1	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding
+A0A0D2EIL3	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0A0D2ETA8	385	1	PF00264 (Tyrosinase)	—	116-133: Tyrosinase copper-binding
+A0A0D2EZC7	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0A0D2F4M5	378	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0A0D2G164	387	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding
+A0A0D2G9B5	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0A0D2HA46	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0A0D2HER3	385	1	PF00264 (Tyrosinase)	—	116-133: Tyrosinase copper-binding
+A0A0D2HGH5	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0A0D2IAF0	362	1	PF00264 (Tyrosinase)	—	76-299: Tyrosinase copper-binding
+A0A0D2JFD5	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0A0D2K829	368	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A0D2Y718	0	2	—	—	—
+A0A0D2YBM6	0	1	—	—	—
+A0A0D3JSQ2	836	3	PF00264 (Tyrosinase)	—	156-453: Tyrosinase copper-binding
+A0A0D3JST8	833	2	PF00264 (Tyrosinase)	—	151-448: Tyrosinase copper-binding
+A0A0D9NQW1	314	1	PF00264 (Tyrosinase)	—	235-246: Tyrosinase copper-binding
+A0A0E0RYC2	338	1	PF00264 (Tyrosinase)	—	245-256: Tyrosinase copper-binding
+A0A0F0IBW7	0	1	—	—	—
+A0A0F0IHD9	0	1	—	—	—
+A0A0F4GBJ7	610	3	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+A0A0F7S7B3	331	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A0F7TKD9	343	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 261-272: Tyrosinase copper-binding
+A0A0F7TYM6	359	1	PF00264 (Tyrosinase)	—	265-276: Tyrosinase copper-binding
+A0A0G2EUA6	317	1	PF00264 (Tyrosinase)	—	33-258: Tyrosinase copper-binding
+A0A0G2YLH0	685	2	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0A0G4HMU6	0	2	—	—	—
+A0A0G4KK98	339	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A0G4KKL5	339	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A0G4L6X2	341	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 234-245: Tyrosinase copper-binding
+A0A0G4LMV7	0	1	—	—	—
+A0A0G4LPB5	248	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 234-245: Tyrosinase copper-binding
+A0A0G4N2N6	0	1	—	—	—
+A0A0J9VNP9	0	2	—	—	—
+A0A0J9W938	0	2	—	—	—
+A0A0J9WSW0	0	1	—	—	—
+A0A0K0E814	471	3	PF00264 (Tyrosinase)	—	165-182: Tyrosinase copper-binding; 316-327: Tyrosinase copper-binding
+A0A0K6FKC6	365	2	PF00264 (Tyrosinase)	—	84-301: Tyrosinase copper-binding
+A0A0K6FMF9	331	1	PF00264 (Tyrosinase)	—	63-268: Tyrosinase copper-binding
+A0A0K6FMV0	317	1	PF00264 (Tyrosinase)	—	74-259: Tyrosinase copper-binding
+A0A0K6FPB5	330	1	PF00264 (Tyrosinase)	—	63-267: Tyrosinase copper-binding
+A0A0K6FPV3	641	2	PF00264 (Tyrosinase)	—	93-311: Tyrosinase copper-binding
+A0A0K6FU45	311	1	PF00264 (Tyrosinase)	—	69-253: Tyrosinase copper-binding
+A0A0K6FUE9	319	1	PF00264 (Tyrosinase)	—	69-253: Tyrosinase copper-binding
+A0A0K6FYY1	315	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A0K6G019	364	1	PF00264 (Tyrosinase)	—	86-301: Tyrosinase copper-binding
+A0A0K6GEK7	348	2	PF00264 (Tyrosinase)	—	265-276: Tyrosinase copper-binding
+A0A0K6GFZ7	315	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A0K6GIP8	348	2	PF00264 (Tyrosinase)	—	265-276: Tyrosinase copper-binding
+A0A0K6GIR3	353	2	PF00264 (Tyrosinase)	—	270-281: Tyrosinase copper-binding
+A0A0L0NB41	302	1	PF00264 (Tyrosinase)	—	228-239: Tyrosinase copper-binding
+A0A0L0T1I9	448	2	PF00264 (Tyrosinase)	—	213-224: Tyrosinase copper-binding
+A0A0L0T297	463	2	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A0L0T3A5	449	1	PF00264 (Tyrosinase)	—	238-249: Tyrosinase copper-binding
+A0A0L0T3E0	446	2	PF00264 (Tyrosinase)	—	213-224: Tyrosinase copper-binding
+A0A0L0W3I3	320	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A0L1JH90	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A0L6VMV5	303	1	PF00264 (Tyrosinase)	—	78-253: Tyrosinase copper-binding
+A0A0M3K8B7	522	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	416-450: ShKT; 460-495: ShKT
+A0A0M9EWC2	337	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A0N1H7B4	371	1	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A0N1P0I4	378	1	PF00264 (Tyrosinase)	—	77-302: Tyrosinase copper-binding
+A0A0P1ANE6	486	2	PF00264 (Tyrosinase)	—	74-258: Tyrosinase copper-binding
+A0A0U1MAB1	545	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 297-308: Tyrosinase copper-binding
+A0A0V0S806	830	3	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	739-821: Apple
+A0A0V0TGR2	832	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	741-823: Apple
+A0A0V0YE73	0	4	—	—	—
+A0A0V1AAJ2	838	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	747-829: Apple
+A0A0V1ABN4	805	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	714-796: Apple
+A0A0V1BIN6	832	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	741-823: Apple
+A0A0V1DE70	804	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	713-795: Apple
+A0A0V1ESS6	0	4	—	—	—
+A0A0V1G4S3	787	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	696-778: Apple
+A0A0V1I3Y0	804	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	713-795: Apple
+A0A0V1JHS7	791	4	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	700-782: Apple
+A0A0V1KD92	0	4	—	—	—
+A0A0V1KR57	833	5	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	742-824: Apple
+A0A0V1MUW3	800	5	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	709-791: Apple
+A0A0W0EZ38	0	1	—	—	—
+A0A0W0FIC5	0	1	—	—	—
+A0A0W7VMU8	554	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	91-108: Tyrosinase copper-binding; 336-347: Tyrosinase copper-binding
+A0A0W7WYA7	305	2	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A0W8AY19	0	2	—	—	—
+A0A0W8C3R7	0	2	—	—	—
+A0A0W8DAM1	0	3	—	—	—
+A0A101NIJ2	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A101NV74	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A117DZY6	0	1	—	—	—
+A0A127I0D0	0	3	—	—	—
+A0A135RS91	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A135S3P5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A135SGH4	961	5	PF06985 (HET); PF00264 (Tyrosinase)	PF06985 (HET)	82-99: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A135TPT1	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A135U459	653	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	103-120: Tyrosinase copper-binding; 321-332: Tyrosinase copper-binding
+A0A135V8Q3	449	1	PF00264 (Tyrosinase)	—	174-191: Tyrosinase copper-binding
+A0A136ILZ0	271	1	PF00264 (Tyrosinase)	—	194-205: Tyrosinase copper-binding
+A0A136IUL0	619	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0A136IUM9	340	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A136JKK4	408	1	PF00264 (Tyrosinase)	—	130-147: Tyrosinase copper-binding
+A0A137NQN3	393	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A137NY78	393	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A137P8T8	259	1	PF00264 (Tyrosinase)	—	79-96: Tyrosinase copper-binding; 223-234: Tyrosinase copper-binding
+A0A139HAY5	393	1	PF00264 (Tyrosinase)	—	312-323: Tyrosinase copper-binding
+A0A146F7M9	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A164PTP5	622	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding
+A0A164SP08	662	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 363-374: Tyrosinase copper-binding
+A0A165J5C9	675	3	PF00264 (Tyrosinase)	—	57-346: Tyrosinase copper-binding
+A0A165V412	376	2	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A165YMC5	661	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 362-373: Tyrosinase copper-binding
+A0A166ALV4	399	2	PF00264 (Tyrosinase)	—	110-127: Tyrosinase copper-binding
+A0A166DZQ5	622	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 329-340: Tyrosinase copper-binding
+A0A166M367	566	2	PF00264 (Tyrosinase)	—	291-308: Tyrosinase copper-binding
+A0A166QLI8	329	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding
+A0A166QMK6	324	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A166TEN8	369	1	PF00264 (Tyrosinase)	—	296-307: Tyrosinase copper-binding
+A0A166U3J7	352	1	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0A167AFV0	285	2	PF00264 (Tyrosinase)	—	45-62: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A167BRG2	395	1	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0A167BY34	699	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	—
+A0A167H3K1	675	2	PF00264 (Tyrosinase)	—	327-338: Tyrosinase copper-binding
+A0A167RCQ6	0	2	—	—	—
+A0A168E5R7	252	1	PF00264 (Tyrosinase)	—	21-38: Tyrosinase copper-binding; 179-190: Tyrosinase copper-binding
+A0A168EXD0	300	1	PF00264 (Tyrosinase)	—	226-237: Tyrosinase copper-binding
+A0A175W3Y2	399	1	PF00264 (Tyrosinase)	—	155-345: Tyrosinase copper-binding
+A0A177CCF1	404	1	PF00264 (Tyrosinase)	—	321-332: Tyrosinase copper-binding
+A0A177EUN3	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0A177FEY3	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0A177WRB0	0	2	—	—	—
+A0A178CTE4	367	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A178DF33	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0A178Z9S6	368	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A179A145	363	1	PF00264 (Tyrosinase)	—	77-300: Tyrosinase copper-binding
+A0A182YW94	0	2	—	—	—
+A0A183BN42	525	4	PF00264 (Tyrosinase)	—	227-244: Tyrosinase copper-binding; 380-391: Tyrosinase copper-binding
+A0A183IVI7	453	3	PF00264 (Tyrosinase)	—	324-335: Tyrosinase copper-binding
+A0A183UY55	534	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	435-469: ShKT; 479-514: ShKT
+A0A194X275	361	2	PF00264 (Tyrosinase)	—	75-293: Tyrosinase copper-binding
+A0A1B1B8N9	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A1B1M2R3	274	1	PF00264 (Tyrosinase)	—	—
+A0A1B7NUR7	377	1	PF00264 (Tyrosinase)	—	151-168: Tyrosinase copper-binding; 299-310: Tyrosinase copper-binding
+A0A1B7Y3U5	683	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	101-118: Tyrosinase copper-binding; 312-323: Tyrosinase copper-binding
+A0A1B7YR08	507	1	PF00264 (Tyrosinase)	—	232-249: Tyrosinase copper-binding
+A0A1B8AR83	510	2	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A1B8AWE5	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A1B8AZE2	333	1	PF00264 (Tyrosinase)	—	77-278: Tyrosinase copper-binding
+A0A1B8XYP0	0	2	—	—	—
+A0A1C1CNS0	367	1	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding
+A0A1C1CVI7	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0A1C7D005	0	2	—	—	—
+A0A1D7YF24	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A1D7YL38	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A1E3B9D8	648	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+A0A1E3V4Z2	556	3	PF00264 (Tyrosinase)	—	115-341: Tyrosinase copper-binding
+A0A1E7FTK4	548	2	PF00264 (Tyrosinase)	—	278-289: Tyrosinase copper-binding
+A0A1F8A6I4	759	2	PF07690 (MFS_1); PF00264 (Tyrosinase)	PF07690 (MFS_1)	682-693: Tyrosinase copper-binding
+A0A1F8A877	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A1G4AYJ9	511	1	PF00264 (Tyrosinase)	—	236-253: Tyrosinase copper-binding
+A0A1G4BKS1	368	1	PF00264 (Tyrosinase)	—	137-154: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A1G7EVK2	453	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	195-206: Tyrosinase copper-binding
+A0A1G7JAM5	453	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	195-206: Tyrosinase copper-binding
+A0A1G7K2Z2	451	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	200-211: Tyrosinase copper-binding
+A0A1G9L3I7	545	3	PF00264 (Tyrosinase)	—	333-344: Tyrosinase copper-binding
+A0A1G9LQ44	596	3	PF00264 (Tyrosinase)	—	365-376: Tyrosinase copper-binding
+A0A1H1YK07	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0A1I2GNX2	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0A1I7S4X7	525	2	PF00264 (Tyrosinase)	—	300-311: Tyrosinase copper-binding
+A0A1I8AD71	509	2	PF00264 (Tyrosinase)	—	360-371: Tyrosinase copper-binding
+A0A1J9Q3N9	642	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	103-120: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0A1J9QXP9	312	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0A1K0GCJ9	268	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0A1L1ZLS6	689	2	PF00264 (Tyrosinase)	—	168-185: Tyrosinase copper-binding; 308-319: Tyrosinase copper-binding
+A0A1L5PR01	0	3	—	—	—
+A0A1L7T7V9	334	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A1L7T8U3	365	1	PF00264 (Tyrosinase)	—	286-297: Tyrosinase copper-binding
+A0A1L7THL1	326	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A1L7TSE2	324	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding
+A0A1L7V991	378	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A1L7VVU2	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A1L7W6N9	324	2	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A1L7XG75	377	1	PF00264 (Tyrosinase)	—	75-310: Tyrosinase copper-binding
+A0A1L7XVJ9	308	1	PF00264 (Tyrosinase)	—	228-239: Tyrosinase copper-binding
+A0A1L9MQY6	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A1L9NHP5	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A1L9RUP8	704	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	117-134: Tyrosinase copper-binding; 431-442: Tyrosinase copper-binding
+A0A1L9SFQ7	322	1	PF00264 (Tyrosinase)	—	239-250: Tyrosinase copper-binding
+A0A1L9U5P7	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A1L9UF38	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A1L9V3Y6	664	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 382-393: Tyrosinase copper-binding
+A0A1L9WN79	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A1L9X8A5	643	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	94-112: Tyrosinase copper-binding; 361-372: Tyrosinase copper-binding
+A0A1M2VFH5	364	2	PF00264 (Tyrosinase)	—	84-298: Tyrosinase copper-binding
+A0A1M3T705	0	1	—	—	—
+A0A1M3TFS3	0	1	—	—	—
+A0A1M6NA87	450	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	199-210: Tyrosinase copper-binding
+A0A1N6ZK30	280	1	PF00264 (Tyrosinase)	—	62-232: Tyrosinase copper-binding
+A0A1N7U5H3	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0A1Q3DUK8	294	1	PF00264 (Tyrosinase)	—	23-40: Tyrosinase copper-binding
+A0A1Q3EU58	360	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A1Q8RG93	402	1	PF00264 (Tyrosinase)	—	128-145: Tyrosinase copper-binding
+A0A1Q8RQU4	678	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+A0A1Q8RT46	367	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A1R0H9J9	452	2	PF00264 (Tyrosinase)	—	59-236: Tyrosinase copper-binding
+A0A1R3RGL8	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A1R4HGF1	476	3	PF04151 (PPC); PF00264 (Tyrosinase)	PF04151 (PPC)	50-67: Tyrosinase copper-binding; 193-204: Tyrosinase copper-binding
+A0A1S2PQK3	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A1S2TDC3	0	3	—	—	—
+A0A1S3HAX8	543	2	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0A1S3I9L8	506	3	PF00264 (Tyrosinase)	—	151-168: Tyrosinase copper-binding; 308-319: Tyrosinase copper-binding
+A0A1S8X904	476	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0A1S9DBW0	0	1	—	—	—
+A0A1S9DF80	0	1	—	—	—
+A0A1S9RAT3	0	1	—	—	—
+A0A1S9RI10	0	1	—	—	—
+A0A1V6P941	347	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding; 263-274: Tyrosinase copper-binding
+A0A1V6QBL1	293	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A1V6QQ78	987	4	PF00067 (p450); PF00264 (Tyrosinase)	PF00067 (p450)	185-202: Tyrosinase copper-binding; 387-398: Tyrosinase copper-binding
+A0A1V6RNY4	317	1	PF00264 (Tyrosinase)	—	80-97: Tyrosinase copper-binding; 239-250: Tyrosinase copper-binding
+A0A1V6T2W4	601	3	PF00264 (Tyrosinase)	—	178-195: Tyrosinase copper-binding; 360-371: Tyrosinase copper-binding
+A0A1V9Y4A2	494	2	PF00264 (Tyrosinase)	—	70-87: Tyrosinase copper-binding; 237-248: Tyrosinase copper-binding
+A0A1V9Y4B3	445	2	PF00264 (Tyrosinase)	—	23-40: Tyrosinase copper-binding; 189-200: Tyrosinase copper-binding
+A0A1V9Y543	535	2	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 281-292: Tyrosinase copper-binding
+A0A1V9Y5I4	488	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 230-241: Tyrosinase copper-binding
+A0A1V9Y9H5	517	2	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 274-285: Tyrosinase copper-binding
+A0A1V9YBP5	907	3	PF00264 (Tyrosinase)	—	489-506: Tyrosinase copper-binding; 656-667: Tyrosinase copper-binding
+A0A1V9YE51	744	4	PF01423 (LSM); PF00264 (Tyrosinase)	PF01423 (LSM)	647-732: Sm
+A0A1V9YEM7	520	2	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0A1V9Z4B6	513	2	PF00264 (Tyrosinase)	—	255-266: Tyrosinase copper-binding
+A0A1V9Z5U0	416	2	PF00264 (Tyrosinase)	—	205-216: Tyrosinase copper-binding
+A0A1V9ZS86	488	2	PF00264 (Tyrosinase)	—	246-257: Tyrosinase copper-binding
+A0A1W7D1S4	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0A1X7RU91	374	1	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+A0A1X7RVT3	347	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0A1Y2D1M5	463	2	PF00264 (Tyrosinase)	—	265-276: Tyrosinase copper-binding
+A0A1Y2E7P4	329	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 255-266: Tyrosinase copper-binding
+A0A1Y2J1T8	387	2	PF00264 (Tyrosinase)	—	121-138: Tyrosinase copper-binding
+A0A1Y2LJE8	334	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding
+A0A210QF88	750	3	PF00264 (Tyrosinase)	—	153-170: Tyrosinase copper-binding; 297-308: Tyrosinase copper-binding
+A0A210QHJ1	497	2	PF00264 (Tyrosinase)	—	141-158: Tyrosinase copper-binding; 282-293: Tyrosinase copper-binding
+A0A210QJQ9	535	3	PF00264 (Tyrosinase)	—	248-265: Tyrosinase copper-binding; 380-391: Tyrosinase copper-binding
+A0A210QRD1	545	1	PF00264 (Tyrosinase)	—	153-170: Tyrosinase copper-binding; 285-296: Tyrosinase copper-binding
+A0A210R172	376	1	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A210R249	630	2	PF00264 (Tyrosinase)	—	144-315: Tyrosinase copper-binding
+A0A210R2J1	878	2	PF00264 (Tyrosinase)	—	149-166: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0A212C521	516	2	PF00264 (Tyrosinase)	—	215-232: Tyrosinase copper-binding; 376-387: Tyrosinase copper-binding
+A0A218Z5Z3	358	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding; 274-285: Tyrosinase copper-binding
+A0A221P6L7	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A225WZW1	537	2	PF00264 (Tyrosinase)	—	257-268: Tyrosinase copper-binding
+A0A238JCS7	288	1	PF00264 (Tyrosinase)	—	53-70: Tyrosinase copper-binding; 227-238: Tyrosinase copper-binding
+A0A249PKJ6	538	3	PF00264 (Tyrosinase)	—	304-315: Tyrosinase copper-binding
+A0A254U6L8	0	1	—	—	—
+A0A254UGL9	0	1	—	—	—
+A0A284QUC6	394	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0A284RJ44	322	1	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A284RNM6	373	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0A285MR25	467	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	213-224: Tyrosinase copper-binding
+A0A292PKA2	324	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0A2A2J8D8	374	2	PF00264 (Tyrosinase)	—	114-305: Tyrosinase copper-binding
+A0A2A6B3L8	710	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	—
+A0A2A6C452	710	4	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	—
+A0A2B4RIN6	367	2	PF00264 (Tyrosinase)	—	11-28: Tyrosinase copper-binding
+A0A2B4RKW6	487	1	PF00264 (Tyrosinase)	—	178-195: Tyrosinase copper-binding
+A0A2B4RN75	405	2	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding
+A0A2B4RNC9	302	2	PF00264 (Tyrosinase)	—	25-202: Tyrosinase copper-binding
+A0A2B4RPF7	477	2	PF00264 (Tyrosinase)	—	196-213: Tyrosinase copper-binding
+A0A2B4RQ59	955	5	PF00059 (Lectin_C); PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00059 (Lectin_C); PF00090 (TSP_1)	705-810: C-type lectin; 823-952: C-type lectin
+A0A2B4RQQ5	397	1	PF00264 (Tyrosinase)	—	115-305: Tyrosinase copper-binding
+A0A2B4SFS2	308	2	PF00264 (Tyrosinase)	—	25-205: Tyrosinase copper-binding
+A0A2B4SG55	223	2	PF00264 (Tyrosinase)	—	43-60: Tyrosinase copper-binding
+A0A2B4STS7	327	1	PF00264 (Tyrosinase)	—	116-134: Tyrosinase copper-binding
+A0A2B7WN75	748	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	88-105: Tyrosinase copper-binding
+A0A2B7X3E4	360	1	PF00264 (Tyrosinase)	—	134-151: Tyrosinase copper-binding; 282-293: Tyrosinase copper-binding
+A0A2B7XWW1	331	1	PF00264 (Tyrosinase)	—	80-97: Tyrosinase copper-binding; 226-237: Tyrosinase copper-binding
+A0A2B7YAT8	638	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	107-124: Tyrosinase copper-binding; 299-310: Tyrosinase copper-binding
+A0A2C9JDT0	0	2	—	—	—
+A0A2C9KDF9	0	3	—	—	—
+A0A2C9KDI8	0	3	—	—	—
+A0A2C9L419	0	2	—	—	—
+A0A2C9LHZ0	0	1	—	—	—
+A0A2D0NGI4	489	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	89-106: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0A2G5BCU3	383	2	PF00264 (Tyrosinase)	—	78-95: Tyrosinase copper-binding
+A0A2G7FTM7	737	2	PF07690 (MFS_1); PF00264 (Tyrosinase)	PF07690 (MFS_1)	59-490: Major facilitator superfamily (MFS) profile
+A0A2G7G703	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A2G8SRB1	364	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A2H3BBQ8	391	1	PF00264 (Tyrosinase)	—	122-139: Tyrosinase copper-binding; 304-315: Tyrosinase copper-binding
+A0A2H3BR86	298	1	PF00264 (Tyrosinase)	—	219-230: Tyrosinase copper-binding
+A0A2H3BRY6	310	2	PF00264 (Tyrosinase)	—	45-62: Tyrosinase copper-binding
+A0A2H3C2Q4	394	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0A2H3C2Z9	322	1	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A2H3D1Q0	373	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 286-297: Tyrosinase copper-binding
+A0A2H3DK47	392	2	PF00264 (Tyrosinase)	—	140-157: Tyrosinase copper-binding
+A0A2H3GCF0	0	3	—	—	—
+A0A2H3GF76	0	1	—	—	—
+A0A2H3GPD7	0	1	—	—	—
+A0A2H3S4M3	0	1	—	—	—
+A0A2H3S7A7	0	1	—	—	—
+A0A2H3SVM4	0	3	—	—	—
+A0A2H3TNC8	0	2	—	—	—
+A0A2H3TU20	0	1	—	—	—
+A0A2H5BVB1	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A2I1BV77	389	1	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding; 310-321: Tyrosinase copper-binding
+A0A2I1CR74	654	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	96-113: Tyrosinase copper-binding; 387-398: Tyrosinase copper-binding
+A0A2I2FVC4	535	2	PF00264 (Tyrosinase)	—	75-92: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0A2I2G6A8	650	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	101-118: Tyrosinase copper-binding; 392-403: Tyrosinase copper-binding
+A0A2J0YX98	0	3	—	—	—
+A0A2J6PRK0	352	1	PF00264 (Tyrosinase)	—	279-290: Tyrosinase copper-binding
+A0A2J6PV40	355	1	PF00264 (Tyrosinase)	—	279-290: Tyrosinase copper-binding
+A0A2J6QS19	306	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0A2J6T3A4	361	2	PF00264 (Tyrosinase)	—	75-294: Tyrosinase copper-binding
+A0A2K0USD3	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A2K0W140	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A2L0P0J7	337	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A2L2TIX2	313	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0A2L2TND9	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A2L2TT53	333	1	PF00264 (Tyrosinase)	—	77-278: Tyrosinase copper-binding
+A0A2L2TZT7	510	3	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A2N3N0U6	413	3	PF00264 (Tyrosinase)	—	309-320: Tyrosinase copper-binding
+A0A2N3N1M7	668	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	91-108: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A2N3N4T8	987	5	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	230-414: VWFA
+A0A2N5SR99	320	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A2N5UIA0	0	1	—	—	—
+A0A2N5VYB5	320	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A2N8P306	274	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A2P1AAW5	0	2	—	—	—
+A0A2P2SYW5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A2P5HSA0	366	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding
+A0A2R2MNF5	506	3	PF00264 (Tyrosinase)	—	151-168: Tyrosinase copper-binding; 308-319: Tyrosinase copper-binding
+A0A2S4VAI6	300	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A2S4VYL5	357	2	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A2S9E9Y7	597	3	PF00264 (Tyrosinase)	—	153-378: Tyrosinase copper-binding
+A0A2T0K3L1	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0A2T3AX63	277	1	PF00264 (Tyrosinase)	—	197-208: Tyrosinase copper-binding
+A0A2T3ZAR3	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A2T3ZXK1	327	1	PF00264 (Tyrosinase)	—	77-271: Tyrosinase copper-binding
+A0A2T4BLM2	668	3	PF00264 (Tyrosinase)	—	417-428: Tyrosinase copper-binding
+A0A2T4BQX4	698	3	PF00264 (Tyrosinase)	—	447-458: Tyrosinase copper-binding
+A0A2T4FKC8	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0A2T4GWT7	330	1	PF00264 (Tyrosinase)	—	74-275: Tyrosinase copper-binding
+A0A2T4GXQ3	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A2T6ZCK0	322	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0A2T6ZI61	604	3	PF00264 (Tyrosinase)	—	183-200: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+A0A2T7NHK1	443	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A2T9ZGP7	391	2	PF00264 (Tyrosinase)	—	74-91: Tyrosinase copper-binding
+A0A2T9ZGW2	427	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0A2U1JEL2	419	1	PF00264 (Tyrosinase)	—	115-290: Tyrosinase copper-binding
+A0A2V1CYP5	316	1	PF00264 (Tyrosinase)	—	68-261: Tyrosinase copper-binding
+A0A2V1CZI9	373	1	PF00264 (Tyrosinase)	—	230-241: Tyrosinase copper-binding
+A0A2V1D8S9	287	2	PF00264 (Tyrosinase)	—	215-226: Tyrosinase copper-binding
+A0A2V1DGW1	417	1	PF00264 (Tyrosinase)	—	334-345: Tyrosinase copper-binding
+A0A2V1E5D8	338	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A2V5GZD8	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A2V5H7P1	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A2V5HTW1	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A2V5IDW1	332	1	PF00264 (Tyrosinase)	—	259-270: Tyrosinase copper-binding
+A0A2V5IGT7	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A2Z4LVM5	454	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	199-210: Tyrosinase copper-binding
+A0A316FBE9	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0A316FI64	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0A316L4G5	453	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	199-210: Tyrosinase copper-binding
+A0A317SBD7	961	3	PF00734 (CBM_1); PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF00734 (CBM_1); PF18132 (Tyrosinase_C)	19-55: CBM1
+A0A317STV4	263	1	PF00264 (Tyrosinase)	—	31-48: Tyrosinase copper-binding; 185-196: Tyrosinase copper-binding
+A0A317URF9	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A317UXL8	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A317UZS7	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A317VMA5	395	1	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0A317WBK9	335	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 252-263: Tyrosinase copper-binding
+A0A317WJT9	341	1	PF00264 (Tyrosinase)	—	109-126: Tyrosinase copper-binding; 258-269: Tyrosinase copper-binding
+A0A317WYK6	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A317XLV9	627	2	PF00264 (Tyrosinase)	—	377-394: Tyrosinase copper-binding; 542-553: Tyrosinase copper-binding
+A0A318YAT8	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A318ZGW2	333	1	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding; 250-261: Tyrosinase copper-binding
+A0A319ANC3	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A319AUV2	342	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 260-271: Tyrosinase copper-binding
+A0A319AVK5	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A319CG24	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A319CY13	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A319DGV8	339	1	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A319DU42	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A319E1L0	335	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 252-263: Tyrosinase copper-binding
+A0A319EJ46	308	1	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A329SB08	496	2	PF00264 (Tyrosinase)	—	75-267: Tyrosinase copper-binding
+A0A329SW91	553	2	PF00264 (Tyrosinase)	—	254-265: Tyrosinase copper-binding
+A0A345I2D0	286	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 216-227: Tyrosinase copper-binding
+A0A365NGP6	0	1	—	—	—
+A0A365NNU5	0	1	—	—	—
+A0A366R6W5	332	1	PF00264 (Tyrosinase)	—	75-277: Tyrosinase copper-binding
+A0A366RBL7	338	1	PF00264 (Tyrosinase)	—	245-256: Tyrosinase copper-binding
+A0A366S6I4	338	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A370BCH9	287	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 217-228: Tyrosinase copper-binding
+A0A370C830	0	1	—	—	—
+A0A370CBG9	0	1	—	—	—
+A0A370P5X5	344	1	PF00264 (Tyrosinase)	—	262-273: Tyrosinase copper-binding
+A0A370PE47	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A371DR51	363	2	PF00264 (Tyrosinase)	—	82-296: Tyrosinase copper-binding
+A0A379ICC9	0	3	—	—	—
+A0A384K4W6	342	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 270-281: Tyrosinase copper-binding
+A0A395HF45	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A395I0G5	340	1	PF00264 (Tyrosinase)	—	110-127: Tyrosinase copper-binding; 258-269: Tyrosinase copper-binding
+A0A395M9N5	607	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0A395MKK6	686	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	100-117: Tyrosinase copper-binding; 387-398: Tyrosinase copper-binding
+A0A395MRW2	329	1	PF00264 (Tyrosinase)	—	72-274: Tyrosinase copper-binding
+A0A395MVI2	322	1	PF00264 (Tyrosinase)	—	65-268: Tyrosinase copper-binding
+A0A395N2K0	338	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A395S4M8	602	3	PF00264 (Tyrosinase)	—	352-363: Tyrosinase copper-binding
+A0A395SCX6	331	1	PF00264 (Tyrosinase)	—	74-276: Tyrosinase copper-binding
+A0A395SM33	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A396ZRZ2	0	5	—	—	—
+A0A397A3C6	0	5	—	—	—
+A0A397A491	0	2	—	—	—
+A0A397AG26	0	2	—	—	—
+A0A397AX90	0	2	—	—	—
+A0A397AZ25	0	2	—	—	—
+A0A397BLC7	0	2	—	—	—
+A0A397BPY8	0	2	—	—	—
+A0A397BYR1	0	2	—	—	—
+A0A397C8W8	0	2	—	—	—
+A0A397CCK8	0	2	—	—	—
+A0A397CDV6	0	2	—	—	—
+A0A397CWG7	0	2	—	—	—
+A0A397D945	0	2	—	—	—
+A0A397DFP7	0	2	—	—	—
+A0A397DKV6	0	3	—	—	—
+A0A397DXJ3	0	5	—	—	—
+A0A397E0M5	0	2	—	—	—
+A0A397EM03	0	3	—	—	—
+A0A397EQH8	0	2	—	—	—
+A0A397EQT5	0	2	—	—	—
+A0A397EYS8	0	5	—	—	—
+A0A397FVJ8	0	2	—	—	—
+A0A397FW62	0	2	—	—	—
+A0A397FW77	0	3	—	—	—
+A0A397H284	355	1	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding
+A0A3A1NL96	460	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	202-213: Tyrosinase copper-binding
+A0A3B0YDV7	0	3	—	—	—
+A0A3E2GYC9	374	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A3E2HCJ3	372	1	PF00264 (Tyrosinase)	—	141-158: Tyrosinase copper-binding
+A0A3F2RCF2	0	2	—	—	—
+A0A3F2RYX7	0	2	—	—	—
+A0A3F3PSP3	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A3L6MZC5	0	2	—	—	—
+A0A3L6N6A1	0	1	—	—	—
+A0A3L6N987	0	1	—	—	—
+A0A3M2RUE8	728	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 343-354: Tyrosinase copper-binding
+A0A3M6TCS2	415	1	PF00264 (Tyrosinase)	—	137-315: Tyrosinase copper-binding
+A0A3M6U071	404	2	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0A3M6UE86	660	3	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	88-265: VWFA
+A0A3M6UM69	877	3	PF00264 (Tyrosinase)	—	523-540: Tyrosinase copper-binding
+A0A3M6UP51	327	2	PF00264 (Tyrosinase)	—	116-134: Tyrosinase copper-binding
+A0A3M6UR97	604	3	PF00059 (Lectin_C); PF00264 (Tyrosinase)	PF00059 (Lectin_C)	323-428: C-type lectin; 472-601: C-type lectin
+A0A3M6URF3	349	2	PF00264 (Tyrosinase)	—	61-78: Tyrosinase copper-binding
+A0A3M6VLC9	499	2	PF00264 (Tyrosinase)	—	81-271: Tyrosinase copper-binding
+A0A3M8TNP8	0	3	—	—	—
+A0A3M9YBL7	339	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A3M9YDG5	341	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 234-245: Tyrosinase copper-binding
+A0A3N1GBQ3	0	2	—	—	—
+A0A3N4HNW1	709	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	112-129: Tyrosinase copper-binding; 366-377: Tyrosinase copper-binding
+A0A3N4IZV1	666	3	PF00264 (Tyrosinase)	—	245-262: Tyrosinase copper-binding; 440-451: Tyrosinase copper-binding
+A0A3N4J8U4	324	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0A3N4KYW5	430	2	PF00264 (Tyrosinase)	—	372-383: Tyrosinase copper-binding
+A0A3N4LRS9	356	1	PF00264 (Tyrosinase)	—	130-147: Tyrosinase copper-binding; 277-288: Tyrosinase copper-binding
+A0A3R6VRZ5	897	6	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	29-100: Apple; 255-327: Apple; 835-848: CRIB
+A0A3R6WTM7	0	2	—	—	—
+A0A3R6X6W7	0	2	—	—	—
+A0A3R6YR15	460	2	PF00264 (Tyrosinase)	—	28-185: Tyrosinase copper-binding
+A0A3R6ZA35	0	3	—	—	—
+A0A3R7A7P4	0	5	—	—	—
+A0A3R7BWT8	0	2	—	—	—
+A0A3R7CD36	0	2	—	—	—
+A0A3R7CFL8	0	2	—	—	—
+A0A3R7E8Z5	0	3	—	—	—
+A0A3R7EK41	0	5	—	—	—
+A0A3R7FX46	448	2	PF00264 (Tyrosinase)	—	29-221: Tyrosinase copper-binding
+A0A3R7MJX7	515	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding; 244-255: Tyrosinase copper-binding
+A0A3R7WGA7	649	4	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	30-74: Apple; 107-151: Apple; 211-425: Tyrosinase copper-binding
+A0A3R7WQH8	845	4	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	46-114: Apple; 205-278: Apple
+A0A3R7ZIF7	602	3	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	355-366: Tyrosinase copper-binding
+A0A3S0IN34	454	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	199-210: Tyrosinase copper-binding
+A0A3S9PH06	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A401KLG2	327	1	PF00264 (Tyrosinase)	—	262-273: Tyrosinase copper-binding
+A0A401L788	396	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A401L7K2	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A401VX81	424	2	PF06236 (MelC1); PF00264 (Tyrosinase)	PF06236 (MelC1)	359-370: Tyrosinase copper-binding
+A0A418AHC0	421	2	PF00264 (Tyrosinase)	—	212-229: Tyrosinase copper-binding; 384-395: Tyrosinase copper-binding
+A0A418AND4	390	2	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	181-198: Tyrosinase copper-binding; 353-364: Tyrosinase copper-binding
+A0A418AQE9	861	4	PF05241 (EBP); PF14295 (PAN_4); PF00264 (Tyrosinase)	PF05241 (EBP); PF14295 (PAN_4)	703-841: EXPERA
+A0A418C2V2	0	5	—	—	—
+A0A418CC15	0	2	—	—	—
+A0A418E6Z8	0	2	—	—	—
+A0A418FGP4	0	2	—	—	—
+A0A419QAV9	476	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0A420MKG6	0	1	—	—	—
+A0A420N1W1	0	1	—	—	—
+A0A420NVL3	0	2	—	—	—
+A0A420PID6	0	1	—	—	—
+A0A420QHZ5	0	1	—	—	—
+A0A420R194	0	3	—	—	—
+A0A420SE78	0	1	—	—	—
+A0A420TRM3	0	1	—	—	—
+A0A423FGB7	0	3	—	—	—
+A0A425CLB8	0	2	—	—	—
+A0A425DJS3	442	2	PF00264 (Tyrosinase)	—	23-40: Tyrosinase copper-binding; 195-206: Tyrosinase copper-binding
+A0A437AMZ0	318	2	PF00264 (Tyrosinase)	—	67-84: Tyrosinase copper-binding; 197-208: Tyrosinase copper-binding
+A0A438NAJ9	0	1	—	—	—
+A0A438NAZ0	0	1	—	—	—
+A0A439CYQ7	366	1	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0A443HXX0	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A444RPW9	0	2	—	—	—
+A0A444S1W9	0	1	—	—	—
+A0A484G057	880	2	PF00441 (Acyl-CoA_dh_1); PF02771 (Acyl-CoA_dh_N); PF00264 (Tyrosinase)	PF00441 (Acyl-CoA_dh_1); PF02771 (Acyl-CoA_dh_N)	197-214: Tyrosinase copper-binding
+A0A485K5I4	502	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 261-272: Tyrosinase copper-binding
+A0A485K9M7	573	3	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	157-174: Tyrosinase copper-binding; 330-341: Tyrosinase copper-binding
+A0A485KAJ9	682	2	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	268-285: Tyrosinase copper-binding; 440-451: Tyrosinase copper-binding
+A0A485KB07	650	3	PF00264 (Tyrosinase)	—	244-261: Tyrosinase copper-binding; 415-426: Tyrosinase copper-binding
+A0A485KBW3	638	3	PF00264 (Tyrosinase)	—	129-147: Tyrosinase copper-binding
+A0A485KGF6	641	4	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	333-350: Tyrosinase copper-binding; 505-516: Tyrosinase copper-binding
+A0A485KPS2	613	2	PF00264 (Tyrosinase)	—	135-297: Tyrosinase copper-binding
+A0A485L799	448	3	PF00264 (Tyrosinase)	—	39-56: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A485L7D7	440	3	PF00264 (Tyrosinase)	—	23-40: Tyrosinase copper-binding; 192-203: Tyrosinase copper-binding
+A0A485L8F1	865	6	PF00024 (PAN_1); PF14295 (PAN_4); PF00264 (Tyrosinase)	PF00024 (PAN_1); PF14295 (PAN_4)	23-95: Apple; 321-385: Apple
+A0A485LKF7	776	5	PF00024 (PAN_1); PF14295 (PAN_4); PF00264 (Tyrosinase)	PF00024 (PAN_1); PF14295 (PAN_4)	101-173: Apple
+A0A485LNI1	657	3	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	250-267: Tyrosinase copper-binding; 422-433: Tyrosinase copper-binding
+A0A485LSG3	501	2	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A4P7NV04	0	2	—	—	—
+A0A4P9Z6Q7	245	1	PF00264 (Tyrosinase)	—	86-103: Tyrosinase copper-binding; 227-238: Tyrosinase copper-binding
+A0A4P9ZSR0	224	2	PF00264 (Tyrosinase)	—	52-69: Tyrosinase copper-binding; 195-206: Tyrosinase copper-binding
+A0A4Q2VEP5	0	1	—	—	—
+A0A4Q2VQ33	0	2	—	—	—
+A0A4Q2WA02	0	1	—	—	—
+A0A4Q4M2L8	0	1	—	—	—
+A0A4Q4TQ47	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A4Q9PR44	368	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding
+A0A4R8PT74	439	1	PF00264 (Tyrosinase)	—	164-181: Tyrosinase copper-binding
+A0A4R8REE8	368	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0A4S2LAY4	428	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0A4S2LBN1	476	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0A4S4M1Y3	797	4	PF08231 (SYF2); PF00264 (Tyrosinase)	PF08231 (SYF2)	530-547: Tyrosinase copper-binding
+A0A4S4MA69	955	3	PF13679 (Methyltransf_32); PF00264 (Tyrosinase)	PF13679 (Methyltransf_32)	100-117: Tyrosinase copper-binding
+A0A4S8LAP1	361	2	PF00264 (Tyrosinase)	—	94-111: Tyrosinase copper-binding
+A0A4T0VD25	0	2	—	—	—
+A0A4U0VS63	330	1	PF00264 (Tyrosinase)	—	143-160: Tyrosinase copper-binding; 302-313: Tyrosinase copper-binding
+A0A4U0XT20	375	1	PF00264 (Tyrosinase)	—	143-160: Tyrosinase copper-binding; 302-313: Tyrosinase copper-binding
+A0A4U5PGP8	498	2	PF00264 (Tyrosinase)	—	351-362: Tyrosinase copper-binding
+A0A4U9FEL1	0	1	—	—	—
+A0A4V1IUQ4	215	2	PF00264 (Tyrosinase)	—	30-213: Tyrosinase copper-binding
+A0A4V1IX23	257	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 239-250: Tyrosinase copper-binding
+A0A4V1X6P4	616	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	123-140: Tyrosinase copper-binding
+A0A4V2K1S3	0	1	—	—	—
+A0A4V2K7N5	367	2	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding
+A0A4V6QED0	641	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 307-318: Tyrosinase copper-binding
+A0A4Y8D0V3	342	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 270-281: Tyrosinase copper-binding
+A0A4Y9ZE70	471	2	PF00264 (Tyrosinase)	—	188-205: Tyrosinase copper-binding
+A0A4Z0AQA6	597	3	PF00264 (Tyrosinase)	—	153-378: Tyrosinase copper-binding
+A0A4Z0YK01	355	1	PF00264 (Tyrosinase)	—	280-291: Tyrosinase copper-binding
+A0A4Z0ZBZ0	493	2	PF00264 (Tyrosinase)	—	55-73: Tyrosinase copper-binding; 292-303: Tyrosinase copper-binding
+A0A4Z1E519	299	1	PF00264 (Tyrosinase)	—	209-220: Tyrosinase copper-binding
+A0A4Z1FR91	362	1	PF00264 (Tyrosinase)	—	133-150: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0A4Z1G6H5	255	1	PF00264 (Tyrosinase)	—	168-179: Tyrosinase copper-binding
+A0A4Z1HN92	601	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	137-154: Tyrosinase copper-binding; 339-350: Tyrosinase copper-binding
+A0A4Z1NUI9	399	1	PF00264 (Tyrosinase)	—	153-170: Tyrosinase copper-binding; 321-332: Tyrosinase copper-binding
+A0A4Z1P5A9	357	1	PF00264 (Tyrosinase)	—	273-284: Tyrosinase copper-binding
+A0A507EFD5	566	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 260-271: Tyrosinase copper-binding
+A0A507EU45	607	3	PF00264 (Tyrosinase)	—	315-326: Tyrosinase copper-binding
+A0A507FGD0	412	2	PF00264 (Tyrosinase)	—	69-86: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A517KXT5	359	1	PF00264 (Tyrosinase)	—	274-285: Tyrosinase copper-binding
+A0A517LRF7	608	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	109-126: Tyrosinase copper-binding; 310-321: Tyrosinase copper-binding
+A0A542UIP7	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A544XUX3	0	1	—	—	—
+A0A550CYA8	368	2	PF00264 (Tyrosinase)	—	281-292: Tyrosinase copper-binding
+A0A559KLZ0	0	2	—	—	—
+A0A559KX00	0	1	—	—	—
+A0A559L672	0	2	—	—	—
+A0A5B0M872	320	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A5B0PDE5	320	1	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0A5B2UX14	605	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0A5B2XQW2	275	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 212-223: Tyrosinase copper-binding
+A0A5B6YVS2	0	2	—	—	—
+A0A5C2RQU6	363	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A5C3FFP2	410	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A5C3N8U3	379	2	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0A5C3N9J8	385	2	PF00264 (Tyrosinase)	—	299-310: Tyrosinase copper-binding
+A0A5C3PS01	363	2	PF00264 (Tyrosinase)	—	82-296: Tyrosinase copper-binding
+A0A5C3Q880	360	1	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0A5C3QLZ5	378	2	PF00264 (Tyrosinase)	—	292-303: Tyrosinase copper-binding
+A0A5C3QRI1	375	2	PF00264 (Tyrosinase)	—	101-314: Tyrosinase copper-binding
+A0A5C3QS67	366	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0A5C3R0A6	373	2	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0A5C6SHS5	0	3	—	—	—
+A0A5C6SY53	0	2	—	—	—
+A0A5J6J652	284	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A5N5DHS7	684	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	88-105: Tyrosinase copper-binding; 324-335: Tyrosinase copper-binding
+A0A5N5IZL2	461	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	202-213: Tyrosinase copper-binding
+A0A5N5Q961	350	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A5N5QCV3	350	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A5N5QCX3	373	2	PF00264 (Tyrosinase)	—	88-310: Tyrosinase copper-binding
+A0A5N5QD75	355	1	PF00264 (Tyrosinase)	—	85-288: Tyrosinase copper-binding
+A0A5N5QF46	355	2	PF00264 (Tyrosinase)	—	94-304: Tyrosinase copper-binding
+A0A5N5QF97	350	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A5N5QFD1	349	1	PF00264 (Tyrosinase)	—	81-285: Tyrosinase copper-binding
+A0A5N5QIM4	350	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A5N5QMV8	356	1	PF00264 (Tyrosinase)	—	86-293: Tyrosinase copper-binding
+A0A5N5QMX1	354	1	PF00264 (Tyrosinase)	—	85-290: Tyrosinase copper-binding
+A0A5N5QN45	354	1	PF00264 (Tyrosinase)	—	88-310: Tyrosinase copper-binding
+A0A5N5QN80	350	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A5N5QSX1	361	2	PF00264 (Tyrosinase)	—	94-111: Tyrosinase copper-binding; 262-273: Tyrosinase copper-binding
+A0A5N5X5Y0	391	1	PF00264 (Tyrosinase)	—	314-325: Tyrosinase copper-binding
+A0A5N5XA86	689	3	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 414-425: Tyrosinase copper-binding
+A0A5N6BWN4	288	1	PF00264 (Tyrosinase)	—	73-240: Tyrosinase copper-binding
+A0A5N6D8B2	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A5N6DQ39	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N6EDE4	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A5N6FCL6	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N6HBU3	0	1	—	—	—
+A0A5N6HEF6	0	1	—	—	—
+A0A5N6JAD3	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A5N6JER4	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N6T9V3	306	1	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0A5N6U4R0	391	1	PF00264 (Tyrosinase)	—	314-325: Tyrosinase copper-binding
+A0A5N6VBI8	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N6VBP0	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A5N6W889	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N6WAL7	380	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 303-314: Tyrosinase copper-binding
+A0A5N6X0X6	371	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A5N6XI36	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A5N6XWQ8	0	1	—	—	—
+A0A5N6YJ96	0	1	—	—	—
+A0A5N6ZG89	637	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	95-112: Tyrosinase copper-binding; 397-408: Tyrosinase copper-binding
+A0A5N7ABB3	618	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 347-358: Tyrosinase copper-binding
+A0A5N7AN97	371	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A5N7APG9	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N7AYA5	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A5N7B877	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A5N7CI82	0	2	—	—	—
+A0A5N7CK52	0	1	—	—	—
+A0A5N7DF31	331	1	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 249-260: Tyrosinase copper-binding
+A0A5N7DKE9	369	1	PF00264 (Tyrosinase)	—	131-148: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0A5P2DVP6	0	2	—	—	—
+A0A5Q4BX03	680	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0A5Q4BZL7	480	1	PF00264 (Tyrosinase)	—	216-233: Tyrosinase copper-binding
+A0A643BP73	663	2	PF00264 (Tyrosinase)	—	362-379: Tyrosinase copper-binding; 523-534: Tyrosinase copper-binding
+A0A654M0W1	288	1	PF00264 (Tyrosinase)	—	56-242: Tyrosinase copper-binding
+A0A6A3EYQ9	0	2	—	—	—
+A0A6A3FBU7	500	2	PF00264 (Tyrosinase)	—	80-272: Tyrosinase copper-binding
+A0A6A3L3S8	0	2	—	—	—
+A0A6A3MUA3	494	2	PF00264 (Tyrosinase)	—	211-222: Tyrosinase copper-binding
+A0A6A3NDJ9	0	2	—	—	—
+A0A6A4E140	533	2	PF00264 (Tyrosinase)	—	250-261: Tyrosinase copper-binding
+A0A6A4G489	500	2	PF00264 (Tyrosinase)	—	80-272: Tyrosinase copper-binding
+A0A6A4Z4G4	0	2	—	—	—
+A0A6A4ZAE7	0	2	—	—	—
+A0A6A4ZEX0	0	4	—	—	—
+A0A6A4ZGA7	0	2	—	—	—
+A0A6A4ZWX8	0	2	—	—	—
+A0A6A4ZX03	0	1	—	—	—
+A0A6A5ADG0	0	3	—	—	—
+A0A6A5AMC3	0	3	—	—	—
+A0A6A5S9R3	610	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	122-139: Tyrosinase copper-binding; 315-326: Tyrosinase copper-binding
+A0A6A5TLY8	347	1	PF00264 (Tyrosinase)	—	275-286: Tyrosinase copper-binding
+A0A6A5U9F7	339	1	PF00264 (Tyrosinase)	—	256-267: Tyrosinase copper-binding
+A0A6A5UEY6	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A6A5UP97	406	1	PF00264 (Tyrosinase)	—	323-334: Tyrosinase copper-binding
+A0A6A5WAJ2	638	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0A6A5XX45	397	1	PF00264 (Tyrosinase)	—	314-325: Tyrosinase copper-binding
+A0A6A5YDP4	604	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	88-331: Tyrosinase copper-binding; 447-567: Tyrosinase C-terminal
+A0A6A6C2M9	311	1	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0A6A6CBF1	317	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 244-255: Tyrosinase copper-binding
+A0A6A6CER1	372	1	PF00264 (Tyrosinase)	—	106-311: Tyrosinase copper-binding
+A0A6A6CMY4	303	1	PF00264 (Tyrosinase)	—	70-87: Tyrosinase copper-binding; 223-234: Tyrosinase copper-binding
+A0A6A6EVU5	683	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A6A6GBI3	329	2	PF00264 (Tyrosinase)	—	91-108: Tyrosinase copper-binding; 252-263: Tyrosinase copper-binding
+A0A6A6HHK4	355	1	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0A6A6IR15	607	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	120-137: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+A0A6A6JAY1	287	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 215-226: Tyrosinase copper-binding
+A0A6A6NPE1	570	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0A6A6RLB0	264	1	PF00264 (Tyrosinase)	—	233-244: Tyrosinase copper-binding
+A0A6A6VF46	320	1	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A6A6VU64	346	1	PF00264 (Tyrosinase)	—	126-143: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0A6A6Z4Q4	678	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A6A7AQI4	614	3	PF00264 (Tyrosinase)	—	181-198: Tyrosinase copper-binding; 363-374: Tyrosinase copper-binding
+A0A6B9QKL4	392	1	PF00264 (Tyrosinase)	—	238-249: Tyrosinase copper-binding
+A0A6G0LHA8	0	2	—	—	—
+A0A6G0S364	0	2	—	—	—
+A0A6G0X2P4	786	5	PF14295 (PAN_4); PF00264 (Tyrosinase)	PF14295 (PAN_4)	22-91: Apple; 93-165: Apple
+A0A6G0XE75	600	3	PF00264 (Tyrosinase)	—	181-198: Tyrosinase copper-binding; 352-363: Tyrosinase copper-binding
+A0A6G0XEC3	632	3	PF00024 (PAN_1); PF00264 (Tyrosinase)	PF00024 (PAN_1)	210-227: Tyrosinase copper-binding; 381-392: Tyrosinase copper-binding
+A0A6G0XPY3	457	2	PF00264 (Tyrosinase)	—	73-90: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0A6G0XR43	641	3	PF00264 (Tyrosinase)	—	133-151: Tyrosinase copper-binding
+A0A6G0XRD8	694	2	PF00264 (Tyrosinase)	—	185-203: Tyrosinase copper-binding
+A0A6G1GZN1	592	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	115-132: Tyrosinase copper-binding; 301-312: Tyrosinase copper-binding
+A0A6G1IEP5	262	1	PF00264 (Tyrosinase)	—	184-195: Tyrosinase copper-binding
+A0A6G2BAK0	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0A6H0Y3Z6	847	6	PF12108 (SF3a60_bindingd); PF11931 (SF3a60_Prp9_C); PF00264 (Tyrosinase); PF12171 (zf-C2H2_jaz)	PF12108 (SF3a60_bindingd); PF11931 (SF3a60_Prp9_C); PF12171 (zf-C2H2_jaz)	216-238: C2H2-type; 615-632: Tyrosinase copper-binding; 774-785: Tyrosinase copper-binding
+A0A6H9UQ49	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A6I6N6T5	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A6I8QAH5	452	2	PF00264 (Tyrosinase)	—	206-223: Tyrosinase copper-binding; 381-392: Tyrosinase copper-binding
+A0A6J3LW51	672	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	101-118: Tyrosinase copper-binding; 327-338: Tyrosinase copper-binding
+A0A6J3MCF2	322	1	PF00264 (Tyrosinase)	—	245-256: Tyrosinase copper-binding
+A0A6J4TRP8	0	1	—	—	—
+A0A6J8A749	464	2	PF00264 (Tyrosinase)	—	157-174: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0A6J8CCA4	905	3	PF00264 (Tyrosinase)	—	370-387: Tyrosinase copper-binding; 510-521: Tyrosinase copper-binding
+A0A6J8CIJ4	991	3	PF00264 (Tyrosinase)	—	113-124: Tyrosinase copper-binding; 654-665: Tyrosinase copper-binding
+A0A6J8CKE6	628	2	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0A6J8D799	794	2	PF00264 (Tyrosinase)	—	129-146: Tyrosinase copper-binding; 271-282: Tyrosinase copper-binding
+A0A6J8DAY9	730	2	PF00264 (Tyrosinase)	—	180-197: Tyrosinase copper-binding; 314-325: Tyrosinase copper-binding
+A0A6J8DL31	596	2	PF00264 (Tyrosinase)	—	300-311: Tyrosinase copper-binding
+A0A6J8E5E4	504	4	PF00264 (Tyrosinase)	—	146-163: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0A6L6WYS5	305	2	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A6M4PSG3	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A6M8NXE9	730	2	PF00264 (Tyrosinase)	—	303-314: Tyrosinase copper-binding
+A0A6P0UFZ0	469	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	209-220: Tyrosinase copper-binding
+A0A6P8AZF3	337	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 261-272: Tyrosinase copper-binding
+A0A6P8B4K3	325	1	PF00264 (Tyrosinase)	—	68-271: Tyrosinase copper-binding
+A0A6P8HAX5	407	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0A6P8HXM1	415	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0A6P8I080	582	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding
+A0A6P8I0S2	400	2	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding
+A0A6P8I583	469	2	PF01607 (CBM_14); PF00264 (Tyrosinase)	PF01607 (CBM_14)	342-400: Chitin-binding type-2; 411-469: Chitin-binding type-2
+A0A6P8IFD5	564	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	64-238: VWFA
+A0A6P8IFJ7	593	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	64-241: VWFA
+A0A6P8ITZ4	438	2	PF00264 (Tyrosinase)	—	188-206: Tyrosinase copper-binding
+A0A6P8IWU9	570	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	71-243: VWFA
+A0A6P8IXP5	335	2	PF00264 (Tyrosinase)	—	124-142: Tyrosinase copper-binding
+A0A6P8IXU5	444	2	PF00264 (Tyrosinase)	—	187-205: Tyrosinase copper-binding
+A0A6S7GH91	364	1	PF00264 (Tyrosinase)	—	—
+A0A6S7H2E1	556	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	—
+A0A6S7H6Z2	356	2	PF00264 (Tyrosinase)	—	—
+A0A6S7HJV0	345	2	PF00264 (Tyrosinase)	—	—
+A0A6S7IGK9	408	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	—
+A0A6S7IY75	413	2	PF00264 (Tyrosinase)	—	—
+A0A6S7JHU5	509	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	—
+A0A6U1NCL5	0	2	—	—	—
+A0A6V7TIR8	0	4	—	—	—
+A0A6V8R0R1	0	1	—	—	—
+A0A7C8MC86	368	1	PF00264 (Tyrosinase)	—	121-314: Tyrosinase copper-binding
+A0A7C8MWQ0	772	2	PF00264 (Tyrosinase)	—	695-706: Tyrosinase copper-binding
+A0A7D5M6X3	409	2	PF00264 (Tyrosinase)	—	205-216: Tyrosinase copper-binding
+A0A7D5Z0B1	513	2	PF00264 (Tyrosinase)	—	235-246: Tyrosinase copper-binding
+A0A7D9ED42	357	2	PF00264 (Tyrosinase)	—	—
+A0A7D9HKT2	572	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	—
+A0A7D9IRV5	329	2	PF00264 (Tyrosinase)	—	—
+A0A7D9IU48	322	2	PF00264 (Tyrosinase)	—	—
+A0A7D9IUI2	346	2	PF00264 (Tyrosinase)	—	—
+A0A7D9J4R1	398	1	PF00264 (Tyrosinase)	—	—
+A0A7D9J5S3	447	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	—
+A0A7H8R1G7	628	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	97-114: Tyrosinase copper-binding; 365-376: Tyrosinase copper-binding
+A0A7H8R8H9	344	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A7J0CCQ1	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0A7J6IXY4	390	1	PF00264 (Tyrosinase)	—	146-163: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+A0A7J6J5I0	332	1	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0A7J7EAG6	555	1	PF00264 (Tyrosinase)	—	219-236: Tyrosinase copper-binding; 415-426: Tyrosinase copper-binding
+A0A7K0C9D4	305	2	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A7K7RZM1	522	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding; 391-402: Tyrosinase copper-binding
+A0A7M5U0C1	645	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	43-179: VWFA
+A0A7M6DMJ9	700	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	64-233: VWFA
+A0A7M6DMK7	807	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	77-254: VWFA
+A0A7M6DQ32	593	2	PF00264 (Tyrosinase)	—	263-482: Tyrosinase copper-binding
+A0A7R7WZB7	334	1	PF00264 (Tyrosinase)	—	—
+A0A7R7ZNQ8	648	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+A0A7R8ARR0	360	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding; 279-290: Tyrosinase copper-binding
+A0A7R9PVW4	934	3	PF16414 (NPC1_N); PF00264 (Tyrosinase)	PF16414 (NPC1_N)	18-247: Niemann-Pick C1 N-terminal; 585-754: Tyrosinase copper-binding
+A0A7S0LHE4	0	4	—	—	—
+A0A7S2B6E8	0	2	—	—	—
+A0A7S8D0B4	0	1	—	—	—
+A0A7U2F463	625	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	122-139: Tyrosinase copper-binding
+A0A7U2MHQ4	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A7W9DMW4	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0A7W9UNQ5	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A7W9ZFQ6	537	2	PF00264 (Tyrosinase)	—	277-288: Tyrosinase copper-binding
+A0A7X0J7C0	0	3	—	—	—
+A0A7X1AU61	597	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0A7Y1MNK6	0	3	—	—	—
+A0A7Y8ELP5	0	3	—	—	—
+A0A7Y8FG76	0	3	—	—	—
+A0A7Y8G6M0	0	3	—	—	—
+A0A811KY04	529	2	PF00264 (Tyrosinase)	—	272-283: Tyrosinase copper-binding
+A0A812V5M0	761	4	PF00264 (Tyrosinase)	—	294-311: Tyrosinase copper-binding
+A0A831VP34	0	2	—	—	—
+A0A833WLV2	497	2	PF00264 (Tyrosinase)	—	75-267: Tyrosinase copper-binding
+A0A835Z854	553	2	PF00264 (Tyrosinase)	—	499-510: Tyrosinase copper-binding
+A0A8A1M824	0	2	—	—	—
+A0A8A1UX83	0	2	—	—	—
+A0A8B6CGM7	628	2	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0A8B6CH58	599	2	PF00264 (Tyrosinase)	—	264-275: Tyrosinase copper-binding
+A0A8B6DAE8	561	2	PF00264 (Tyrosinase)	—	110-285: Tyrosinase copper-binding
+A0A8B6EUU7	691	2	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0A8B6FJF9	648	3	PF00264 (Tyrosinase)	—	103-273: Tyrosinase copper-binding
+A0A8B6FWG6	765	2	PF00264 (Tyrosinase)	—	157-174: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A8B6G0L3	467	2	PF00264 (Tyrosinase)	—	299-310: Tyrosinase copper-binding
+A0A8B6G0N6	447	2	PF00264 (Tyrosinase)	—	279-290: Tyrosinase copper-binding
+A0A8B6GUD9	342	2	PF00264 (Tyrosinase)	—	35-52: Tyrosinase copper-binding; 173-184: Tyrosinase copper-binding
+A0A8B6GUE4	328	2	PF00264 (Tyrosinase)	—	21-38: Tyrosinase copper-binding; 159-170: Tyrosinase copper-binding
+A0A8B6GWX5	501	3	PF00264 (Tyrosinase)	—	143-160: Tyrosinase copper-binding; 284-295: Tyrosinase copper-binding
+A0A8B7BKB2	592	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	204-221: Tyrosinase copper-binding; 362-373: Tyrosinase copper-binding
+A0A8B8BBF7	703	3	PF00264 (Tyrosinase)	—	180-197: Tyrosinase copper-binding; 320-331: Tyrosinase copper-binding
+A0A8B8BDB7	689	3	PF00264 (Tyrosinase)	—	180-197: Tyrosinase copper-binding; 320-331: Tyrosinase copper-binding
+A0A8B8BGL0	773	3	PF00264 (Tyrosinase)	—	179-196: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0A8B8BJX3	705	2	PF00264 (Tyrosinase)	—	166-183: Tyrosinase copper-binding; 303-314: Tyrosinase copper-binding
+A0A8B8EBN7	829	2	PF00264 (Tyrosinase)	—	152-169: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0A8B8EDC2	785	3	PF00264 (Tyrosinase)	—	177-194: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0A8B8EEW4	827	3	PF00264 (Tyrosinase)	—	152-169: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0A8B8ER43	716	2	PF00264 (Tyrosinase)	—	149-166: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A8B8ERQ6	711	2	PF00264 (Tyrosinase)	—	170-187: Tyrosinase copper-binding; 306-317: Tyrosinase copper-binding
+A0A8B9A045	536	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	148-165: Tyrosinase copper-binding; 306-317: Tyrosinase copper-binding
+A0A8C4YB85	511	1	PF00264 (Tyrosinase)	—	214-231: Tyrosinase copper-binding; 371-382: Tyrosinase copper-binding
+A0A8C6UF35	518	1	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+A0A8E2DWK1	677	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	332-343: Tyrosinase copper-binding
+A0A8E2E040	657	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A8E2JYI7	660	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0A8G1QQX9	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A8G1QUY8	341	1	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0A8G1RJC8	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A8G1S217	339	1	PF00264 (Tyrosinase)	—	109-126: Tyrosinase copper-binding; 257-268: Tyrosinase copper-binding
+A0A8H2VQV0	359	1	PF00264 (Tyrosinase)	—	136-153: Tyrosinase copper-binding; 293-304: Tyrosinase copper-binding
+A0A8H2W4T0	0	1	—	—	—
+A0A8H2W809	0	1	—	—	—
+A0A8H2W928	0	1	—	—	—
+A0A8H2W9D2	0	1	—	—	—
+A0A8H2WDM7	0	1	—	—	—
+A0A8H2WET3	0	1	—	—	—
+A0A8H2WEW9	0	2	—	—	—
+A0A8H2WI32	0	2	—	—	—
+A0A8H2WM01	0	2	—	—	—
+A0A8H2WMA3	0	1	—	—	—
+A0A8H2WNW1	0	1	—	—	—
+A0A8H2WP90	0	2	—	—	—
+A0A8H2WQD8	0	1	—	—	—
+A0A8H2WRM0	0	1	—	—	—
+A0A8H2WV07	0	1	—	—	—
+A0A8H2WXU0	0	1	—	—	—
+A0A8H2WYZ7	0	1	—	—	—
+A0A8H2X7X2	0	2	—	—	—
+A0A8H2X7Z7	0	1	—	—	—
+A0A8H2X9N2	0	1	—	—	—
+A0A8H2XCL6	0	1	—	—	—
+A0A8H2XJG0	0	1	—	—	—
+A0A8H2XL28	0	2	—	—	—
+A0A8H2XQU0	0	2	—	—	—
+A0A8H2XU14	0	1	—	—	—
+A0A8H2XWF9	0	2	—	—	—
+A0A8H2XWZ9	0	2	—	—	—
+A0A8H2Y0I3	0	2	—	—	—
+A0A8H2Y1F4	0	1	—	—	—
+A0A8H2ZWM0	0	1	—	—	—
+A0A8H2ZYP1	0	2	—	—	—
+A0A8H3A0M5	0	3	—	—	—
+A0A8H3A114	0	1	—	—	—
+A0A8H3A6F2	0	1	—	—	—
+A0A8H3A915	0	1	—	—	—
+A0A8H3AA21	0	1	—	—	—
+A0A8H3AEG2	0	1	—	—	—
+A0A8H3AUD8	0	2	—	—	—
+A0A8H3AYG3	0	2	—	—	—
+A0A8H3AYS9	0	1	—	—	—
+A0A8H3AZT0	0	1	—	—	—
+A0A8H3B055	0	1	—	—	—
+A0A8H3B0Z6	0	1	—	—	—
+A0A8H3B5A0	0	2	—	—	—
+A0A8H3BAF1	0	1	—	—	—
+A0A8H3BDF6	0	1	—	—	—
+A0A8H3BH88	0	1	—	—	—
+A0A8H3BJU5	0	1	—	—	—
+A0A8H3BKM9	0	1	—	—	—
+A0A8H3BLR1	0	1	—	—	—
+A0A8H3BQP1	0	1	—	—	—
+A0A8H3BRT5	0	1	—	—	—
+A0A8H3BS36	0	1	—	—	—
+A0A8H3BVH4	0	2	—	—	—
+A0A8H3BWB0	0	3	—	—	—
+A0A8H3BYP2	0	2	—	—	—
+A0A8H3C0V7	0	1	—	—	—
+A0A8H3C2J4	0	1	—	—	—
+A0A8H3C3M9	0	1	—	—	—
+A0A8H3C4G7	0	1	—	—	—
+A0A8H3C4K7	0	1	—	—	—
+A0A8H3C7V0	0	2	—	—	—
+A0A8H3C861	0	1	—	—	—
+A0A8H3CAP5	0	1	—	—	—
+A0A8H3CM85	0	2	—	—	—
+A0A8H3CSH4	0	1	—	—	—
+A0A8H3CUU5	0	1	—	—	—
+A0A8H3CVH2	0	1	—	—	—
+A0A8H3D189	0	3	—	—	—
+A0A8H3D561	0	1	—	—	—
+A0A8H3DFX7	0	1	—	—	—
+A0A8H3DH36	0	1	—	—	—
+A0A8H3DH45	0	1	—	—	—
+A0A8H3DHK5	0	1	—	—	—
+A0A8H3DMX3	0	2	—	—	—
+A0A8H3DP18	0	2	—	—	—
+A0A8H3DQW7	0	2	—	—	—
+A0A8H3DT93	0	2	—	—	—
+A0A8H3DTU2	0	1	—	—	—
+A0A8H3DV55	0	2	—	—	—
+A0A8H3E170	0	2	—	—	—
+A0A8H3E826	0	2	—	—	—
+A0A8H3E969	0	1	—	—	—
+A0A8H3FYE1	379	2	PF00264 (Tyrosinase)	—	302-313: Tyrosinase copper-binding
+A0A8H3G6G5	336	1	PF00264 (Tyrosinase)	—	109-126: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0A8H3GCN2	0	1	—	—	—
+A0A8H3GDY3	0	1	—	—	—
+A0A8H3GGT0	0	1	—	—	—
+A0A8H3GHB1	0	2	—	—	—
+A0A8H3GIJ6	0	1	—	—	—
+A0A8H3GJP0	0	1	—	—	—
+A0A8H3GKD3	0	1	—	—	—
+A0A8H3GN92	0	1	—	—	—
+A0A8H3GPF4	0	2	—	—	—
+A0A8H3GPT3	0	1	—	—	—
+A0A8H3GTI8	0	1	—	—	—
+A0A8H3GTK5	0	1	—	—	—
+A0A8H3GYD3	0	1	—	—	—
+A0A8H3H1F0	0	1	—	—	—
+A0A8H3H232	0	1	—	—	—
+A0A8H3H3H3	0	1	—	—	—
+A0A8H3H4I9	0	1	—	—	—
+A0A8H3H5V5	0	1	—	—	—
+A0A8H3HF69	0	1	—	—	—
+A0A8H3HIA4	0	2	—	—	—
+A0A8H3HU11	0	1	—	—	—
+A0A8H3I0H6	0	1	—	—	—
+A0A8H3I335	378	1	PF00264 (Tyrosinase)	—	305-316: Tyrosinase copper-binding
+A0A8H3I3V1	0	1	—	—	—
+A0A8H3I5R2	0	1	—	—	—
+A0A8H3IAU0	361	1	PF00264 (Tyrosinase)	—	288-299: Tyrosinase copper-binding
+A0A8H3IDD5	362	1	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0A8H3UMI6	0	1	—	—	—
+A0A8H3VC67	433	1	PF00264 (Tyrosinase)	—	187-204: Tyrosinase copper-binding; 355-366: Tyrosinase copper-binding
+A0A8H3W2Z1	332	1	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0A8H3W909	356	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 277-288: Tyrosinase copper-binding
+A0A8H3WCH4	299	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0A8H3WRY4	610	3	PF00264 (Tyrosinase)	—	364-375: Tyrosinase copper-binding
+A0A8H3Z5Y7	358	1	PF00264 (Tyrosinase)	—	274-285: Tyrosinase copper-binding
+A0A8H3ZAJ8	0	1	—	—	—
+A0A8H4CL76	302	1	PF00264 (Tyrosinase)	—	227-238: Tyrosinase copper-binding
+A0A8H4CPR6	331	2	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding
+A0A8H4FFA4	328	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A8H4FHG1	356	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 277-288: Tyrosinase copper-binding
+A0A8H4JA75	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H4JHW9	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H4JP05	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A8H4JTZ8	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H4JY40	595	3	PF00264 (Tyrosinase)	—	350-361: Tyrosinase copper-binding
+A0A8H4KQ60	324	1	PF00264 (Tyrosinase)	—	68-269: Tyrosinase copper-binding
+A0A8H4NX87	667	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	342-353: Tyrosinase copper-binding
+A0A8H4RK75	366	1	PF00264 (Tyrosinase)	—	137-154: Tyrosinase copper-binding; 293-304: Tyrosinase copper-binding
+A0A8H4RXM0	363	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H4TAU8	324	1	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A8H4W2C0	549	2	PF00264 (Tyrosinase)	—	208-225: Tyrosinase copper-binding; 392-403: Tyrosinase copper-binding
+A0A8H4WWH2	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H4X204	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H4X8T0	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H4YMN9	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H4Z0P3	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H4ZL32	594	3	PF00264 (Tyrosinase)	—	349-360: Tyrosinase copper-binding
+A0A8H4ZZ08	0	3	—	—	—
+A0A8H5CW67	357	2	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0A8H5E7V3	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5EA09	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5ENW3	0	1	—	—	—
+A0A8H5IDF7	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5J780	717	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	97-114: Tyrosinase copper-binding; 338-349: Tyrosinase copper-binding
+A0A8H5J9Q5	675	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	345-356: Tyrosinase copper-binding
+A0A8H5JC63	594	3	PF00264 (Tyrosinase)	—	349-360: Tyrosinase copper-binding
+A0A8H5JGL4	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5JU90	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5JW57	806	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	359-370: Tyrosinase copper-binding
+A0A8H5KA52	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5KBA7	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5KIL6	327	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 249-260: Tyrosinase copper-binding
+A0A8H5KLN9	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5KU78	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5LGT6	594	3	PF00264 (Tyrosinase)	—	349-360: Tyrosinase copper-binding
+A0A8H5MQC7	334	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H5N717	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5ND32	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5NI46	323	2	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5P954	340	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 262-273: Tyrosinase copper-binding
+A0A8H5PRZ9	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5PV85	356	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5Q4Q0	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5Q7J5	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5R283	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5T9H9	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5TF94	324	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding
+A0A8H5UC91	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H5UEB6	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5UVB9	356	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5UZN1	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5V6E6	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H5W5B7	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5WLG2	326	1	PF00264 (Tyrosinase)	—	68-271: Tyrosinase copper-binding
+A0A8H5WWP5	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5WYS4	594	3	PF00264 (Tyrosinase)	—	349-360: Tyrosinase copper-binding
+A0A8H5XAB3	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H5XEV6	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5XW17	369	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+A0A8H5XYF6	324	2	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5YFK9	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H5YQ63	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A8H5YXQ5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H6DNI4	648	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	84-337: Tyrosinase copper-binding; 489-608: Tyrosinase C-terminal
+A0A8H6E1Q8	390	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A8H6E4D1	624	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	93-110: Tyrosinase copper-binding; 354-365: Tyrosinase copper-binding
+A0A8H6GAT6	0	1	—	—	—
+A0A8H6GLN4	0	1	—	—	—
+A0A8H6JK77	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H6K6D0	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H6L0G3	362	1	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0A8H6LBS9	0	3	—	—	—
+A0A8H6MX70	415	1	PF00264 (Tyrosinase)	—	140-157: Tyrosinase copper-binding
+A0A8H6N1I1	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8H6N7U5	403	1	PF00264 (Tyrosinase)	—	152-169: Tyrosinase copper-binding; 324-335: Tyrosinase copper-binding
+A0A8H6P259	347	1	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0A8H6Q2T8	0	1	—	—	—
+A0A8H6SNJ8	360	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0A8H6VUF2	403	1	PF00264 (Tyrosinase)	—	124-141: Tyrosinase copper-binding
+A0A8H6WIU6	388	1	PF00264 (Tyrosinase)	—	133-150: Tyrosinase copper-binding; 313-324: Tyrosinase copper-binding
+A0A8H6Y0Y5	443	1	PF00264 (Tyrosinase)	—	173-190: Tyrosinase copper-binding; 357-368: Tyrosinase copper-binding
+A0A8H6YGA9	367	1	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding; 281-292: Tyrosinase copper-binding
+A0A8H7AFZ9	657	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 312-323: Tyrosinase copper-binding
+A0A8H7BB98	400	1	PF00264 (Tyrosinase)	—	327-338: Tyrosinase copper-binding
+A0A8H7D4T6	376	1	PF00264 (Tyrosinase)	—	121-138: Tyrosinase copper-binding; 301-312: Tyrosinase copper-binding
+A0A8H7DEF9	394	1	PF00264 (Tyrosinase)	—	139-156: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0A8H7DID7	402	2	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding; 292-303: Tyrosinase copper-binding
+A0A8H7DQG2	344	1	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 269-280: Tyrosinase copper-binding
+A0A8H7E394	599	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A8H7HCV1	0	1	—	—	—
+A0A8H7HE37	0	1	—	—	—
+A0A8H7HEV2	0	1	—	—	—
+A0A8H7HP73	0	1	—	—	—
+A0A8H7HPD8	0	1	—	—	—
+A0A8H7HVL3	0	1	—	—	—
+A0A8H7HXA0	0	1	—	—	—
+A0A8H7HXY8	0	2	—	—	—
+A0A8H7I922	0	1	—	—	—
+A0A8H7IBD4	0	1	—	—	—
+A0A8H7IE62	0	1	—	—	—
+A0A8H7IKL1	0	1	—	—	—
+A0A8H7IRY9	0	2	—	—	—
+A0A8H7JCU1	500	2	PF00264 (Tyrosinase)	—	67-84: Tyrosinase copper-binding; 249-260: Tyrosinase copper-binding
+A0A8H7LGB7	0	1	—	—	—
+A0A8H7LH97	0	1	—	—	—
+A0A8H7LHS8	0	1	—	—	—
+A0A8H7LLQ8	0	1	—	—	—
+A0A8H7LYP2	0	1	—	—	—
+A0A8H7M6V8	0	1	—	—	—
+A0A8H7M7A9	0	1	—	—	—
+A0A8H7W0M8	319	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A8H7YES8	0	2	—	—	—
+A0A8H8BVI5	325	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A8H8NXP1	0	1	—	—	—
+A0A8H8P5E1	0	1	—	—	—
+A0A8H8P683	0	1	—	—	—
+A0A8H8P6Q4	0	2	—	—	—
+A0A8H8P906	0	3	—	—	—
+A0A8H8PBL8	0	1	—	—	—
+A0A8H8RL10	368	1	PF00264 (Tyrosinase)	—	137-154: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A8H8SYD2	0	1	—	—	—
+A0A8H8SZ86	0	2	—	—	—
+A0A8H8T2N9	0	1	—	—	—
+A0A8H8U2D2	369	1	PF00264 (Tyrosinase)	—	138-155: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0A8H9LF69	288	1	PF00264 (Tyrosinase)	—	72-240: Tyrosinase copper-binding
+A0A8I2Z321	0	1	—	—	—
+A0A8I3AJ06	0	1	—	—	—
+A0A8J2IFZ7	0	1	—	—	—
+A0A8J2IPY8	0	3	—	—	—
+A0A8J2J3A4	0	1	—	—	—
+A0A8J2X377	855	2	PF13517 (FG-GAP_3); PF00264 (Tyrosinase)	PF13517 (FG-GAP_3)	79-337: Tyrosinase copper-binding
+A0A8J4S7I2	0	2	—	—	—
+A0A8J4W827	0	2	—	—	—
+A0A8J5IZX1	496	2	PF00264 (Tyrosinase)	—	75-267: Tyrosinase copper-binding
+A0A8J5M7S4	553	2	PF00264 (Tyrosinase)	—	254-265: Tyrosinase copper-binding
+A0A8J5NKZ0	0	3	—	—	—
+A0A8J5NLS7	0	1	—	—	—
+A0A8J5NND1	0	1	—	—	—
+A0A8J5PN01	0	1	—	—	—
+A0A8J5PNS1	0	3	—	—	—
+A0A8J5SQH5	582	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	350-361: Tyrosinase copper-binding
+A0A8J6AKY6	529	2	PF00264 (Tyrosinase)	—	215-232: Tyrosinase copper-binding; 390-401: Tyrosinase copper-binding
+A0A8J9R8H5	389	1	PF00264 (Tyrosinase)	—	—
+A0A8K0J8J2	386	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding; 310-321: Tyrosinase copper-binding
+A0A8K0QU28	599	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	122-139: Tyrosinase copper-binding
+A0A8K0R3D6	356	1	PF00264 (Tyrosinase)	—	121-138: Tyrosinase copper-binding
+A0A8K0RU59	332	1	PF00264 (Tyrosinase)	—	75-277: Tyrosinase copper-binding
+A0A8K0S985	332	1	PF00264 (Tyrosinase)	—	75-276: Tyrosinase copper-binding
+A0A8K0SP35	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A8K0T8Y5	387	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0A8K0TQB4	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A8K0WNM9	325	1	PF00264 (Tyrosinase)	—	240-251: Tyrosinase copper-binding
+A0A8S3PVY6	498	3	PF00264 (Tyrosinase)	—	158-175: Tyrosinase copper-binding; 281-292: Tyrosinase copper-binding
+A0A8S3R655	597	2	PF00264 (Tyrosinase)	—	300-311: Tyrosinase copper-binding
+A0A8S3RKR7	561	2	PF00264 (Tyrosinase)	—	110-285: Tyrosinase copper-binding
+A0A8S3SDN1	461	3	PF00264 (Tyrosinase)	—	157-174: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0A8S3TBT4	597	2	PF00264 (Tyrosinase)	—	300-311: Tyrosinase copper-binding
+A0A8S3UET5	294	2	PF00264 (Tyrosinase)	—	127-144: Tyrosinase copper-binding; 268-279: Tyrosinase copper-binding
+A0A8S3ZE77	392	1	PF00264 (Tyrosinase)	—	238-249: Tyrosinase copper-binding
+A0A8S9ZKX1	440	2	PF00264 (Tyrosinase)	—	152-169: Tyrosinase copper-binding; 305-316: Tyrosinase copper-binding
+A0A8S9ZXM6	521	2	PF00264 (Tyrosinase)	—	196-213: Tyrosinase copper-binding; 355-366: Tyrosinase copper-binding
+A0A8T1W4C6	575	2	PF00264 (Tyrosinase)	—	256-267: Tyrosinase copper-binding
+A0A8T1W6M6	542	2	PF00264 (Tyrosinase)	—	122-314: Tyrosinase copper-binding
+A0A8T1WU85	501	2	PF00264 (Tyrosinase)	—	82-274: Tyrosinase copper-binding
+A0A8T8WMD9	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0A8T8X2Y5	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0A8T9AZC4	322	1	PF00264 (Tyrosinase)	—	119-136: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A8T9CAL5	358	2	PF00264 (Tyrosinase)	—	73-292: Tyrosinase copper-binding
+A0A8W8JFH2	601	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A8W8JWC9	459	2	PF00264 (Tyrosinase)	—	134-151: Tyrosinase copper-binding; 275-286: Tyrosinase copper-binding
+A0A8W8JY17	410	2	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 226-237: Tyrosinase copper-binding
+A0A8W8JY26	725	2	PF00264 (Tyrosinase)	—	154-171: Tyrosinase copper-binding; 299-310: Tyrosinase copper-binding
+A0A8W8K452	720	2	PF00264 (Tyrosinase)	—	149-166: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A8W8K7P4	873	2	PF00264 (Tyrosinase)	—	199-216: Tyrosinase copper-binding; 343-354: Tyrosinase copper-binding
+A0A8W8LVB7	765	2	PF00264 (Tyrosinase)	—	179-196: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0A913WQ01	659	1	PF00264 (Tyrosinase)	—	241-258: Tyrosinase copper-binding
+A0A913WWA6	564	3	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	251-436: Tyrosinase copper-binding
+A0A913X4H6	570	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	61-236: VWFA
+A0A913XDR8	340	1	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding
+A0A913XUE8	481	2	PF00264 (Tyrosinase)	—	192-210: Tyrosinase copper-binding
+A0A913XUF7	398	2	PF00264 (Tyrosinase)	—	186-204: Tyrosinase copper-binding
+A0A913Y9Y4	567	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	56-233: VWFA
+A0A913YC92	568	4	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	268-285: Tyrosinase copper-binding
+A0A913YCG3	926	8	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	603-793: Tyrosinase copper-binding
+A0A913YCI0	647	1	PF00264 (Tyrosinase)	—	142-159: Tyrosinase copper-binding
+A0A913YDR0	688	6	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	388-405: Tyrosinase copper-binding
+A0A913YE43	326	2	PF00264 (Tyrosinase)	—	43-60: Tyrosinase copper-binding
+A0A913YST3	351	2	PF00264 (Tyrosinase)	—	139-157: Tyrosinase copper-binding
+A0A914GX34	664	4	PF00264 (Tyrosinase)	—	366-383: Tyrosinase copper-binding; 525-536: Tyrosinase copper-binding
+A0A914I0C7	561	2	PF00264 (Tyrosinase)	—	311-328: Tyrosinase copper-binding; 470-481: Tyrosinase copper-binding
+A0A914KGN4	656	4	PF00264 (Tyrosinase)	—	326-343: Tyrosinase copper-binding; 485-496: Tyrosinase copper-binding
+A0A914X740	437	2	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+A0A915KH89	366	3	PF00264 (Tyrosinase)	—	179-362: Tyrosinase copper-binding
+A0A915KKL6	973	5	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	831-864: ShKT; 875-909: ShKT; 929-963: ShKT
+A0A915PE14	419	2	PF00264 (Tyrosinase)	—	75-92: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A918F473	306	2	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A918GY00	285	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A918I4N0	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A918K8V8	424	2	PF00264 (Tyrosinase)	—	190-201: Tyrosinase copper-binding
+A0A918Y127	274	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A918YDN7	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A919B0T2	274	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 210-221: Tyrosinase copper-binding
+A0A919DUL7	275	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A919FJI3	318	2	PF00264 (Tyrosinase)	—	250-261: Tyrosinase copper-binding
+A0A926QP60	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A927QKQ5	0	2	—	—	—
+A0A931G5C6	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0A934KPH0	449	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	196-207: Tyrosinase copper-binding
+A0A934W1F1	599	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0A937FSZ6	509	3	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A964TAH5	465	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	210-221: Tyrosinase copper-binding
+A0A976IE71	495	2	PF00264 (Tyrosinase)	—	74-266: Tyrosinase copper-binding
+A0A9D4GXD0	549	2	PF00264 (Tyrosinase)	—	139-156: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0A9D4H0G3	524	2	PF00264 (Tyrosinase)	—	141-158: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0A9D4ICM2	892	3	PF00264 (Tyrosinase)	—	147-164: Tyrosinase copper-binding; 288-299: Tyrosinase copper-binding
+A0A9K3PD30	494	2	PF00264 (Tyrosinase)	—	220-231: Tyrosinase copper-binding
+A0A9K3Q9J1	493	2	PF00264 (Tyrosinase)	—	219-230: Tyrosinase copper-binding
+A0A9N8NBI7	0	1	—	—	—
+A0A9N8WZP9	0	4	—	—	—
+A0A9N9KL52	388	1	PF00264 (Tyrosinase)	—	159-176: Tyrosinase copper-binding; 315-326: Tyrosinase copper-binding
+A0A9N9KSE5	375	1	PF00264 (Tyrosinase)	—	117-317: Tyrosinase copper-binding
+A0A9N9KVW9	315	1	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0A9N9UHQ8	335	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9N9VIP6	337	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P0ERG8	335	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P1C3Z2	671	4	PF00264 (Tyrosinase)	—	319-336: Tyrosinase copper-binding
+A0A9P1CS61	542	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0A9P1G1G0	587	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0A9P1G3G3	578	3	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0A9P1H0N5	377	1	PF00264 (Tyrosinase)	—	302-313: Tyrosinase copper-binding
+A0A9P1M7K0	577	2	PF00264 (Tyrosinase)	—	473-484: Tyrosinase copper-binding
+A0A9P3PVH5	310	1	PF00264 (Tyrosinase)	—	230-241: Tyrosinase copper-binding
+A0A9P4I595	313	1	PF00264 (Tyrosinase)	—	240-251: Tyrosinase copper-binding
+A0A9P4JTW6	308	1	PF00264 (Tyrosinase)	—	79-96: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0A9P4PM39	404	1	PF00264 (Tyrosinase)	—	321-332: Tyrosinase copper-binding
+A0A9P4QMU1	356	1	PF00264 (Tyrosinase)	—	126-143: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0A9P4SB82	818	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	378-389: Tyrosinase copper-binding
+A0A9P4SDQ3	592	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	141-158: Tyrosinase copper-binding; 343-354: Tyrosinase copper-binding
+A0A9P4TAB7	316	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0A9P4V8T4	700	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	93-110: Tyrosinase copper-binding; 331-342: Tyrosinase copper-binding
+A0A9P5AJD2	835	4	PF01593 (Amino_oxidase); PF00264 (Tyrosinase)	PF01593 (Amino_oxidase)	18-311: Amine oxidase; 579-779: Tyrosinase copper-binding
+A0A9P5AMW5	607	3	PF00264 (Tyrosinase)	—	362-373: Tyrosinase copper-binding
+A0A9P5B9W0	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P5DT73	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P5F1P8	332	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0A9P5GFI9	305	1	PF00264 (Tyrosinase)	—	68-85: Tyrosinase copper-binding; 227-238: Tyrosinase copper-binding
+A0A9P5IJI5	362	1	PF00264 (Tyrosinase)	—	133-150: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0A9P5JXT8	364	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0A9P5JY23	366	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0A9P5JYN0	363	2	PF00264 (Tyrosinase)	—	277-288: Tyrosinase copper-binding
+A0A9P5JYN9	347	1	PF00264 (Tyrosinase)	—	261-272: Tyrosinase copper-binding
+A0A9P5JYU8	363	1	PF00264 (Tyrosinase)	—	277-288: Tyrosinase copper-binding
+A0A9P5JZA9	366	1	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0A9P5JZI2	364	1	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0A9P5K8I6	299	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0A9P5K8U6	328	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A9P5XZM4	593	3	PF00264 (Tyrosinase)	—	167-184: Tyrosinase copper-binding; 352-363: Tyrosinase copper-binding
+A0A9P5ZHD6	295	1	PF00264 (Tyrosinase)	—	67-279: Tyrosinase copper-binding
+A0A9P6ADS6	362	2	PF00264 (Tyrosinase)	—	282-293: Tyrosinase copper-binding
+A0A9P6AJI0	360	2	PF00264 (Tyrosinase)	—	280-291: Tyrosinase copper-binding
+A0A9P6DDV4	342	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding; 267-278: Tyrosinase copper-binding
+A0A9P6G6A9	581	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	326-337: Tyrosinase copper-binding
+A0A9P6GNG8	404	1	PF00264 (Tyrosinase)	—	321-332: Tyrosinase copper-binding
+A0A9P6H427	364	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0A9P6H4S6	360	1	PF00264 (Tyrosinase)	—	88-293: Tyrosinase copper-binding
+A0A9P6H6N4	370	2	PF00264 (Tyrosinase)	—	285-296: Tyrosinase copper-binding
+A0A9P6H6P2	371	2	PF00264 (Tyrosinase)	—	286-297: Tyrosinase copper-binding
+A0A9P6HAV3	370	2	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 284-295: Tyrosinase copper-binding
+A0A9P6HE18	366	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 279-290: Tyrosinase copper-binding
+A0A9P6HEG3	365	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0A9P6HES9	361	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 275-286: Tyrosinase copper-binding
+A0A9P6HFP7	368	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0A9P6HYB5	366	2	PF00264 (Tyrosinase)	—	91-108: Tyrosinase copper-binding
+A0A9P6HYU3	287	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding
+A0A9P6L1G9	367	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0A9P6LG06	311	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 231-242: Tyrosinase copper-binding
+A0A9P6LGC9	327	2	PF00264 (Tyrosinase)	—	250-261: Tyrosinase copper-binding
+A0A9P6NP50	317	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 240-251: Tyrosinase copper-binding
+A0A9P6NUP1	317	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 240-251: Tyrosinase copper-binding
+A0A9P7HU99	294	2	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding; 215-226: Tyrosinase copper-binding
+A0A9P7KJA4	327	1	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding; 249-260: Tyrosinase copper-binding
+A0A9P7KVD4	332	1	PF00264 (Tyrosinase)	—	75-277: Tyrosinase copper-binding
+A0A9P7NE30	389	1	PF00264 (Tyrosinase)	—	117-134: Tyrosinase copper-binding; 313-324: Tyrosinase copper-binding
+A0A9P7R386	339	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0A9P7R8M5	495	4	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding; 297-308: Tyrosinase copper-binding
+A0A9P7R9D2	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0A9P7S7P4	318	1	PF00264 (Tyrosinase)	—	65-82: Tyrosinase copper-binding; 243-254: Tyrosinase copper-binding
+A0A9P7W2Q5	387	2	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding; 299-310: Tyrosinase copper-binding
+A0A9P7YCU3	324	1	PF00264 (Tyrosinase)	—	253-264: Tyrosinase copper-binding
+A0A9P7YDW7	391	2	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0A9P8AZ72	376	2	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0A9P8CPW1	342	2	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0A9P8D5I1	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P8D8F5	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A9P8DKY9	294	2	PF00264 (Tyrosinase)	—	215-226: Tyrosinase copper-binding
+A0A9P8SUG2	0	2	—	—	—
+A0A9P8UDW5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P8UG69	376	1	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0A9P8UIC0	352	1	PF00264 (Tyrosinase)	—	266-277: Tyrosinase copper-binding
+A0A9P8XSB3	331	2	PF00264 (Tyrosinase)	—	69-274: Tyrosinase copper-binding
+A0A9P8XWL6	282	1	PF00264 (Tyrosinase)	—	205-216: Tyrosinase copper-binding
+A0A9P8YAM6	342	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P8YGS0	361	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0A9P8YJY5	384	1	PF00264 (Tyrosinase)	—	117-134: Tyrosinase copper-binding
+A0A9P8YM28	342	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0A9P8ZYD0	891	4	PF00264 (Tyrosinase)	—	640-651: Tyrosinase copper-binding
+A0A9P9AFP1	297	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 222-233: Tyrosinase copper-binding
+A0A9P9AG59	281	1	PF00264 (Tyrosinase)	—	207-218: Tyrosinase copper-binding
+A0A9P9AGJ3	341	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P9APM6	604	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	70-87: Tyrosinase copper-binding; 325-336: Tyrosinase copper-binding
+A0A9P9BVC7	368	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0A9P9D313	301	1	PF00264 (Tyrosinase)	—	224-235: Tyrosinase copper-binding
+A0A9P9DY84	301	1	PF00264 (Tyrosinase)	—	224-235: Tyrosinase copper-binding
+A0A9P9E097	715	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0A9P9E4D0	321	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0A9P9EVV4	301	1	PF00264 (Tyrosinase)	—	224-235: Tyrosinase copper-binding
+A0A9P9HAD7	728	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 343-354: Tyrosinase copper-binding
+A0A9P9HJ81	618	3	PF00264 (Tyrosinase)	—	371-382: Tyrosinase copper-binding
+A0A9P9IDE3	301	1	PF00264 (Tyrosinase)	—	224-235: Tyrosinase copper-binding
+A0A9P9IXR3	615	3	PF00264 (Tyrosinase)	—	363-374: Tyrosinase copper-binding
+A0A9P9J4T8	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P9J7R2	327	1	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0A9P9JVC3	596	3	PF00264 (Tyrosinase)	—	350-361: Tyrosinase copper-binding
+A0A9P9K123	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9P9KEG5	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+A0A9P9KNI3	294	2	PF00264 (Tyrosinase)	—	215-226: Tyrosinase copper-binding
+A0A9P9WAQ4	329	1	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding; 252-263: Tyrosinase copper-binding
+A0A9P9WLG7	321	1	PF00264 (Tyrosinase)	—	78-95: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0A9P9XQR7	721	4	PF06985 (HET); PF00264 (Tyrosinase)	PF06985 (HET)	82-99: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0A9P9XU62	342	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0A9Q0ANI9	342	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9Q0B6Y1	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0A9Q0BAF8	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9Q3E4W3	329	1	PF00264 (Tyrosinase)	—	86-271: Tyrosinase copper-binding
+A0A9Q8LKP3	372	1	PF00264 (Tyrosinase)	—	140-157: Tyrosinase copper-binding; 299-310: Tyrosinase copper-binding
+A0A9Q8T0W7	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9Q8WCM4	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0A9Q9AK53	634	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	291-302: Tyrosinase copper-binding
+A0A9Q9AVV7	267	1	PF00264 (Tyrosinase)	—	30-47: Tyrosinase copper-binding; 189-200: Tyrosinase copper-binding
+A0A9U8DXM5	636	2	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0A9U8DXQ3	635	2	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0A9U8DY29	644	2	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0A9W3AZ70	396	2	PF00264 (Tyrosinase)	—	239-250: Tyrosinase copper-binding
+A0A9W3BCD9	633	2	PF00264 (Tyrosinase)	—	148-165: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0A9W3BCI9	765	3	PF00264 (Tyrosinase)	—	155-172: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0A9W3BCN2	647	2	PF00264 (Tyrosinase)	—	158-175: Tyrosinase copper-binding; 300-311: Tyrosinase copper-binding
+A0A9W3BCU0	766	3	PF00264 (Tyrosinase)	—	155-172: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0A9W3BCU2	628	2	PF00264 (Tyrosinase)	—	149-166: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0A9W3BCU8	648	2	PF00264 (Tyrosinase)	—	135-312: Tyrosinase copper-binding
+A0A9W3BCV1	637	2	PF00264 (Tyrosinase)	—	153-170: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0A9W4IER4	0	3	—	—	—
+A0A9W4N770	628	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 392-403: Tyrosinase copper-binding
+A0A9W4RJE0	328	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0A9W4S0R7	299	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0A9W4U7M0	422	1	PF00264 (Tyrosinase)	—	134-358: Tyrosinase copper-binding
+A0A9W4W8U2	419	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0A9W5YXR1	0	1	—	—	—
+A0A9W5ZU18	0	1	—	—	—
+A0A9W6ASD3	0	1	—	—	—
+A0A9W6DIJ1	0	1	—	—	—
+A0A9W6UBD6	481	2	PF00264 (Tyrosinase)	—	73-256: Tyrosinase copper-binding
+A0A9W7T0I7	263	1	PF00264 (Tyrosinase)	—	182-193: Tyrosinase copper-binding
+A0A9W7Y720	407	3	PF00264 (Tyrosinase)	—	46-63: Tyrosinase copper-binding
+A0A9W7ZYI4	403	2	PF00264 (Tyrosinase)	—	47-64: Tyrosinase copper-binding
+A0A9W8ABZ6	546	3	PF01849 (NAC); PF00264 (Tyrosinase)	PF01849 (NAC)	34-100: NAC-A/B
+A0A9W8B7N1	333	1	PF00264 (Tyrosinase)	—	75-92: Tyrosinase copper-binding
+A0A9W8B7S7	283	1	PF00264 (Tyrosinase)	—	50-233: Tyrosinase copper-binding
+A0A9W8BH04	368	2	PF00264 (Tyrosinase)	—	52-69: Tyrosinase copper-binding
+A0A9W8CWN9	385	2	PF00264 (Tyrosinase)	—	79-96: Tyrosinase copper-binding
+A0A9W8CXW5	577	2	PF00264 (Tyrosinase)	—	60-232: Tyrosinase copper-binding
+A0A9W8E3J8	350	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0A9W8GLQ1	431	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding
+A0A9W8GXD7	399	2	PF00264 (Tyrosinase)	—	68-238: Tyrosinase copper-binding
+A0A9W8GZT3	420	2	PF00264 (Tyrosinase)	—	71-88: Tyrosinase copper-binding
+A0A9W8H1R1	427	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0A9W8H6W1	390	2	PF00264 (Tyrosinase)	—	78-95: Tyrosinase copper-binding
+A0A9W8HQF2	426	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding
+A0A9W8IDD7	383	2	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0A9W8IG38	420	2	PF00264 (Tyrosinase)	—	71-88: Tyrosinase copper-binding
+A0A9W8LKD4	407	3	PF00264 (Tyrosinase)	—	46-63: Tyrosinase copper-binding
+A0A9W8LSU1	384	2	PF00264 (Tyrosinase)	—	78-95: Tyrosinase copper-binding
+A0A9W8M233	424	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0A9W8M6D4	399	2	PF00264 (Tyrosinase)	—	68-238: Tyrosinase copper-binding
+A0A9W8N878	364	1	PF00264 (Tyrosinase)	—	287-298: Tyrosinase copper-binding
+A0A9W8NZF7	356	2	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0A9W8NZJ0	367	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A9W8PIM9	338	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0A9W8RVI0	321	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0A9W8U1T8	353	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0A9W8U7F8	332	1	PF00264 (Tyrosinase)	—	75-277: Tyrosinase copper-binding
+A0A9W8V7S4	343	1	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding; 265-276: Tyrosinase copper-binding
+A0A9W8V905	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0A9W8YXX2	341	1	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 244-255: Tyrosinase copper-binding
+A0A9W9AEE6	377	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A9W9AEI2	341	1	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding
+A0A9W9BUC3	334	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding
+A0A9W9CD07	834	2	PF00264 (Tyrosinase); PF00172 (Zn_clus)	PF00172 (Zn_clus)	6-36: Zn(2)-C6 fungal-type
+A0A9W9DDH6	284	1	PF00264 (Tyrosinase)	—	23-40: Tyrosinase copper-binding
+A0A9W9DF90	284	1	PF00264 (Tyrosinase)	—	9-219: Tyrosinase copper-binding
+A0A9W9DGF5	0	2	—	—	—
+A0A9W9DPG6	388	2	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding
+A0A9W9DQ39	372	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0A9W9DSP4	353	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0A9W9E068	0	2	—	—	—
+A0A9W9IP98	671	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 404-415: Tyrosinase copper-binding
+A0A9W9IRY5	355	1	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0A9W9LGF4	291	1	PF00264 (Tyrosinase)	—	61-78: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A9W9V833	353	1	PF00264 (Tyrosinase)	—	265-276: Tyrosinase copper-binding
+A0A9W9VFI7	343	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 261-272: Tyrosinase copper-binding
+A0A9W9YWR8	262	1	PF00264 (Tyrosinase)	—	75-92: Tyrosinase copper-binding
+A0A9W9YWV3	374	2	PF00264 (Tyrosinase)	—	31-207: Tyrosinase copper-binding
+A0A9W9ZU34	398	2	PF00264 (Tyrosinase)	—	124-141: Tyrosinase copper-binding
+A0A9X0AKU8	363	1	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0A9X0AXG5	359	1	PF00264 (Tyrosinase)	—	286-297: Tyrosinase copper-binding
+A0A9X0C4D4	660	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	384-395: Tyrosinase copper-binding
+A0A9X0CDF4	338	2	PF00264 (Tyrosinase)	—	42-59: Tyrosinase copper-binding
+A0A9X1PVV9	274	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0A9X4D7M1	0	3	—	—	—
+A0A9X4I0A2	0	3	—	—	—
+A0A9X8ECT6	0	3	—	—	—
+A0A9X8H7L7	0	3	—	—	—
+A0A9X8HDI2	0	3	—	—	—
+A0AA35VL53	337	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0AA36CM18	451	2	PF00264 (Tyrosinase)	—	161-178: Tyrosinase copper-binding; 317-328: Tyrosinase copper-binding
+A0AA36GA08	451	2	PF00264 (Tyrosinase)	—	161-178: Tyrosinase copper-binding; 317-328: Tyrosinase copper-binding
+A0AA36JF65	643	2	PF00264 (Tyrosinase)	—	173-190: Tyrosinase copper-binding
+A0AA37GRR7	352	1	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0AA37LRM6	400	1	PF00264 (Tyrosinase)	—	327-338: Tyrosinase copper-binding
+A0AA37P8W3	370	2	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0AA38J8C1	367	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0AA38JNP9	353	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0AA38KVA4	353	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0AA38NMR0	376	2	PF00264 (Tyrosinase)	—	105-122: Tyrosinase copper-binding
+A0AA38NNV5	365	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0AA38P9M6	353	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0AA38PZP5	0	2	—	—	—
+A0AA38Q2J7	0	1	—	—	—
+A0AA38RAI0	271	2	PF00264 (Tyrosinase)	—	29-46: Tyrosinase copper-binding; 194-205: Tyrosinase copper-binding
+A0AA38XND7	373	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding
+A0AA38XQF2	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0AA38XVF3	349	1	PF00264 (Tyrosinase)	—	277-288: Tyrosinase copper-binding
+A0AA38XXB7	383	1	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding
+A0AA38Y990	310	1	PF00264 (Tyrosinase)	—	34-51: Tyrosinase copper-binding
+A0AA38YDK5	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0AA39G9F2	330	1	PF00264 (Tyrosinase)	—	71-274: Tyrosinase copper-binding
+A0AA39GKR5	363	1	PF00264 (Tyrosinase)	—	289-300: Tyrosinase copper-binding
+A0AA39JBC8	322	1	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0AA39JWK2	412	2	PF00264 (Tyrosinase)	—	324-335: Tyrosinase copper-binding
+A0AA39JYE4	372	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0AA39M604	504	2	PF00264 (Tyrosinase)	—	355-366: Tyrosinase copper-binding
+A0AA39MWI5	354	1	PF00264 (Tyrosinase)	—	275-286: Tyrosinase copper-binding
+A0AA39MYU6	373	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 286-297: Tyrosinase copper-binding
+A0AA39NQW6	393	2	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding; 305-316: Tyrosinase copper-binding
+A0AA39P123	342	1	PF00264 (Tyrosinase)	—	263-274: Tyrosinase copper-binding
+A0AA39P499	363	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0AA39PIA9	374	2	PF00264 (Tyrosinase)	—	105-122: Tyrosinase copper-binding; 287-298: Tyrosinase copper-binding
+A0AA39PK06	394	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0AA39Q3E3	394	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0AA39QES7	394	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0AA39QMY4	280	3	PF00264 (Tyrosinase)	—	200-211: Tyrosinase copper-binding
+A0AA39T760	373	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0AA39UQR7	607	2	PF00264 (Tyrosinase)	—	154-171: Tyrosinase copper-binding; 319-330: Tyrosinase copper-binding
+A0AA39UZS7	380	2	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0AA39WL81	361	1	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0AA39WW28	359	1	PF00264 (Tyrosinase)	—	239-250: Tyrosinase copper-binding
+A0AA39XHP1	335	1	PF00264 (Tyrosinase)	—	86-103: Tyrosinase copper-binding; 250-261: Tyrosinase copper-binding
+A0AA39YEC9	661	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	275-286: Tyrosinase copper-binding
+A0AA39YSP7	335	1	PF00264 (Tyrosinase)	—	86-103: Tyrosinase copper-binding; 250-261: Tyrosinase copper-binding
+A0AA40DDV9	739	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 380-391: Tyrosinase copper-binding
+A0AA40DQR4	680	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	316-327: Tyrosinase copper-binding
+A0AA40F7U2	585	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	95-112: Tyrosinase copper-binding; 313-324: Tyrosinase copper-binding
+A0AA40F7V3	331	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0AA40JYG4	360	1	PF00264 (Tyrosinase)	—	240-251: Tyrosinase copper-binding
+A0AA40K4H1	323	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0AA44WUB9	0	1	—	—	—
+A0AA45AI00	0	1	—	—	—
+A0AA48HBG1	459	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	202-213: Tyrosinase copper-binding
+A0AA88XQR2	680	2	PF00264 (Tyrosinase)	—	154-171: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0AA88XQS5	485	2	PF00264 (Tyrosinase)	—	131-148: Tyrosinase copper-binding; 272-283: Tyrosinase copper-binding
+A0AA88YTD4	446	1	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+A0AA89C6N4	753	3	PF00264 (Tyrosinase)	—	319-330: Tyrosinase copper-binding
+A0AA97P2H9	0	2	—	—	—
+A0AAD4FIH5	583	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding
+A0AAD4HFX7	661	2	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 324-335: Tyrosinase copper-binding
+A0AAD4KYH8	386	3	PF00264 (Tyrosinase)	—	77-285: Tyrosinase copper-binding
+A0AAD4L0L4	664	3	PF00264 (Tyrosinase)	—	179-196: Tyrosinase copper-binding; 361-372: Tyrosinase copper-binding
+A0AAD4LDB2	359	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding; 273-284: Tyrosinase copper-binding
+A0AAD4LFC7	357	1	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding; 271-282: Tyrosinase copper-binding
+A0AAD4LV26	364	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0AAD4MY73	531	3	PF00264 (Tyrosinase)	—	372-383: Tyrosinase copper-binding
+A0AAD4NRB5	254	1	PF00264 (Tyrosinase)	—	181-192: Tyrosinase copper-binding
+A0AAD4PWA9	277	1	PF00264 (Tyrosinase)	—	197-208: Tyrosinase copper-binding
+A0AAD4Q7J0	357	1	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding; 271-282: Tyrosinase copper-binding
+A0AAD5SCX3	528	2	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding; 212-223: Tyrosinase copper-binding
+A0AAD5T9G3	625	2	PF00264 (Tyrosinase)	—	435-446: Tyrosinase copper-binding
+A0AAD5U057	381	2	PF00264 (Tyrosinase)	—	14-31: Tyrosinase copper-binding; 174-185: Tyrosinase copper-binding
+A0AAD5UAC9	492	2	PF00264 (Tyrosinase)	—	70-87: Tyrosinase copper-binding; 193-204: Tyrosinase copper-binding
+A0AAD5WYZ3	517	2	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding
+A0AAD6CBX2	343	1	PF00264 (Tyrosinase)	—	261-272: Tyrosinase copper-binding
+A0AAD6IJM2	607	3	PF00264 (Tyrosinase)	—	191-208: Tyrosinase copper-binding; 373-384: Tyrosinase copper-binding
+A0AAD6MRX0	346	1	PF00264 (Tyrosinase)	—	116-133: Tyrosinase copper-binding; 264-275: Tyrosinase copper-binding
+A0AAD6T862	390	1	PF00264 (Tyrosinase)	—	142-159: Tyrosinase copper-binding; 315-326: Tyrosinase copper-binding
+A0AAD6T8W8	307	1	PF00264 (Tyrosinase)	—	52-69: Tyrosinase copper-binding; 232-243: Tyrosinase copper-binding
+A0AAD6UEA5	321	1	PF00264 (Tyrosinase)	—	66-83: Tyrosinase copper-binding; 246-257: Tyrosinase copper-binding
+A0AAD6YJW0	329	1	PF00264 (Tyrosinase)	—	73-90: Tyrosinase copper-binding; 254-265: Tyrosinase copper-binding
+A0AAD6Z060	369	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0AAD6ZEL1	302	2	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0AAD7AIV8	373	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0AAD7BLR3	370	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0AAD7DM13	365	2	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0AAD7DMZ0	366	2	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 279-290: Tyrosinase copper-binding
+A0AAD7EKF6	373	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding
+A0AAD7ER50	369	2	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0AAD7GHF8	370	2	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0AAD7GRZ3	362	1	PF00264 (Tyrosinase)	—	94-111: Tyrosinase copper-binding
+A0AAD7JQN9	419	1	PF00264 (Tyrosinase)	—	165-182: Tyrosinase copper-binding; 345-356: Tyrosinase copper-binding
+A0AAD7MIH2	349	1	PF00264 (Tyrosinase)	—	79-96: Tyrosinase copper-binding; 275-286: Tyrosinase copper-binding
+A0AAD7U2T2	384	1	PF00264 (Tyrosinase)	—	87-293: Tyrosinase copper-binding
+A0AAD7U3G2	367	1	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding
+A0AAD7XDB7	371	2	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0AAD8ATH3	647	2	PF00264 (Tyrosinase)	—	158-175: Tyrosinase copper-binding; 300-311: Tyrosinase copper-binding
+A0AAD8ATH6	765	3	PF00264 (Tyrosinase)	—	155-172: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0AAD8ATH9	766	3	PF00264 (Tyrosinase)	—	155-172: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0AAD8ATJ4	647	2	PF00264 (Tyrosinase)	—	162-179: Tyrosinase copper-binding; 301-312: Tyrosinase copper-binding
+A0AAD8ATK2	618	2	PF00264 (Tyrosinase)	—	139-156: Tyrosinase copper-binding; 280-291: Tyrosinase copper-binding
+A0AAD8AV10	825	3	PF00264 (Tyrosinase)	—	341-358: Tyrosinase copper-binding; 482-493: Tyrosinase copper-binding
+A0AAD8AV33	621	2	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0AAD8AXS7	396	2	PF00264 (Tyrosinase)	—	239-250: Tyrosinase copper-binding
+A0AAD8PIW8	370	1	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+A0AAD8U991	608	2	PF00264 (Tyrosinase)	—	362-373: Tyrosinase copper-binding
+A0AAD8UE66	326	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 249-260: Tyrosinase copper-binding
+A0AAD8UFY3	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0AAD9ARY9	525	1	PF00264 (Tyrosinase)	—	250-267: Tyrosinase copper-binding
+A0AAD9AZ26	314	1	PF00264 (Tyrosinase)	—	241-252: Tyrosinase copper-binding
+A0AAD9ECK1	305	1	PF00264 (Tyrosinase)	—	69-86: Tyrosinase copper-binding; 226-237: Tyrosinase copper-binding
+A0AAD9ENP9	299	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+A0AAD9GMI7	504	2	PF00264 (Tyrosinase)	—	84-276: Tyrosinase copper-binding
+A0AAD9HBC0	371	1	PF00264 (Tyrosinase)	—	298-309: Tyrosinase copper-binding
+A0AAD9HKI6	351	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0AAD9LZF6	680	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 312-323: Tyrosinase copper-binding
+A0AAD9Q3A2	386	2	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding
+A0AAD9QB75	323	1	PF00264 (Tyrosinase)	—	117-135: Tyrosinase copper-binding
+A0AAD9SNU1	323	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 240-251: Tyrosinase copper-binding
+A0AAD9W038	369	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding; 288-299: Tyrosinase copper-binding
+A0AAD9YE83	368	1	PF00264 (Tyrosinase)	—	125-142: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0AAE0D8U4	332	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0AAE0LZ24	601	3	PF00264 (Tyrosinase)	—	358-369: Tyrosinase copper-binding
+A0AAE0T9M7	765	3	PF00264 (Tyrosinase)	—	187-204: Tyrosinase copper-binding; 328-339: Tyrosinase copper-binding
+A0AAE0VIU4	672	3	PF00264 (Tyrosinase)	—	237-248: Tyrosinase copper-binding
+A0AAE0WBG3	730	2	PF00264 (Tyrosinase)	—	303-314: Tyrosinase copper-binding
+A0AAE0WXT6	382	1	PF00264 (Tyrosinase)	—	149-166: Tyrosinase copper-binding; 308-319: Tyrosinase copper-binding
+A0AAE0Z8V4	391	1	PF00264 (Tyrosinase)	—	238-249: Tyrosinase copper-binding
+A0AAE8M9V5	332	1	PF00264 (Tyrosinase)	—	75-276: Tyrosinase copper-binding
+A0AAE8MR11	396	2	PF00264 (Tyrosinase)	—	321-332: Tyrosinase copper-binding
+A0AAE8N352	352	1	PF00264 (Tyrosinase)	—	239-250: Tyrosinase copper-binding
+A0AAF3J2S3	533	2	PF00264 (Tyrosinase)	—	278-289: Tyrosinase copper-binding
+A0AAI8VQP9	333	1	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding; 258-269: Tyrosinase copper-binding
+A0AAI8YWT9	263	1	PF00264 (Tyrosinase)	—	186-197: Tyrosinase copper-binding
+A0AAI8YZG9	370	1	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0AAI9UFL5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0AAI9UMQ2	495	3	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding; 297-308: Tyrosinase copper-binding
+A0AAI9XQ79	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0AAI9XSF2	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0AAI9XYD0	492	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0AAI9YQ31	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0AAI9ZJ62	678	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+A0AAI9ZJ84	325	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0AAI9ZUD5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0AAJ0A0G4	332	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding
+A0AAJ0A571	320	1	PF00264 (Tyrosinase)	—	64-264: Tyrosinase copper-binding
+A0AAJ0AG26	325	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0AAJ0AXE4	642	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	101-118: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0AAJ0BIF4	600	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	275-286: Tyrosinase copper-binding
+A0AAJ0DBW4	371	1	PF00264 (Tyrosinase)	—	139-156: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0AAJ0DVU7	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0AAJ0EU37	309	1	PF00264 (Tyrosinase)	—	34-51: Tyrosinase copper-binding
+A0AAJ0GPU7	326	1	PF00264 (Tyrosinase)	—	69-271: Tyrosinase copper-binding
+A0AAJ0H0A0	305	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 231-242: Tyrosinase copper-binding
+A0AAJ0HSA6	368	1	PF00264 (Tyrosinase)	—	296-307: Tyrosinase copper-binding
+A0AAJ0M0W6	314	1	PF00264 (Tyrosinase)	—	235-246: Tyrosinase copper-binding
+A0AAJ3LKX2	0	3	—	—	—
+A0AAJ5HX26	0	3	—	—	—
+A0AAJ8BUI3	0	1	—	—	—
+A0AAN4ZCE4	786	4	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	469-503: ShKT; 514-548: ShKT; 626-660: ShKT
+A0AAN5YXM8	610	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0AAN5YXZ8	943	4	PF00264 (Tyrosinase)	—	92-143: F-box
+A0AAN5Z2U4	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0AAN5Z8G4	338	1	PF00264 (Tyrosinase)	—	245-256: Tyrosinase copper-binding
+A0AAN6C7N5	331	1	PF00264 (Tyrosinase)	—	74-276: Tyrosinase copper-binding
+A0AAN6DP90	384	1	PF00264 (Tyrosinase)	—	114-131: Tyrosinase copper-binding
+A0AAN6EN09	0	1	—	—	—
+A0AAN6EWD7	0	1	—	—	—
+A0AAN6H7M5	382	1	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0AAN6IG51	491	2	PF00264 (Tyrosinase)	—	222-239: Tyrosinase copper-binding
+A0AAN6JP66	389	2	PF00264 (Tyrosinase)	—	105-313: Tyrosinase copper-binding
+A0AAN6K752	382	1	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0AAN6KA23	384	1	PF00264 (Tyrosinase)	—	152-169: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+A0AAN6M599	424	1	PF00264 (Tyrosinase)	—	341-352: Tyrosinase copper-binding
+A0AAN6PSA1	987	5	PF00264 (Tyrosinase); PF13519 (VWA_2)	PF13519 (VWA_2)	232-413: VWFA
+A0AAN6SKX3	331	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding
+A0AAN6TRL8	989	4	PF00264 (Tyrosinase); PF13519 (VWA_2)	PF13519 (VWA_2)	232-428: VWFA
+A0AAN6XU13	321	2	PF00264 (Tyrosinase)	—	202-213: Tyrosinase copper-binding
+A0AAN6YT11	673	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 337-348: Tyrosinase copper-binding
+A0AAN6YYJ2	351	1	PF00264 (Tyrosinase)	—	272-283: Tyrosinase copper-binding
+A0AAN7ADJ0	364	1	PF00264 (Tyrosinase)	—	285-296: Tyrosinase copper-binding
+A0AAN7C1S6	313	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0AAN7CLQ4	323	1	PF00264 (Tyrosinase)	—	244-255: Tyrosinase copper-binding
+A0AAN7GQ08	390	1	PF00264 (Tyrosinase)	—	149-339: Tyrosinase copper-binding
+A0AAN7T3Y1	406	1	PF00264 (Tyrosinase)	—	137-154: Tyrosinase copper-binding
+A0AAN7T5E4	355	1	PF00264 (Tyrosinase)	—	71-291: Tyrosinase copper-binding
+A0AAN7UQF6	370	1	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0AAN8F1N7	281	2	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding; 257-268: Tyrosinase copper-binding
+A0AAN8F2Z4	387	1	PF00264 (Tyrosinase)	—	100-325: Tyrosinase copper-binding
+A0AAN8I1Q1	372	1	PF00264 (Tyrosinase)	—	291-302: Tyrosinase copper-binding
+A0AAN8I9N5	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0AAN8K5C5	559	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0AAN9BYX9	520	1	PF00264 (Tyrosinase)	—	110-127: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0AAU2H4C1	0	2	—	—	—
+A0AAU7EFE9	501	3	PF00264 (Tyrosinase)	—	288-299: Tyrosinase copper-binding
+A0AAU7MTE2	0	3	—	—	—
+A0AAU8RIP0	0	3	—	—	—
+A0AAU9KU22	528	2	PF00264 (Tyrosinase)	—	106-296: Tyrosinase copper-binding
+A0AAU9WDB8	570	3	PF00264 (Tyrosinase)	—	288-479: Tyrosinase copper-binding
+A0AAU9WFJ4	886	7	PF00059 (Lectin_C); PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00059 (Lectin_C); PF00090 (TSP_1)	636-741: C-type lectin; 754-883: C-type lectin
+A0AAU9WFM1	465	3	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	183-368: Tyrosinase copper-binding
+A0AAU9WGN4	395	2	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding
+A0AAU9WHW5	302	2	PF00264 (Tyrosinase)	—	24-202: Tyrosinase copper-binding
+A0AAU9WI44	889	4	PF00264 (Tyrosinase)	—	535-552: Tyrosinase copper-binding
+A0AAU9WPB8	327	2	PF00264 (Tyrosinase)	—	116-134: Tyrosinase copper-binding
+A0AAU9WPJ8	327	2	PF00264 (Tyrosinase)	—	116-134: Tyrosinase copper-binding
+A0AAU9XFP2	531	2	PF00264 (Tyrosinase)	—	107-227: Tyrosinase copper-binding
+A0AAU9Y0L2	612	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	88-265: VWFA
+A0AAV0B387	278	3	PF00264 (Tyrosinase)	—	31-215: Tyrosinase copper-binding
+A0AAV0UD10	0	2	—	—	—
+A0AAV0UFB5	498	2	PF00264 (Tyrosinase)	—	79-267: Tyrosinase copper-binding
+A0AAV0UHU3	481	2	PF00264 (Tyrosinase)	—	80-269: Tyrosinase copper-binding
+A0AAV0V041	870	3	PF00264 (Tyrosinase)	—	109-296: Tyrosinase copper-binding
+A0AAV1T0B6	0	2	—	—	—
+A0AAV2IQW6	403	2	PF00264 (Tyrosinase)	—	244-255: Tyrosinase copper-binding
+A0AAV2Z0Q5	555	2	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0AAV2ZM57	442	2	PF00264 (Tyrosinase)	—	196-213: Tyrosinase copper-binding; 371-382: Tyrosinase copper-binding
+A0AAV4F8E5	391	2	PF00264 (Tyrosinase)	—	238-249: Tyrosinase copper-binding
+A0AAV5AL26	323	2	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding
+A0AAV5EZW6	578	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	189-206: Tyrosinase copper-binding; 348-359: Tyrosinase copper-binding
+A0AAV5G052	386	1	PF00264 (Tyrosinase)	—	190-207: Tyrosinase copper-binding; 347-358: Tyrosinase copper-binding
+A0AAV5TAE6	334	2	PF00264 (Tyrosinase)	—	217-228: Tyrosinase copper-binding
+A0AAV5V305	532	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	443-477: ShKT; 488-522: ShKT
+A0AAV9GQZ8	357	1	PF00264 (Tyrosinase)	—	236-247: Tyrosinase copper-binding
+A0AAV9H5N3	369	1	PF00264 (Tyrosinase)	—	249-260: Tyrosinase copper-binding
+A0AAV9J8F3	396	1	PF00264 (Tyrosinase)	—	147-164: Tyrosinase copper-binding; 323-334: Tyrosinase copper-binding
+A0AAV9N1J6	251	1	PF00264 (Tyrosinase)	—	179-190: Tyrosinase copper-binding
+A0AAV9NEM7	377	1	PF00264 (Tyrosinase)	—	90-312: Tyrosinase copper-binding
+A0AAV9NM11	385	1	PF00264 (Tyrosinase)	—	116-133: Tyrosinase copper-binding
+A0AAV9PYQ5	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0AAV9Q2N9	385	1	PF00264 (Tyrosinase)	—	116-133: Tyrosinase copper-binding
+A0AAV9QGM4	328	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding
+A0AAV9SY11	486	1	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0AAV9TS26	680	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0AAV9XIV8	637	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	89-106: Tyrosinase copper-binding; 320-331: Tyrosinase copper-binding
+A0AAW0BU78	368	1	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0AAW0BU79	344	2	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+A0AAW0CEC5	356	2	PF00264 (Tyrosinase)	—	105-122: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0AAW0CQ31	424	1	PF00264 (Tyrosinase)	—	170-187: Tyrosinase copper-binding; 349-360: Tyrosinase copper-binding
+A0AAW0DRS1	363	1	PF00264 (Tyrosinase)	—	143-160: Tyrosinase copper-binding; 316-327: Tyrosinase copper-binding
+A0AAW0GHL6	361	2	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding
+A0AAW0Q3H3	325	1	PF00264 (Tyrosinase)	—	68-271: Tyrosinase copper-binding
+A0AAW0Q946	317	1	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0AAW0QHX5	329	1	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 257-268: Tyrosinase copper-binding
+A0AAW0QU21	382	1	PF00264 (Tyrosinase)	—	299-310: Tyrosinase copper-binding
+A0AAW1G8T0	458	2	PF00264 (Tyrosinase)	—	191-208: Tyrosinase copper-binding
+A0AAW5AIV8	604	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0AAX4I0H5	503	1	PF00264 (Tyrosinase)	—	228-245: Tyrosinase copper-binding
+A0AAX4IJG7	369	1	PF00264 (Tyrosinase)	—	138-155: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+A0AB37WR93	0	2	—	—	—
+A0AB72UHW7	0	3	—	—	—
+A0AB74C4H3	0	1	—	—	—
+A0AB74CD63	0	1	—	—	—
+A0ABD2HV04	645	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	525-562: ShKT
+A0ABD2HZK8	762	2	PF00264 (Tyrosinase)	—	631-667: ShKT; 678-717: ShKT
+A0ABD2I4S2	679	3	PF00264 (Tyrosinase)	—	336-353: Tyrosinase copper-binding; 495-506: Tyrosinase copper-binding
+A0ABD2IFA8	647	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	527-564: ShKT
+A0ABD2IXF5	645	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	525-562: ShKT
+A0ABD2JQD7	645	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	525-562: ShKT
+A0ABD2JWA1	678	2	PF00264 (Tyrosinase)	—	336-353: Tyrosinase copper-binding; 495-506: Tyrosinase copper-binding
+A0ABD2KIP0	687	2	PF00264 (Tyrosinase)	—	336-353: Tyrosinase copper-binding; 495-506: Tyrosinase copper-binding
+A0ABD2KLI7	685	3	PF00264 (Tyrosinase)	—	362-379: Tyrosinase copper-binding; 521-532: Tyrosinase copper-binding
+A0ABD2L5J6	712	3	PF00264 (Tyrosinase)	—	581-617: ShKT; 628-667: ShKT
+A0ABD2L835	645	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	525-562: ShKT
+A0ABD2LAM1	995	4	PF01549 (ShK); PF03125 (Sre); PF00264 (Tyrosinase)	PF01549 (ShK); PF03125 (Sre)	572-608: ShKT; 619-658: ShKT
+A0ABD2LMH4	645	3	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	525-562: ShKT
+A0ABD2LMP6	679	3	PF00264 (Tyrosinase)	—	336-353: Tyrosinase copper-binding; 495-506: Tyrosinase copper-binding
+A0ABD2M4S6	706	2	PF01549 (ShK); PF00264 (Tyrosinase)	PF01549 (ShK)	575-611: ShKT; 622-661: ShKT
+A0ABD2M5Y3	681	3	PF00264 (Tyrosinase)	—	358-375: Tyrosinase copper-binding; 517-528: Tyrosinase copper-binding
+A0ABD3CRY7	560	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	174-191: Tyrosinase copper-binding; 320-331: Tyrosinase copper-binding
+A0ABD3FTY2	513	2	PF00264 (Tyrosinase)	—	211-222: Tyrosinase copper-binding
+A0ABD3FX43	493	2	PF00264 (Tyrosinase)	—	73-265: Tyrosinase copper-binding
+A0ABD3P7G1	386	2	PF00264 (Tyrosinase)	—	68-318: Tyrosinase copper-binding
+A0ABD3VGD3	697	3	PF00264 (Tyrosinase)	—	261-272: Tyrosinase copper-binding
+A0ABD3VGV3	714	2	PF00264 (Tyrosinase)	—	299-310: Tyrosinase copper-binding
+A0ABD3VIF5	730	2	PF00264 (Tyrosinase)	—	303-314: Tyrosinase copper-binding
+A0ABD6E5N7	475	2	PF00264 (Tyrosinase)	—	159-344: Tyrosinase copper-binding
+A0ABM3SUX7	684	2	PF00264 (Tyrosinase)	—	378-395: Tyrosinase copper-binding; 556-567: Tyrosinase copper-binding
+A0ABM4B626	563	3	PF00264 (Tyrosinase)	—	263-280: Tyrosinase copper-binding
+A0ABM4B637	508	2	PF00264 (Tyrosinase)	—	245-460: Tyrosinase copper-binding
+A0ABM4CLJ5	624	3	PF00264 (Tyrosinase)	—	375-392: Tyrosinase copper-binding
+A0ABM4CWC9	570	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	29-151: VWFA
+A0ABM4D189	418	2	PF00264 (Tyrosinase)	—	153-368: Tyrosinase copper-binding
+A0ABN1AUX7	274	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 211-222: Tyrosinase copper-binding
+A0ABN4GH39	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0ABN8C0W3	499	2	PF00264 (Tyrosinase)	—	81-271: Tyrosinase copper-binding
+A0ABN8CNH4	624	3	PF00264 (Tyrosinase)	—	100-279: Tyrosinase copper-binding
+A0ABN8LKJ6	408	2	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0ABN8LLM9	542	2	PF00264 (Tyrosinase)	—	333-351: Tyrosinase copper-binding
+A0ABN8LP07	593	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	66-255: VWFA
+A0ABN8LPV2	324	1	PF00264 (Tyrosinase)	—	112-130: Tyrosinase copper-binding
+A0ABN8LRW2	324	1	PF00264 (Tyrosinase)	—	112-130: Tyrosinase copper-binding
+A0ABN8M8J6	648	3	PF00264 (Tyrosinase)	—	293-310: Tyrosinase copper-binding
+A0ABN8MSU7	344	2	PF00264 (Tyrosinase)	—	135-153: Tyrosinase copper-binding
+A0ABN8MSW1	341	2	PF00264 (Tyrosinase)	—	132-150: Tyrosinase copper-binding
+A0ABN8MTH8	342	2	PF00264 (Tyrosinase)	—	133-151: Tyrosinase copper-binding
+A0ABN8N3E0	685	5	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	390-581: Tyrosinase copper-binding
+A0ABN8NB94	566	4	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+A0ABN8NEM0	322	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0ABN8NY44	324	1	PF00264 (Tyrosinase)	—	112-130: Tyrosinase copper-binding
+A0ABN8NY53	324	1	PF00264 (Tyrosinase)	—	112-130: Tyrosinase copper-binding
+A0ABN8R2Z3	593	2	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	66-255: VWFA
+A0ABN8RAH9	403	2	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+A0ABN8RHG1	724	6	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	429-620: Tyrosinase copper-binding
+A0ABN8RK39	344	2	PF00264 (Tyrosinase)	—	135-153: Tyrosinase copper-binding
+A0ABN8RM19	317	2	PF00264 (Tyrosinase)	—	108-126: Tyrosinase copper-binding
+A0ABN8RND1	473	3	PF00090 (TSP_1); PF00264 (Tyrosinase)	PF00090 (TSP_1)	194-211: Tyrosinase copper-binding
+A0ABN8SN36	457	3	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding
+A0ABN8SRU8	374	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0ABN9EIA3	383	2	PF00264 (Tyrosinase)	—	196-213: Tyrosinase copper-binding; 371-382: Tyrosinase copper-binding
+A0ABP0TM67	567	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	159-176: Tyrosinase copper-binding; 333-344: Tyrosinase copper-binding
+A0ABP1AIV3	0	2	—	—	—
+A0ABP1DHZ5	362	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+A0ABP3FXV5	275	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 211-222: Tyrosinase copper-binding
+A0ABP3R282	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABP4FJU9	313	2	PF00264 (Tyrosinase)	—	248-259: Tyrosinase copper-binding
+A0ABP5F1Z3	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABP6CC76	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABP6MHW8	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0ABP9B2P4	275	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABQ0GAI5	396	1	PF00264 (Tyrosinase)	—	168-185: Tyrosinase copper-binding
+A0ABQ0GEZ1	355	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0ABQ0M0Y9	663	2	PF00264 (Tyrosinase)	—	408-425: Tyrosinase copper-binding; 588-599: Tyrosinase copper-binding
+A0ABQ0M510	393	1	PF00264 (Tyrosinase)	—	124-141: Tyrosinase copper-binding
+A0ABQ3RF10	436	2	PF08044 (DUF1707); PF00264 (Tyrosinase)	PF08044 (DUF1707)	191-208: Tyrosinase copper-binding; 372-383: Tyrosinase copper-binding
+A0ABQ3SM07	473	2	PF25271 (DUF7868); PF12142 (PPO1_DWL); PF00264 (Tyrosinase)	PF25271 (DUF7868); PF12142 (PPO1_DWL)	72-89: Tyrosinase copper-binding; 214-225: Tyrosinase copper-binding
+A0ABQ3T370	465	2	PF25271 (DUF7868); PF00264 (Tyrosinase)	PF25271 (DUF7868)	63-80: Tyrosinase copper-binding; 205-216: Tyrosinase copper-binding
+A0ABQ3XK95	265	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0ABQ3YK86	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0ABQ4GGN2	298	1	PF00264 (Tyrosinase)	—	84-250: Tyrosinase copper-binding
+A0ABQ4GJQ7	304	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 240-251: Tyrosinase copper-binding
+A0ABQ6MZQ8	631	3	PF00264 (Tyrosinase)	—	311-556: Tyrosinase copper-binding
+A0ABQ6WCU9	649	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	104-121: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+A0ABQ6X2C6	449	1	PF00264 (Tyrosinase)	—	372-383: Tyrosinase copper-binding
+A0ABQ6X3Q5	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+A0ABQ7J1C5	362	1	PF00264 (Tyrosinase)	—	133-150: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+A0ABQ8FHW2	447	2	PF00264 (Tyrosinase)	—	227-238: Tyrosinase copper-binding
+A0ABQ8FI13	583	2	PF00264 (Tyrosinase)	—	278-289: Tyrosinase copper-binding
+A0ABQ8FNS3	815	2	PF00264 (Tyrosinase)	—	21-63: Chitin-binding type-1
+A0ABQ8NSX2	335	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+A0ABQ8Q376	371	2	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding
+A0ABQ8Q455	367	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0ABQ8QLF5	353	2	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding
+A0ABQ8QXP3	607	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0ABQ8R221	330	1	PF00264 (Tyrosinase)	—	72-275: Tyrosinase copper-binding
+A0ABQ8R7I6	338	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+A0ABQ8R7Z7	676	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	100-117: Tyrosinase copper-binding; 387-398: Tyrosinase copper-binding
+A0ABQ8VDS7	367	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0ABQ8VVM6	354	2	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding
+A0ABQ9EE55	630	2	PF00264 (Tyrosinase)	—	147-164: Tyrosinase copper-binding
+A0ABQ9PND2	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0ABQ9Q320	329	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding; 252-263: Tyrosinase copper-binding
+A0ABQ9QHE7	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0ABQ9QHH0	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABQ9RX60	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABQ9T229	488	1	PF00264 (Tyrosinase)	—	213-230: Tyrosinase copper-binding
+A0ABR0EDL9	275	2	PF00264 (Tyrosinase)	—	9-214: Tyrosinase copper-binding
+A0ABR0EHV5	383	1	PF00264 (Tyrosinase)	—	151-168: Tyrosinase copper-binding; 310-321: Tyrosinase copper-binding
+A0ABR0IZ48	383	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding
+A0ABR0JJU7	411	1	PF00264 (Tyrosinase)	—	166-183: Tyrosinase copper-binding; 331-342: Tyrosinase copper-binding
+A0ABR0JMJ3	328	1	PF00264 (Tyrosinase)	—	59-76: Tyrosinase copper-binding
+A0ABR0KBS0	374	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding
+A0ABR0KH52	388	1	PF00264 (Tyrosinase)	—	101-326: Tyrosinase copper-binding
+A0ABR0RAB7	387	1	PF00264 (Tyrosinase)	—	100-325: Tyrosinase copper-binding
+A0ABR0REJ7	372	1	PF00264 (Tyrosinase)	—	291-302: Tyrosinase copper-binding
+A0ABR0RMX2	320	1	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0ABR0S881	369	1	PF00264 (Tyrosinase)	—	127-144: Tyrosinase copper-binding; 290-301: Tyrosinase copper-binding
+A0ABR1FXH8	721	3	PF00264 (Tyrosinase)	—	330-341: Tyrosinase copper-binding
+A0ABR1GYQ3	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABR1K7H3	381	2	PF00264 (Tyrosinase)	—	98-314: Tyrosinase copper-binding
+A0ABR1KCA3	371	2	PF00264 (Tyrosinase)	—	93-304: Tyrosinase copper-binding
+A0ABR1NYJ9	364	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0ABR1P3W3	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABR1PXA7	316	1	PF00264 (Tyrosinase)	—	242-253: Tyrosinase copper-binding
+A0ABR1Q1Z9	415	1	PF00264 (Tyrosinase)	—	332-343: Tyrosinase copper-binding
+A0ABR1Q2J4	314	1	PF00264 (Tyrosinase)	—	77-94: Tyrosinase copper-binding
+A0ABR1QFP3	408	1	PF00264 (Tyrosinase)	—	159-176: Tyrosinase copper-binding; 328-339: Tyrosinase copper-binding
+A0ABR1RZG1	366	2	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0ABR1SQ27	318	1	PF00264 (Tyrosinase)	—	69-262: Tyrosinase copper-binding
+A0ABR1SQG7	327	1	PF00264 (Tyrosinase)	—	69-272: Tyrosinase copper-binding
+A0ABR1T514	348	2	PF00264 (Tyrosinase)	—	269-280: Tyrosinase copper-binding
+A0ABR1U7U0	319	1	PF00264 (Tyrosinase)	—	244-255: Tyrosinase copper-binding
+A0ABR1US72	700	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	101-119: Tyrosinase copper-binding
+A0ABR1VBU5	366	1	PF00264 (Tyrosinase)	—	283-294: Tyrosinase copper-binding
+A0ABR1VHA2	369	1	PF00264 (Tyrosinase)	—	131-148: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+A0ABR1VKF8	402	1	PF00264 (Tyrosinase)	—	319-330: Tyrosinase copper-binding
+A0ABR1VWS6	404	1	PF00264 (Tyrosinase)	—	321-332: Tyrosinase copper-binding
+A0ABR1WKU8	321	1	PF00264 (Tyrosinase)	—	247-258: Tyrosinase copper-binding
+A0ABR1WRC7	569	2	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding; 292-303: Tyrosinase copper-binding
+A0ABR1WWJ4	316	1	PF00264 (Tyrosinase)	—	242-253: Tyrosinase copper-binding
+A0ABR1WX78	320	1	PF00264 (Tyrosinase)	—	61-265: Tyrosinase copper-binding
+A0ABR1X4W4	413	1	PF00264 (Tyrosinase)	—	159-176: Tyrosinase copper-binding
+A0ABR2JC89	320	1	PF00264 (Tyrosinase)	—	246-257: Tyrosinase copper-binding
+A0ABR2JHH4	325	1	PF00264 (Tyrosinase)	—	251-262: Tyrosinase copper-binding
+A0ABR2JIV1	390	1	PF00264 (Tyrosinase)	—	307-318: Tyrosinase copper-binding
+A0ABR2UW80	377	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0ABR2V4E2	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABR2W3C9	318	2	PF00264 (Tyrosinase)	—	48-234: Tyrosinase copper-binding
+A0ABR2XJX2	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABR2XMR7	377	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0ABR2Y9L4	323	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0ABR3CWN2	707	3	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 330-341: Tyrosinase copper-binding
+A0ABR3FAS3	338	1	PF00264 (Tyrosinase)	—	263-274: Tyrosinase copper-binding
+A0ABR3FVG0	353	1	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0ABR3FVU5	309	1	PF00264 (Tyrosinase)	—	234-245: Tyrosinase copper-binding
+A0ABR3GF19	516	3	PF00264 (Tyrosinase)	—	315-326: Tyrosinase copper-binding
+A0ABR3IZU5	339	1	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding; 264-275: Tyrosinase copper-binding
+A0ABR3RMI3	329	1	PF00264 (Tyrosinase)	—	246-257: Tyrosinase copper-binding
+A0ABR3TDY0	311	1	PF00264 (Tyrosinase)	—	80-97: Tyrosinase copper-binding; 233-244: Tyrosinase copper-binding
+A0ABR3TL16	708	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 330-341: Tyrosinase copper-binding
+A0ABR3UTG0	254	1	PF00264 (Tyrosinase)	—	181-192: Tyrosinase copper-binding
+A0ABR3UZ44	342	1	PF00264 (Tyrosinase)	—	71-286: Tyrosinase copper-binding
+A0ABR3WV06	387	1	PF00264 (Tyrosinase)	—	141-158: Tyrosinase copper-binding; 308-319: Tyrosinase copper-binding
+A0ABR3Y8K5	654	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	128-145: Tyrosinase copper-binding; 331-342: Tyrosinase copper-binding
+A0ABR4BR18	736	2	PF00264 (Tyrosinase)	—	123-140: Tyrosinase copper-binding; 281-292: Tyrosinase copper-binding
+A0ABR4BSY9	318	1	PF00264 (Tyrosinase)	—	244-255: Tyrosinase copper-binding
+A0ABR4CF27	363	1	PF00264 (Tyrosinase)	—	134-151: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0ABR4EBK6	364	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0ABR4EVQ9	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABR4H8T2	337	1	PF00264 (Tyrosinase)	—	107-124: Tyrosinase copper-binding; 255-266: Tyrosinase copper-binding
+A0ABR4KDN5	308	1	PF00264 (Tyrosinase)	—	78-95: Tyrosinase copper-binding; 226-237: Tyrosinase copper-binding
+A0ABR4MW11	601	2	PF00264 (Tyrosinase)	—	223-234: Tyrosinase copper-binding
+A0ABR4NFV2	778	2	PF00187 (Chitin_bind_1); PF00264 (Tyrosinase)	PF00187 (Chitin_bind_1)	20-62: Chitin-binding type-1; 130-174: Chitin-binding type-1; 217-259: Chitin-binding type-1
+A0ABR4P8H6	310	1	PF00264 (Tyrosinase)	—	74-91: Tyrosinase copper-binding; 233-244: Tyrosinase copper-binding
+A0ABR4TSS6	581	3	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0ABR5Y6J9	581	3	PF00264 (Tyrosinase)	—	322-333: Tyrosinase copper-binding
+A0ABR6V5Y3	608	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABR8BHZ7	417	2	PF00264 (Tyrosinase)	—	308-319: Tyrosinase copper-binding
+A0ABR8L1I5	288	1	PF00264 (Tyrosinase)	—	72-240: Tyrosinase copper-binding
+A0ABS1P986	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABS6QBR2	608	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABS9FD76	604	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABS9G7M5	0	3	—	—	—
+A0ABT1P7V4	294	2	PF00264 (Tyrosinase)	—	48-65: Tyrosinase copper-binding; 229-240: Tyrosinase copper-binding
+A0ABT2ZPY2	596	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A0ABT5BA12	467	2	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 216-227: Tyrosinase copper-binding
+A0ABT5NM23	604	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABT6WGX1	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0ABT6X1I4	269	1	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 203-214: Tyrosinase copper-binding
+A0ABT7Z8T3	275	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABU0TC15	274	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABU1D0H3	608	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABU2S4D8	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABU2SMY1	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABU2WI91	476	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 225-236: Tyrosinase copper-binding
+A0ABU3ASL9	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0ABU3LA82	453	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	195-206: Tyrosinase copper-binding
+A0ABU5KX76	608	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABU6U5W4	567	3	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	165-182: Tyrosinase copper-binding; 337-348: Tyrosinase copper-binding
+A0ABV0AFJ4	306	1	PF00264 (Tyrosinase)	—	66-249: Tyrosinase copper-binding
+A0ABV1TI03	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0ABV1UTF3	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABV3A804	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABV4P1X4	502	3	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+A0ABV5QIU7	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABV6HFH7	750	3	PF00264 (Tyrosinase)	—	160-177: Tyrosinase copper-binding; 296-307: Tyrosinase copper-binding
+A0ABV6TPR0	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABV7MFU4	489	2	PF25271 (DUF7868); PF00264 (Tyrosinase)	PF25271 (DUF7868)	81-98: Tyrosinase copper-binding; 230-241: Tyrosinase copper-binding
+A0ABV8JG77	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0ABV8PKK5	444	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	187-198: Tyrosinase copper-binding
+A0ABV9BPW4	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABV9VFU7	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABW0JGR8	466	2	PF00264 (Tyrosinase)	—	79-96: Tyrosinase copper-binding; 195-206: Tyrosinase copper-binding
+A0ABW1EZ25	500	3	PF00264 (Tyrosinase)	—	300-311: Tyrosinase copper-binding
+A0ABW2ECH6	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+A0ABW4AR86	268	2	PF00264 (Tyrosinase)	—	57-74: Tyrosinase copper-binding; 202-213: Tyrosinase copper-binding
+A0ABW4XUU2	462	3	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	205-216: Tyrosinase copper-binding
+A0ABW7T5P6	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABW8CT20	275	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABW8JVC8	471	2	PF00264 (Tyrosinase)	—	84-101: Tyrosinase copper-binding; 200-211: Tyrosinase copper-binding
+A0ABW8R094	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABW9IRU2	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0ABX1AHC8	273	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABX1INI2	274	2	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+A0ABX2C6M7	569	2	PF00264 (Tyrosinase)	—	46-63: Tyrosinase copper-binding
+A0ABX2QSF3	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABX7K4S3	604	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABY0FWW0	640	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	123-140: Tyrosinase copper-binding; 339-350: Tyrosinase copper-binding
+A0ABY0G5N1	254	1	PF00264 (Tyrosinase)	—	181-192: Tyrosinase copper-binding
+A0ABY0HL93	343	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0ABY0T4X6	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABY3YVG1	426	2	PF06236 (MelC1); PF00264 (Tyrosinase)	PF06236 (MelC1)	361-372: Tyrosinase copper-binding
+A0ABY6UFL4	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ABY6UQ04	297	1	PF00264 (Tyrosinase)	—	81-98: Tyrosinase copper-binding; 222-233: Tyrosinase copper-binding
+A0ABY7E0K8	775	3	PF00264 (Tyrosinase)	—	158-175: Tyrosinase copper-binding; 298-309: Tyrosinase copper-binding
+A0ABY7E8M5	761	2	PF00264 (Tyrosinase)	—	190-207: Tyrosinase copper-binding; 330-341: Tyrosinase copper-binding
+A0ABY7ESX1	629	2	PF00264 (Tyrosinase)	—	52-69: Tyrosinase copper-binding; 191-202: Tyrosinase copper-binding
+A0ABY7ET59	627	2	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding; 189-200: Tyrosinase copper-binding
+A0ABY7EUY5	625	3	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 235-246: Tyrosinase copper-binding
+A0ABY7EVT5	665	2	PF00264 (Tyrosinase)	—	119-136: Tyrosinase copper-binding; 260-271: Tyrosinase copper-binding
+A0ABY7EVT9	640	3	PF00264 (Tyrosinase)	—	111-128: Tyrosinase copper-binding; 250-261: Tyrosinase copper-binding
+A0ABY7EW52	691	2	PF00264 (Tyrosinase)	—	163-180: Tyrosinase copper-binding; 302-313: Tyrosinase copper-binding
+A0ABY7EX19	691	2	PF00264 (Tyrosinase)	—	163-180: Tyrosinase copper-binding; 302-313: Tyrosinase copper-binding
+A0ABY9SUW3	608	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABZ1ADG6	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ABZ1QTL9	307	2	PF00264 (Tyrosinase)	—	243-254: Tyrosinase copper-binding
+A0ABZ1SYY9	278	1	PF00264 (Tyrosinase)	—	65-230: Tyrosinase copper-binding
+A0ABZ1W8D9	318	2	PF00264 (Tyrosinase)	—	250-261: Tyrosinase copper-binding
+A0ABZ1XJX8	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABZ1ZKP5	306	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+A0ABZ2X6I5	332	1	PF00264 (Tyrosinase)	—	75-277: Tyrosinase copper-binding
+A0ACA9UMC9	335	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ACB0Y497	405	2	PF00264 (Tyrosinase)	—	75-92: Tyrosinase copper-binding; 234-245: Tyrosinase copper-binding
+A0ACB0Y7T5	474	2	PF00264 (Tyrosinase)	—	144-161: Tyrosinase copper-binding; 303-314: Tyrosinase copper-binding
+A0ACB0YFD1	495	3	PF00264 (Tyrosinase)	—	327-344: Tyrosinase copper-binding
+A0ACB6FRC5	616	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	123-140: Tyrosinase copper-binding
+A0ACB6QHH6	613	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 291-302: Tyrosinase copper-binding
+A0ACB6Z417	370	2	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 284-295: Tyrosinase copper-binding
+A0ACB6Z4V4	369	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 284-295: Tyrosinase copper-binding
+A0ACB6Z8Q8	364	2	PF00264 (Tyrosinase)	—	97-114: Tyrosinase copper-binding; 278-289: Tyrosinase copper-binding
+A0ACB6Z8T5	314	2	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding; 228-239: Tyrosinase copper-binding
+A0ACB6ZCG4	363	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 277-288: Tyrosinase copper-binding
+A0ACB6ZD36	360	1	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 274-285: Tyrosinase copper-binding
+A0ACB6ZF33	369	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding; 283-294: Tyrosinase copper-binding
+A0ACB6ZI71	326	1	PF00264 (Tyrosinase)	—	74-91: Tyrosinase copper-binding; 240-251: Tyrosinase copper-binding
+A0ACB6ZPA1	363	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding; 277-288: Tyrosinase copper-binding
+A0ACB7IK85	342	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding; 267-278: Tyrosinase copper-binding
+A0ACB8QEM8	360	2	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding
+A0ACB8S060	362	1	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding
+A0ACB8SK53	362	1	PF00264 (Tyrosinase)	—	101-118: Tyrosinase copper-binding
+A0ACC0DTX9	357	2	PF00264 (Tyrosinase)	—	78-262: Tyrosinase copper-binding
+A0ACC0W512	537	2	PF00264 (Tyrosinase)	—	116-306: Tyrosinase copper-binding
+A0ACC1HST6	425	2	PF00264 (Tyrosinase)	—	68-241: Tyrosinase copper-binding
+A0ACC1K810	391	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0ACC1KJ20	431	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding
+A0ACC1LGB1	391	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding
+A0ACC1LIP9	426	2	PF00264 (Tyrosinase)	—	72-89: Tyrosinase copper-binding
+A0ACC1M753	450	2	PF00264 (Tyrosinase)	—	57-234: Tyrosinase copper-binding
+A0ACC1M7I5	385	2	PF00264 (Tyrosinase)	—	50-67: Tyrosinase copper-binding
+A0ACC1P0Q8	594	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 346-357: Tyrosinase copper-binding
+A0ACC1QNQ0	315	1	PF00264 (Tyrosinase)	—	236-247: Tyrosinase copper-binding
+A0ACC1SAF0	324	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0ACC1TW98	683	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 353-364: Tyrosinase copper-binding
+A0ACC1U033	370	2	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+A0ACC1UC83	376	2	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding
+A0ACC2ID33	362	1	PF00264 (Tyrosinase)	—	287-298: Tyrosinase copper-binding
+A0ACC2JU58	370	1	PF00264 (Tyrosinase)	—	293-304: Tyrosinase copper-binding
+A0ACC2SF11	420	2	PF00264 (Tyrosinase)	—	110-127: Tyrosinase copper-binding; 253-264: Tyrosinase copper-binding
+A0ACC2TPI5	562	2	PF00264 (Tyrosinase)	—	232-243: Tyrosinase copper-binding
+A0ACC2TVV6	597	2	PF00264 (Tyrosinase)	—	232-243: Tyrosinase copper-binding
+A0ACC2U9E0	412	2	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding; 245-256: Tyrosinase copper-binding
+A0ACC2UQA1	470	2	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 229-240: Tyrosinase copper-binding
+A0ACC2ZZX6	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A0ACC3AAT4	423	1	PF00264 (Tyrosinase)	—	100-117: Tyrosinase copper-binding
+A0ACC3AFN8	368	1	PF00264 (Tyrosinase)	—	287-298: Tyrosinase copper-binding
+A0ACC3SCJ8	488	2	PF00264 (Tyrosinase)	—	150-167: Tyrosinase copper-binding; 309-320: Tyrosinase copper-binding
+A0ACC3YE67	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+A0ACC3YJX9	411	2	PF00264 (Tyrosinase)	—	136-153: Tyrosinase copper-binding
+A0ACC3YNG7	324	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 248-259: Tyrosinase copper-binding
+A0ACC3YY16	332	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 255-266: Tyrosinase copper-binding
+A0ACC6LFG7	595	3	PF00264 (Tyrosinase)	—	152-378: Tyrosinase copper-binding
+A0ACD1GE84	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0ACD1GJU9	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0ACD1GX66	338	1	PF00264 (Tyrosinase)	—	108-125: Tyrosinase copper-binding; 256-267: Tyrosinase copper-binding
+A0ACD1HPQ9	329	1	PF00264 (Tyrosinase)	—	99-116: Tyrosinase copper-binding; 247-258: Tyrosinase copper-binding
+A0ACD1I4V8	348	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding; 266-277: Tyrosinase copper-binding
+A0ACD1IDW1	334	1	PF00264 (Tyrosinase)	—	103-120: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+A0ACD3ALF2	366	2	PF00264 (Tyrosinase)	—	104-121: Tyrosinase copper-binding
+A0ACD3AUA0	368	2	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding; 281-292: Tyrosinase copper-binding
+A0ACD3AWL0	403	1	PF00264 (Tyrosinase)	—	313-324: Tyrosinase copper-binding
+A0ACD3AYU9	433	1	PF00264 (Tyrosinase)	—	343-354: Tyrosinase copper-binding
+A0ACD3B3W8	423	1	PF00264 (Tyrosinase)	—	153-170: Tyrosinase copper-binding; 336-347: Tyrosinase copper-binding
+A0ACD3YYX0	618	3	PF00264 (Tyrosinase)	—	371-382: Tyrosinase copper-binding
+A1BB10	599	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+A1D120	595	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 353-364: Tyrosinase copper-binding
+A2R6E6	344	1	PF00264 (Tyrosinase)	—	262-273: Tyrosinase copper-binding
+A6GK98	420	2	PF00264 (Tyrosinase)	—	355-366: Tyrosinase copper-binding
+A7RQY2	378	2	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+A7RXW5	381	2	PF00264 (Tyrosinase)	—	167-185: Tyrosinase copper-binding
+A7SSF6	855	4	PF00024 (PAN_1); PF00264 (Tyrosinase); PF00092 (VWA)	PF00024 (PAN_1); PF00092 (VWA)	61-237: VWFA; 634-673: EGF-like
+A8MZV5	346	1	PF00264 (Tyrosinase)	—	268-279: Tyrosinase copper-binding
+B0XPC0	616	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	92-109: Tyrosinase copper-binding; 339-350: Tyrosinase copper-binding
+B1VTI5	306	2	PF00264 (Tyrosinase)	—	—
+B6HTY5	552	3	PF00264 (Tyrosinase)	—	129-146: Tyrosinase copper-binding; 311-322: Tyrosinase copper-binding
+B8J766	874	6	PF00264 (Tyrosinase); PF00092 (VWA)	PF00092 (VWA)	344-533: VWFA
+B8NWK1	341	1	PF00264 (Tyrosinase)	—	—
+C0NAP3	638	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	103-120: Tyrosinase copper-binding; 295-306: Tyrosinase copper-binding
+C6H4P2	0	2	—	—	—
+C7FF04	576	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	—
+C7Z2S7	711	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	105-122: Tyrosinase copper-binding; 326-337: Tyrosinase copper-binding
+C9SDX6	237	1	PF00264 (Tyrosinase)	—	113-179: Tyrosinase copper-binding
+C9SL09	341	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 234-245: Tyrosinase copper-binding
+D0NAA1	255	2	PF00264 (Tyrosinase)	—	75-255: Tyrosinase copper-binding
+D5GL91	604	3	PF00264 (Tyrosinase)	—	183-200: Tyrosinase copper-binding; 378-389: Tyrosinase copper-binding
+D6RTB9	305	2	PF00264 (Tyrosinase)	—	58-75: Tyrosinase copper-binding; 241-252: Tyrosinase copper-binding
+D7F7N7	0	2	—	—	—
+D8QCT3	0	2	—	—	—
+E3KSA5	367	1	PF00264 (Tyrosinase)	—	127-311: Tyrosinase copper-binding
+E3QW88	679	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	98-115: Tyrosinase copper-binding; 310-321: Tyrosinase copper-binding
+E3QWQ8	370	1	PF00264 (Tyrosinase)	—	297-308: Tyrosinase copper-binding
+E6X453	452	2	PF18962 (Por_Secre_tail); PF00264 (Tyrosinase)	PF18962 (Por_Secre_tail)	200-211: Tyrosinase copper-binding
+E7CLR6	274	1	PF00264 (Tyrosinase)	—	108-119: Tyrosinase copper-binding; 243-260: Tyrosinase copper-binding
+E9FAB7	314	1	PF00264 (Tyrosinase)	—	235-246: Tyrosinase copper-binding
+F0UIU7	0	2	—	—	—
+F0WYB1	0	2	—	—	—
+F0Y9F1	717	3	PF00264 (Tyrosinase)	—	326-337: Tyrosinase copper-binding
+F4PG32	272	1	PF00264 (Tyrosinase)	—	193-204: Tyrosinase copper-binding
+F4S769	306	1	PF00264 (Tyrosinase)	—	102-119: Tyrosinase copper-binding
+F4S770	348	1	PF00264 (Tyrosinase)	—	133-150: Tyrosinase copper-binding; 275-286: Tyrosinase copper-binding
+F9FH57	0	1	—	—	—
+F9G095	0	1	—	—	—
+F9G0F0	0	3	—	—	—
+G0RFJ8	596	3	PF00264 (Tyrosinase)	—	345-356: Tyrosinase copper-binding
+G2QVS9	266	2	PF00264 (Tyrosinase)	—	218-229: Tyrosinase copper-binding
+G2X9U2	341	1	PF00264 (Tyrosinase)	—	—
+G2XHL1	339	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+G3XX77	0	1	—	—	—
+G4NKN0	335	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding; 259-270: Tyrosinase copper-binding
+G4Z7X0	261	2	PF00264 (Tyrosinase)	—	81-261: Tyrosinase copper-binding
+G5ABA8	535	2	PF00264 (Tyrosinase)	—	253-264: Tyrosinase copper-binding
+G9MT56	319	1	PF00264 (Tyrosinase)	—	69-86: Tyrosinase copper-binding
+H1V3M6	0	2	—	—	—
+H2A0L0	492	2	PF00264 (Tyrosinase)	—	—
+H2KPL1	476	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+H3GEM4	474	3	PF00264 (Tyrosinase)	—	54-243: Tyrosinase copper-binding
+H3GPM1	670	2	PF00264 (Tyrosinase)	—	76-93: Tyrosinase copper-binding; 243-254: Tyrosinase copper-binding
+H6BWF1	381	1	PF00264 (Tyrosinase)	—	112-129: Tyrosinase copper-binding
+H6C0Q8	379	1	PF00264 (Tyrosinase)	—	109-126: Tyrosinase copper-binding
+I1RIA1	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+I1RKU0	330	1	PF00264 (Tyrosinase)	—	74-275: Tyrosinase copper-binding
+I1S3N0	509	3	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+I1S6D3	610	3	PF00264 (Tyrosinase)	—	359-370: Tyrosinase copper-binding
+I8A8A1	0	1	—	—	—
+I8TNZ4	0	1	—	—	—
+J3L4U3	585	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	189-206: Tyrosinase copper-binding; 348-359: Tyrosinase copper-binding
+J3P204	339	1	PF00264 (Tyrosinase)	—	69-280: Tyrosinase copper-binding
+J9DAB6	326	1	PF00264 (Tyrosinase)	—	64-81: Tyrosinase copper-binding; 195-206: Tyrosinase copper-binding
+K1Q1M0	0	3	—	—	—
+K1QL10	0	2	—	—	—
+K1QPB3	0	2	—	—	—
+K1WLZ8	374	1	PF00264 (Tyrosinase)	—	294-305: Tyrosinase copper-binding
+K3V476	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+K3V6C2	817	4	PF00264 (Tyrosinase)	—	727-810: Apple
+K3VMY6	330	1	PF00264 (Tyrosinase)	—	74-275: Tyrosinase copper-binding
+K3VNQ2	509	3	PF00264 (Tyrosinase)	—	56-73: Tyrosinase copper-binding; 294-305: Tyrosinase copper-binding
+K3W2E2	322	1	PF00264 (Tyrosinase)	—	229-240: Tyrosinase copper-binding
+K4CMI2	599	2	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV); PF00264 (Tyrosinase)	PF12142 (PPO1_DWL); PF12143 (PPO1_KFDV)	201-218: Tyrosinase copper-binding; 366-377: Tyrosinase copper-binding
+K5X6W9	576	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	289-300: Tyrosinase copper-binding
+L0N6P7	0	2	—	—	—
+L2FJE7	328	1	PF00264 (Tyrosinase)	—	85-102: Tyrosinase copper-binding; 251-262: Tyrosinase copper-binding
+L2G1G8	299	1	PF00264 (Tyrosinase)	—	83-100: Tyrosinase copper-binding; 224-235: Tyrosinase copper-binding
+L7JFX0	0	2	—	—	—
+L8WSR9	345	1	PF00264 (Tyrosinase)	—	120-137: Tyrosinase copper-binding
+M1R095	476	2	PF00264 (Tyrosinase)	—	211-228: Tyrosinase copper-binding
+M4C6D4	799	3	PF00264 (Tyrosinase)	—	105-289: Tyrosinase copper-binding
+M5BK46	0	1	—	—	—
+M5BUD5	0	2	—	—	—
+M5BUU7	0	1	—	—	—
+M5C284	279	1	PF00264 (Tyrosinase)	—	193-204: Tyrosinase copper-binding
+M5C3H9	0	2	—	—	—
+M5C3Z3	0	1	—	—	—
+M5C4G3	0	2	—	—	—
+M5CAY8	0	1	—	—	—
+M5CEE4	0	2	—	—	—
+M5CF11	0	2	—	—	—
+M5CFB1	0	1	—	—	—
+M5G7D8	675	2	PF00264 (Tyrosinase)	—	57-346: Tyrosinase copper-binding
+M7C0T4	515	1	PF00264 (Tyrosinase)	—	214-231: Tyrosinase copper-binding; 375-386: Tyrosinase copper-binding
+M7SCY3	339	1	PF00264 (Tyrosinase)	—	256-267: Tyrosinase copper-binding
+M7SWL2	389	2	PF00264 (Tyrosinase)	—	306-317: Tyrosinase copper-binding
+M9MF75	0	1	—	—	—
+N1QEA3	331	1	PF00264 (Tyrosinase)	—	93-110: Tyrosinase copper-binding; 260-271: Tyrosinase copper-binding
+N1RBZ8	338	2	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+N1RTX1	569	3	PF00264 (Tyrosinase)	—	324-335: Tyrosinase copper-binding
+N4U6B2	0	3	—	—	—
+N4UL04	0	1	—	—	—
+N4UQ85	0	1	—	—	—
+O97885	329	1	PF00264 (Tyrosinase)	—	32-49: Tyrosinase copper-binding
+P55027	534	2	PF00053 (EGF_laminin); PF00264 (Tyrosinase)	PF00053 (EGF_laminin)	—
+Q0FSM9	580	3	PF00264 (Tyrosinase)	—	343-354: Tyrosinase copper-binding
+Q287T6	445	2	PF00264 (Tyrosinase)	—	308-319: Tyrosinase copper-binding
+Q2KH48	0	2	—	—	—
+Q2TWH3	318	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+Q2U7F6	364	1	PF00264 (Tyrosinase)	—	287-298: Tyrosinase copper-binding
+Q5AXC0	674	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	90-107: Tyrosinase copper-binding; 384-395: Tyrosinase copper-binding
+Q7PCK9	541	1	PF00264 (Tyrosinase)	—	215-232: Tyrosinase copper-binding
+Q876W6	337	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+Q876X8	337	2	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+Q8J130	630	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	—
+Q8J2V6	299	1	PF00264 (Tyrosinase)	—	87-104: Tyrosinase copper-binding
+Q9ZN72	0	1	—	—	—
+R1CU85	0	2	—	—	—
+R1CV39	0	3	—	—	—
+S0DQZ0	378	1	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+S0EEY2	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+S0EK23	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+S5UXE3	273	1	PF00264 (Tyrosinase)	—	54-71: Tyrosinase copper-binding; 209-220: Tyrosinase copper-binding
+S7QB03	389	2	PF00264 (Tyrosinase)	—	290-301: Tyrosinase copper-binding
+S7RR67	359	1	PF00264 (Tyrosinase)	—	273-284: Tyrosinase copper-binding
+T0JYN4	0	1	—	—	—
+T0JZ71	0	1	—	—	—
+T0PRD1	497	2	PF00264 (Tyrosinase)	—	71-88: Tyrosinase copper-binding; 243-254: Tyrosinase copper-binding
+T0PU14	815	5	PF00024 (PAN_1); PF14295 (PAN_4); PF00264 (Tyrosinase)	PF00024 (PAN_1); PF14295 (PAN_4)	20-83: Apple; 166-233: Apple
+T0PYC1	485	2	PF00264 (Tyrosinase)	—	247-258: Tyrosinase copper-binding
+T0QF04	465	2	PF00264 (Tyrosinase)	—	67-84: Tyrosinase copper-binding; 236-247: Tyrosinase copper-binding
+T0R5J2	479	2	PF00264 (Tyrosinase)	—	71-88: Tyrosinase copper-binding; 243-254: Tyrosinase copper-binding
+T0RZX0	485	2	PF00264 (Tyrosinase)	—	73-90: Tyrosinase copper-binding
+T0S5P9	487	2	PF00264 (Tyrosinase)	—	74-91: Tyrosinase copper-binding
+U1G4R5	594	2	PF00264 (Tyrosinase); PF18132 (Tyrosinase_C)	PF18132 (Tyrosinase_C)	100-117: Tyrosinase copper-binding; 289-300: Tyrosinase copper-binding
+U1TTP3	0	2	—	—	—
+U5Y6V7	699	2	PF00264 (Tyrosinase)	—	292-303: Tyrosinase copper-binding
+V2X5U0	344	1	PF00264 (Tyrosinase)	—	90-107: Tyrosinase copper-binding; 269-280: Tyrosinase copper-binding
+V2XA83	389	1	PF00264 (Tyrosinase)	—	140-157: Tyrosinase copper-binding
+V2YHW2	346	1	PF00264 (Tyrosinase)	—	89-106: Tyrosinase copper-binding; 271-282: Tyrosinase copper-binding
+V4AN59	525	1	PF00264 (Tyrosinase)	—	119-136: Tyrosinase copper-binding; 262-273: Tyrosinase copper-binding
+V5F1K6	328	1	PF00264 (Tyrosinase)	—	96-113: Tyrosinase copper-binding
+V6JZ27	288	2	PF00264 (Tyrosinase)	—	55-72: Tyrosinase copper-binding; 219-230: Tyrosinase copper-binding
+V7D4V9	0	2	—	—	—
+V9CZH8	0	1	—	—	—
+V9DEV2	0	1	—	—	—
+V9E917	495	2	PF00264 (Tyrosinase)	—	74-266: Tyrosinase copper-binding
+V9EB77	450	3	PF00264 (Tyrosinase)	—	29-221: Tyrosinase copper-binding
+V9EVI6	546	2	PF00264 (Tyrosinase)	—	256-267: Tyrosinase copper-binding
+V9V1D4	0	3	—	—	—
+W2I6U4	0	2	—	—	—
+W2I6Y9	0	3	—	—	—
+W2IN56	0	2	—	—	—
+W2KB90	0	2	—	—	—
+W2MH14	0	2	—	—	—
+W2PMT3	0	3	—	—	—
+W2PPJ1	0	2	—	—	—
+W2PY30	0	2	—	—	—
+W2RIM6	390	1	PF00264 (Tyrosinase)	—	117-134: Tyrosinase copper-binding
+W2SF58	387	1	PF00264 (Tyrosinase)	—	113-130: Tyrosinase copper-binding
+W2SHB1	363	1	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding
+W2W5P6	0	2	—	—	—
+W2W6T1	0	3	—	—	—
+W2WMR4	0	2	—	—	—
+W2YEN6	0	2	—	—	—
+W2YF51	0	2	—	—	—
+W2YZ31	0	2	—	—	—
+W3VR61	329	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+W3XKA5	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+W3XL66	339	1	PF00264 (Tyrosinase)	—	253-264: Tyrosinase copper-binding
+W4FLQ6	0	4	—	—	—
+W4FWJ0	0	3	—	—	—
+W4H0X6	0	2	—	—	—
+W4H175	0	3	—	—	—
+W4HDG1	503	2	PF00264 (Tyrosinase)	—	92-109: Tyrosinase copper-binding
+W4JV62	362	2	PF00264 (Tyrosinase)	—	95-112: Tyrosinase copper-binding
+W4K9G6	329	2	PF00264 (Tyrosinase)	—	63-80: Tyrosinase copper-binding
+W6XVD7	294	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding
+W7EVG9	334	1	PF00264 (Tyrosinase)	—	82-99: Tyrosinase copper-binding
+W7F1D8	287	1	PF00264 (Tyrosinase)	—	68-230: Tyrosinase copper-binding
+W7MX41	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+W7N1T7	307	1	PF00264 (Tyrosinase)	—	65-82: Tyrosinase copper-binding; 229-240: Tyrosinase copper-binding
+W7N7V8	338	1	PF00264 (Tyrosinase)	—	88-105: Tyrosinase copper-binding
+W9HKZ6	0	3	—	—	—
+W9HTB0	0	1	—	—	—
+W9HWL9	0	1	—	—	—
+W9JDD1	0	1	—	—	—
+W9JHD7	0	1	—	—	—
+W9JX29	0	3	—	—	—
+W9NIJ9	0	3	—	—	—
+W9NP81	0	3	—	—	—
+W9NQH6	0	1	—	—	—
+W9PB89	0	1	—	—	—
+W9VMR6	368	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+W9VXV1	384	1	PF00264 (Tyrosinase)	—	115-132: Tyrosinase copper-binding
+W9W212	368	1	PF00264 (Tyrosinase)	—	98-115: Tyrosinase copper-binding
+W9WQA9	387	1	PF00264 (Tyrosinase)	—	118-135: Tyrosinase copper-binding
+W9XSH8	376	1	PF00264 (Tyrosinase)	—	106-123: Tyrosinase copper-binding
+W9Y3F5	379	1	PF00264 (Tyrosinase)	—	109-126: Tyrosinase copper-binding
+W9YKS7	384	1	PF00264 (Tyrosinase)	—	98-321: Tyrosinase copper-binding
+W9YQ03	379	1	PF00264 (Tyrosinase)	—	93-317: Tyrosinase copper-binding
+W9YYG2	0	2	—	—	—
+W9YZK1	0	3	—	—	—
+W9ZGG9	0	1	—	—	—
+W9ZTK4	0	1	—	—	—
+X0C1C7	600	3	PF00264 (Tyrosinase)	—	355-366: Tyrosinase copper-binding
+X0C2Q9	324	1	PF00264 (Tyrosinase)	—	67-268: Tyrosinase copper-binding
+X0HP82	0	3	—	—	—
+X0HS28	0	1	—	—	—
+X0HXW6	0	1	—	—	—
+X0K306	0	2	—	—	—
+X0KLF2	0	3	—	—	—
+X0LE01	0	3	—	—	—
+X0LKA4	0	1	—	—	—
+X0MMS0	0	1	—	—	—
+X8J2P3	0	2	—	—	—
+X8J344	0	1	—	—	—
+X8J3V1	0	1	—	—	—
+X8J3V9	0	1	—	—	—
+X8J9M9	0	1	—	—	—
+X8J9Q9	0	2	—	—	—
+X8JHD7	0	2	—	—	—
+X8JJS5	0	1	—	—	—
+X8JTX8	0	1	—	—	—

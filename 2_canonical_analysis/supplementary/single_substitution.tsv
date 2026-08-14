@@ -1,0 +1,36 @@
+position	residue	tier	n	one_step_from
+Val218	S	variable	170	DCT:149; TYR:20; hemocyanin:1
+Trp68	Y	high	21	TYR:13; CaOx:8
+Asn205	P	intermediate	21	oMP:20; TYR:1
+Asn205	L	intermediate	16	CaOx:15; oMP:1
+His230	Y	high	11	TYR:11
+Phe65	Y	high	10	DHICA ox:10
+Arg209	E	variable	9	TYR:8; hemocyanin:1
+Arg209	P	variable	9	TYR:5; hemocyanin:4
+Asn205	V	intermediate	9	oMP:5; AUS:2; CaOx:2
+Arg209	H	variable	8	oMP:6; TYR:2
+Glu195	R	intermediate	8	DHICA ox:6; TYR:2
+Val218	Y	variable	8	TYR:7; CaOx:1
+Trp68	L	high	7	CaOx:6; TYR:1
+Asn205	Q	intermediate	6	oMP:6
+His230	F	high	5	TYR:5
+Asn205	M	intermediate	5	TYR:5
+Trp68	S	high	4	oMP:3; CaOx:1
+Glu195	D	intermediate	3	oMP:3
+Phe227	M	high	2	DCT:2
+Asn205	H	intermediate	2	TYR:2
+Glu195	T	intermediate	2	TYR:1; oMP:1
+Glu195	K	intermediate	2	TYR:2
+His230	Q	high	2	TYR:1; oMP:1
+Ala221	N	intermediate	1	oMP:1
+Val218	E	variable	1	TYR:1
+Trp68	V	high	1	TYR:1
+Ala221	G	intermediate	1	CaOx:1
+His230	T	high	1	TYR:1
+Glu195	F	intermediate	1	DCT:1
+Arg209	C	variable	1	TYR:1
+His230	R	high	1	TYR:1
+His230	A	high	1	TYR:1
+Val218	R	variable	1	TYR:1
+Asn205	R	intermediate	1	TYR:1
+Asn205	F	intermediate	1	TYR:1

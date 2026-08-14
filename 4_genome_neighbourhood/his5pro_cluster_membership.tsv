@@ -1,0 +1,132 @@
+accession	genus	species	n_neighbours	n_ustya	closest_ustya_offset	has_TF	has_transporter	has_P450	has_OMT	bgc_context
+A0A8J9R8H5	Diaporthe	Diaporthe leptostromiformis	15	5	1	1	1	0	0	UstYa_cluster
+A0ABR1T514	Apiospora	Apiospora rasikravindrae	20	4	1	1	1	0	0	UstYa_cluster
+A0ABR1QFP3	Apiospora	Apiospora aurea	20	4	1	1	1	0	0	UstYa_cluster
+A0ABR1X4W4	Apiospora	Apiospora hydei	20	4	1	1	1	0	0	UstYa_cluster
+A0A2J6PRK0	Hyaloscypha	Hyaloscypha hepaticicola	20	3	1	1	1	0	0	UstYa_cluster
+A0A384K4W6	Botrytis	Botrytis cinerea	20	3	1	0	0	0	0	UstYa_cluster
+A0A6A6C2M9	Zasmidium	Zasmidium cellare	20	3	1	0	1	0	0	UstYa_cluster
+A0A9X0AKU8	Sclerotinia	Sclerotinia nivalis	20	3	1	0	1	1	1	UstYa_cluster
+A0A139HAY5	Pseudocercospora	Pseudocercospora eumusae	20	2	1	0	0	0	0	UstYa_cluster
+A0A0L0NB41	Tolypocladium	Tolypocladium ophioglossoides	20	2	1	0	1	0	0	UstYa_cluster
+A0A1L7T8U3	Fusarium	Fusarium mangiferae	20	2	1	1	1	0	0	UstYa_cluster
+A0A1L7V991	Fusarium	Fusarium proliferatum	20	2	1	1	1	0	0	UstYa_cluster
+A0A1X7RVT3	Zymoseptoria	Zymoseptoria tritici	20	2	1	0	0	0	0	UstYa_cluster
+A0A317VMA5	Aspergillus	Aspergillus heteromorphus	20	2	1	0	1	0	0	UstYa_cluster
+A0A2V5IDW1	Aspergillus	Aspergillus indologenus	20	2	1	1	1	0	0	UstYa_cluster
+A0A443HXX0	Paecilomyces	Paecilomyces variotii	20	2	1	1	1	0	1	UstYa_cluster
+A0A5N7DKE9	Aspergillus	Aspergillus pseudonomiae	20	2	1	1	0	0	1	UstYa_cluster
+A0A6A5TLY8	Byssothecium	Byssothecium circinans	20	2	1	1	1	0	0	UstYa_cluster
+A0A7R8ARR0	Aspergillus	Aspergillus puulaauensis	20	2	1	0	0	0	1	UstYa_cluster
+A0A8H6N7U5	Colletotrichum	Colletotrichum musicola	12	2	1	0	0	0	0	UstYa_cluster
+A0A8K0R3D6	Paraphoma	Paraphoma chrysanthemicola	20	2	1	1	0	0	0	UstYa_cluster
+A0A9P4QMU1	Polyplosphaeria	Polyplosphaeria fusca	16	2	1	0	1	1	1	UstYa_cluster
+A0A9P9KNI3	Fusarium	Fusarium redolens	20	2	1	1	1	0	0	UstYa_cluster
+A0AA38RAI0	Pleurostoma	Pleurostoma richardsiae	20	2	1	1	1	1	0	UstYa_cluster
+A0ABR4CF27	Oculimacula	Oculimacula yallundae	20	2	1	1	1	0	0	UstYa_cluster
+A0ACC2ID33	Nemania	Nemania bipapillata	2	2	1	0	0	0	0	UstYa_cluster
+S0DQZ0	Fusarium	Fusarium fujikuroi	20	2	1	1	1	0	0	UstYa_cluster
+A0A6A6VU64	Pseudovirgaria	Pseudovirgaria hyperparasitica	20	2	2	1	0	0	1	UstYa_cluster
+A0A8H3IDD5	Alectoria	Alectoria fallacina	20	2	2	1	0	0	1	UstYa_cluster
+A0A8H4RXM0	Cudoniella	Cudoniella acicularis	16	2	2	0	1	0	0	UstYa_cluster
+A0A8H6L0G3	Letharia	Letharia columbiana	20	2	2	1	0	0	1	UstYa_cluster
+A0A9N9KL52	Hymenoscyphus	Hymenoscyphus fraxineus	20	2	2	0	0	1	1	UstYa_cluster
+A0AAD9ECK1	Colletotrichum	Colletotrichum chrysophilum	17	2	2	1	1	0	0	UstYa_cluster
+A0AAD4NRB5	Alternaria	Alternaria panax	20	2	2	0	0	0	0	UstYa_cluster
+A0ABY0G5N1	Alternaria	Alternaria tenuissima	17	2	2	0	1	0	0	UstYa_cluster
+A0A2T3ZXK1	Trichoderma	Trichoderma harzianum	20	2	3	1	1	0	0	UstYa_cluster
+A0A6A6HHK4	Viridothelium	Viridothelium virens	20	2	3	0	1	0	1	UstYa_cluster
+A0A8H3I335	Gomphillus	Gomphillus americanus	20	2	3	1	1	0	1	UstYa_cluster
+A0A8H7BB98	Alternaria	Alternaria burnsii	20	2	3	1	1	0	1	UstYa_cluster
+A0A8H7W0M8	Cadophora	Cadophora malorum	14	2	4	0	0	0	0	UstYa_cluster
+A0ABR4BR18	Oculimacula	Oculimacula yallundae	20	2	4	0	1	0	0	UstYa_cluster
+A0A175W3Y2	Madurella	Madurella mycetomatis	16	1	1	0	1	0	0	UstYa_cluster
+A0A2L2TIX2	Fusarium	Fusarium venenatum	20	1	1	1	1	0	0	UstYa_cluster
+A0A4Z0YK01	Xylaria	Xylaria hypoxylon	20	1	1	0	0	0	0	UstYa_cluster
+A0A6A6JAY1	Westerdykella	Westerdykella ornata	11	1	1	1	0	0	0	UstYa_cluster
+A0A8H5MQC7	Fusarium	Fusarium napiforme	13	1	1	1	1	0	0	UstYa_cluster
+A0A8H5UC91	Fusarium	Fusarium circinatum	14	1	1	1	1	0	0	UstYa_cluster
+A0AAD9AZ26	Colletotrichum	Colletotrichum chrysophilum	20	1	1	0	1	0	0	UstYa_cluster
+A0A9X0AXG5	Sclerotinia	Sclerotinia nivalis	20	1	1	1	0	0	0	UstYa_cluster
+A0AAI8YWT9	Lecanosticta	Lecanosticta acicola	20	1	1	0	0	0	0	UstYa_cluster
+A0ABQ0GAI5	Madurella	Madurella fahalii	20	1	1	1	1	0	0	UstYa_cluster
+A0ACC1QNQ0	Lecanicillium	Lecanicillium saksenae	4	1	1	0	0	0	0	UstYa_cluster
+A0A167BRG2	Colletotrichum	Colletotrichum incanum	13	1	2	0	1	1	0	UstYa_cluster
+A0A166TEN8	Colletotrichum	Colletotrichum tofieldiae	20	1	2	0	0	1	0	UstYa_cluster
+A0A7C8MC86	Massariosphaeria	Massariosphaeria phaeospora	20	1	2	0	1	0	1	UstYa_cluster
+A0A8H3IAU0	Imshaugia	Imshaugia aleurites	20	1	2	1	0	0	1	UstYa_cluster
+A0A8H3W909	Colletotrichum	Colletotrichum asianum	20	1	2	1	1	0	0	UstYa_cluster
+A0A8H4FHG1	Colletotrichum	Colletotrichum gloeosporioides	19	1	2	1	1	0	0	UstYa_cluster
+A0A7J6IXY4	Colletotrichum	Colletotrichum fructicola	20	1	2	1	1	0	0	UstYa_cluster
+A0A8H5XW17	Fusarium	Fusarium globosum	11	1	2	1	1	0	0	UstYa_cluster
+A0A8H8RL10	Lachnellula	Lachnellula subtilissima	5	1	2	0	0	0	1	UstYa_cluster
+A0A8H8U2D2	Lachnellula	Lachnellula hyalina	20	1	2	0	0	0	1	UstYa_cluster
+A0A9P4JTW6	Delitschia	Delitschia confertaspora	20	1	2	0	0	1	0	UstYa_cluster
+A0A9P6LG06	Colletotrichum	Colletotrichum karsti	10	1	2	0	1	0	0	UstYa_cluster
+A0AA37LRM6	Colletotrichum	Colletotrichum liriopes	20	1	2	0	0	0	0	UstYa_cluster
+A0AAD9YE83	Colletotrichum	Colletotrichum kahawae	20	1	2	1	1	0	0	UstYa_cluster
+A0AAJ0HSA6	Lasiosphaeria	Lasiosphaeria hispida	20	1	2	0	1	0	0	UstYa_cluster
+A0ABR3UTG0	Alternaria	Alternaria dauci	20	1	2	0	0	0	0	UstYa_cluster
+A0A8H5V6E6	Fusarium	Fusarium tjaetaba	15	1	3	1	1	0	0	UstYa_cluster
+A0AAX4IJG7	Colletotrichum	Colletotrichum destructivum	20	1	3	0	1	1	0	UstYa_cluster
+A0A8H2VQV0	Sclerotinia	Sclerotinia trifoliorum	20	1	5	0	1	1	0	UstYa_cluster
+A0ABR0S881	Cladobotryum	Cladobotryum mycophilum	20	1	8	1	1	0	0	UstYa_cluster
+A0A168EXD0	Beauveria	Beauveria brongniartii	2	0		0	0	0	0	none
+A0A084AJL7	Stachybotrys	Stachybotrys chartarum	17	0		0	1	0	0	none
+A0A066X3Q1	Colletotrichum	Colletotrichum sublineola	10	0		1	0	0	0	none
+A0A084R1I5	Stachybotrys	Stachybotrys chlorohalonatus	20	0		0	1	0	0	none
+A0A0D9NQW1	Metarhizium	Metarhizium anisopliae	20	0		0	0	1	0	none
+A0A0F4GBJ7	Zymoseptoria	Zymoseptoria brevis	19	0		1	0	0	0	none
+A0A072Q6Y5	Exophiala	Exophiala aquamarina	20	0		1	0	0	0	none
+A0A093R256	Phalacrocorax	Phalacrocorax carbo	1	0		0	0	0	0	none
+A0A167AFV0	Colletotrichum	Colletotrichum incanum	20	0		0	1	1	0	BGC_accessory
+A0A1G4BKS1	Colletotrichum	Colletotrichum orchidophilum	20	0		0	0	1	0	none
+A0A1Q8RT46	Colletotrichum	Colletotrichum chlorophyti	20	0		0	1	1	0	BGC_accessory
+A0A2J6QS19	Hyaloscypha	Hyaloscypha variabilis	19	0		1	1	1	0	BGC_accessory
+A0A1X7RU91	Zymoseptoria	Zymoseptoria tritici	20	0		1	0	0	0	none
+A0A2V1D8S9	Periconia	Periconia macrospinosa	19	0		0	0	1	0	none
+A0A3E2HCJ3	Scytalidium	Scytalidium lignicola	15	0		1	1	0	0	BGC_accessory
+A0A4U0XT20	Friedmanniomyces	Friedmanniomyces simplex	20	0		0	1	0	0	none
+A0A4Y8D0V3	Botryotinia	Botryotinia calthae	10	0		0	0	0	0	none
+A0A4Z1NUI9	Venturia	Venturia nashicola	20	0		0	0	1	0	none
+A0A4U0VS63	Friedmanniomyces	Friedmanniomyces simplex	1	0		0	0	0	0	none
+A0A6A6CBF1	Zasmidium	Zasmidium cellare	20	0		1	1	0	0	BGC_accessory
+A0A4Z1FR91	Botrytis	Botrytis paeoniae	20	0		0	1	1	0	BGC_accessory
+A0A6G1IEP5	Lentithecium	Lentithecium fluviatile	15	0		0	0	0	0	none
+A0A6H0Y3Z6	Peltaster	Peltaster fructicola	20	0		0	0	0	0	none
+A0A7D5Z0B1	Metarhizium	Metarhizium brunneum	20	0		0	0	1	0	none
+A0A6A6VF46	Sporormia	Sporormia fimetaria	20	0		0	0	0	0	none
+A0A7K7RZM1	Nesospiza	Nesospiza acunhae	3	0		0	0	0	0	none
+A0A8H3VC67	Venturia	Venturia inaequalis	12	0		0	0	1	0	none
+A0A8H4JHW9	Fusarium	Fusarium acutatum	17	0		1	1	0	0	BGC_accessory
+A0A8H4Z0P3	Fusarium	Fusarium anthophilum	15	0		1	1	0	0	BGC_accessory
+A0A8H4RK75	Cudoniella	Cudoniella acicularis	10	0		0	0	1	0	none
+A0A8K0T8Y5	Plectosphaerella	Plectosphaerella cucumerina	20	0		1	1	0	0	BGC_accessory
+A0A9P7HU99	Fusarium	Fusarium xylarioides	13	0		1	1	0	0	BGC_accessory
+A0A9P5IJI5	Botrytis	Botrytis byssoidea	20	0		1	1	1	0	BGC_accessory
+A0A8T9AZC4	Lachnellula	Lachnellula arida	3	0		0	0	0	1	none
+A0A9W7T0I7	Teratosphaeria	Teratosphaeria destructans	13	0		0	0	0	0	none
+A0A9P9AG59	Plectosphaerella	Plectosphaerella plurivora	20	0		0	1	0	0	none
+A0A9P8DKY9	Fusarium	Fusarium musae	20	0		1	1	0	0	BGC_accessory
+A0AA38XVF3	Knufia	Knufia peltigerae	20	0		1	0	0	0	none
+A0AAD8PIW8	Colletotrichum	Colletotrichum navitas	4	0		0	1	0	0	none
+A0A9Q8LKP3	Fulvia	Fulvia fulva	20	0		1	0	1	0	BGC_accessory
+A0AA39GKR5	Sarocladium	Sarocladium strictum	20	0		1	1	0	0	BGC_accessory
+A0A9W9IRY5	Penicillium	Penicillium capsulatum	20	0		1	0	0	1	BGC_accessory
+A0AAD9HBC0	Colletotrichum	Colletotrichum zoysiae	20	0		1	1	0	0	BGC_accessory
+A0AAJ0DBW4	Extremus	Extremus antarcticus	20	0		0	1	0	0	none
+A0AAN6H7M5	Friedmanniomyces	Friedmanniomyces endolithicus	14	0		0	1	0	0	none
+A0AAN6K752	Friedmanniomyces	Friedmanniomyces endolithicus	20	0		0	1	0	0	none
+A0AAN6KA23	Friedmanniomyces	Friedmanniomyces endolithicus	20	0		0	1	0	0	none
+A0AAN7GQ08	Podospora	Podospora fimiseda	20	0		1	1	0	0	BGC_accessory
+A0AAV9J8F3	Oleoguttula	Oleoguttula mirabilis	13	0		1	1	0	0	BGC_accessory
+A0AAE0WXT6	Recurvomyces	Recurvomyces mirabilis	20	0		0	0	0	0	none
+A0AAV9N1J6	Exophiala	Exophiala bonariae	20	0		1	1	0	0	BGC_accessory
+A0AAI8YZG9	Lecanosticta	Lecanosticta acicola	20	0		0	0	0	0	none
+A0ABR0JJU7	Exophiala	Exophiala sideris	20	0		0	1	1	0	BGC_accessory
+A0ABR0EHV5	Zasmidium	Zasmidium cellare	20	0		0	1	0	0	none
+A0ABQ7J1C5	Botrytis	Botrytis deweyae	20	0		1	1	1	0	BGC_accessory
+E3QWQ8	Colletotrichum	Colletotrichum graminicola	12	0		1	1	0	0	BGC_accessory
+A0ACC3SCJ8	Zalaria	Zalaria obscura	20	0		0	1	0	0	none
+E9FAB7	Metarhizium	Metarhizium robertsii	20	0		0	0	1	0	none
+G2QVS9	Thermothielavioides	Thermothielavioides terrestris	20	0		0	1	0	0	none

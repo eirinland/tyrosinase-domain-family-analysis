@@ -1,0 +1,9 @@
+Group	n	n_context	Conserved neighbourhood	Freq. (%)	Marker proteins
+G46N	187	97	Aminoshikimate pathway	71	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase; 3-dehydroquinate synthase II; aspartate kinase
+G46Y	68	31	Chaplin / exopolysaccharide biosynthesis	58	Chaplin; exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase; O-antigen ligase
+G46I	65	32	Melanin copper-chaperone MelC1	34	Tyrosinase cofactor MelC1; tyrosinase MelC2
+G46T	279	10	Tryptophan / scytonemin biosynthesis	60	Anthranilate phosphoribosyltransferase; tryptophan synthase (alpha/beta); anthranilate synthase; scytonemin biosynthesis protein ScyF
+V218E	99	12	Protocatechuate catabolism	67	4-carboxymuconolactone decarboxylase; GntR family transcriptional regulator; NAD(P)-dependent oxidoreductase
+N205R	143	14	Bacillithiol biosynthesis	57	N-acetyl-alpha-D-glucosaminyl L-malate synthase BshA; sugar transferase; sugar O-acyltransferase NeuD family
+H5Pro	178	95	UstYa-type BGC	40	MFS transporter; cytochrome P450; acyltransferase; HET domain-containing protein
+H6Gln	43	39	Conserved non-BGC locus	95	Zinc carboxypeptidase; RIO1 family protein kinase; cutinase; amidohydrolase; sulfotransferase

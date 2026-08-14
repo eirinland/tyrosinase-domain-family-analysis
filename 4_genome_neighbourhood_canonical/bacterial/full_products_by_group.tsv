@@ -1,0 +1,244 @@
+product	Ala221_L	Arg209_C	Arg209_E	Arg209_H	Arg209_P	Asn205_F	Asn205_R	Asn205_V	Glu195_A	Glu195_D	Glu195_F	Glu195_I	Glu195_K	Glu195_N	Glu195_R	Glu195_S	Glu195_Y	Gly46_A	Gly46_D	Gly46_H	Gly46_I	Gly46_L	Gly46_T	Gly46_Y	His230_F	His230_I	His230_M	His230_T	His230_V	His230_Y	Phe227_V	Phe65_I	Phe65_Y	Trp68_V	Val218_E	Val218_R	Val218_S	Val218_Y
+(fe-s)-binding protein	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+2-amino-4,5-dihydroxy-6-one-heptanoic acid-7-phosphate synthase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2-isopropylmalate synthase	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3-dehydroquinate synthase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3-deoxy-7-phosphoheptulonate synthase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+4-carboxymuconolactone decarboxylase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+4-hydroxy-tetrahydrodipicolinate reductase	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4fe-4s dicluster domain-containing protein	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+50s ribosome-binding gtpase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+6-phospho-beta-glucosidase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+abc transporter atp-binding protein	0	2	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	1	4	1	0	0	1	2	0	0	1	5	1	0	1	0	0	0	3	1
+abc transporter atpase	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+abc transporter permease	0	0	0	0	0	0	0	0	1	2	0	2	0	2	0	0	0	2	0	0	1	3	0	0	4	2	0	0	2	3	2	0	2	0	0	1	2	3
+abc transporter substrate-binding protein	0	2	0	2	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	6	2	0	0	2	0	0	0	0	7	0	0	1	0	0	0	1	0
+acetyl-coa carboxylase carboxyltransferase subunit alpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+acetyltransferase	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+acyl-coa dehydrogenase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	0	1	1	0
+acyl-coa thioesterase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+aldo/keto reductase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	8	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	1
+alpha/beta hydrolase	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	0	1	0	0	0	0	1	1	4	3	0	0	0	0	0	1	2	0	4	1	9	0
+amino acid adenylation domain-containing protein	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+amino acid permease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+aminoglycoside phosphotransferase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anthranilate phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anthranilate synthase	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+antitoxin	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+asnc family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0
+aspartate kinase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0
+atp-binding cassette domain-containing protein	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	1	0	1
+atp-binding protein	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	7	0	0	9	1	0	0	0	3	0	0	0	0	0	0	4	3	0
+atp-grasp domain-containing protein	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+atpase	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+badf/badg/bcra/bcrd atpase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+beta-glucanase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+biopolymer transporter exbb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+biopolymer transporter exbd	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0
+carbamoyl-phosphate synthase large chain	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+carbamoyl-phosphate synthase small chain	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+carbohydrate abc transporter permease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+catalase-peroxidase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0
+cellulose-binding domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+chaperone protein dnaj	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+chaperone protein dnak	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+chaplin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	2	0	0	0	0	0	0	0	2	0
+chitinase	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+class i sam-dependent methyltransferase	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	1	0	0	2	1	0	0	0	0	0	4	2
+cof synthetase	0	0	0	0	0	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+conserved hypothetical protein	0	11	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	4	2	0	0	0	4	0	0	0	0	0	5	2	0	0	0	0	0	8	3	0
+cupin domain-containing protein	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	1	1	0	0	0	0	0	0	3	1	0	0	0	0	1	0	1	0	0	1	1	0
+cyclase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+cys-gln thioester bond-forming surface protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+cysteine--trna ligase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0
+cytochrome p450	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	6	0
+d-2-hydroxyacid dehydrogenase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	7	0	0	0	0	0	0	0	0	0
+dj-1/pfpi family protein	0	4	0	0	0	0	0	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	1	1	0	0	4	0	0	0	3	0
+dna polymerase iii subunit gamma/tau	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+dna repair protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0
+dna repair protein recn	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+dna-3-methyladenine glycosylase 2 family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+dna-binding protein	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	2	0
+duf2087 domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+duf2238 domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+duf3141 domain-containing protein	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+duf3344 domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+duf5949 family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+duf72 domain-containing protein	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0
+dynamin family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	3	0	0	0	0	0	0	0	1	0
+eal domain-containing protein	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0
+efflux rnd transporter periplasmic adaptor subunit	0	1	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+efflux rnd transporter permease subunit	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+efflux transporter outer membrane subunit	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+energy transducer tonb	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0
+energy-dependent translational throttle protein etta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+epoxide hydrolase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+esterase	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	3	0
+excinuclease abc subunit c	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	6	0	0	0	0	0	0	0	1	0
+fad-binding protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+fad-dependent monooxygenase	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+fad-dependent oxidoreductase	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	0	1	0
+fbp domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fdhf/ydep family oxidoreductase	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fe2+-dependent dioxygenase	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fha domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+fibronectin type iii domain-containing protein	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+filamentous hemagglutinin family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0
+filamentous hemagglutinin n-terminal domain-containing protein	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+flavin-dependent dehydrogenase	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	0	0	2	0	0	0	0	0	0	0	0	0
+formate dehydrogenase accessory sulfurtransferase fdhd	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ftsp/cota-like multicopper oxidase with cupredoxin domain	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	2	2	0	0	0	0	1	0	0	0
+globin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+glutamate abc transporter substrate-binding protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+glxa family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	0
+glycosyl transferase	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	3	0
+glycosyl transferase family 1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	4	0	0	0	0	5	0	0	0	0	0	0	0	1	0
+glycosyl transferase group 1	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+glycosyl transferase, group 1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+glycosyltransferase	1	2	0	0	0	0	5	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	8	1	0	0	0	0	0	0	6	0
+glycosyltransferase family 1 protein	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+glycosyltransferase family 4 protein	1	0	0	0	0	0	5	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	7	1	0	0	0	0	0	0	0	0	0	0	0	2	0
+gnat family n-acetyltransferase	0	3	0	4	0	0	3	0	0	6	0	3	0	0	0	0	0	0	0	0	3	0	0	3	4	2	0	0	0	2	1	1	2	0	0	0	5	0
+gntr family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	2	4	0	0	0	0	4	0	0	2	0	8	0	2	0
+heat-inducible transcription repressor hrca	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+heavy metal translocating p-type atpase	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	0	0	0	0	0
+heavy-metal-associated domain-containing protein	0	0	0	0	0	1	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	4	0	0	0	0	0	1	0
+helix-turn-helix domain-containing protein	0	0	2	1	0	0	0	0	0	4	0	1	0	0	0	0	0	0	0	0	3	2	0	1	1	3	0	0	2	2	2	0	1	0	0	0	1	0
+helix-turn-helix transcriptional regulator	0	2	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	0	6	0	1	1	2	0	0	0	0	3	0	0	2	0	1	0	2	1
+hemagglutinin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+hemoglobin like protein	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+histidine kinase	0	5	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	4	0	0	0	1	0	1	0	0	0	0	1	6	0
+hnh endonuclease	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	6	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0
+hydroxylase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hypothetical conserved protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+hypothetical protein predicted by glimmer/critica	5	0	0	0	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+iclr family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	0
+indole-3-glycerol phosphate synthase trpc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+is21 family transposase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+is256 family transposase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+l-ascorbate oxidase	0	3	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	1	0
+lipid ii flippase murj	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+lipopolysaccharide biosynthesis protein	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	3	0
+lipoprotein	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0
+llm class f420-dependent oxidoreductase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+llm class flavin-dependent oxidoreductase	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	6	0	0	0	0	0	0	0	0
+loda/goxa family ctq-dependent oxidase	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	1	0	1	0	1	0	0	0	0	0
+lrp/asnc family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0
+luxr family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	1	0	0	0	5	0	0	0	1	0	1	0	0	0	0	1	0	0
+lysr family transcriptional regulator	1	4	0	0	0	0	0	1	0	2	0	2	0	1	0	0	0	0	0	0	3	2	0	0	2	0	0	0	1	7	2	0	2	0	0	0	7	1
+marr family winged helix-turn-helix transcriptional regulator	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+mbl fold metallo-hydrolase	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	1	1	0	0	0	0	2	0	0	0	0	1	0	1
+mechanosensitive ion channel family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+membrane protein	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	8	0	0	0	0	9	2	0	0	0	0	0	0	5	0
+merr family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	1	0	0	1	1	0
+metal transporter	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+methyl-accepting chemotaxis protein	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+methyltransferase	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	3	0	0	0	3	1	0	0	0	3	1	0	3	0	0	0	2	0
+methyltransferase domain-containing protein	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+mfs transporter	1	7	0	2	0	0	0	1	0	3	0	2	1	2	0	0	1	2	0	0	11	1	0	1	2	4	0	0	2	2	8	0	1	0	0	2	2	1
+microcystin-dependent protein	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+molybdenum cofactor guanylyltransferase moba	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+multicopper oxidase domain-containing protein	0	2	0	0	0	1	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	1	1	0	0	2	0	0	0	1	0
+multicopper oxidase family protein	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	1	0	0	0	0	0	0	0
+multicopper oxidase with three cupredoxin domains (includes cell division protein ftsp and spore coat protein cota)	0	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	1	0	1	0	0	0
+murein biosynthesis protein murj	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+n-acetyl-alpha-d-glucosaminyl l-malate synthase bsha	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+nad(p)-dependent oxidoreductase	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	6	0	0	0
+nad+ synthase	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nicotinate phosphoribosyltransferase	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+no-inducible flavohemoprotein	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+nucleotidyltransferase	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+nudix domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	3	0
+o-antigen ligase family protein	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	14	1	0	0	0	2	0	0	0	0	0	0	0	1	0
+ompa family protein	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+outer membrane lipoprotein chaperone lola	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+outer membrane protein assembly factor bame	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+oxidoreductase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	4	0	0	0	0	0	2	0
+pas domain s-box protein	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1
+peptide/nickel transport system atp-binding protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+peptidoglycan-binding protein	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+peptidylprolyl isomerase	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	0	0
+phage tail collar	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+phenylacetate--coa ligase family protein	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phenylacetate-coa ligase	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+pimeloyl-acp methyl ester carboxylesterase	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	1	3	0	0	0	2	0	1	0	0	0	2	1	0	0
+polysaccharide deacetylase	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	2	0
+polysaccharide deacetylase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	2	0	0	0	0	0	0	1	1	0
+prevent-host-death protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0
+protein disulfide reductase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+protein of unknown function	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	3	0	0	0	0	1	1	0	0	0	0	0	1	0
+protein phosphatase 2c domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+putative membrane protein	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	3	0
+putative porin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+recombinase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+recombination mediator recr	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+response regulator transcription factor	0	0	0	0	0	0	0	0	1	0	0	3	0	0	0	0	0	3	0	0	1	0	0	0	1	1	0	0	0	3	1	0	2	0	0	2	0	1
+ribonuclease h	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ribonuclease hi	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	8	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+ribosomally synthesized peptide (two-chain tomm family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0
+rna polymerase sigma factor sigf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rok family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+rrf2 family transcriptional regulator	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+s-adenosylmethionine decarboxylase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+s-methyl-5'-thioadenosine phosphorylase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0
+s8 family serine peptidase	0	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	0	0	0	0	0
+sam-dependent methyltransferase	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	4	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+sco family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+scyd/scye family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+scytonemin biosynthesis pep-cterm protein scyf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+sdr family nad(p)-dependent oxidoreductase	1	0	0	0	0	0	0	1	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	6	0	0	3	3	1	1	1	0	0	1	2	0
+sdr family oxidoreductase	1	1	0	1	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	1	2	1	1	1	0	0	4	4	2	0	1	0	0	0	1	1
+serine/threonine protein kinase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+single-stranded dna-binding protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	3	0	1	0	0	0	0	0	1	0
+single-stranded-dna-specific exonuclease recj	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+site-specific integrase	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	2	0	1	0	0	0	0	0
+ssga family sporulation/cell division regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+substrate-binding domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	5	0	0	1	0	0	0	0	0
+succinate dehydrogenase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+succinate dehydrogenase/fumarate reductase iron-sulfur subunit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+sugar abc transporter permease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+sugar o-acyltransferase, sialic acid o-acetyltransferase neud family	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+sugar transferase	0	0	0	0	0	0	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	4	0
+sulfate adenylyltransferase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+surface-anchored protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+tetr family transcriptional regulator	0	1	0	0	0	0	0	0	0	1	0	2	0	1	0	0	0	1	0	0	4	0	0	1	4	1	0	0	1	0	5	0	1	0	0	2	4	0
+tetr/acrr family transcriptional regulator	0	2	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	4	2	4	0	2	0	0	1	1	0
+tetratricopeptide repeat protein	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	3	0	1	1	2	2	0	0	0	0	0	0	1	0	0	1	2	0
+tonb-dependent receptor	0	2	0	0	0	0	7	0	0	4	1	1	0	0	0	0	0	1	0	1	0	0	0	0	0	2	0	0	2	1	1	0	1	0	0	0	1	0
+tonb-dependent siderophore receptor	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+tqxa domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+transcription elongation factor grea	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+transcriptional regulator	0	0	0	0	0	0	0	0	0	2	0	1	0	1	1	0	0	1	0	0	6	2	0	0	3	2	0	0	1	0	2	0	0	0	0	2	5	0
+transcriptional regulator, asnc family	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+transferase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	0	2	0
+transposase	0	0	0	0	1	0	0	0	0	4	0	2	0	0	0	0	0	0	1	0	0	0	0	1	5	8	0	0	0	5	5	0	2	0	0	1	1	0
+transposase dde domain-containing protein	0	0	0	0	1	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+trna lysidine(34) synthetase tils	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+tryptophan synthase subunit alpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tryptophan synthase subunit beta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+type i dna topoisomerase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+type ii secretion system atpase gspe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+type ii secretion system inner membrane protein gspf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0
+type ii secretion system minor pseudopilin gspk	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+type ii secretion system protein gspe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+type ii secretion system protein gspl	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0
+type ii secretion system protein gspm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+type ii secretion system secretin gspd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+type ii toxin-antitoxin system rele/pare family toxin	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	2	0
+tyrosinase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	7	0	0	0	1	5	0	0	0	0	0	0	0	8	0
+tyrosinase co-factor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+tyrosinase co-factor melc1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	7	1	0
+tyrosinase cofactor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	1	0	9	0	0	0	0	4	0	0	0	0	0	0	0	3	0
+tyrosinase family oxidase copper chaperone	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	6	0	0	0	0	0	0	0	0	0	0	0	7	1	0
+udp-2,3-diacylglucosamine diphosphatase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+uma2 family endonuclease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	3	0	0	0	0	0	0	0	0	0
+uncharacterized protein duf3141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+universal stress protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+vitamin k epoxide reductase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+voc family protein	0	1	0	1	0	0	0	0	0	1	1	0	0	0	0	0	3	0	0	0	14	1	0	1	0	0	0	2	0	0	0	0	0	0	0	1	2	1
+vwa domain-containing protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+xre family transcriptional regulator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+ybab/ebfc family nucleoid-associated protein	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+yfjp family gtpase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+zinc-binding alcohol dehydrogenase family protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
