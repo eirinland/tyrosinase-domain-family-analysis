@@ -10,9 +10,10 @@ import csv, re, sys
 from collections import defaultdict
 import openpyxl
 
-PIPE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
-CTERM = f"{PIPE}/foldseek/pools/cterm_domain_similarity/c3_fungi"
-CLUST08 = f"{PIPE}/foldseek/pools/results/cluster_cluster.tsv"
+import os
+PIPE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))  # repo root
+CTERM = f"{PIPE}/5_foldseek/pools/cterm_domain_similarity/c3_fungi"
+CLUST08 = f"{PIPE}/5_foldseek/pools/results/cluster_cluster.tsv"
 SUB07 = f"{CTERM}/sub07/clu_cluster.tsv"
 MAN = f"{CTERM}/manifest.csv"
 TAX = f"{PIPE}/taxonomy_lookup.csv"

@@ -14,10 +14,7 @@ from collections import defaultdict
 from pathlib import Path
 
 WORK = Path(__file__).parent
-STAGE3 = Path('/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/'
-              'Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/'
-              'New_bioinf/bioinf_redo/Super_reference_pipeline/3_noncanonical_analysis/'
-              'helix_and_gap_filtered_structures.tsv')
+STAGE3 = WORK.parent / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
 OUT = WORK / 'his5pro_cluster_membership.tsv'
 
 MARKERS = {

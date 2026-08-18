@@ -33,10 +33,7 @@ _CANDIDATES = []
 if '__file__' in globals():
     _CANDIDATES.append(os.path.dirname(os.path.abspath(__file__)))
 _CANDIDATES.append(os.getcwd())
-_CANDIDATES.append('/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/'
-                   'Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/'
-                   'New_bioinf/bioinf_redo/Super_reference_pipeline/2_canonical_analysis/'
-                   'visualisation')
+# (no absolute fallback: the folder is portable, so __file__/cwd are the anchors)
 HERE = next((d for d in _CANDIDATES if os.path.isdir(os.path.join(d, 'Structures'))),
             _CANDIDATES[-1])
 STRUCT_DIR = os.path.join(HERE, 'Structures')

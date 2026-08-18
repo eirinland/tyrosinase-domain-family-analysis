@@ -27,7 +27,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, quote
 
 WORK = Path(__file__).parent
-STAGE3 = WORK.parent / 'Super_reference_pipeline' / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
+STAGE3 = WORK.parent / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
 
 OUT_XREFS = WORK / 'h6gln_genome_crossrefs.tsv'
 OUT_NB = WORK / 'h6gln_neighbourhoods.tsv'

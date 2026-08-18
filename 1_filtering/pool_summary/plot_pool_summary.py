@@ -11,11 +11,8 @@ import numpy as np
 import pandas as pd
 import os
 
-import platform
-if platform.system() == "Darwin":
-    BASE = "/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/New_bioinf/bioinf_redo/Super_reference_pipeline"
-else:
-    BASE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
+from pathlib import Path as _P
+BASE = str(_P(__file__).resolve().parents[2])   # repo root
 OUTDIR = f"{BASE}/1_filtering/pool_summary"
 
 C_CAN = "#0570B0"

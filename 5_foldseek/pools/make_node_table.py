@@ -8,7 +8,7 @@ if len(sys.argv) < 2:
 
 tm_label = sys.argv[1]
 
-BASE = Path('/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/foldseek/pools')
+BASE = Path(__file__).resolve().parent          # 5_foldseek/pools
 OUTDIR = BASE / ('all_vs_all_' + tm_label)
 
 if tm_label == 'tm08':
@@ -17,8 +17,8 @@ else:
     CLUSTER_TSV = BASE / tm_label / 'results' / 'cluster_cluster.tsv'
 
 REP_CSV = OUTDIR / 'rep_accessions.csv'
-TAXONOMY = Path('/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/taxonomy_lookup.csv')
-AGGER_XLSX = Path('/cluster/work/projects/nn1003k/eirin/bioinf/Agger_sequences_and_groups.xlsx')
+TAXONOMY = BASE.parents[1] / 'taxonomy_lookup.csv'
+AGGER_XLSX = BASE.parents[1] / 'data' / 'Agger_sequences_and_groups.xlsx'
 THIOETHER_TSV = BASE / 'thioether_check.tsv'
 
 TYPE1_GROUPS = set('abcdefgh')

@@ -17,10 +17,9 @@ Then: ray 2400, 1800; png active_site.png, dpi=300
 from pymol import cmd
 
 # Local AF3 model of PmTYR (adjust if needed).
-PMTYR_PATH = ("/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/"
-              "Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/"
-              "New_bioinf/bioinf_redo/Super_reference_pipeline/1_filtering/"
-              "B2ZB02_taxID_1404_model.cif")
+import os
+_HERE = os.path.dirname(os.path.abspath(__file__)) if '__file__' in globals() else os.getcwd()
+PMTYR_PATH = os.path.join(_HERE, '..', '..', '1_filtering', 'B2ZB02_taxID_1404_model.cif')
 
 # Heatmap position -> (B2ZB02 resi, COL_COLORS rgb from crystal_annotation_heatmap.py).
 # Colours are copied verbatim so PyMOL == figure column headers.

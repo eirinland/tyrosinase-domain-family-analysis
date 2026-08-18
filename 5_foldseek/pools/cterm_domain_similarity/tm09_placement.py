@@ -5,7 +5,8 @@ land in the whole-structure TM0.9 network clustering? Do they separate?
 import csv
 from collections import defaultdict, Counter
 
-P = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline/foldseek/pools"
+import os
+P = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # 5_foldseek/pools
 TM08 = f"{P}/results/cluster_cluster.tsv"
 TM09 = f"{P}/tm09/results/cluster_cluster.tsv"
 SUB07 = f"{P}/cterm_domain_similarity/c3_fungi/sub07/clu_cluster.tsv"

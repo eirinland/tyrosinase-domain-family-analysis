@@ -22,7 +22,7 @@ OUT_NAMES = WORK / 'h6gln_pfam_names.json'
 OUT_COOC_PFAM = WORK / 'h6gln_cooccurrence_pfam.tsv'
 OUT_CLUSTER = WORK / 'h6gln_cluster_membership.tsv'
 
-STAGE3 = WORK.parent / 'Super_reference_pipeline' / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
+STAGE3 = WORK.parent / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
 
 API = 'https://rest.uniprot.org'
 FROM_DB = 'EMBL-GenBank-DDBJ_CDS'

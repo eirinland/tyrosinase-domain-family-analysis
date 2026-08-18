@@ -31,7 +31,7 @@ from urllib.parse import urlencode, quote
 
 WORK = Path(__file__).parent
 BASE = WORK.parent
-PV_FILE = BASE / 'Super_reference_pipeline' / '2_canonical_analysis' / 'position_vectors.csv'
+PV_FILE = BASE / '2_canonical_analysis' / 'position_vectors.csv'
 NC_FILE = BASE / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.tsv'
 
 NCBI_EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
