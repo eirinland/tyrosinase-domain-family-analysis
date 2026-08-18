@@ -10,7 +10,7 @@ labels are taken from the spec, which was curated from - and validated
 against - the pipeline outputs:
 
     4_genome_neighbourhood/groups/<GROUP>/neighbourhoods.tsv          (non-canonical panels)
-    4_genome_neighbourhood_canonical/bacterial/summary_by_group.tsv  (canonical bacterial panels)
+    4_genome_neighbourhood/canonical/bacterial/summary_by_group.tsv  (canonical bacterial panels)
     supplementary_tables/table_gna_highlights.tsv                    (conserved-locus annotations)
 
 Why a spec rather than a direct render of neighbourhoods.tsv: the raw

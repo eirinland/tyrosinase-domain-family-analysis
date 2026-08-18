@@ -43,8 +43,10 @@ precision is architectural rather than threshold-tuned.
   visualisation/                heatmaps (Figure 5), co-occurrence (Figure S3), taxonomy
 3_noncanonical_analysis/        helix-anchored alignment, site classification (Figures 6–8)
   allmetal3d/                   AF3 vs AllMetal3D vs PinMyMetal comparison (Figure 10)
-4_genome_neighbourhood/         non-canonical GNA: H5Pro, H6Gln (Figure 7, Table S8)
-4_genome_neighbourhood_canonical/  canonical GNA over the 67 novelty groups
+4_genome_neighbourhood/         genome neighbourhood analysis (one stage, both runs)
+  (top level)                   non-canonical run: H5Pro, H6Gln (Figure 7, Table S8) + the 17 scripts
+  canonical/                    canonical run over the 67 novelty groups
+  groups/                       per-group neighbourhood tables
 5_foldseek/                     clustering + all-vs-all network (Figure 3)
 6_domain_analysis/              Pfam/hmmscan domain annotation, Chainsaw segmentation
 data/                           characterised PPOs, Meitil clade mapping, taxonomy lookup
@@ -60,9 +62,11 @@ canonical geometry test, producing `canonical_criteria_all_ca.csv`), `identify_p
 AF3-versus-AFDB comparison scripts. `canonical_criteria_all_ca.csv` is the input to
 `1_filtering/assign_pools.py` and therefore to the entire classification.
 
-Stage numbering follows pipeline order. `4_genome_neighbourhood` (non-canonical) and
-`4_genome_neighbourhood_canonical` are two separate analyses over disjoint group sets;
-the 17 numbered scripts in the former generated **both**.
+Stage numbering follows pipeline order. Stage 4 covers two analyses over disjoint group
+sets, both produced by the same 17 numbered scripts: the **non-canonical** run (site and
+function classes such as `mononuclear_ProCuB` = H5Pro, `hemocyanin`, `oAPO`) sits at the
+folder's top level alongside the scripts, and the **canonical** run over the 67 novelty
+substitution groups (`Gly46_N`, `Arg209_E`, …) is in `canonical/`.
 
 ## Reproducing
 
@@ -111,7 +115,7 @@ The AF3-to-AllMetal3D alignment and merge step behind Figure 10 was also lost; t
 resulting comparison tables and all plotting scripts are present, and closely related
 v2 implementations survive.
 
-Several supplementary tables at the repository root (`table_s3_*.tsv`, `table_gna_*.tsv`,
+Several supplementary tables in `supplementary_tables/` (`table_s3_*.tsv`, `table_gna_*.tsv`,
 `table_bgc_pfam_markers.tsv`, `table_s5_hmm_nc_agreement.tsv`, `novelty_enumeration_compact.tsv`)
 were assembled manually from the named pipeline outputs rather than by a script.
 
