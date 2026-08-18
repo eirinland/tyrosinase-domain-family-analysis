@@ -8,6 +8,17 @@ script and could not be checked. This script recomputes every row from the
 pipeline outputs and prints the recomputed value beside the published one, so
 any drift is visible rather than silent.
 
+READ THIS BEFORE CHANGING ANY GROUP DEFINITION
+Substitution-group membership comes from the `vector` column of
+position_vectors.csv, NOT from the per-position columns. In the vector, `~`
+means the consensus (canonical) residue and a letter appears only where the
+structure actually carries a substitution. The per-position column (e.g.
+`Gly46`) instead records the observed residue for every structure, so using it
+silently inflates every group several-fold: Gly46 has 68 carriers of Tyr by
+vector but 582 rows with 'Y' in the raw column. Rebuilding from the vector
+reproduces novelty_enumeration.tsv exactly (Gly46 Y=68, I=65, T=279,
+Val218 E=99, Asn205 R=143), which is the check that the loader is right.
+
 WHY A SPEC RATHER THAN ONE UNIFORM RULE
 The eight rows are not homogeneous. They differ in three ways that a single
 rule cannot capture, and getting any of them wrong changes the answer:
@@ -16,16 +27,31 @@ rule cannot capture, and getting any of them wrong changes the answer:
      G46N is NOT: it is the 187-structure `table_oAPO_helix` set (Asn46 on a
      helix, the characterised o-aminophenol oxidase state). Gly46_N has no row
      in novelty_enumeration.tsv at all, because Asn at Gly46 is a known state
-     rather than a novel one, and it appears in no canonical GNA output.
-     Defining it the obvious way instead - position_vectors.csv where
-     Gly46 == 'N', which is how the surviving pfam_g46n_retry.py does it -
-     gives 1047 carriers, 592 with context, and 24-51% instead of 71%.
+     rather than a novel one, and it appears in no canonical GNA output. The
+     group is confirmed independently by canonical/target_accessions.tsv, which
+     carries a subgroup literally named `G46N_helix` with 187 members.
+     (table_oAPO_helix 187 + table_oAPO_loop 860 = 1047, the raw-column count;
+     the helix subset is the one the highlights table uses.)
   2. DENOMINATOR. G46N's frequency is over ACTINOBACTERIAL carriers only.
      The other bacterial rows are over all carriers with genome context.
   3. FREQUENCY BASIS. The two non-canonical rows read a precomputed Pfam
      co-occurrence frequency, and even those disagree with each other:
      H5Pro's 0.404 is over the full group (72/178) while H6Gln's 0.951 is
      over queries with data (39/41).
+
+WHAT IS GENUINELY MISSING
+The bacterial canonical GNA run wrote only three AGGREGATE tables
+(full_products_by_group, product_frequencies, summary_by_group). Its per-locus
+neighbourhoods.tsv and target list were never saved - confirmed absent from the
+repo, from the Super_reference_pipeline working copy, and from the
+pre-restructure backup tarball. Every other GNA run did save per-locus data
+(groups/G46N, G46I, N205R, E195R, V218R, F227W, H230Y, ...), which is why G46N
+reproduces cleanly. The surviving aggregates count OCCURRENCES, not distinct
+carriers; for four of the five novelty rows the two coincide and the published
+value reproduces exactly, but for G46Y they demonstrably differ, so that row
+is reported as unverifiable rather than silently recomputed. Re-running
+3_fetch_neighbourhoods.py for Gly46_Y would close that gap - it is an API
+fetch, not a lost computation.
 
 Each row below therefore carries its own explicit definition.
 
@@ -70,6 +96,34 @@ def hits(per_q, accs, markers):
             if any(any(m in prod for prod in per_q.get(q, ())) for m in markers)}
 
 
+# Positions in vector order, exactly as novelty_pipeline.py POS[:10].
+VEC_POS = ['Gly46', 'Phe65', 'Trp68', 'Glu195', 'Asn205',
+           'Arg209', 'Val218', 'Ala221', 'Phe227', 'His230']
+
+
+def load_vectors(path):
+    """accession -> 10-residue substitution vector, built as novelty_pipeline.load() does.
+
+    '~' marks the consensus residue; a letter marks an actual substitution. Do
+    not substitute the per-position columns here (see module docstring).
+    """
+    def res(x):
+        if x is None:
+            return '?'
+        x = str(x).strip().rstrip('*')
+        return '?' if x in ('', 'None') else x
+
+    V = {}
+    for r in tsv(path, ','):
+        if not r.get('vector'):
+            continue
+        parts = [res(x) for x in r['vector'].split('-')]
+        while len(parts) < 10:
+            parts.append('?')
+        V[r['accession']] = parts[:10]
+    return V
+
+
 # ---------------------------------------------------------------- row specs --
 
 # Canonical novelty groups: n from novelty_enumeration, membership from the
@@ -107,7 +161,7 @@ PUBLISHED = {
 
 def main():
     tax = load_taxonomy()
-    pv = tsv(SUPP.parent / 'position_vectors.csv', ',')
+    V = load_vectors(SUPP.parent / 'position_vectors.csv')
     novelty = tsv(SUPP / 'novelty_enumeration.tsv')
     rows = []
 
@@ -137,8 +191,15 @@ def main():
     bact_summary = {r['subgroup']: int(r['n_queries'])
                     for r in tsv(CANON / 'bacterial' / 'summary_by_group.tsv')}
     for label, pos, res, nbh, markers, marker_txt in NOVELTY_ROWS:
-        n = next((int(r['n']) for r in novelty
-                  if r['position'] == pos and r['residue'] == res), None)
+        # n is DERIVED from the substitution vectors, then cross-checked against
+        # novelty_enumeration.tsv. A mismatch means the vector loader has drifted.
+        j = VEC_POS.index(pos)
+        n = sum(1 for v in V.values() if v[j] == res)
+        n_enum = next((int(r['n']) for r in novelty
+                       if r['position'] == pos and r['residue'] == res), None)
+        if n_enum is not None and n != n_enum:
+            print(f'  !! {label}: derived n={n} but novelty_enumeration says {n_enum}',
+                  file=sys.stderr)
         grp = f'{pos}_{res}'
         n_ctx = bact_summary.get(grp, 0)
         best, best_prod = 0, ''
@@ -148,9 +209,9 @@ def main():
                 if v > best:
                     best, best_prod = v, r['product']
         if n_ctx and best > n_ctx:
-            freq, basis = None, (f'NOT REPRODUCIBLE: "{best_prod[:28]}" has {best} '
-                                 f'occurrences across only {n_ctx} loci; per-carrier '
-                                 f'counts not in repo')
+            freq, basis = None, (f'UNVERIFIABLE: "{best_prod[:26]}" has {best} occurrences '
+                                 f'across only {n_ctx} loci, so occurrences != carriers; '
+                                 f'bacterial run saved no per-locus neighbourhoods')
         else:
             freq = round(100 * best / n_ctx) if n_ctx else 0
             basis = f'{best}/{n_ctx} loci ("{best_prod[:34]}")'
