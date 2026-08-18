@@ -208,7 +208,18 @@ def main():
                 v = int(r.get(grp) or 0)
                 if v > best:
                     best, best_prod = v, r['product']
-        if n_ctx and best > n_ctx:
+        rerun = HERE / f'rerun_{label}' / 'neighbourhoods.tsv'
+        if rerun.exists():
+            # Per-locus records regenerated for this group (see that dir's README),
+            # so the frequency is computed per CARRIER rather than per occurrence.
+            rq = neighbourhood_products(rerun)
+            bact = {q for q in rq if tax.get(q, {}).get('kingdom') == 'Bacteria'}
+            h = hits(rq, bact, markers[:1])   # published freq tracks the first marker
+            freq = round(100 * len(h) / len(bact)) if bact else 0
+            n_ctx = len(bact)
+            basis = (f'{len(h)}/{len(bact)} carriers, rerun_{label} '
+                     f'(per-carrier; "{markers[0]}")')
+        elif n_ctx and best > n_ctx:
             freq, basis = None, (f'UNVERIFIABLE: "{best_prod[:26]}" has {best} occurrences '
                                  f'across only {n_ctx} loci, so occurrences != carriers; '
                                  f'bacterial run saved no per-locus neighbourhoods')
