@@ -1,0 +1,75 @@
+Does the complete-vector-correct set cover the highlighted non-canonical cases?
+pool 1060; complete six-position vectors correct 502 by convention 'full_correct_same_residue' (manuscript: 504)
+
+NAMED STRUCTURES
+accession    struct   HMM      ok?  wrong positions                    note
+A0A9N8JDS5   HHHHHY   HHHHHY   YES  -                                  Fig 6A binuclear, Aureobasidium vineae
+A0A9P7QPY3   HHHHYH   HHHHYH   YES  -                                  Fig 6B binuclear, Colletotrichum scovillei
+A0A6G0QFF2   HHHEHH   HHH-HH   no   H4 E->gap                          Fig 6C binuclear, Phytophthora fragariae
+G3JPN7       HHHHPH   HHHHPH   YES  -                                  Fig 7A mononuclear, Cordyceps militaris, H5Pro representative
+H1UWR0       HHHHHQ   HHHHHQ   YES  -                                  Fig 7B mononuclear, Colletotrichum higginsianum, H6Gln representative
+A0A0V1MUW3   HHHYTQ   HHHYTQ   YES  -                                  Fig 7C mononuclear, Trichinella papuae
+A0A8J9R8H5   HHHHPH   HHHHPH   YES  -                                  phomQ1, annotated tyrosine halogenase, H5Pro group
+A0A142I737   HHHHPH   HHHHPH   YES  -                                  phomQ1', annotated tyrosine halogenase, H5Pro group
+H3GEM4       ---Q-Y   --YQHY   no   H1 -->gap, H2 -->gap, H3 -->Y, H5 -->H Fig 8A degenerate, Phytophthora ramorum
+A0A8H9LF69   YHQMQA   -HQMQA   no   H1 Y->gap                          Fig 8B degenerate, Microbispora bryophytorum, PDB 32AE
+H2KPL1       NHHNHQ   -HHNHQ   no   H1 N->gap                          Fig 8C degenerate, Clonorchis sinensis
+
+GROUPS
+group                                   n  text  full ok  defining pos ok  gapped at def
+H5Pro (dominant mononuclear)          178   178      174              175              0   defining H5
+H6Gln (second mononuclear)             43    43       41               41              2   defining H6
+Trichinella, CuB degenerate            14    14       14               14              0   defining H4,H5,H6
+Phytophthora, CuA replaced             20    20        0                0             20   defining H1,H2,H3
+largest degenerate group               34    34        0                0             34   defining H1,H2,H3,H4,H6
+Microbispora actinobacteria             8     8        1              n/a            n/a   defining all
+Clonorchis / Opisthorchis flukes        6     6        0                0              6   defining H1,H4,H6
+binuclear: His at all six positions    69    69       58              n/a            n/a   defining all
+
+  'text' = the count stated in the manuscript; 'defining pos ok' = HMM recovers
+  the substituted position(s) that define the group.
+
+H5PRO GROUP IN FULL (structural vector H H H H P H)
+  members: 178  (manuscript: 178)
+  HMM correct at H5 (reads P):        175/178
+  HMM gapped at H5 (position lost):   0/178
+  HMM aligned but wrong residue:      3/178
+     residues read instead of P: {'R': 1, 'S': 1, 'H': 1}
+  complete six-position vector correct: 174/178
+  positions correct, distribution: {4: 2, 5: 2, 6: 174}
+  where the other five positions fail (all are structurally His):
+    H1  correct 177/178  gapped   1  wrong-residue   0
+    H2  correct 178/178  gapped   0  wrong-residue   0
+    H3  correct 178/178  gapped   0  wrong-residue   0
+    H4  correct 176/178  gapped   0  wrong-residue   2
+    H6  correct 178/178  gapped   0  wrong-residue   0
+  the H5Pro members HMM gets wrong:
+    A0A4Q4NQ20   HHHHPH -> HHHMRH   H4 H->M, H5 P->R   Alternaria alternata
+    A0A8H6FIQ4   HHHHPH -> HHHHSH   H5 P->S   Letharia lupina
+    A0A8H7BB98   HHHHPH -> HHHMHH   H4 H->M, H5 P->H   Alternaria burnsii
+    A0A9W9IRY5   HHHHPH -> -HHHPH   H1 H->gap   Penicillium capsulatum
+
+  the two annotated halogenases:
+    A0A8J9R8H5  struct HHHHPH  hmm HHHHPH  H5 correct  full ok
+    A0A142I737  struct HHHHPH  hmm HHHHPH  H5 correct  full ok
+
+H4 GLUTAMATE group (text: 4 confidently predicted structures, 2 distant species)
+  members 4; full vector correct 0; H4 correct 0; H4 gapped 4
+    A0A6A3HLB0   HHHEHH -> HHH-HH   Phytophthora fragariae
+    A0A6A3Q4B5   HHHEHH -> HHH-HH   Phytophthora fragariae
+    A0A6G0QFF2   HHHEHH -> HHH-HH   Phytophthora fragariae
+    A0AAW2WSM8   HHHEHH -> HHH-HH   Sesamum latifolium
+
+HOW THE COMPLETE-VECTOR SET SPLITS BY SITE CLASS
+  binuclear      84/ 117 (72%)   median positions correct 6/6, median gapped 0
+  mononuclear   351/ 667 (53%)   median positions correct 6/6, median gapped 0
+  no_cu          67/ 276 (24%)   median positions correct 4/6, median gapped 1
+
+BY NUMBER OF STRUCTURALLY SUBSTITUTED POSITIONS
+  0 substituted:   58/ 114 (51%)
+  1 substituted:  333/ 511 (65%)
+  2 substituted:   28/ 107 (26%)
+  3 substituted:   58/ 128 (45%)
+  4 substituted:   20/  64 (31%)
+  5 substituted:    5/ 107 (5%)
+  6 substituted:    0/  29 (0%)

@@ -1,0 +1,35 @@
+Recomputed the M7 per-anchor detail under the FINAL widened windows
+  HELIX_D3 (4.0, 6.4)   HELIX_D4 (4.8, 8.2)   dmax 4.0  pmin 70.0  need 1
+
+scope rows                              9,898
+core_ok (recomputed, widened)           1,060   [target 1,060]
+core_ok (mirrored strict-threshold run) 1,036
+
+agreement with three_pool_assignment_final.csv (authoritative):
+  n_helix_ok  recomputed 9,602/9,898 (97.01%)   vs mirrored strict 9,520/9,898
+  core_ok     recomputed 9,898/9,898 (100.00%)   vs mirrored strict 9,579/9,898
+
+residual n_helix_ok mismatches: 296
+  (expected only where widening promotes a different anchor of the same
+   helix to 'best'; the mirrored table stores one candidate per helix)
+ accession  n_helix_ok_new  core_ok_new      pool  n_helix_ok_auth  core_ok_auth
+A0A016W1E9               0        False discarded              NaN         False
+A0A016W267               0        False discarded              NaN         False
+A0A016W3W9               0        False discarded              NaN         False
+A0A067MN37               0        False discarded              NaN         False
+A0A074ZHJ0               0        False discarded              NaN         False
+A0A097ZQI1               0        False discarded              NaN         False
+A0A0B1RUA0               0        False discarded              NaN         False
+A0A0B1S158               0        False discarded              NaN         False
+A0A0B1T731               0        False discarded              NaN         False
+A0A0B7BRG5               0        False discarded              NaN         False
+A0A0B7BRQ7               0        False discarded              NaN         False
+A0A0C2E179               0        False discarded              NaN         False
+A0A0C2FYP6               0        False discarded              NaN         False
+A0A0C2GCU9               0        False discarded              NaN         False
+A0A0C9U908               0        False discarded              NaN         False
+A0A0D2IRC0               0        False discarded              NaN         False
+A0A0D6M8N7               0        False discarded              NaN         False
+A0A0G4M788               0        False discarded              NaN         False
+A0A0G4MU28               0        False discarded              NaN         False
+A0A0J8QZ92               0        False discarded              NaN         False

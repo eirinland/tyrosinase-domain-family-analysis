@@ -1,0 +1,21 @@
+REPRODUCING Table S6 (published hmm_his_comparison.tsv) on the 1,060 pool
+position    n_subst  aligned  gapped  agree  disagree   %aln  %incl_gaps   published
+CuA_His1        300       88     212     53        35   60.2        17.7   MATCH
+CuA_His2        350      228     122    141        87   61.8        40.3   MATCH
+CuA_His3        275      237      38    223        14   94.1        81.1   MATCH
+CuB_His1        349      277      72    233        44   84.1        66.8   DIFFERS: published 349/277/72/232/45
+CuB_His2        457      411      46    357        54   86.9        78.1   MATCH
+CuB_His3        343      261      82    252         9   96.6        73.5   MATCH
+  -> published per-position counts reproduced exactly: False
+
+COMPLETE SIX-POSITION VECTORS  (manuscript states 504/1,060)
+  RECOMMENDED -- all six recovered, same residue: 502/1060
+  all six recovered, residue TYPE only:           505/1060
+  string equality of the rendered vectors:        512/1060  [NOT quotable: 7 structures scored an unmapped structural
+                                                   position against an HMM deletion as a match]
+  all STRUCTURALLY MAPPED positions correct:      547/1060
+  all SUBSTITUTED positions correct:              581/1060
+
+  type-only minus same-residue = 3 structures, from 3 position-instances where the HMM reports the right
+  residue type at the wrong residue number (genuine misalignment).
+  structures with >=1 gapped position: 409; median positions correct: 5/6

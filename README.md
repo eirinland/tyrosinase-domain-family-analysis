@@ -37,12 +37,14 @@ precision is architectural rather than threshold-tuned.
   final_pools/                  THE authoritative pool assignment (32,069 rows)
   pool_summary/                 Figure S1 panels, discarded-pool characterisation
   seed_variability/             AF3 seed reproducibility
+  separate_helix_check/         sensitivity test: must the four M7 anchors sit on four helices?
   validation/                   query-structure core check, QC of the canonical pool
 2_canonical_analysis/           active-site position vectors, novelty enumeration (Table S4)
   supplementary/                curated sub-tables
   visualisation/                heatmaps (Figure 5), co-occurrence (Figure S3), taxonomy
 3_noncanonical_analysis/        helix-anchored alignment, site classification (Figures 6–8)
   allmetal3d/                   AF3 vs AllMetal3D vs PinMyMetal comparison (Figure 10)
+  hmm_vector_check/             per-structure HMM vs structure at the six His positions
 4_genome_neighbourhood/         genome neighbourhood analysis (one stage, both runs)
   (top level)                   non-canonical run: H5Pro, H6Gln (Figure 7, Table S8) + the 17 scripts
   canonical/                    canonical run over the 67 novelty groups
@@ -87,10 +89,38 @@ Rough order:
 1_filtering/core_helix_filter/run_core_helix_filter.sh   # M7 core-helix test
 1_filtering/assign_pools.py                         # -> final_pools/
 2_canonical_analysis/run_extract.sh                 # position vectors
+2_canonical_analysis/hmm/build_alignment.py         # PF00264 alignment -> match-state table
 2_canonical_analysis/run_novelty_pipeline.sh        # novelty enumeration
 3_noncanonical_analysis/run_stage3_extract.sh       # align + classify non-canonical sites
+3_noncanonical_analysis/hmm_vector_check/           # HMM vs structure at the six His positions
 5_foldseek/run_foldseek_pools.sh                    # cluster the pooled structures
 ```
+
+### The profile-HMM comparisons
+
+Both HMM-versus-structure results (Table S4's `hmm_agreement.tsv` for the canonical
+second-sphere positions, and the six-His comparison for the non-canonical pool) run from
+files in this repository, with no cluster access and no HMMER installation:
+
+```bash
+python3 2_canonical_analysis/hmm/build_alignment.py          # ~10 s, needs pyhmmer
+python3 2_canonical_analysis/novelty_pipeline.py \
+        --hmm-cols 2_canonical_analysis/hmm/hmm_match_columns.tsv.gz   # stages G + I
+python3 3_noncanonical_analysis/hmm_vector_check/hmm_vector_check.py   # pandas only
+```
+
+`build_alignment.py` aligns the deposited `hmm/query.fasta.gz` (32,753 sequences) to
+`PF00264.hmm` with pyhmmer, which embeds the same HMMER3 code as `hmmalign`, and writes
+`hmm_match_columns.tsv.gz` (one row per sequence, one character per match state, 2 MB)
+plus `reference_map.tsv` (PmTYR residue number → match state). That table, not the
+782 MB `all_hmmalign.afa`, is what the analyses consume; `--afa` still works if you would
+rather generate the full alignment with `run_hmmalign.sh`. Regenerating and re-running
+stage I reproduces the deposited `supplementary/hmm_agreement.tsv` byte for byte.
+
+Note that stage E and stage H of `novelty_pipeline.py` need `--cifs` (the AF3 model
+archive on Zenodo). Without it, stages A–D, F, G and I run, but `flagged_groups.tsv` will
+be missing the six groups that stage E rescues on copper distance; `hmm_agreement.tsv`
+is unaffected.
 
 ## Data availability
 
@@ -116,8 +146,24 @@ resulting comparison tables and all plotting scripts are present, and closely re
 v2 implementations survive.
 
 Several supplementary tables in `supplementary_tables/` (`table_s3_*.tsv`, `table_gna_*.tsv`,
-`table_bgc_pfam_markers.tsv`, `table_s5_hmm_nc_agreement.tsv`, `novelty_enumeration_compact.tsv`)
-were assembled manually from the named pipeline outputs rather than by a script.
+`table_bgc_pfam_markers.tsv`, `novelty_enumeration_compact.tsv`) were assembled manually
+from the named pipeline outputs rather than by a script.
+
+`table_s5_hmm_nc_agreement.tsv` (the six-His HMM comparison for the non-canonical pool)
+was also assembled by hand and its generator is lost. It has since been rebuilt from the
+deposited inputs by `3_noncanonical_analysis/hmm_vector_check/`, which writes the
+per-structure table `hmm_vs_structure_nc.tsv` that the aggregate table summarises. The
+rebuild reproduces the published per-position counts exactly at five of the six positions;
+at CuB_His1 it gives 233 agree / 44 disagree against the published 232 / 45. The joint
+"complete six-position vectors correct" count, quoted in the manuscript as 504 of 1,060,
+comes out as **502**: every one of the six positions recovered as the same residue at the
+same residue number, with both a deletion and an unmapped structural position counted as
+failures. Two looser figures are reported alongside it so the difference is auditable —
+505 if only the residue type must match, and 512 if the two rendered vector strings are
+compared, which wrongly scores an unmapped structural position against an HMM deletion as
+a match in 8 position-instances across 7 structures. The remaining gap to 504 is two
+structures, and the lost script's exact convention cannot be recovered; the per-structure
+table lets any reader recompute the figure under a stated definition.
 
 Files superseded during development (`*.preM7.bak`, `*.prewidened.bak`, and similar) were
 excluded so that no one recomputes retired numbers. They are in the Zenodo archive.

@@ -1,0 +1,52 @@
+EXTRA M7 REQUIREMENT: the four core-helix anchors must sit on four SEPARATE
+helices of the query (one helix may not satisfy two anchor slots).
+M7 gates unchanged: dmax 4.0 A, pLDDT >= 70.0, helicity windows d3 (4.0, 6.4) d4 (4.8, 8.2).
+
+REFERENCE CONTROL -- does the definition give 4 separate core helices on the
+five copper-bearing references (it must, or the rule is measuring an artefact)?
+  primary     calibrated: widened windows, >=3 covering turns      5/5  OK
+  bridge2     as primary, runs bridged over gaps <=2               5/5  OK
+  loose       widened windows, >=1 covering turn                   4/5  MERGED on ref_PmTYR
+  strict_win  pre-widening windows, >=1 covering turn              5/5  OK
+
+M7 core_ok recomputed on the retained pool: 1,060/1,060 (sanity: must be 1,060)
+
+EFFECT ON THE POOLS (canonical 21,893 is untouched -- it never uses M7):
+  primary     collisions    9  (  4 cross-lobe)  ->  non-canonical 1,051   discarded  9,125
+              colliding pair: {'a2/a4': 4, 'a1/a2': 3, 'a1/a2;a3/a4': 1, 'a3/a4': 1}
+  bridge2     collisions   11  (  4 cross-lobe)  ->  non-canonical 1,049   discarded  9,127
+              colliding pair: {'a1/a2': 5, 'a2/a4': 4, 'a1/a2;a3/a4': 1, 'a3/a4': 1}
+  loose       collisions  693  (  7 cross-lobe)  ->  non-canonical   367   discarded  9,809   [fails reference control]
+              colliding pair: {'a1/a2': 343, 'a3/a4': 201, 'a1/a2;a3/a4': 142, 'a1/a2;a1/a3;a1/a4;a2/a3;a2/a4;a3/a4': 3, 'a2/a4': 2, 'a2/a3;a2/a4;a3/a4': 1, 'a1/a2;a1/a3;a2/a3': 1}
+  strict_win  collisions  189  (  5 cross-lobe)  ->  non-canonical   871   discarded  9,305
+              colliding pair: {'a1/a2': 177, 'a1/a2;a3/a4': 4, 'a3/a4': 3, 'a2/a4': 3, 'a2/a3;a2/a4;a3/a4': 1, 'a1/a2;a1/a3;a1/a4;a2/a3;a2/a4;a3/a4': 1}
+  idx<=10     residue-index proxy used by the SI panel-E analysis: 28
+
+inter-anchor separation across the retained pool: median 17 residues, median closest-pair Ca-Ca 9.2 A
+
+=== structures the calibrated rule (primary) would move to discarded: 9 ===
+  by n_his: {3: 2, 4: 4, 5: 3}
+  by site_tier: {'binuclear': 1, 'mononuclear': 2, 'no_cu': 6}
+  by kingdom: {'Animals': 2, 'Fungi': 6, 'Oomycota': 1}
+  best_qtm median 0.405 (pool 0.490); length median 337 (pool 429)
+  cross-lobe (one helix serving a CuA and a CuB slot): 4
+
+ accession           best_ref  best_qtm  nres  n_his   site_tier primary_pairs  primary_crosslobe                    primary_segs  min_idx_sep  min_pair_ca_dist  kingdom            genus
+A0ABD2QHI1          ref_PmTYR     0.405   455      4       no_cu         a3/a4              False        361-362;;367-385;367-385            1              3.85  Animals    Cichlidogyrus
+A0A7C8UE72 ref_2Y9W_Abisporus     0.293   699      3       no_cu         a2/a4               True 374-375;380-398;346-364;380-398            2              5.50    Fungi          Orbilia
+A0ABD2IJ80          ref_PmTYR     0.281   624      4       no_cu         a2/a4               True               ;206-222;;206-222            2              5.55  Animals       Heterodera
+A0A8T1U1C5     ref_1JS8_squid     0.293   455      5 mononuclear         a2/a4               True          47-72;190-210;;190-210            3              5.21 Oomycota     Phytophthora
+A0AAN6SJA1          ref_PmTYR     0.397   337      4       no_cu         a2/a4               True   65-81;261-280;205-211;261-280            3              4.84    Fungi Pseudoneurospora
+A0ABR4ES42          ref_PmTYR     0.493   325      3       no_cu         a1/a2              False     82-88;82-88;199-216;233-259            3              5.39    Fungi        Diaporthe
+A0A9P6HVN3          ref_PmTYR     0.426   275      4       no_cu   a1/a2;a3/a4              False 171-187;171-187;142-166;142-166            5              8.68    Fungi   Colletotrichum
+A0A8H5WCB4          ref_PmTYR     0.745   266      5   binuclear         a1/a2              False     32-68;32-68;160-180;194-212           15              9.32    Fungi         Fusarium
+    W7F1D8          ref_PmTYR     0.668   287      5 mononuclear         a1/a2              False          70-106;70-106;198-218;           15              9.50    Fungi        Bipolaris
+
+=== BENCHMARK (241 hand-labelled structures; core present = canonical or non-canonical) ===
+  M7 as published                              TP=141 FP= 0 FN= 21 TN= 79  Acc=0.913 Prec=1.00 Rec=0.87 F1=0.93
+  M7 + separate-helix (primary)                TP=141 FP= 0 FN= 21 TN= 79  Acc=0.913 Prec=1.00 Rec=0.87 F1=0.93
+  M7 + separate-helix (bridge2)                TP=141 FP= 0 FN= 21 TN= 79  Acc=0.913 Prec=1.00 Rec=0.87 F1=0.93
+  M7 + separate-helix (loose)                  TP= 67 FP= 0 FN= 95 TN= 79  Acc=0.606 Prec=1.00 Rec=0.41 F1=0.59
+  M7 + separate-helix (strict_win)             TP=136 FP= 0 FN= 26 TN= 79  Acc=0.892 Prec=1.00 Rec=0.84 F1=0.91
+
+  under the calibrated rule: 0 hand-labelled TRUE cores lost, 0 false positives removed

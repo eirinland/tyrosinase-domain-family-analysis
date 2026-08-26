@@ -19,7 +19,7 @@ alongside the repository and record the DOI here.
 | `5_foldseek/pools/all_vs_all_tm09/edge_table.tsv` | 39 MB | `run_all_vs_all.sh` (tm04-filtered edge tables are in the repo) |
 | `5_foldseek/pools/all_vs_all_tm0{5,7,8}/edge_table.tsv` | 12 MB | as above |
 | `5_foldseek/domain_detection/*/allvsall_raw.tsv` | 21 MB | `run_domain_detection.sh` |
-| `2_canonical_analysis/hmm/query.fasta` | 17 MB | `6_domain_analysis/extract_sequences.py` |
+| `2_canonical_analysis/hmm/all_hmmalign.afa` | 782 MB | `hmm/run_hmmalign.sh`, or `hmm/build_alignment.py --chunk 0 --afa-out` (the 2 MB `hmm_match_columns.tsv.gz` in the repo carries everything the analyses read from it) |
 | `AF3_vs_AF2_evaluation/*/*.cube` | 24 MB | AllMetal3D volumetric output |
 
 ## Working sessions and structure sets

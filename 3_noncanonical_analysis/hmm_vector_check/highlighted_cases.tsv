@@ -1,0 +1,12 @@
+accession	note	vector_struct	vector_hmm	full_vector_correct	wrong_positions	classification	genus	species
+A0A9N8JDS5	Fig 6A binuclear, Aureobasidium vineae	HHHHHY	HHHHHY	True		binuclear	Aureobasidium	Aureobasidium vineae
+A0A9P7QPY3	Fig 6B binuclear, Colletotrichum scovillei	HHHHYH	HHHHYH	True		binuclear	Colletotrichum	Colletotrichum scovillei
+A0A6G0QFF2	Fig 6C binuclear, Phytophthora fragariae	HHHEHH	HHH-HH	False	H4 E->gap	binuclear	Phytophthora	Phytophthora fragariae
+G3JPN7	Fig 7A mononuclear, Cordyceps militaris, H5Pro representative	HHHHPH	HHHHPH	True		mononuclear	Cordyceps	Cordyceps militaris
+H1UWR0	Fig 7B mononuclear, Colletotrichum higginsianum, H6Gln representative	HHHHHQ	HHHHHQ	True		mononuclear	Colletotrichum	Colletotrichum higginsianum
+A0A0V1MUW3	Fig 7C mononuclear, Trichinella papuae	HHHYTQ	HHHYTQ	True		mononuclear	Trichinella	Trichinella papuae
+A0A8J9R8H5	phomQ1, annotated tyrosine halogenase, H5Pro group	HHHHPH	HHHHPH	True		mononuclear	Diaporthe	Diaporthe leptostromiformis
+A0A142I737	phomQ1', annotated tyrosine halogenase, H5Pro group	HHHHPH	HHHHPH	True		mononuclear	Diaporthe	Diaporthe leptostromiformis
+H3GEM4	Fig 8A degenerate, Phytophthora ramorum	---Q-Y	--YQHY	False	H1 -->gap; H2 -->gap; H3 -->Y; H5 -->H	no_cu	Phytophthora	Phytophthora ramorum
+A0A8H9LF69	Fig 8B degenerate, Microbispora bryophytorum, PDB 32AE	YHQMQA	-HQMQA	False	H1 Y->gap	no_cu	Microbispora	Microbispora bryophytorum
+H2KPL1	Fig 8C degenerate, Clonorchis sinensis	NHHNHQ	-HHNHQ	False	H1 N->gap	no_cu	Clonorchis	Clonorchis sinensis

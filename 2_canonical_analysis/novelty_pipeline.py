@@ -19,15 +19,21 @@ Stages
   D  novelty enumeration + classification -> supplementary/novelty_enumeration.tsv
   E  copper-distance test of displaced candidate groups + thioether-Cys   [needs --cifs]
   F  single-substitution (one step from a characterised active site) leads
-  G  HMM cross-validation of the flagged groups                            [needs --afa]
+  G  HMM cross-validation of the flagged groups              [needs --afa or --hmm-cols]
   H  aromatic-ring compensation (superpose on six His; probe from reference ring)  [needs --cifs]
-  I  HMM per-position agreement (structure mapping vs profile column; Table SX)     [needs --afa]
+  I  HMM per-position agreement (structure mapping vs profile column; Table SX)
+                                                             [needs --afa or --hmm-cols]
   J  within-group geometric consistency (Ca RMSD of the 10 variable positions)      [needs --cifs]
   K  confidence at the mapped positions (per-position pLDDT, random sample)          [needs --cifs]
   -> supplementary/flagged_groups.tsv, supplementary/hmm_agreement.tsv
 
 Run everything via run_novelty_pipeline.sh (mounts the squashfs, supplies --cifs/--afa).
 Without --cifs/--afa the vector-level stages (A-D, F) still run fully.
+
+The 782 MB all_hmmalign.afa that --afa wants is a build artifact and is not
+deposited. Regenerate it, or better the 2 MB match-state table that carries the
+same information, with hmm/build_alignment.py, then pass
+--hmm-cols hmm/hmm_match_columns.tsv.gz. Both routes give identical stage G/I output.
 """
 import argparse, csv, os, math, statistics, sys
 from itertools import combinations
@@ -35,8 +41,25 @@ from collections import Counter, defaultdict
 import openpyxl
 
 # ----------------------------------------------------------------------------- config
-ROOT = "/cluster/work/projects/nn1003k/eirin/bioinf"
-XLSX = f"{ROOT}/characterized_PPOs.xlsx"
+ROOT = os.environ.get("PPO_ROOT", "/cluster/work/projects/nn1003k/eirin/bioinf")
+
+
+def _find_xlsx():
+    """characterized_PPOs.xlsx lives one level above the pipeline on the cluster and
+    at the repository root in the deposit; check both (and $PPO_XLSX) so the script
+    runs from either without editing."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    for cand in (os.environ.get("PPO_XLSX"),
+                 os.path.join(here, "characterized_PPOs.xlsx"),
+                 os.path.join(here, os.pardir, "characterized_PPOs.xlsx"),
+                 os.path.join(here, os.pardir, os.pardir, "characterized_PPOs.xlsx"),
+                 f"{ROOT}/characterized_PPOs.xlsx"):
+        if cand and os.path.exists(cand):
+            return os.path.normpath(cand)
+    sys.exit("characterized_PPOs.xlsx not found; set $PPO_XLSX to its path")
+
+
+XLSX = _find_xlsx()
 PVEC = os.environ.get("PVEC", "position_vectors.csv")   # override to re-run with extra structures
 TAXf = "visualisation/taxonomy_lookup.csv"
 POS  = ['Gly46','Phe65','Trp68','Glu195','Asn205','Arg209','Val218','Ala221','Phe227','His230','thioether']
@@ -554,6 +577,28 @@ def _hmm_positions(afa):
     if name: hp[name]=extract("".join(buf))
     return hp
 
+def _hmm_positions_from_cols(path):
+    """Same {accession: {position: residue}} map as _hmm_positions, read from the
+    compact match-state table written by hmm/build_alignment.py (one row per
+    sequence, one character per PF00264 match state). Equivalent to parsing the
+    .afa, minus the 782 MB."""
+    import gzip
+    opener = gzip.open if str(path).endswith('.gz') else open
+    print("  reading HMM match-state columns...", file=sys.stderr)
+    want = {v: k for k, v in HMM_COL.items()}
+    hp = {}
+    with opener(path, 'rt') as fh:
+        header = fh.readline()
+        if not header.startswith('accession'):
+            fh.seek(0)
+        for line in fh:
+            acc, _, cols = line.rstrip('\n').partition('\t')
+            if not cols:
+                continue
+            hp[acc] = {p: cols[c - 1] for c, p in want.items() if c <= len(cols)}
+    return hp
+
+
 def stage_G(V, hp, flagged):
     hdr("[G] HMM CROSS-REFERENCE of the flagged groups (descriptive only; the structure is primary)\n"
         "    high agreement = sequence-recoverable; low agreement = a structure-specific finding")
@@ -595,6 +640,9 @@ def main():
     ap=argparse.ArgumentParser()
     ap.add_argument('--cifs', help="mounted squashfs dir with *_model.cif (enables stages E,H,J,K)")
     ap.add_argument('--afa',  help="all_hmmalign.afa (enables stages G,I)")
+    ap.add_argument('--hmm-cols', dest='hmm_cols',
+                    help="hmm/hmm_match_columns.tsv.gz from build_alignment.py "
+                         "(deposited stand-in for --afa; enables stages G,I)")
     ap.add_argument('--plddt-sample', type=int, default=2000,
                     help="random sample size for the stage-K pLDDT estimate")
     args=ap.parse_args()
@@ -656,8 +704,12 @@ def main():
             print(f"  {p+'='+r:11} n={n:>4}  slot filled {pc}% by [{idents}]")
     print("\n-> supplementary/flagged_groups.tsv ; supplementary/novelty_enumeration.tsv")
 
+    hp=None
     if args.afa:
         hp=_hmm_positions(args.afa)
+    elif args.hmm_cols:
+        hp=_hmm_positions_from_cols(args.hmm_cols)
+    if hp:
         stage_I(V,hp)
         stage_G(V,hp,[(p,r) for p,r,_,_,_ in flagged])
 

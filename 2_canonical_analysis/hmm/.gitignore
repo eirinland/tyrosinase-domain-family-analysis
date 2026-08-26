@@ -1,2 +1,6 @@
-# Build artifact: regenerated from PF00264.hmm + query.fasta by run_hmmalign.sh (~782 MB).
+# Build artifact: 782 MB, regenerated from PF00264.hmm + query.fasta.gz by
+# run_hmmalign.sh, or by build_alignment.py --chunk 0 --afa-out.
+# Not needed: build_alignment.py writes hmm_match_columns.tsv.gz (2 MB), which carries
+# the match-state columns that novelty_pipeline.py (--hmm-cols) and hmm_vector_check
+# actually read. Both that table and query.fasta.gz ARE tracked.
 all_hmmalign.afa
