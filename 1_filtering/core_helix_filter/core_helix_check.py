@@ -25,8 +25,19 @@ import numpy as np
 AA3 = {'ALA','ARG','ASN','ASP','CYS','GLN','GLU','GLY','HIS','ILE','LEU','LYS',
        'MET','PHE','PRO','SER','THR','TRP','TYR','VAL'}
 IMIDAZOLE = {'ND1','NE2','CD2','CE1'}
-HELIX_D3 = (4.8, 6.4)   # Ca i->i+3 in an alpha helix
-HELIX_D4 = (5.4, 7.4)   # Ca i->i+4
+# Final widened windows, as reported in the manuscript Methods. The wider bands
+# admit 3_10 turns and slightly distorted helices without admitting any false
+# positives (threshold sweep over 400 combinations kept FP=0 throughout).
+#
+# These replace the earlier strict windows HELIX_D3 (4.8, 6.4) / HELIX_D4
+# (5.4, 7.4), which were superseded during threshold calibration but had been
+# left in this file. The strict values gave core_ok = 1,036 and M7 accuracy
+# 74.7%; the widened values below give core_ok = 1,060 and 90.5%, matching the
+# published pools and 100% of core_ok calls in
+# 1_filtering/final_pools/three_pool_assignment_final.csv. See
+# ../si_discarded_examples/widening_check.txt for that comparison.
+HELIX_D3 = (4.0, 6.4)   # Ca i->i+3 in an alpha helix
+HELIX_D4 = (4.8, 8.2)   # Ca i->i+4
 
 # Core-helix ranges in each ref's own residue numbering (from ppo_core_check.py).
 CORE_HELICES = {
