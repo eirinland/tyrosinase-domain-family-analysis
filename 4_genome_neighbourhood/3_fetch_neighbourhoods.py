@@ -14,6 +14,7 @@ Usage: python 3_fetch_neighbourhoods.py [--flank 10] [--workers 8]
 """
 
 import argparse
+import os
 import csv
 import re
 import sys
@@ -52,8 +53,9 @@ def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument('--flank', type=int, default=10,
                    help='Number of flanking genes on each side (default: 10)')
-    p.add_argument('--email', default='eirinlandsem1@gmail.com',
-                   help='Email for NCBI Entrez')
+    p.add_argument('--email', default=os.environ.get('NCBI_EMAIL', ''),
+                   help='Email for NCBI Entrez. Defaults to $NCBI_EMAIL; '
+                        'NCBI asks that requests identify the caller.')
     p.add_argument('--workers', type=int, default=8,
                    help='Number of concurrent download threads (default: 8)')
     return p.parse_args()

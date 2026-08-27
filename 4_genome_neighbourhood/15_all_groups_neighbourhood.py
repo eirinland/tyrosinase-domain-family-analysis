@@ -16,6 +16,7 @@ Usage: python 15_all_groups_neighbourhood.py [--group GROUP_NAME]
 """
 
 import argparse
+import os
 import csv
 import json
 import re
@@ -36,7 +37,12 @@ NC_FILE = BASE / '3_noncanonical_analysis' / 'helix_and_gap_filtered_structures.
 
 NCBI_EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
 UNIPROT_API = 'https://rest.uniprot.org'
-EMAIL = 'eirinlandsem1@gmail.com'
+# NCBI asks that Entrez requests identify the caller. Set NCBI_EMAIL to your
+# own address before running; it is deliberately not hardcoded so this script
+# can be shared without carrying a personal address.
+EMAIL = os.environ.get('NCBI_EMAIL', '')
+if not EMAIL:
+    raise SystemExit('Set NCBI_EMAIL to the address NCBI Entrez should see, e.g. export NCBI_EMAIL=you@example.org')
 FLANK = 10
 
 MARKERS = {

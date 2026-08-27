@@ -5,6 +5,7 @@ Fetches genome neighbourhoods for the 6 Microbispora proteins not in the main
 pipeline, combines with the 1 already fetched, and compares their flanking genes.
 """
 
+import os
 import csv
 import re
 import time
@@ -17,7 +18,12 @@ from urllib.parse import urlencode
 WORK = Path(__file__).parent
 NEIGHBOURHOODS = WORK / 'neighbourhoods.tsv'
 NCBI_EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
-EMAIL = 'eirinlandsem1@gmail.com'
+# NCBI asks that Entrez requests identify the caller. Set NCBI_EMAIL to your
+# own address before running; it is deliberately not hardcoded so this script
+# can be shared without carrying a personal address.
+EMAIL = os.environ.get('NCBI_EMAIL', '')
+if not EMAIL:
+    raise SystemExit('Set NCBI_EMAIL to the address NCBI Entrez should see, e.g. export NCBI_EMAIL=you@example.org')
 FLANK = 10
 
 MICROBISPORA = {

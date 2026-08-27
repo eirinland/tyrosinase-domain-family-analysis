@@ -21,6 +21,7 @@ alternates are reported.
 Output: h4glu_neighbourhoods.tsv  (same columns as neighbourhoods.tsv)
 """
 
+import os
 import csv
 import re
 import sys
@@ -38,7 +39,12 @@ find_target_and_neighbours = _m.find_target_and_neighbours
 
 WORK = Path(__file__).parent
 OUTPUT = WORK / 'h4glu_neighbourhoods.tsv'
-EMAIL = 'eirinlandsem1@gmail.com'
+# NCBI asks that Entrez requests identify the caller. Set NCBI_EMAIL to your
+# own address before running; it is deliberately not hardcoded so this script
+# can be shared without carrying a personal address.
+EMAIL = os.environ.get('NCBI_EMAIL', '')
+if not EMAIL:
+    raise SystemExit('Set NCBI_EMAIL to the address NCBI Entrez should see, e.g. export NCBI_EMAIL=you@example.org')
 NCBI_EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi'
 FLANK = 10
 
