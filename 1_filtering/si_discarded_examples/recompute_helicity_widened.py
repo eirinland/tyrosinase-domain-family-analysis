@@ -35,16 +35,37 @@ import tarfile
 import numpy as np
 import pandas as pd
 
-if platform.system() == "Darwin":
-    BASE = ("/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/"
-            "Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/"
-            "New_bioinf/bioinf_redo/Super_reference_pipeline")
-    TARBALL = ("/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/"
-               "Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/"
-               "New_bioinf/ppo_af3_models.tar.gz")
-else:
-    BASE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
-    TARBALL = os.environ.get("PPO_AF3_TARBALL", "")
+# BASE is resolved by repo_paths so this script runs from a fresh clone.
+# Set PPO_BASE to override. Original hardcoded block kept below for
+# provenance.
+# if platform.system() == "Darwin":
+#     BASE = ("/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/"
+#             "Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/"
+#             "New_bioinf/bioinf_redo/Super_reference_pipeline")
+#     TARBALL = ("/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/"
+#                "Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/"
+#                "New_bioinf/ppo_af3_models.tar.gz")
+# else:
+#     BASE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
+#     TARBALL = os.environ.get("PPO_AF3_TARBALL", "")
+import os as _os
+import sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))))
+from repo_paths import BASE
+
+# The AF3 model archive is Zenodo-deposited bulk data, not part of this
+# repository (see ZENODO_MANIFEST.md). Point PPO_AF3_TARBALL at the downloaded
+# ppo_af3_models.tar.gz, or at a directory of extracted .cif files.
+TARBALL = os.environ.get("PPO_AF3_TARBALL", "")
+if not TARBALL:
+    raise SystemExit(
+        "This script reads the AF3 model archive, which is deposited on Zenodo "
+        "rather than in this repository. Download ppo_af3_models.tar.gz and set "
+        "PPO_AF3_TARBALL to its path, then re-run.\n"
+        "The published per-anchor result is already committed at "
+        "1_filtering/si_discarded_examples/core_helix_results_widened.tsv, and "
+        "widening_check.txt records its agreement with the authoritative pools."
+    )
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 

@@ -129,9 +129,57 @@ is unaffected.
 - **Reference structures**: 9 chain-A PDBs in `1_filtering/foldseek/ref_*.pdb`, spanning
   bacterial, fungal, plant, human, molluscan, archaeal and oomycete PPO diversity.
 
+## Verifying the manuscript numbers
+
+`verify_manuscript_numbers.py` regenerates the manuscript values that no other
+script in this repository produces, printing each published value beside the
+recomputed one together with the convention used. It reads only tracked files.
+
+```bash
+python3 verify_manuscript_numbers.py                # local blocks only
+python3 verify_manuscript_numbers.py --identity     # adds a network block
+python3 verify_manuscript_numbers.py --tsv out.tsv  # machine-readable summary
+```
+
+All claims it checks agree with the manuscript. Add `--identity` for a seventh
+that needs network access and `biopython`.
+
+Paths are resolved by `repo_paths.py`, which finds the analysis root by walking
+up from the script, so a fresh clone works with no configuration. Set `PPO_BASE`
+to point at a working tree elsewhere.
+
 ## Provenance notes
 
 This repository is an honest record, including where it is incomplete.
+
+**Stale thresholds in `core_helix_check.py`, corrected.** The file carried the
+pre-calibration helicity windows `HELIX_D3 (4.8, 6.4)` and `HELIX_D4 (5.4, 7.4)`
+rather than the final widened windows `(4.0, 6.4)` and `(4.8, 8.2)` reported in
+the manuscript Methods. Running it as deposited gave `core_ok` = 1,036 and an M7
+accuracy of 74.7% instead of the published 1,060 and 90.5%. The windows are now
+the widened values, which reproduce 1,060 and agree with 100% of the `core_ok`
+calls in `1_filtering/final_pools/three_pool_assignment_final.csv`. See
+`1_filtering/si_discarded_examples/widening_check.txt`. The strict windows in
+`benchmark/run_methods.py` and `validation/ppo_core_check.py` are **correct** and
+unchanged, since those implement methods M1 to M6, which were benchmarked under
+the pre-widening definition.
+
+**A thioether statistic was corrected during review.** An earlier draft reported
+that 90% of canonical structures bearing the thioether carried a non-core
+C-terminal domain (5,516/6,151). That numerator could not be obtained under any
+tested definition and has been replaced by the reproducible measurement, 96%
+carrying an additional non-PPO domain (5,916/6,151), with the companion figure
+corrected from 3,769 to 3,766 so that both come from the same computation. The
+description was corrected alongside the numbers, because the rule that
+reproduces the second half of the sentence counts any non-PPO domain rather than
+specifically a C-terminal one. Restricting to domains C-terminal to the PPO
+range gives 4,950/6,151 (80.5%) and breaks the second half as well
+(2,026/14,383 = 14.1% against 26%). Of the 5,916 structures that carry an extra
+domain, it is C-terminal to the tyrosinase domain in 4,950 (84%), which is why
+the Discussion retains that observation as a qualifier. Note that Chainsaw
+merges the two tyrosinase lobes into a single PPO domain, so lobe segmentation
+does not affect any of these counts. Run `verify_manuscript_numbers.py` to see
+every tested definition.
 
 Two generating scripts were lost when the cluster scratch area was purged and are **not**
 recoverable, although their outputs are present and were used in the manuscript:

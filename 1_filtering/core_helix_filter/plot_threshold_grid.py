@@ -8,10 +8,17 @@ import numpy as np
 import pandas as pd
 import os, platform
 
-if platform.system() == "Darwin":
-    BASE = "/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/New_bioinf/bioinf_redo/Super_reference_pipeline"
-else:
-    BASE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
+# BASE is resolved by repo_paths so this script runs from a fresh clone.
+# Set PPO_BASE to override. Original hardcoded block kept below for
+# provenance.
+# if platform.system() == "Darwin":
+#     BASE = "/Users/eirinlandsem/Library/Mobile Documents/com~apple~CloudDocs/Proteinkjemi_PhD/Skriving/Thesis/manuscripts:articles/Manuscript_TyrY/New_bioinf/bioinf_redo/Super_reference_pipeline"
+# else:
+#     BASE = "/cluster/work/projects/nn1003k/eirin/bioinf/Super_reference_pipeline"
+import os as _os
+import sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))))
+from repo_paths import BASE
 
 OUTDIR = f"{BASE}/1_filtering/core_helix_filter"
 SWEEP = f"{OUTDIR}/sweep_grid.tsv"
