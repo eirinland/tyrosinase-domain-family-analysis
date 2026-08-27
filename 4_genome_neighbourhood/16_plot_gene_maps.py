@@ -10,7 +10,7 @@ labels are taken from the spec, which was curated from - and validated
 against - the pipeline outputs:
 
     4_genome_neighbourhood/groups/<GROUP>/neighbourhoods.tsv          (non-canonical panels)
-    4_genome_neighbourhood/canonical/bacterial/summary_by_group.tsv  (canonical bacterial panels)
+    4_genome_neighbourhood_canonical/bacterial/summary_by_group.tsv  (canonical bacterial panels)
     supplementary_tables/table_gna_highlights.tsv                    (conserved-locus annotations)
 
 Why a spec rather than a direct render of neighbourhoods.tsv: the raw
@@ -59,7 +59,7 @@ CATEGORY_COLORS = OrderedDict([
     ("hypothetical", ("#D5D8DC", "#AEB6BF")),   # light grey - hypothetical/other
 ])
 CATEGORY_LABELS = OrderedDict([
-    ("ppo", "PPO"),
+    ("ppo", "TDF member"),
     ("pathway", "Pathway-associated"),
     ("biosynthetic", "Biosynthetic"),
     ("regulatory", "Regulatory"),
@@ -67,12 +67,28 @@ CATEGORY_LABELS = OrderedDict([
     ("hypothetical", "Hypothetical/other"),
 ])
 
+# ---- output size ----
+# Target physical width so the figure embeds 1:1 in the manuscript (no Word
+# downscaling, which is what shrinks the fonts). 12.7 cm = 5.0 in = text-column
+# width. Data units are kept square (fig_w/xspan == fig_h/yspan) so the pentagon
+# arrows are never distorted; height follows from the panel count.
+TARGET_WIDTH_IN = 5.0          # 12.7 cm
+
 # ---- geometry (data units; 1 gene slot = GENE_W + GAP) ----
 GENE_W = 1.0      # total gene length (block + point)
-GENE_H = 0.50     # gene block height
+GENE_H = 0.62     # gene block height
 HEAD_W = 0.34     # length of the pointed tip (portion of GENE_W)
 GAP = 0.14        # gap between consecutive genes
-ROW_DY = 3.1      # vertical spacing between panels
+ROW_DY = 4.6      # vertical spacing between panels (room for stacked label tiers)
+SECTION_PAD = 2.4  # extra vertical room above a panel that starts a new section
+
+# ---- font sizes (points; true points because the figure embeds 1:1) ----
+FS_LABEL = 7.0     # gene marker labels
+FS_PANEL = 9.0     # panel letter (A, B, ...)
+FS_SPECIES = 8.0   # species name
+FS_TAIL = 7.5      # substitution - locus header tail
+FS_SECTION = 10.0  # section header (NON-CANONICAL / CANONICAL BACTERIAL)
+FS_LEGEND = 8.0    # legend
 
 
 def _read_spec(path):
@@ -112,67 +128,159 @@ def _draw_gene(ax, x0, y, gene):
     poly = Polygon(pts, closed=True, facecolor=fill, edgecolor=edge,
                    linewidth=0.6, joinstyle="miter")
     ax.add_patch(poly)
-    lbl = gene["label"].strip()
-    if lbl and gene["labelpos"] != "none":
-        dy = GENE_H * 0.9 + 0.14 if gene["labelpos"] == "above" else -(GENE_H * 0.9 + 0.14)
-        va = "bottom" if gene["labelpos"] == "above" else "top"
-        ax.text(x0 + GENE_W / 2, y + dy, lbl, ha="center", va=va,
-                fontsize=6.0, fontstyle="italic")
+
+
+def _text_data_width(ax, fig, s, **kw):
+    """Rendered width of string s in data-x units (text drawn off-canvas)."""
+    t = ax.text(0, 0, s, **kw)
+    fig.canvas.draw()
+    bb = t.get_window_extent(renderer=fig.canvas.get_renderer())
+    x0 = ax.transData.inverted().transform((bb.x0, bb.y0))[0]
+    x1 = ax.transData.inverted().transform((bb.x1, bb.y0))[0]
+    t.remove()
+    return x1 - x0
+
+
+def _place_gene_labels(ax, fig, genes, centres, ybase):
+    """Place gene labels in stacked tiers above/below the arrow row so wide
+    adjacent labels never overlap. Each label gets a short leader line back to
+    its gene. Above/below side comes from the spec's labelpos ('above'/'below').
+    """
+    TIER_DY = GENE_H * 0.95            # vertical step between tiers
+    BASE_GAP = GENE_H * 0.55           # first tier offset from arrow edge
+    PAD = 0.10                         # min horizontal gap between labels (data units)
+    items = []
+    for g, cx in zip(genes, centres):
+        lbl = g["label"].strip()
+        if lbl and g["labelpos"] != "none":
+            side = -1 if g["labelpos"] == "below" else +1
+            w = _text_data_width(ax, fig, lbl, fontsize=FS_LABEL, fontstyle="italic")
+            items.append({"cx": cx, "lbl": lbl, "side": side, "w": w})
+    for side in (+1, -1):
+        side_items = sorted([it for it in items if it["side"] == side], key=lambda d: d["cx"])
+        occupied = []  # list of (tier, x_right) tracking rightmost extent per tier
+        for it in side_items:
+            x0 = it["cx"] - it["w"] / 2.0
+            x1 = it["cx"] + it["w"] / 2.0
+            tier = 0
+            # find lowest tier whose current right edge clears this label's left edge
+            while any(t == tier and x0 < xr + PAD for t, xr in occupied):
+                tier += 1
+            occupied.append((tier, x1))
+            ytxt = ybase + side * (BASE_GAP + tier * TIER_DY + GENE_H / 2.0)
+            va = "bottom" if side > 0 else "top"
+            ax.text(it["cx"], ytxt, it["lbl"], ha="center", va=va,
+                    fontsize=FS_LABEL, fontstyle="italic")
+            # leader line from arrow edge to the label tier
+            y_arrow = ybase + side * (GENE_H / 2.0)
+            y_lead = ytxt - side * 0.04
+            if tier > 0:
+                ax.add_line(Line2D([it["cx"], it["cx"]], [y_arrow, y_lead],
+                                   color="#bbbbbb", linewidth=0.4, zorder=0))
+
+
+def _place_text(ax, fig, x, y, s, **kw):
+    """Draw text left-aligned at (x, y) in data coords and return the x coord
+    just past its right edge, so the next element can be placed without overlap.
+    """
+    t = ax.text(x, y, s, ha="left", va="bottom", **kw)
+    fig.canvas.draw()                       # ensure a renderer exists
+    bb = t.get_window_extent(renderer=fig.canvas.get_renderer())
+    # convert the text's pixel width to data-x units
+    x0d = ax.transData.inverted().transform((bb.x0, bb.y0))[0]
+    x1d = ax.transData.inverted().transform((bb.x1, bb.y0))[0]
+    return x + (x1d - x0d)
 
 
 def render(spec_path, out_path, title_mode="gna"):
     panels = _read_spec(spec_path)
     n = len(panels)
     max_genes = max(len(p["genes"]) for p in panels.values())
-    fig_w = max(7.0, 0.55 * max_genes)
-    fig_h = 0.9 + ROW_DY * n / 3.0 + 0.9
-    fig, ax = plt.subplots(figsize=(fig_w, fig_h))
-
     xmax = max_genes * (GENE_W + GAP)
+
+    # First pass over layout: assign each panel a baseline y and record where a
+    # section starts (so the section band gets its own vertical slot and the
+    # divider never overlaps panel A).
+    layout = []          # (pid, panel, baseline_y, section_header_or_None)
     y = 0.0
     current_section = None
     for pid, panel in panels.items():
-        genes = panel["genes"]
-        # section header (e.g. NON-CANONICAL / CANONICAL BACTERIAL) with divider
         sec = panel.get("section", "").strip()
-        if sec and sec != current_section:
-            sec_y = y + GENE_H + 1.25
-            ax.text(0, sec_y, sec, ha="left", va="bottom", fontsize=8.0,
-                    fontweight="bold", color="#333333")
-            ax.add_line(Line2D([0, xmax], [sec_y - 0.12, sec_y - 0.12],
-                               color="#999999", linewidth=0.7))
+        new_sec = sec if (sec and sec != current_section) else None
+        if new_sec:
+            y -= SECTION_PAD          # reserve room for the band above this panel
             current_section = sec
-        # panel header (letter + italic species + substitution - locus)
-        header_y = y + GENE_H * 1.7 + 0.55
+        layout.append((pid, panel, y, new_sec))
+        y -= ROW_DY
+    y_bottom = y
+
+    # Figure geometry. keep data units square so pentagons are undistorted, and
+    # fix physical width to the manuscript column so it embeds 1:1.
+    x_lo, x_hi = -0.4, xmax + 0.4
+    y_hi = GENE_H + 3.2
+    y_lo = y_bottom + ROW_DY - 3.1
+    xspan = x_hi - x_lo
+    yspan = y_hi - y_lo
+    fig_w = TARGET_WIDTH_IN
+    fig_h = fig_w * (yspan / xspan)
+    fig, ax = plt.subplots(figsize=(fig_w, fig_h))
+
+    # Fix axis limits and aspect BEFORE any text is drawn, so _place_text's
+    # transData measurement uses the final (stable) coordinate transform.
+    ax.set_xlim(x_lo, x_hi)
+    ax.set_ylim(y_lo, y_hi)
+    ax.set_aspect("equal")
+    ax.axis("off")
+
+    for pid, panel, ybase, new_sec in layout:
+        genes = panel["genes"]
+        # section band. title sits in its reserved slot ABOVE the panel header,
+        # divider line just under the title, clear of panel A and its label.
+        if new_sec:
+            title_y = ybase + GENE_H * 1.7 + 2.15
+            ax.text(0, title_y, new_sec, ha="left", va="bottom",
+                    fontsize=FS_SECTION, fontweight="bold", color="#333333")
+            # divider sits just under the title text, with a clear gap above the
+            # panel header line below it
+            ax.add_line(Line2D([0, xmax], [title_y - 0.12, title_y - 0.12],
+                               color="#999999", linewidth=0.9))
+        # panel header. place elements sequentially by measuring each one's
+        # rendered width, so the panel letter, italic species and roman
+        # "substitution - locus" tail never overlap regardless of name length.
+        # Sits well above the top label tier so gene labels never reach it.
+        header_y = ybase + GENE_H * 1.7 + 1.15
         sub = panel["substitution"].strip()
         locus = panel["locus"].strip()
-        ax.text(0, header_y, pid, ha="left", va="bottom", fontsize=8.5, fontweight="bold")
-        # species italic, then the rest roman
-        ax.text(0.55, header_y, panel["species"], ha="left", va="bottom",
-                fontsize=7.5, fontstyle="italic")
-        tail = f"   {sub} - {locus}" if sub else f"   {locus}"
-        if tail.strip():
-            ax.text(0.55 + 0.16 * len(panel["species"]), header_y, tail,
-                    ha="left", va="bottom", fontsize=7.0)
+        tail = f"{sub} - {locus}" if sub else locus
+        x_cur = _place_text(ax, fig, 0, header_y, pid + "  ",
+                            fontsize=FS_PANEL, fontweight="bold")
+        x_cur = _place_text(ax, fig, x_cur, header_y, panel["species"] + "  ",
+                            fontsize=FS_SPECIES, fontstyle="italic")
+        if tail:
+            _place_text(ax, fig, x_cur, header_y, tail, fontsize=FS_TAIL)
         x = 0.0
+        centres = []
         for g in genes:
-            _draw_gene(ax, x, y, g)
+            _draw_gene(ax, x, ybase, g)
+            centres.append(x + GENE_W / 2.0)
             x += GENE_W + GAP
-        y -= ROW_DY
+        # multi-tier gene labels. labels wider than the gene spacing collide, so
+        # stack them into tiers above (and below) the arrows with leader lines,
+        # never overwriting a neighbour.
+        _place_gene_labels(ax, fig, genes, centres, ybase)
 
-    # legend
+    # legend. anchor at the TRUE horizontal centre of the content (xmax/2 in
+    # data coords), not axes-fraction 0.5, so it sits under the panels and the
+    # tight bounding box does not pull in empty space on the left.
     handles = [Patch(facecolor=CATEGORY_COLORS[c][0], edgecolor=CATEGORY_COLORS[c][1],
                      label=CATEGORY_LABELS[c]) for c in CATEGORY_COLORS]
-    ax.legend(handles=handles, loc="lower center", bbox_to_anchor=(0.5, -0.02),
-              ncol=len(handles), frameon=False, fontsize=6.5, handlelength=1.2,
-              columnspacing=1.1)
+    ax.legend(handles=handles, loc="upper center",
+              bbox_to_anchor=(xmax / 2.0, y_lo + 1.1),
+              bbox_transform=ax.transData, ncol=3, frameon=False,
+              fontsize=FS_LEGEND, handlelength=1.4, columnspacing=1.4)
 
-    ax.set_xlim(-0.4, max_genes * (GENE_W + GAP) + 0.4)
-    ax.set_ylim(y + ROW_DY - 1.6, GENE_H + 1.7)
-    ax.axis("off")
-    fig.tight_layout()
     fig.savefig(out_path, bbox_inches="tight")
-    fig.savefig(out_path.rsplit(".", 1)[0] + ".png", dpi=200, bbox_inches="tight")
+    fig.savefig(out_path.rsplit(".", 1)[0] + ".png", dpi=300, bbox_inches="tight")
     plt.close(fig)
     return out_path
 

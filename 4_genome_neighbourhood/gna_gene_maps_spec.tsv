@@ -1,119 +1,169 @@
-panel	section	species	substitution	locus	idx	label	category	strand	labelpos
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	0	MFS	transport	+	above
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	1	sirtuin	biosynthetic	+	below
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	2		biosynthetic	+	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	3		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	4	SAM MTase	biosynthetic	+	above
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	5	P450	biosynthetic	+	below
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	6		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	7		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	8		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	9	PPO	ppo	+	above
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	10		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	11	UstYa	pathway	+	below
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	12		hypothetical	-	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	13		hypothetical	+	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	14	chitinase	biosynthetic	+	above
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	15		biosynthetic	+	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	16		hypothetical	+	none
-A	NON-CANONICAL	C. destructivum	CuB His5>Pro	Mycotoxin BGC	17		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	0		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	1		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	2		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	3	sulfoTF	transport	+	below
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	4		hypothetical	+	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	5	DUF7730	biosynthetic	+	above
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	6		biosynthetic	+	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	7		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	8	RIO kin.	pathway	+	below
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	9	PPO	ppo	+	above
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	10		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	11	Zn CPase	pathway	+	below
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	12		hypothetical	+	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	13	PhyH	pathway	+	above
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	14		hypothetical	-	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	15	cutinase	biosynthetic	+	above
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	16		biosynthetic	+	none
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	17	oxidored.	transport	+	below
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	18	GH2	biosynthetic	+	above
-B	NON-CANONICAL	C. sublineola	CuB His6>Gln	Conserved locus	19	ergot alk.	biosynthetic	+	below
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	0	glycosTF	biosynthetic	+	above
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	1	PS deacet.	biosynthetic	+	below
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	2		biosynthetic	+	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	3	EPS glycPT	pathway	+	above
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	4		hypothetical	-	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	5	chaplin	pathway	+	below
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	6		hypothetical	-	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	7	tyrosinase	ppo	+	above
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	8	PPO	ppo	+	below
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	9	chaplin	pathway	+	above
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	10		hypothetical	-	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	11	DoxX	biosynthetic	+	below
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	12		hypothetical	-	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	13		hypothetical	+	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	14		hypothetical	-	none
-C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	15		hypothetical	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	0		biosynthetic	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	1		hypothetical	-	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	2		regulatory	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	3		hypothetical	-	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	4		hypothetical	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	5	chol. ox.	biosynthetic	+	below
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	6		biosynthetic	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	7	MelC1	pathway	+	above
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	8	PPO	ppo	+	below
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	9		hypothetical	-	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	10		hypothetical	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	11		biosynthetic	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	12	cyclase	biosynthetic	+	above
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	13		biosynthetic	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	14	MTase	biosynthetic	+	below
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	15		regulatory	+	none
-D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	16		biosynthetic	+	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	0		hypothetical	-	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	1		hypothetical	-	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	2		hypothetical	+	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	3		hypothetical	-	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	4		hypothetical	-	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	5	DAHP syn.	biosynthetic	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	6	anthr. PRT	pathway	+	below
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	7	TrpB	pathway	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	8	PPO	ppo	+	below
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	9	TrpA	pathway	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	10		hypothetical	-	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	11	TrpC	pathway	+	below
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	12		hypothetical	+	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	13	DHQ syn.	biosynthetic	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	14	CM	pathway	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	15		biosynthetic	+	none
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	16	ScyF	pathway	+	below
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	17	ScyD/E	pathway	+	above
-E	CANONICAL BACTERIAL	Nostoc sp.	Gly46>Thr	Tryptophan / scytonemin	18		hypothetical	-	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	0	ribose BP	transport	+	below
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	1		biosynthetic	+	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	2		hypothetical	-	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	3	4-CML dec.	pathway	+	above
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	4		biosynthetic	+	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	5	GntR	regulatory	+	below
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	6		hypothetical	-	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	7		hypothetical	+	none
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	8	PPO	ppo	+	above
-F	CANONICAL BACTERIAL	Rhizobium sp.	Val218>Glu	Protocatechuate catabolism	9		hypothetical	-	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	0	glycosTF	biosynthetic	+	above
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	1		biosynthetic	+	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	2		biosynthetic	+	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	3	NeuD	biosynthetic	+	below
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	4		biosynthetic	+	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	5		hypothetical	-	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	6	TonB rec.	transport	+	above
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	7	CopZ	pathway	+	below
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	8	PPO	ppo	+	above
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	9		biosynthetic	+	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	10	DltB	pathway	+	above
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	11		hypothetical	-	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	12	BshA	pathway	+	below
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	13		hypothetical	+	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	14	beta-gluc.	pathway	+	above
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	15		hypothetical	-	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	16		hypothetical	-	none
-G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	17		transport	+	none
+panel	section	species	substitution	locus	accession	idx	offset	label	category	strand	labelpos	product
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	0	-10	MFS	transport	+	above	Putative major facilitator superfamily, MFS transporter superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	1	-9	sirtuin	biosynthetic	+	below	Putative Sirtuin family, DHS-like NAD/FAD-binding domain superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	2	-8	SAM MTase	biosynthetic	-	above	Putative S-adenosyl-L-methionine-dependent methyltransferase superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	3	-7		biosynthetic	+	none	Putative peptidase M43, pregnancy-associated plasma-A
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	4	-6		biosynthetic	-	none	Putative FAD-binding domain, FAD/NAD(P)-binding domain superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	5	-5	P450	biosynthetic	-	below	Putative cytochrome P450
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	6	-4		hypothetical	+	none	Putative ankyrin repeat-containing domain superfamily, basic-leucine zipper domain superfa
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	7	-3		hypothetical	-	none	hypothetical protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	8	-2		hypothetical	-	none	hypothetical protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	9	-1		hypothetical	-	none	hypothetical protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	10	0	TDF	ppo	-	above	Putative tyrosinase copper-binding domain, di-copper centre-containing domain superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	11	1		biosynthetic	+	none	Putative peptidase M3A/M3B catalytic domain, neurolysin/Thimet oligopeptidase, domain 2
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	12	2		hypothetical	-	none	hypothetical protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	13	3	UstYa	pathway	+	below	Putative mycotoxin biosynthesis protein UstYa
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	14	4		biosynthetic	-	none	Putative protein kinase
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	15	5		biosynthetic	-	none	Putative alpha/beta hydrolase-1, fumarylacetoacetase-like protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	16	6		biosynthetic	+	none	Putative metal-dependent hydrolase, composite domain superfamily
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	17	7	chitinase	biosynthetic	-	above	Putative chitin-binding, type 1, NodB domain, glycoside hydrolase/deacetylase, beta/alpha-
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	18	8		hypothetical	+	none	Putative RTA-like protein
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	19	9		biosynthetic	+	none	Putative amidase
+A	NON-CANONICAL	Colletotrichum destructivum	CuB His5>Pro	UstYa-type BGC	A0AAX4IJG7	20	10		hypothetical	-	none	Putative pre-mRNA-splicing factor 38
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	0	-10		hypothetical	+	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	1	-9		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	2	-8		hypothetical	+	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	3	-7		hypothetical	+	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	4	-6		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	5	-5		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	6	-4		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	7	-3		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	8	-2		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	9	-1	RIO kin.	pathway	-	above	putative RIO1 family protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	10	0	TDF	ppo	+	below	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	11	1		hypothetical	+	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	12	2	Zn CPase	pathway	+	above	putative zinc carboxypeptidase
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	13	3	PhyH	pathway	-	below	putative phytanoyl-CoA dioxygenase
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	14	4		hypothetical	-	none	hypothetical protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	15	5		biosynthetic	+	none	putative amidohydrolase
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	16	6	cutinase	pathway	+	above	putative cutinase
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	17	7		biosynthetic	-	none	putative oxidoreductase family protein
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	18	8	MFS	transport	+	below	putative major facilitator superfamily transporter
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	19	9	GH2	biosynthetic	-	above	putative glycoside hydrolase family 2
+B	NON-CANONICAL	Colletotrichum sublineola	CuB His6>Gln	Conserved host-interaction locus	A0A066XSE1	20	10	ergot alk.	pathway	-	below	putative AFUA_2G17970 family ergot alkaloid biosynthesis protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	0	-10		transport	-	none	ABC transporter ATP-binding protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	1	-9		biosynthetic	-	none	peptidase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	2	-8		hypothetical	-	none	single-stranded DNA-binding protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	3	-7		hypothetical	-	none	ATP-binding protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	4	-6		hypothetical	-	none	ATP-binding protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	5	-5		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	6	-4		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	7	-3		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	8	-2		hypothetical	+	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	9	-1		hypothetical	+	none	DNA-binding protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	10	0	TDF	ppo	-	above	tyrosinase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	11	1		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	12	2		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	13	3		hypothetical	-	none	hypothetical protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	14	4	chaplin	pathway	-	below	chaplin
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	15	5	glycosTF	biosynthetic	+	above	glycosyl transferase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	16	6		biosynthetic	+	none	transferase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	17	7	PS deacet.	biosynthetic	+	below	polysaccharide deacetylase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	18	8	glycosTF	biosynthetic	+	above	glycosyl transferase
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	19	9	LPS biosynth.	pathway	+	below	lipopolysaccharide biosynthesis protein
+C	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Tyr	Chaplin / exopolysaccharide	A0A0C5G0L4	20	10	glycosTF	biosynthetic	+	above	glycosyl transferase family 1
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	0	-10		biosynthetic	-	none	GNAT family N-acetyltransferase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	1	-9		transport	-	none	extracellular solute-binding protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	2	-8		biosynthetic	+	none	dodecin
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	3	-7		hypothetical	-	none	hypothetical protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	4	-6		biosynthetic	+	none	MsnO8 family LLM class oxidoreductase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	5	-5		transport	+	none	ABC transporter
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	6	-4		biosynthetic	+	none	M23 family metallopeptidase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	7	-3		biosynthetic	+	none	GNAT family N-acetyltransferase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	8	-2		biosynthetic	-	none	lysyl oxidase family protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	9	-1	MFS	transport	-	above	MFS transporter
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	10	0	TDF	ppo	-	below	tyrosinase family protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	11	1	MelC1	ppo	-	above	tyrosinase cofactor
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	12	2		biosynthetic	-	none	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	13	3		biosynthetic	-	none	fumarate reductase/succinate dehydrogenase flavoprotein subunit
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	14	4		biosynthetic	-	none	succinate dehydrogenase cytochrome b subunit
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	15	5	LysR	regulatory	+	below	LysR family transcriptional regulator
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	16	6		biosynthetic	-	none	putative bifunctional diguanylate cyclase/phosphodiesterase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	17	7		biosynthetic	-	none	SAM-dependent methyltransferase
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	18	8		hypothetical	+	none	hypothetical protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	19	9		hypothetical	+	none	hypothetical protein
+D	CANONICAL BACTERIAL	Streptomyces sp.	Gly46>Ile	MelC1 melanin operon	A0ABW8CT20	20	10		hypothetical	+	none	hypothetical protein
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	0	-10		hypothetical	+	none	Sugar lactone lactonase YvrE
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	1	-9		hypothetical	+	none	TRIM71, tripartite motif-containing protein 71
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	2	-8	glycosTF	biosynthetic	+	above	wcaI, colanic acid biosynthesis glycosyl transferase WcaI
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	3	-7	tyrA	pathway	+	below	tyrA, chorismate mutase / prephenate dehydrogenase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	4	-6		biosynthetic	+	none	putative dithiol-disulfide isomerase, DsbA family
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	5	-5	aroB	pathway	+	above	aroB, 3-dehydroquinate synthase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	6	-4	TrpE	pathway	+	below	trpEG, anthranilate synthase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	7	-3	TrpC	pathway	+	above	trpC, indole-3-glycerol phosphate synthase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	8	-2		hypothetical	-	none	Chromosome segregation ATPase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	9	-1	TrpA	pathway	+	below	trpA, tryptophan synthase alpha chain
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	10	0	TDF	ppo	+	above	TYR, tyrosinase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	11	1	TrpB	pathway	+	below	trpB, tryptophan synthase beta chain
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	12	2		hypothetical	-	none	hypothetical protein
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	13	3	TrpD	pathway	+	above	trpD, anthranilate phosphoribosyltransferase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	14	4	DAHP syn.	pathway	+	below	AROA2, 3-deoxy-7-phosphoheptulonate synthase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	15	5		hypothetical	-	none	hypothetical protein
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	16	6		biosynthetic	-	none	phoD, alkaline phosphatase D
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	17	7		biosynthetic	+	none	threonine dehydratase
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	18	8		hypothetical	-	none	putative nuclease of the RNAse H fold, HicB family
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	19	9		hypothetical	-	none	putative nucleic acid-binding protein, containings PIN domain
+E	CANONICAL BACTERIAL	Nostoc flagelliforme	Gly46>Thr	Tryptophan biosynthesis	A0A2K8SJE4	20	10		hypothetical	-	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	0	-10		hypothetical	+	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	1	-9		hypothetical	+	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	2	-8		transport	+	none	ABC transporter ATP-binding protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	3	-7		transport	+	none	ABC transporter permease
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	4	-6	MCO	biosynthetic	+	above	multicopper oxidase family protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	5	-5		transport	+	none	DMT family transporter
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	6	-4		hypothetical	+	none	heavy metal translocating P-type ATPase
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	7	-3		biosynthetic	+	none	DUF4396 domain-containing protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	8	-2	MFS	transport	+	below	MFS transporter
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	9	-1	4-CML dec.	pathway	+	above	carboxymuconolactone decarboxylase family protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	10	0	TDF	ppo	+	below	tyrosinase family protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	11	1	MarR	regulatory	+	above	MarR family transcriptional regulator
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	12	2		hypothetical	+	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	13	3		hypothetical	+	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	14	4		hypothetical	-	none	hypothetical protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	15	5	MFS	transport	-	below	MFS transporter
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	16	6		regulatory	-	none	metalloregulator ArsR/SmtB family transcription factor
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	17	7		biosynthetic	+	none	MBL fold metallo-hydrolase
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	18	8	MFS	transport	+	above	MFS transporter
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	19	9		biosynthetic	-	none	DUF4360 domain-containing protein
+F	CANONICAL BACTERIAL	Lentzea sp.	Val218>Glu	Protocatechuate catabolism	A0ABU4T9S4	20	10		biosynthetic	-	none	DUF4360 domain-containing protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	0	-10	glycosTF	biosynthetic	+	above	Glycosyltransferase involved in cell wall bisynthesis
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	1	-9	glycosTF	biosynthetic	+	below	Glycosyltransferase involved in cell wall bisynthesis
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	2	-8	sugarTF	biosynthetic	+	above	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	3	-7	sugarTF	biosynthetic	+	below	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	4	-6	NeuD	pathway	+	above	sugar O-acyltransferase, sialic acid O-acetyltransferase NeuD family
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	5	-5	NeuD	pathway	-	below	sugar O-acyltransferase, sialic acid O-acetyltransferase NeuD family
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	6	-4		biosynthetic	-	none	phenylacetate-CoA ligase
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	7	-3		hypothetical	-	none	hypothetical protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	8	-2	TonB rec.	transport	+	above	Outer membrane receptor for ferrienterochelin and colicins
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	9	-1	CopZ	pathway	+	below	Copper chaperone CopZ
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	10	0	TDF	ppo	-	above	tyrosinase
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	11	1	chitodextrin.	pathway	-	below	Chitodextrinase
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	12	2		hypothetical	-	none	hypothetical protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	13	3	DltB	pathway	-	above	D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	14	4		hypothetical	-	none	hypothetical protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	15	5	BshA	pathway	-	below	N-acetyl-alpha-D-glucosaminyl L-malate synthase BshA
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	16	6	beta-gluc.	pathway	-	above	beta-glucosidase
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	17	7		hypothetical	-	none	hypothetical protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	18	8		hypothetical	-	none	Cysteine-rich domain-containing protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	19	9		hypothetical	-	none	4Fe-4S dicluster domain-containing protein
+G	CANONICAL BACTERIAL	Cellulophaga sp.	Asn205>Arg	Bacillithiol biosynthesis	A0A1G7K2Z2	20	10		transport	-	none	phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	0	-10	MTase	biosynthetic	+	above	methyltransferase domain-containing protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	1	-9		hypothetical	+	none	cache and HAMP domain-containing protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	2	-8		pathway	+	none	poly-gamma-glutamate synthase PgsB
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	3	-7		pathway	+	none	poly-gamma-glutamate biosynthesis protein PgsC/CapC
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	4	-6		biosynthetic	+	none	C40 family peptidase
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	5	-5		biosynthetic	+	none	glycosyltransferase family 39 protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	6	-4		biosynthetic	+	none	hydrolase
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	7	-3	DHQ-II	pathway	-	below	3-dehydroquinate synthase II
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	8	-2	aminoDAHP	pathway	-	above	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	9	-1	Asp kin.	pathway	+	below	aspartate kinase
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	10	0	TDF	ppo	-	above	tyrosinase family protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	11	1	MelC1	pathway	-	below	tyrosinase cofactor
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	12	2	CopC	transport	+	above	copper resistance protein CopC
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	13	3		transport	+	none	CopD family protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	14	4		regulatory	-	none	LysR substrate-binding domain-containing protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	15	5		biosynthetic	-	none	FAD/NAD(P)-binding protein
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	16	6	SARP reg.	regulatory	-	below	AfsR/SARP family transcriptional regulator
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	17	7		biosynthetic	-	none	2-oxo acid dehydrogenase subunit E2
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	18	8		biosynthetic	-	none	alpha-ketoacid dehydrogenase subunit beta
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	19	9		biosynthetic	-	none	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+H	CANONICAL BACTERIAL	Streptantibioticus sp.	Gly46>Asn	Grixazone-type (3,4-AHBA)	A0ABT1P7V4	20	10		hypothetical	-	none	hypothetical protein

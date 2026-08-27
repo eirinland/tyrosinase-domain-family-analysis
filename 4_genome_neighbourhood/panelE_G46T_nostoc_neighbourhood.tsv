@@ -1,0 +1,22 @@
+query_accession	nucleotide_acc	offset	is_target	gene_start	gene_end	strand	protein_id	product
+A0A2K8SJE4	CP024785	-10	0	763160	764542	+	AUB34935.1	Sugar lactone lactonase YvrE
+A0A2K8SJE4	CP024785	-9	0	764716	765897	+	AUB34936.1	TRIM71, tripartite motif-containing protein 71
+A0A2K8SJE4	CP024785	-8	0	766440	767729	+	AUB34937.1	wcaI, colanic acid biosynthesis glycosyl transferase WcaI
+A0A2K8SJE4	CP024785	-7	0	767744	768832	+	AUB34938.1	tyrA, chorismate mutase / prephenate dehydrogenase
+A0A2K8SJE4	CP024785	-6	0	768845	769477	+	AUB34939.1	putative dithiol-disulfide isomerase, DsbA family
+A0A2K8SJE4	CP024785	-5	0	769486	770682	+	AUB34940.1	aroB, 3-dehydroquinate synthase
+A0A2K8SJE4	CP024785	-4	0	771052	773244	+	AUB34941.1	trpEG, anthranilate synthase
+A0A2K8SJE4	CP024785	-3	0	773389	774222	+	AUB34942.1	trpC, indole-3-glycerol phosphate synthase
+A0A2K8SJE4	CP024785	-2	0	774359	774568	-	AUB34943.1	Chromosome segregation ATPase
+A0A2K8SJE4	CP024785	-1	0	774683	775525	+	AUB34944.1	trpA, tryptophan synthase alpha chain
+A0A2K8SJE4	CP024785	0	1	775639	776883	+	AUB34945.1	TYR, tyrosinase
+A0A2K8SJE4	CP024785	1	0	776933	778174	+	AUB34946.1	trpB, tryptophan synthase beta chain
+A0A2K8SJE4	CP024785	2	0	778251	778421	-	AUB34947.1	hypothetical protein
+A0A2K8SJE4	CP024785	3	0	778452	779573	+	AUB34948.1	trpD, anthranilate phosphoribosyltransferase
+A0A2K8SJE4	CP024785	4	0	779788	780888	+	AUB34949.1	AROA2, 3-deoxy-7-phosphoheptulonate synthase
+A0A2K8SJE4	CP024785	5	0	780902	781024	-	AUB34950.1	hypothetical protein
+A0A2K8SJE4	CP024785	6	0	781324	782919	-	AUB34951.1	phoD, alkaline phosphatase D
+A0A2K8SJE4	CP024785	7	0	783260	784225	+	AUB34952.1	threonine dehydratase
+A0A2K8SJE4	CP024785	8	0	784445	784663	-	AUB34953.1	putative nuclease of the RNAse H fold, HicB family
+A0A2K8SJE4	CP024785	9	0	784670	784978	-	AUB34954.1	putative nucleic acid-binding protein, containings PIN domain
+A0A2K8SJE4	CP024785	10	0	785082	785216	-	AUB34955.1	hypothetical protein
